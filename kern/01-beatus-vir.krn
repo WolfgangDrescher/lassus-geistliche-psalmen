@@ -8,138 +8,157 @@
 !!!LIB-CDT: 1548/12/24-1617/02/16
 !!!AGN: Psalm, Tricinium
 !!!voices: 3
-**kern	**text
-*staff3	*staff3
-*Ivox	*
-*I"Bassus	*
-*I'B	*
-*clefC3	*
-*M2/1	*
-*met(C|)	*
-=1	=1
-1r	.
-1g	Se-
-=2	=2
-2g	-lig
-2g	zu
-2e	prei-
-2f	-sen
-=3	=3
-1e	ist
-1d	der
-=4	=4
-1c	mann/
-2r	.
-[2c	ist
-=5	=5
-2c]	.
-2.A	der
-4B	.
-2c	.
-=6	=6
-1G	mann/
-2r	.
-2e	der
-=7	=7
-2e	sich
-2a	ent-
-4g	helt
-4f#	.
-[2g	.
-=8	=8
-2g]	.
-2e	von
-2.A	den
-4A	gott-
-=9	=9
-2e	-lo-
-2c	-sen/
-2r	.
-2G	und
-=10	=10
-2A	wan-
-2B	-delt
-[1c	nicht
-=11	=11
-2c]	.
-2B	im
-2A	rath
-2a	der
-=12	=12
-2e	bö-
-2A	-sen
-2r	.
-2c	trit
-=13	=13
-1f	auch
-1e	nicht
-=14	=14
-2.c	auf
-4B	.
-4A	.
-4B	.
-4c	.
-4d	.
-=15	=15
-2e	.
-2g	der
-2f	sü-
-2e	-der
-=16	=16
-1d	ban/
-2r	.
-2B	noch
-=17	=17
-1c	sitzt
-2r	.
-2f	noch
-=18	=18
-2g	sitzt
-2f	den
-2.c	güff-
-4c	-tig
-=19	=19
-2A	bö-
-2B	-sen
-2c	rot-
-2A	-ten/
-=20	=20
-2r	.
-2g	da
-2e	man
-2d	hon
-=21	=21
-1.c	-schimpf-
-2B	-lich
-=22	=22
-2.g	weiß
-4g	zu
-2a	spot-
-2A	-ten/
-=23	=23
-2r	.
-2f	zu
-2g	spot-
-2e	-ten/
-=24	=24
-2r	.
-2g	da
-2.e	man
-4d	hon-
-=25	=25
-2c	-schimpf-
-2B	-lich
-1g	weiß
-=26	=26
-1r	.
-1G	zu
-=27	=27
-2.A	spot-
-4G	.
-1F	.
-=28	=28
-0c	ten.
-*-	*-
+**kern	**text	**kern
+*staff3	*staff3	*staff2
+*Ivox	*	*Ivox
+*I"Bassus	*	*I"Tenor
+*I'B	*	*I'T
+*clefC3	*	*clefC2
+*M2/1	*	*M2/1
+*k[]	*	*k[]
+*met(C|)	*	*met(C|)
+=1	=1	=1
+1r	.	0r
+1g	Se-	.
+=2	=2	=2
+2g	-lig	0r
+2g	zu	.
+2e	prei-	.
+2f	-sen	.
+=3	=3	=3
+1e	ist	0r
+.	.	.
+1d	der	.
+=4	=4	=4
+1c	mann/	1g
+2r	.	2g
+[2c	ist	2g
+=5	=5	=5
+2c]	.	2e
+2.A	der	2f
+.	.	1e
+4B	.	.
+2c	.	.
+=6	=6	=6
+1G	mann/	1d
+2r	.	1c
+2e	der	.
+=7	=7	=7
+2e	sich	0r
+2a	ent-	.
+4g	helt	.
+4f#	.	.
+[2g	.	.
+=8	=8	=8
+2g]	.	1c
+2e	von	.
+2.A	den	2e
+.	.	2f
+4A	gott-	.
+=9	=9	=9
+2e	-lo-	2g
+2c	-sen/	2g
+2r	.	2a
+2G	und	2g
+=10	=10	=10
+2A	wan-	1f
+2B	-delt	.
+[1c	nicht	1e
+.	.	.
+=11	=11	=11
+2c]	.	2r
+2B	im	2d
+2A	rath	2e
+2a	der	2f
+=12	=12	=12
+2e	bö-	2g
+2A	-sen	2e
+2r	.	2f
+2c	trit	2g
+=13	=13	=13
+1f	auch	1a
+1e	nicht	1g
+=14	=14	=14
+2.c	auf	2r
+.	.	2g
+4B	.	.
+4A	.	1cc
+4B	.	.
+4c	.	.
+4d	.	.
+=15	=15	=15
+2e	.	1b
+2g	der	.
+2f	sü-	2a
+2e	-der	2g
+=16	=16	=16
+1d	ban/	2g
+.	.	2f#
+2r	.	1g
+2B	noch	.
+=17	=17	=17
+1c	sitzt	2r
+.	.	2g
+2r	.	2a
+2f	noch	2a
+=18	=18	=18
+2g	sitzt	2e
+2f	den	2a
+2.c	güff-	2g
+.	.	2e
+4c	-tig	.
+=19	=19	=19
+2A	bö-	1f
+2B	-sen	.
+2c	rot-	[1e
+2A	-ten/	.
+=20	=20	=20
+2r	.	1e]
+2g	da	.
+2e	man	1r
+2d	hon	.
+=21	=21	=21
+1.c	-schimpf-	2r
+.	.	2g
+.	.	2e
+2B	-lich	2d
+=22	=22	=22
+2.g	weiß	2c
+.	.	2e
+4g	zu	.
+2a	spot-	2f
+2A	-ten/	2e
+=23	=23	=23
+2r	.	1d
+2f	zu	.
+2g	spot-	[1c
+2e	-ten/	.
+=24	=24	=24
+2r	.	1c]
+2g	da	.
+2.e	man	2r
+.	.	2g
+4d	hon-	.
+=25	=25	=25
+2c	-schimpf-	2e
+2B	-lich	2d
+1g	weiß	2c
+.	.	2e
+=26	=26	=26
+1r	.	2f
+.	.	2e
+1G	zu	1d
+=27	=27	=27
+2.A	spot-	2c
+.	.	2e
+4G	.	.
+1F	.	4f
+.	.	4c
+.	.	2f
+=28	=28	=28
+0c	ten.	0e
+==	==	==
+*-	*-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
 !!!ENC: Wolfgang Drescher
