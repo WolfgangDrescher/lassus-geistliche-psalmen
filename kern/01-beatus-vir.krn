@@ -8,179 +8,179 @@
 !!!LIB-CDT: 1548/12/24-1617/02/16
 !!!AGN: Psalm, Tricinium
 !!!voices: 3
-**kern	**text	**kern	**text	**kern
-*staff3	*staff3	*staff2	*staff2	*staff1
-*Ivox	*	*Ivox	*	*Ivox
-*I"Bassus	*	*I"Tenor	*	*I"Cantus
-*I'B	*	*I'T	*	*I'C
-*clefC3	*	*clefC2	*	*clefG2
-*M2/1	*	*M2/1	*	*M2/1
-*k[]	*	*k[]	*	*k[]
-*met(C|)	*	*met(C|)	*	*met(C|)
-=1	=1	=1	=1	=1
-1r	.	0r	.	1dd
-1g	Se-	.	.	2dd
-.	.	.	.	2dd
-=2	=2	=2	=2	=2
-2g	-lig	0r	.	1b
-2g	zu	.	.	.
-2e	prei-	.	.	2cc
-2f	-sen	.	.	2a
-=3	=3	=3	=3	=3
-1e	ist	0r	.	2g
-.	.	.	.	2a
-1d	der	.	.	4b
-.	.	.	.	4cc
-.	.	.	.	8b
-.	.	.	.	8a
-.	.	.	.	4b
-=4	=4	=4	=4	=4
-1c	mann/	1g	Se-	2ee
-.	.	.	.	2ee
-2r	.	2g	-lig	2dd
-[2c	ist	2g	zu	2ee
-=5	=5	=5	=5	=5
-2c]	.	2e	prei-	2gg
-2.A	der	2f	-sen	2cc
-.	.	1e	ist	2cc
-4B	.	.	.	.
-2c	.	.	.	4g
-.	.	.	.	4a
-=6	=6	=6	=6	=6
-1G	mann/	1d	der	4b
-.	.	.	.	4cc
-.	.	.	.	2b
-2r	.	1c	mann/	2cc
-2e	der	.	.	2g
-=7	=7	=7	=7	=7
-2e	sich	0r	.	2b
-2a	ent-	.	.	2cc
-4g	helt	.	.	2dd
-4f#	.	.	.	.
-[2g	.	.	.	2dd
-=8	=8	=8	=8	=8
-2g]	.	1c	der	2ee
-2e	von	.	.	2gg
-2.A	den	2e	sich	1cc
-.	.	2f	ent-	.
-4A	gott-	.	.	.
-=9	=9	=9	=9	=9
-2e	-lo-	2g	-helt	2b
-2c	-sen/	2g	von	2ee
-2r	.	2a	den	2cc
-2G	und	2g	gott-	2b
-=10	=10	=10	=10	=10
-2A	wan-	1f	-lo-	2cc
-2B	-delt	.	.	2dd
-[1c	nicht	1e	-sen/	2r
-.	.	.	.	2g
-=11	=11	=11	=11	=11
-2c]	.	2r	.	2a
-2B	im	2d	und	2b
-2A	rath	2e	wan-	1cc
-2a	der	2f	-delt	.
-=12	=12	=12	=12	=12
-2e	bö-	2g	nicht	2b
-2A	-sen	2e	im	1cc
-2r	.	2f	rath	.
-2c	trit	2g	der	2ee
-=13	=13	=13	=13	=13
-1f	auch	1a	bö-	2dd
-.	.	.	.	2cc
-1e	nicht	1g	-sen/	2r
-.	.	.	.	2b
-=14	=14	=14	=14	=14
-2.c	auf	2r	.	1.ee
-.	.	2g	trit	.
-4B	.	.	.	.
-4A	.	1cc	auch	.
-4B	.	.	.	.
-4c	.	.	.	2ee
-4d	.	.	.	.
-=15	=15	=15	=15	=15
-2e	.	1b	nicht	2gg
-2g	der	.	.	1dd
-2f	sü-	2a	auf	.
-2e	-der	2g	der	2cc
-=16	=16	=16	=16	=16
-1d	ban/	2g	sün-	2b
-.	.	2f#	-der	2a
-2r	.	1g	ban/	2r
-2B	noch	.	.	2dd
-=17	=17	=17	=17	=17
-1c	sitzt	2r	.	1ee
-.	.	2g	noch	.
-2r	.	2a	sitzt	2cc
-2f	noch	2a	bey	[2cc
-=18	=18	=18	=18	=18
-2g	sitzt	2e	güff-	4cc]
-.	.	.	.	4b
-2f	bey	2a	-tig	4cc
-.	.	.	.	4dd
-2.c	güff-	2g	bö-	4ee
-.	.	.	.	4ff
-.	.	2e	-sen	2gg
-4c	-tig	.	.	.
-=19	=19	=19	=19	=19
-2A	bö-	1f	rot-	2cc
-2B	-sen	.	.	2dd
-2c	rot-	[1e	-ten/	4.g
-.	.	.	.	16a
-.	.	.	.	16b
-2A	-ten/	.	.	2cc
-=20	=20	=20	=20	=20
-2r	.	1e]	.	0b
-2g	da	.	.	.
-2e	man	1r	.	.
-2d	hon-	.	.	.
-=21	=21	=21	=21	=21
-1.c	-schimpf-	2r	.	1ee
-.	.	2g	da	.
-.	.	2e	man	1gg
-2B	-lich	2d	hon-	.
-=22	=22	=22	=22	=22
-2.g	weiß	2c	-schimpf-	2ee
-.	.	2e	-lich	2cc
-4g	zu	.	.	.
-2a	spot-	2f	weiß	1cc
-2A	-ten/	2e	zu	.
-=23	=23	=23	=23	=23
-2r	.	1d	spot-	2ff
-2f	zu	.	.	2dd
-2g	spot-	[1c	ten/	2r
-2e	-ten/	.	.	2gg
-=24	=24	=24	=24	=24
-2r	.	1c]	.	2.ee
-2g	da	.	.	.
-.	.	.	.	4dd
-2.e	man	2r	.	2cc
-.	.	2g	.	2b
-4d	hon-	.	.	.
-=25	=25	=25	=25	=25
-2c	-schimpf-	2e	.	2.gg
-2B	-lich	2d	.	.
-.	.	.	.	4ff
-1g	weiß	2c	.	4ee
-.	.	.	.	4dd
-.	.	2e	ii	4cc
-.	.	.	.	4b
-=26	=26	=26	=26	=26
-1r	.	2f	.	4a
-.	.	.	.	4b
-.	.	2e	.	1cc
-1G	zu	1d	.	.
-.	.	.	.	2b
-=27	=27	=27	=27	=27
-2.A	spot-	2c	.	2.cc
-.	.	2e	zu	.
-4G	.	.	.	4b
-1F	.	4f	spot-	1a
-.	.	4c	.	.
-.	.	2f	.	.
-=28	=28	=28	=28	=28
-0c	ten.	0e	ten.	0g
-==	==	==	==	==
-*-	*-	*-	*-	*-
+**kern	**text	**kern	**text	**kern	**text
+*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*Ivox	*	*Ivox	*	*Ivox	*
+*I"Bassus	*	*I"Tenor	*	*I"Cantus	*
+*I'B	*	*I'T	*	*I'C	*
+*clefC3	*	*clefC2	*	*clefG2	*
+*M2/1	*	*M2/1	*	*M2/1	*
+*k[]	*	*k[]	*	*k[]	*
+*met(C|)	*	*met(C|)	*	*met(C|)	*
+=1	=1	=1	=1	=1	=1
+1r	.	0r	.	1dd	Se-
+1g	Se-	.	.	2dd	-lig
+.	.	.	.	2dd	zu
+=2	=2	=2	=2	=2	=2
+2g	-lig	0r	.	1b	prei-
+2g	zu	.	.	.	.
+2e	prei-	.	.	2cc	-sen
+2f	-sen	.	.	2a	ist
+=3	=3	=3	=3	=3	=3
+1e	ist	0r	.	2g	der
+.	.	.	.	2a	.
+1d	der	.	.	4b	.
+.	.	.	.	4cc	.
+.	.	.	.	8b	.
+.	.	.	.	8a	.
+.	.	.	.	4b	.
+=4	=4	=4	=4	=4	=4
+1c	mann/	1g	Se-	2ee	man/
+.	.	.	.	2ee	.
+2r	.	2g	-lig	2dd	.
+[2c	ist	2g	zu	2ee	.
+=5	=5	=5	=5	=5	=5
+2c]	.	2e	prei-	2gg	ii
+2.A	der	2f	-sen	2cc	.
+.	.	1e	ist	2cc	.
+4B	.	.	.	.	.
+2c	.	.	.	4g	.
+.	.	.	.	4a	.
+=6	=6	=6	=6	=6	=6
+1G	mann/	1d	der	4b	.
+.	.	.	.	4cc	.
+.	.	.	.	2b	.
+2r	.	1c	mann/	2cc	.
+2e	der	.	.	2g	der
+=7	=7	=7	=7	=7	=7
+2e	sich	0r	.	2b	sich
+2a	ent-	.	.	2cc	ent-
+4g	helt	.	.	2dd	-helt
+4f#	.	.	.	.	.
+[2g	.	.	.	2dd	von
+=8	=8	=8	=8	=8	=8
+2g]	.	1c	der	2ee	den
+2e	von	.	.	2gg	gott-
+2.A	den	2e	sich	1cc	-lo-
+.	.	2f	ent-	.	.
+4A	gott-	.	.	.	.
+=9	=9	=9	=9	=9	=9
+2e	-lo-	2g	-helt	2b	-sen
+2c	-sen/	2g	von	2ee	von
+2r	.	2a	den	2cc	den
+2G	und	2g	gott-	2b	gott-
+=10	=10	=10	=10	=10	=10
+2A	wan-	1f	-lo-	2cc	-lo-
+2B	-delt	.	.	2dd	sen/
+[1c	nicht	1e	-sen/	2r	.
+.	.	.	.	2g	und
+=11	=11	=11	=11	=11	=11
+2c]	.	2r	.	2a	wan-
+2B	im	2d	und	2b	-delt
+2A	rath	2e	wan-	1cc	nicht
+2a	der	2f	-delt	.	.
+=12	=12	=12	=12	=12	=12
+2e	bö-	2g	nicht	2b	im
+2A	-sen	2e	im	1cc	rath
+2r	.	2f	rath	.	.
+2c	trit	2g	der	2ee	der
+=13	=13	=13	=13	=13	=13
+1f	auch	1a	bö-	2dd	bö-
+.	.	.	.	2cc	-sen/
+1e	nicht	1g	-sen/	2r	.
+.	.	.	.	2b	trit
+=14	=14	=14	=14	=14	=14
+2.c	auf	2r	.	1.ee	auch
+.	.	2g	trit	.	.
+4B	.	.	.	.	.
+4A	.	1cc	auch	.	.
+4B	.	.	.	.	.
+4c	.	.	.	2ee	nit
+4d	.	.	.	.	.
+=15	=15	=15	=15	=15	=15
+2e	.	1b	nicht	2gg	auff
+2g	der	.	.	1dd	der
+2f	sü-	2a	auf	.	.
+2e	-der	2g	der	2cc	sün-
+=16	=16	=16	=16	=16	=16
+1d	ban/	2g	sün-	2b	-der
+.	.	2f#	-der	2a	ban/
+2r	.	1g	ban/	2r	.
+2B	noch	.	.	2dd	noch
+=17	=17	=17	=17	=17	=17
+1c	sitzt	2r	.	1ee	sitzt
+.	.	2g	noch	.	.
+2r	.	2a	sitzt	2cc	bey
+2f	noch	2a	bey	[2cc	giff-
+=18	=18	=18	=18	=18	=18
+2g	sitzt	2e	güff-	4cc]	.
+.	.	.	.	4b	.
+2f	bey	2a	-tig	4cc	.
+.	.	.	.	4dd	.
+2.c	güff-	2g	bö-	4ee	.
+.	.	.	.	4ff	.
+.	.	2e	-sen	2gg	.
+4c	-tig	.	.	.	.
+=19	=19	=19	=19	=19	=19
+2A	bö-	1f	rot-	2cc	-tig
+2B	-sen	.	.	2dd	bö-
+2c	rot-	[1e	-ten/	4.g	-sen
+.	.	.	.	16a	.
+.	.	.	.	16b	.
+2A	-ten/	.	.	2cc	.
+=20	=20	=20	=20	=20	=20
+2r	.	1e]	.	0b	rot-
+2g	da	.	.	.	.
+2e	man	1r	.	.	.
+2d	hon-	.	.	.	.
+=21	=21	=21	=21	=21	=21
+1.c	-schimpf-	2r	.	1ee	-ten/
+.	.	2g	da	.	.
+.	.	2e	man	1gg	da
+2B	-lich	2d	hon-	.	.
+=22	=22	=22	=22	=22	=22
+2.g	weiß	2c	-schimpf-	2ee	man
+.	.	2e	-lich	2cc	hon-
+4g	zu	.	.	.	.
+2a	spot-	2f	weiß	1cc	-schimpf-
+2A	-ten/	2e	zu	.	.
+=23	=23	=23	=23	=23	=23
+2r	.	1d	spot-	2ff	-lich
+2f	zu	.	.	2dd	weiß/
+2g	spot-	[1c	ten/	2r	.
+2e	-ten/	.	.	2gg	da
+=24	=24	=24	=24	=24	=24
+2r	.	1c]	.	2.ee	man
+2g	da	.	.	.	.
+.	.	.	.	4dd	hon-
+2.e	man	2r	.	2cc	-schimpf-
+.	.	2g	.	2b	-lich
+4d	hon-	.	.	.	.
+=25	=25	=25	=25	=25	=25
+2c	-schimpf-	2e	.	2.gg	weiß
+2B	-lich	2d	.	.	.
+.	.	.	.	4ff	.
+1g	weiß	2c	.	4ee	.
+.	.	.	.	4dd	.
+.	.	2e	ii	4cc	.
+.	.	.	.	4b	.
+=26	=26	=26	=26	=26	=26
+1r	.	2f	.	4a	.
+.	.	.	.	4b	.
+.	.	2e	.	1cc	.
+1G	zu	1d	.	.	.
+.	.	.	.	2b	zu
+=27	=27	=27	=27	=27	=27
+2.A	spot-	2c	.	2.cc	spot-
+.	.	2e	zu	.	.
+4G	.	.	.	4b	.
+1F	.	4f	spot-	1a	.
+.	.	4c	.	.	.
+.	.	2f	.	.	.
+=28	=28	=28	=28	=28	=28
+0c	ten.	0e	ten.	0g	ten.
+==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
 !!!ENC: Wolfgang Drescher
