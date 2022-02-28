@@ -1,0 +1,30 @@
+!!!COM: Lassus, Rudolphus
+!!!CDT: 1563-1623
+!!!OPR: Geistliche Psalmen mit dreyen Stimmen
+!!!OTL: Quare fremuerunt gentes
+!!!OTL@DE: Warumb empören sich die Haiden
+!!!LIB: Ulenberg, Caspar
+!!!LIB-CDT: 1548/12/24-1617/02/16
+!!!AGN: Psalm, Tricinium
+!!!voices: 3
+**kern	**text	**kern	**text	**kern	**text
+*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*Ivox	*	*Ivox	*	*Ivox	*
+*I"Bassus	*	*I"Tenor	*	*I"Cantus	*
+*clefC3	*	*clefC2	*	*clefG2	*
+*M2/1	*	*M2/1	*	*M2/1	*
+*k[]	*	*k[]	*	*k[]	*
+*met(C|)	*	*met(C|)	*	*met(C|)	*
+=1	=1	=1	=1	=1	=1
+.	.	.	.	1dd	Wa-
+.	.	.	.	2dd	rumb-
+=2	=2	=2	=2	=2	=2
+.	.	.	.	.	.
+==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!!ENC: Wolfgang Drescher
+!!!END: 2022/02/28
+!!!EED: Wolfgang Drescher
+!!!EEV: 2022/02/28
