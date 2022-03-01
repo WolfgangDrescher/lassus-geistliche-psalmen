@@ -6,7 +6,12 @@
 !!!LIB: Ulenberg, Caspar
 !!!LIB-CDT: 1548/12/24-1617/02/16
 !!!AGN: Psalm, Tricinium
-!!!voices: 3
+!!!YOR: https://mdz-nbn-resolving.de/details:bsb00072990
+!!!YOO: München, Bayerische Staatsbibliothek
+!!!EED: Wolfgang Drescher
+!!!END: 2022/02/28
+!!!ENC: Wolfgang Drescher
+!!!EEV: 2022/03/01
 **kern	**text	**kern	**text	**kern	**text
 *staff3	*staff3	*staff2	*staff2	*staff1	*staff1
 *Ivox	*	*Ivox	*	*Ivox	*
@@ -162,9 +167,3 @@
 0dl	soll.	0dl	soll.	0ddl	soll.
 ==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-
-!!!RDF**kern: l=long note in original notation
-!!!RDF**kern: i=editorial accidental
-!!!ENC: Wolfgang Drescher
-!!!END: 2022/02/28
-!!!EED: Wolfgang Drescher
-!!!EEV: 2022/02/28
