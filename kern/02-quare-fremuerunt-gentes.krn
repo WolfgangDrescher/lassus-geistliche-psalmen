@@ -4,19 +4,6 @@
 !!!ONM: 2
 !!!OTL: Quare fremuerunt gentes
 !!!OTL@DE: Warumb empören sich die Haiden
-!!!LIB: Ulenberg, Caspar
-!!!LIB-CDT: 1548/12/24-1617/02/16
-!!!AGN: Psalm, Tricinium
-!!!YOR: https://mdz-nbn-resolving.de/details:bsb00075346
-!!!YOO: München, Bayerische Staatsbibliothek
-!!!URL-scan: https://www.digitale-sammlungen.de/de/view/bsb00075346?page=12 Cantus
-!!!URL-scan: https://www.digitale-sammlungen.de/de/view/bsb00075346?page=72 Tenor
-!!!URL-scan: https://www.digitale-sammlungen.de/de/view/bsb00075346?page=128 Bassus
-!!!EED: Wolfgang Drescher
-!!!END: 2022/02/28
-!!!ENC: Wolfgang Drescher
-!!!EEV: 2022/03/05
-!!!title: @{ONM}. @{OTL} / <i>@{OTL@DE}</i>
 **kern	**text	**kern	**text	**kern	**text
 *staff3	*staff3	*staff2	*staff2	*staff1	*staff1
 *Ivox	*	*Ivox	*	*Ivox	*
@@ -175,3 +162,16 @@
 *-	*-	*-	*-	*-	*-
 !!!RDF**kern: l = long note in original notation
 !!!RDF**kern: i = editorial accidental
+!!!AGN: Psalm, Tricinium
+!!!LIB: Ulenberg, Caspar
+!!!LIB-CDT: 1548/12/24-1617/02/16
+!!!YOR: https://mdz-nbn-resolving.de/details:bsb00075346
+!!!YOO: München, Bayerische Staatsbibliothek
+!!!URL-scan: https://www.digitale-sammlungen.de/de/view/bsb00075346?page=12 Cantus
+!!!URL-scan: https://www.digitale-sammlungen.de/de/view/bsb00075346?page=72 Tenor
+!!!URL-scan: https://www.digitale-sammlungen.de/de/view/bsb00075346?page=128 Bassus
+!!!EED: Wolfgang Drescher
+!!!END: 2022/02/28
+!!!ENC: Wolfgang Drescher
+!!!EEV: 2022/03/05
+!!!title: @{ONM}. @{OTL} / <i>@{OTL@DE}</i>
