@@ -16,6 +16,7 @@
 *met(C|)	*	*met(C|)	*	*met(C|)	*
 *MM180	*	*MM180	*	*MM180	*
 =1	=1	=1	=1	=1	=1
+*xywh-#128:294,61,2729,518	*	*xywh-#72:316,78,2764,509	*	*xywh-#12:288,51,2770,524	*
 00r	.	1d	War-	1r	.
 .	.	2d	umb	1a	War-
 .	.	2d	em-	.	.
@@ -41,6 +42,7 @@
 =5	=5	=5	=5	=5	=5
 2c	pö-	2a	.	2ee	ii
 2d	ren	2a	ii	2ff	.
+*	*	*xywh-#72:309,574,2770,430	*	*	*
 2e	sich	2g	.	2.cc	.
 2f	die	2a	.	.	.
 .	.	.	.	8b	.
@@ -48,6 +50,7 @@
 =6	=6	=6	=6	=6	=6
 1e	Hai-	2b	.	1g	.
 .	.	2cc	.	.	.
+*	*	*	*	*xywh-#12:279,572,2750,421	*
 2d	den/	1b	.	2r	.
 2g	die	.	.	2.dd	.
 =7	=7	=7	=7	=7	=7
@@ -62,6 +65,7 @@
 =8	=8	=8	=8	=8	=8
 2r	.	2e	wüt-	2g	.
 2f	und	2d	ten	2a	.
+*xywh-#128:289,552,2735,426	*	*	*	*	*
 2e	wü-	2c	so	2r	.
 2d	ten	2f	von	2a	und
 =9	=9	=9	=9	=9	=9
@@ -82,11 +86,13 @@
 .	.	.	.	4b	.
 .	.	2d	sind	2a	.
 =12	=12	=12	=12	=12	=12
+*	*	*	*	*xywh-#12:265,974,2768,430	*
 2c	sti-	2e	un-	2g	sti-
 2F	mes	2f	ge-	2a	mes-
 2c	gri-	2e	sti-	2g	grim-
 2d	men	2d	mes	2f	men
 =13	=13	=13	=13	=13	=13
+*	*	*xywh-#72:329,998,2751,437	*	*	*
 1A	vol/	1c	gri-	2e	vol/
 .	.	.	.	2ee	.
 2r	.	1B	men	2dd	.
@@ -97,6 +103,7 @@
 2e	ii	1r	.	2g	.
 2d	.	.	.	1a	.
 =15	=15	=15	=15	=15	=15
+*xywh-#128:275,951,2738,462	*	*	*	*	*
 2c	.	1r	.	.	.
 2B	.	.	.	2g	.
 2A	.	1e	die	1cc	.
@@ -113,6 +120,7 @@
 .	.	.	.	4b	.
 2c	cken/	.	.	2ee	.
 =18	=18	=18	=18	=18	=18
+*	*	*	*	*xywh-#12:265,1391,2750,419	*
 2r	.	1f	cken/	3.aL	sen
 2a	thun	.	.	6b	.
 .	.	.	.	3cc	.
@@ -127,6 +135,7 @@
 2c	.	2.e	ding	2g	ding
 2A	mit	.	.	2cc	mit
 .	.	4c	mit	.	.
+*xywh-#128:288,1371,2735,451	*	*	*	*	*
 4G	list	2d	list	2b	list
 4G	er-	.	.	.	.
 2A	den-	2c	er-	4e	er-
@@ -136,6 +145,7 @@
 .	.	.	.	8g#	.
 .	.	.	.	8f#i	.
 .	.	.	.	2g#i	.
+*	*	*xywh-#72:319,1426,2770,424	*	*	*
 2r	.	1A	cken/	2cc	cken/
 2F	daß	.	.	2a	daß
 =22	=22	=22	=22	=22	=22
@@ -146,6 +156,7 @@
 2e	.	.	.	4cc	.
 .	.	.	.	4dd	.
 =23	=23	=23	=23	=23	=23
+*	*	*	*	*xywh-#12:259,1807,2745,424	*
 2A	.	2c	ihn	2ee	.
 2B-	ii	2d	doch	2dd	ge-
 2A	.	2e	nit	2cc	lin-
@@ -172,6 +183,7 @@
 !!!URL-scan: https://www.digitale-sammlungen.de/de/view/bsb00075346?page=12 Cantus
 !!!URL-scan: https://www.digitale-sammlungen.de/de/view/bsb00075346?page=72 Tenor
 !!!URL-scan: https://www.digitale-sammlungen.de/de/view/bsb00075346?page=128 Bassus
+!!!IIIF: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00075346/manifest
 !!!EED: Wolfgang Drescher
 !!!END: 2022/02/28
 !!!ENC: Wolfgang Drescher
