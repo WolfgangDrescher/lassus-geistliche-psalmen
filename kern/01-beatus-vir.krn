@@ -16,6 +16,7 @@
 *met(C|)	*	*met(C|)	*	*met(C|)	*
 *MM180	*	*MM180	*	*MM180	*
 =1	=1	=1	=1	=1	=1
+*xywh-#127:141,59,2713,538	*	*xywh-#71:112,89,2701,526	*	*xywh-#11:125,74,2760,518	*
 1r	.	00r	.	1dd	Se-
 1g	Se-	.	.	2dd	-lig
 .	.	.	.	2dd	zu
@@ -40,6 +41,7 @@
 =5	=5	=5	=5	=5	=5
 .	.	2e	prei-	2gg	ii
 2.A	der	2f	-sen	2cc	.
+*	*	*	*	*xywh-#11:117,579,2766,432	*
 .	.	1e	ist	2cc	.
 4B	.	.	.	.	.
 2c	.	.	.	4g	.
@@ -51,6 +53,7 @@
 2r	.	1c	mann/	2cc	.
 2e	der	.	.	2g	der
 =7	=7	=7	=7	=7	=7
+*xywh-#127:136,516,2707,491	*	*	*	*	*
 2e	sich	0r	.	2b	sich
 2a	ent-	.	.	2cc	ent-
 4g	helt	.	.	2dd	-helt
@@ -68,11 +71,13 @@
 2r	.	2a	den	2cc	den
 2G	und	2g	gott-	2b	gott-
 =10	=10	=10	=10	=10	=10
+*	*	*xywh-#71:102,593,2695,438	*	*	*
 2A	wan-	1f	-lo-	2cc	-lo-
 2B	-delt	.	.	2dd	sen/
 1.c	nicht	1e	-sen/	2r	.
 .	.	.	.	2g	und
 =11	=11	=11	=11	=11	=11
+*	*	*	*	*xywh-#11:117,988,2760,429	*
 .	.	2r	.	2a	wan-
 2B	im	2d	und	2b	-delt
 2A	rath	2e	wan-	1cc	nicht
@@ -83,6 +88,7 @@
 2r	.	2f	rath	.	.
 2c	trit	2g	der	2ee	der
 =13	=13	=13	=13	=13	=13
+*xywh-#127:119,949,2704,465	*	*	*	*	*
 1f	auch	1a	bö-	2dd	bö-
 .	.	.	.	2cc	-sen/
 1e	nicht	1g	-sen/	2r	.
@@ -106,6 +112,7 @@
 2r	.	1g	ban/	2r	.
 2B	noch	.	.	2dd	noch
 =17	=17	=17	=17	=17	=17
+*	*	*	*xywh-#71:108,1003,2678,435	*	*
 1c	sitzt	2r	.	1ee	sitzt
 .	.	2g	noch	.	.
 2r	.	2a	sitzt	2cc	bey
@@ -115,6 +122,7 @@
 .	.	.	.	4b	.
 2f	bey	2a	-tig	4cc	.
 .	.	.	.	4dd	.
+*	*	*	*	*xywh-#11:111,1388,2762,433	*
 2.c	güff-	2g	bö-	4ee	.
 .	.	.	.	4ff	.
 .	.	2e	-sen	2gg	.
@@ -122,6 +130,7 @@
 =19	=19	=19	=19	=19	=19
 2A	bö-	1f	rot-	2cc	-tig
 2B	-sen	.	.	2dd	bö-
+*xywh-#127:119,1357,2739,474	*	*	*	*	*
 2c	rot-	0e	-ten/	4.g	-sen
 .	.	.	.	16aL	.
 .	.	.	.	16bJ	.
@@ -155,9 +164,11 @@
 .	.	2g	.	2b	-lich
 4d	hon-	.	.	.	.
 =25	=25	=25	=25	=25	=25
+*	*	*xywh-#71:108,1403,2691,458	*	*xywh-#11:121,1796,2746,459	*
 2c	-schimpf-	2e	.	2.gg	weiß
 2B	-lich	2d	.	.	.
 .	.	.	.	4ff	.
+*xywh-#127:95,1773,2756,459	*	*	*	*	*
 1g	weiß	2c	.	4ee	.
 .	.	.	.	4dd	.
 .	.	2e	ii	4cc	.
@@ -189,6 +200,7 @@
 !!!URL-scan: https://www.digitale-sammlungen.de/de/view/bsb00075346?page=11 Cantus
 !!!URL-scan: https://www.digitale-sammlungen.de/de/view/bsb00075346?page=71 Tenor
 !!!URL-scan: https://www.digitale-sammlungen.de/de/view/bsb00075346?page=127 Bassus
+!!!IIIF: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00075346/manifest
 !!!EED: Wolfgang Drescher
 !!!END: 2022/02/17
 !!!ENC: Wolfgang Drescher
