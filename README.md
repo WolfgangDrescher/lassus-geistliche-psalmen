@@ -1,1 +1,6 @@
 # «Geistliche Psalmen mit dreyen Stimmen» von Orlandus und Rudolphus Lassus
+
+| № | Composer  | Title                   | Incipit                        | File                                                                  | VHV                                                                                                                        | Mode   | Transposition | Finalis | Clefs      |
+|---|-----------|-------------------------|--------------------------------|-----------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|------- |---------------|---------|------------|
+| 1 | Orlandus  | Beatus vir              | Selig zu preisen ist der mann  | [01-beatus-vir.krn](kern/01-beatus-vir.krn)                           | [open](https://verovio.humdrum.org/?github=WolfgangDrescher/lassus-geistliche-psalmen/kern/01-beatus-vir.krn)              | ionian | –             | c       | G2, C2, C3 |
+| 2 | Rudolphus | Quare fremuerunt gentes | Warumb empören sich die Haiden | [02-quare-fremuerunt-gentes.krn](kern/02-quare-fremuerunt-gentes.krn) | [open](https://verovio.humdrum.org/?github=WolfgangDrescher/lassus-geistliche-psalmen/kern/02-quare-fremuerunt-gentes.krn) | dorian | –             | d       | G2, C2, C3 |
