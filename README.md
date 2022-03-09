@@ -1,5 +1,8 @@
 # «Geistliche Psalmen mit dreyen Stimmen» von Orlandus und Rudolphus Lassus
 
+* https://mdz-nbn-resolving.de/details:bsb00075346
+* https://mdz-nbn-resolving.de/details:bsb00072990
+
 | № | Composer  | Title                                                          | Incipit                        | VHV                                                                                                                        | Mode   | T | Finalis | Clefs      |
 |---|-----------|----------------------------------------------------------------|--------------------------------|----------------------------------------------------------------------------------------------------------------------------|------- |---|---------|------------|
 | 1 | Orlandus  | [Beatus vir](kern/01-beatus-vir.krn)                           | Selig zu preisen ist der mann  | [open](https://verovio.humdrum.org/?github=WolfgangDrescher/lassus-geistliche-psalmen/kern/01-beatus-vir.krn)              | ionian | – | c       | G2, C2, C3 |
