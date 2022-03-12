@@ -2,3 +2,32 @@ title: Beatus vir
 incipit: Selig zu preisen ist der mann
 composer: Orlandus Lassus
 rawFile: https://raw.githubusercontent.com/WolfgangDrescher/lassus-geistliche-psalmen/master/kern/01-beatus-vir.krn
+mode: ionian
+transposed: false
+finalis: c
+clefs: [G2, C2, C3]
+lyrics:
+    -
+        text: Selig zu preisen ist der mann/
+        measures: 1-6
+        rhyme: a
+    -
+        text: der sich enthelt von den gottlosen/
+        measures: 6-10
+        rhyme: b
+    -
+        text: und wandelt nicht im rath der bösen/
+        measures: 10-13
+        rhyme: b
+    -
+        text: trit auch nit auff der sünder ban/
+        measures: 12-16
+        rhyme: a
+    -
+        text: noch sitzt bey gifftig bösen rotten/
+        measures: 16-21
+        rhyme: c
+    -
+        text: da man honschimpflich wieß zu spotten.
+        measures: 20-28
+        rhyme: c

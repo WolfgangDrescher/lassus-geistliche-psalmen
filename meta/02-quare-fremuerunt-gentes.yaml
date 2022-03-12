@@ -2,3 +2,32 @@ title: Quare fremuerunt gentes
 incipit: Warumb empören sich die Haiden
 composer: Rudolphus Lassus
 rawFile: https://raw.githubusercontent.com/WolfgangDrescher/lassus-geistliche-psalmen/master/kern/02-quare-fremuerunt-gentes.krn
+mode: dorian
+transposed: false
+finalis: d
+clefs: [G2, C2, C3]
+lyrics:
+    -
+        text: Warumb empören sich die Haiden/
+        measures: 1-8
+        rhyme: a
+    -
+        text: und wüten so von allen seiten/
+        measures: 7-10
+        rhyme: a
+    -
+        text: sint undgestimes grimmen vol/
+        measures: 10-15
+        rhyme: b
+    -
+        text: die leut gehn umb mit losen rencken/
+        measures: 15-19
+        rhyme: a
+    -
+        text: thun eitel ding mit list erdencken/
+        measures: 18-21
+        rhyme: a
+    -
+        text: daß ihn doch nit gelingen soll.
+        measures: 21-24
+        rhyme: b
