@@ -1,12 +1,16 @@
-const yaml = require('js-yaml');
-const fs = require('fs');
+import yaml from 'js-yaml';
+import fs from 'fs';
+import { dirname } from 'path';
+import { fileURLToPath } from 'url';
 
-function getFiles (dir, files_){
+const __dirname = dirname(fileURLToPath(import.meta.url));
+
+function getFiles(dir, files_) {
     files_ = files_ || [];
     var files = fs.readdirSync(dir);
-    for (var i in files){
+    for (var i in files) {
         var name = dir + '/' + files[i];
-        if (fs.statSync(name).isDirectory()){
+        if (fs.statSync(name).isDirectory()) {
             getFiles(name, files_);
         } else {
             files_.push(name);
@@ -15,20 +19,23 @@ function getFiles (dir, files_){
     return files_;
 }
 
-const inputDir = './meta/';
+const inputDir = `${__dirname}/meta/`;
 
 const files = getFiles(inputDir);
 
 const data = [];
 
-files.forEach(file => {
+files.forEach((file) => {
     const fileContent = yaml.load(fs.readFileSync(file, 'utf8'));
-    fileContent.id = file.split(/[\\\/]/).pop().replace('.yaml', '');
-    fileContent.nr = parseInt(fileContent.id.substring(0,2), 10);
+    fileContent.id = file
+        .split(/[\\\/]/)
+        .pop()
+        .replace('.yaml', '');
+    fileContent.nr = parseInt(fileContent.id.substring(0, 2), 10);
     data.push(fileContent);
 });
 
-const outputDir = './';
+const outputDir = `${__dirname}/`;
 
 fs.mkdir(outputDir, { recursive: true }, () => {});
 fs.writeFileSync(`${outputDir}meta.json`, JSON.stringify(data));
