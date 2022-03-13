@@ -8,3 +8,8 @@ indent_style = space
 indent_size = 4
 quote_type = single
 insert_final_newline = true
+
+[*.yaml]
+indent_style = space
+indent_size = 4
+insert_final_newline = true
