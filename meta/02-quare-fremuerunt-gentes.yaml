@@ -31,3 +31,33 @@ lyrics:
         text: daß ihn doch nit gelingen soll.
         measures: 21-24
         rhyme: b
+voices:
+    cantus:
+        lyrics: |
+            Warumb empören sich die Haiden/
+            warum empören sich die Haiden/
+            und wüten so von allen seiten/
+            sint ungestimes grimmen vol/
+            sint ungestimes grimmen vol/
+            die leut gehn um̃ mit losen rencken/
+            thun eitel ding mit list erdencken/
+            d[a]ß ihn doch nit gelingen soll.
+    tenor: 
+        lyrics: |
+            Warumb empören sich die Haiden/
+            warumb empören sich die Haiden/
+            und wüten so von allen seiten/
+            sind ungestimes grim̃en vol/
+            die leut gehn umb mit losen rencken/
+            thun eitel ding mit list erdencken/
+            daß ihn doch nit gelingen sol.
+    bassus:
+        lyrics: |
+            Warumb empören sich die Haiden/
+            die Haiden/
+            und wüten so von allen seiten/
+            sint ungestimes grim̃en vol/
+            sint ungestimes grim̃en vol/
+            die leut gehn umb mit losen rencken/
+            thun eitel ding thun eitel ding mit list erdencken/
+            daß ihn doch nit daß ihn doch nit gelingen sol.

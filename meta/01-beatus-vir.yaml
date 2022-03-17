@@ -31,3 +31,35 @@ lyrics:
         text: da man honschimpflich weiß zu spotten.
         measures: 20-28
         rhyme: c
+voices:
+    cantus:
+        lyrics: |
+            Selig zu preisen ist der mann/
+            selig zu preisen ist der mann/
+            der sich enthelt von den gottlosen von den gottlosen/
+            und wandelt nicht im rath der bösen/
+            trit auch nit auff der sünder ban/
+            noch sitzt bey gifftig bösen rotten/
+            da man honschimpflich weiß/
+            da man honschimpflich weiß zu spotten.
+    tenor: 
+        lyrics: |
+            Selig zu preisen ist der mann/
+            der sich enthelt von den gottlosen/
+            und wandelt nicht im rath der bösen/
+            trit auch nicht auf der sünder ban/
+            noch sitzt bey güfftig bösen rotten/
+            da man honschimpflich weiß zu spotten/
+            da man honschimpflich weiß zu spotten/
+            zu spotten.
+    bassus:
+        lyrics: |
+            Selig zu preisen ist der mann/
+            ist der mann/
+            der sich enthelt von den gottlosen/
+            und wandelt nicht im rath der bösen/
+            trit auch nicht auf der sünder ban/
+            noch sitzt bey güfftig bösen rotten/
+            da man honschimpflich weiß zu spotten/
+            zu spotten/
+            da man honschimpflich weiß zu spotten.
