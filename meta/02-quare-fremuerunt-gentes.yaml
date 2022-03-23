@@ -5,7 +5,6 @@ rawFile: https://raw.githubusercontent.com/WolfgangDrescher/lassus-geistliche-ps
 mode: dorian
 transposed: false
 finalis: d
-clefs: [G2, C2, C3]
 lyrics:
     -
         text: Warumb empören sich die Haiden/
@@ -33,6 +32,7 @@ lyrics:
         rhyme: b
 voices:
     cantus:
+        clef: G2
         lyrics: |
             Warumb empören sich die Haiden/
             warum empören sich die Haiden/
@@ -42,7 +42,8 @@ voices:
             die leut gehn um̃ mit losen rencken/
             thun eitel ding mit list erdencken/
             d[a]ß ihn doch nit gelingen soll.
-    tenor: 
+    tenor:
+        clef: C2
         lyrics: |
             Warumb empören sich die Haiden/
             warumb empören sich die Haiden/
@@ -52,6 +53,7 @@ voices:
             thun eitel ding mit list erdencken/
             daß ihn doch nit gelingen sol.
     bassus:
+        clef: C3
         lyrics: |
             Warumb empören sich die Haiden/
             die Haiden/

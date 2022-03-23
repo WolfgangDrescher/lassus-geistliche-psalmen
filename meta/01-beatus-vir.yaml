@@ -5,7 +5,6 @@ rawFile: https://raw.githubusercontent.com/WolfgangDrescher/lassus-geistliche-ps
 mode: ionian
 transposed: false
 finalis: c
-clefs: [G2, C2, C3]
 lyrics:
     -
         text: Selig zu preisen ist der mann/
@@ -33,6 +32,7 @@ lyrics:
         rhyme: c
 voices:
     cantus:
+        clef: G2
         lyrics: |
             Selig zu preisen ist der mann/
             selig zu preisen ist der mann/
@@ -42,7 +42,8 @@ voices:
             noch sitzt bey gifftig bösen rotten/
             da man honschimpflich weiß/
             da man honschimpflich weiß zu spotten.
-    tenor: 
+    tenor:
+        clef: C2
         lyrics: |
             Selig zu preisen ist der mann/
             der sich enthelt von den gottlosen/
@@ -53,6 +54,7 @@ voices:
             da man honschimpflich weiß zu spotten/
             zu spotten.
     bassus:
+        clef: C3
         lyrics: |
             Selig zu preisen ist der mann/
             ist der mann/
