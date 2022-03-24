@@ -1,10 +1,8 @@
 import yaml from 'js-yaml';
 import fs from 'fs';
-import { dirname } from 'path';
-import { fileURLToPath } from 'url';
-import { getFiles } from './utils';
+import { getDirname, getFiles } from './utils.js';
 
-const __dirname = dirname(fileURLToPath(import.meta.url));
+const __dirname = getDirname(import.meta.url);
 
 const inputDir = `${__dirname}/../meta/`;
 
