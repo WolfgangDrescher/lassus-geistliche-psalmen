@@ -3,7 +3,7 @@
   "type": "module",
   "version": "0.0.0",
   "scripts": {
-    "build": "node build.js"
+    "build": "node bin/build.js"
   },
   "devDependencies": {
     "js-yaml": "^4.1.0"
