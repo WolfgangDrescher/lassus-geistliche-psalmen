@@ -3,7 +3,8 @@
   "type": "module",
   "version": "0.0.0",
   "scripts": {
-    "build": "node bin/build.js"
+    "build": "node bin/build.js",
+    "lyrics": "node bin/lyrics.js"
   },
   "devDependencies": {
     "js-yaml": "^4.1.0"
