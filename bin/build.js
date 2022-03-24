@@ -19,7 +19,7 @@ function getFiles(dir, files_) {
     return files_;
 }
 
-const inputDir = `${__dirname}/meta/`;
+const inputDir = `${__dirname}/../meta/`;
 
 const files = getFiles(inputDir);
 
@@ -35,7 +35,7 @@ files.forEach((file) => {
     data.push(fileContent);
 });
 
-const outputDir = `${__dirname}/`;
+const outputDir = `${__dirname}/../`;
 
 fs.mkdir(outputDir, { recursive: true }, () => {});
 fs.writeFileSync(`${outputDir}meta.json`, JSON.stringify(data));
