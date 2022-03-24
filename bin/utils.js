@@ -20,3 +20,11 @@ export function getFiles(directory, fileList) {
     }
     return fileList;
 }
+
+export function splitInChunks(array, chunkSize) {
+    const chunks = [];
+    for (let i = 0; i < array.length; i += chunkSize) {
+        chunks.push(array.slice(i, i + chunkSize));
+    }
+    return chunks;
+}
