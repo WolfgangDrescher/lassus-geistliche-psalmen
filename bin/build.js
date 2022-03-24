@@ -2,22 +2,9 @@ import yaml from 'js-yaml';
 import fs from 'fs';
 import { dirname } from 'path';
 import { fileURLToPath } from 'url';
+import { getFiles } from './utils';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
-
-function getFiles(dir, files_) {
-    files_ = files_ || [];
-    var files = fs.readdirSync(dir);
-    for (var i in files) {
-        var name = dir + '/' + files[i];
-        if (fs.statSync(name).isDirectory()) {
-            getFiles(name, files_);
-        } else {
-            files_.push(name);
-        }
-    }
-    return files_;
-}
 
 const inputDir = `${__dirname}/../meta/`;
 
