@@ -1,6 +1,6 @@
 import yaml from 'js-yaml';
 import fs from 'fs';
-import { getDirname, getFiles } from './utils.js';
+import { getDirname, getFiles, getIdFromFilename, getNrFromId } from './utils.js';
 
 const __dirname = getDirname(import.meta.url);
 
@@ -12,11 +12,8 @@ const data = [];
 
 files.forEach((file) => {
     const fileContent = yaml.load(fs.readFileSync(file, 'utf8'));
-    fileContent.id = file
-        .split(/[\\\/]/)
-        .pop()
-        .replace('.yaml', '');
-    fileContent.nr = parseInt(fileContent.id.substring(0, 2), 10);
+    fileContent.id = getIdFromFilename(file, 'utf8');
+    fileContent.nr = getNrFromId(fileContent.id);
     data.push(fileContent);
 });
 

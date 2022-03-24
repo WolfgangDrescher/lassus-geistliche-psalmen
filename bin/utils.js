@@ -28,3 +28,11 @@ export function splitInChunks(array, chunkSize) {
     }
     return chunks;
 }
+
+export function getIdFromFilename(path) {
+    return path.split(/[\\\/]/).pop().replace(/\..+$/, '');
+}
+
+export function getNrFromId(id) {
+    return parseInt(id.substring(0, 2), 10);
+}
