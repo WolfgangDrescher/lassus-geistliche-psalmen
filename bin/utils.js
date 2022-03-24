@@ -1,4 +1,5 @@
 import fs from 'fs';
+import yaml from 'js-yaml';
 import { dirname } from 'path';
 import { fileURLToPath } from 'url';
 
@@ -35,4 +36,43 @@ export function getIdFromFilename(path) {
 
 export function getNrFromId(id) {
     return parseInt(id.substring(0, 2), 10);
+}
+
+export function readYaml(file) {
+    try {
+        return yaml.load(fs.readFileSync(file, 'utf8'));
+    } catch {
+        return {};
+    }
+}
+
+export function writeYaml(file, object, options) {
+    const data = yaml.dump(object, Object.assign({
+        indent: 4,
+        lineWidth: -1,
+    }, options || {}));
+    fs.writeFileSync(file, data)
+    return yaml.load();
+}
+
+export function isObject(item) {
+    return (item && typeof item === 'object' && !Array.isArray(item));
+}
+
+export function mergeDeep(target, ...sources) {
+    if (!sources.length) return target;
+    const source = sources.shift();
+
+    if (isObject(target) && isObject(source)) {
+        for (const key in source) {
+            if (isObject(source[key])) {
+                if (!target[key]) Object.assign(target, { [key]: {} });
+                mergeDeep(target[key], source[key]);
+            } else {
+                Object.assign(target, { [key]: source[key] });
+            }
+        }
+    }
+
+    return mergeDeep(target, ...sources);
 }
