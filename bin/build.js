@@ -1,2 +1,2 @@
-import './lyrics';
+import './voice-lyrics';
 import './generate-meta';

@@ -5,7 +5,7 @@
   "scripts": {
     "build": "node bin/build.js",
     "generate": "node bin/generate-meta.js",
-    "lyrics": "node bin/lyrics.js"
+    "voice-lyrics": "node bin/voice-lyrics.js"
   },
   "devDependencies": {
     "js-yaml": "^4.1.0"
