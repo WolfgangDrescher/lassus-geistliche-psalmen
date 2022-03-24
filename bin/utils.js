@@ -55,6 +55,10 @@ export function writeYaml(file, object, options) {
     return yaml.load();
 }
 
+export function writeJson(file, value) {
+    fs.writeFileSync(file, JSON.stringify(value));
+}
+
 export function isObject(item) {
     return (item && typeof item === 'object' && !Array.isArray(item));
 }
