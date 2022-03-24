@@ -3,7 +3,7 @@
   "type": "module",
   "version": "0.0.0",
   "scripts": {
-    "build": "node bin/build.js",
+    "generate": "node bin/generate-meta.js",
     "lyrics": "node bin/lyrics.js"
   },
   "devDependencies": {
