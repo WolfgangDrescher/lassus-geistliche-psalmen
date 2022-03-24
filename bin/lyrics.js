@@ -1,5 +1,13 @@
 import { exec } from 'child_process';
-import { getDirname, getFiles, splitInChunks } from './utils.js';
+import {
+    getDirname,
+    getFiles,
+    splitInChunks,
+    readYaml,
+    writeYaml,
+    getIdFromFilename,
+    mergeDeep,
+} from './utils.js';
 
 const __dirname = getDirname(import.meta.url);
 
@@ -22,8 +30,12 @@ files.forEach((file) => {
         parts.forEach(([key, lyrics]) => {
             key = key.toLowerCase();
             piece.voices[key] = {};
-            piece.voices[key].lyrics = lyrics.split(/(?<=\/)/).map(line => line.trim());
+            piece.voices[key].lyrics = lyrics.split(/(?<=\/)/).map(line => line.trim()).join('\n');
         });
-        console.log(JSON.stringify(piece));
+        const id = getIdFromFilename(file);
+        const metaFile = `${__dirname}/../meta/${id}.yaml`;
+        const metaData = readYaml(metaFile);
+        mergeDeep(metaData, {voices: piece.voices});
+        writeYaml(metaFile, metaData);
     });
 });
