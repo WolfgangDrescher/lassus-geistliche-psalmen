@@ -33,7 +33,7 @@ lyrics:
 voices:
     cantus:
         clef: G2
-        lyrics: |
+        lyrics: |-
             Selig zu preisen ist der mann/
             selig zu preisen ist der mann/
             der sich enthelt von den gottlosen von den gottlosen/
@@ -44,7 +44,7 @@ voices:
             da man honschimpflich weiß zu spotten.
     tenor:
         clef: C2
-        lyrics: |
+        lyrics: |-
             Selig zu preisen ist der mann/
             der sich enthelt von den gottlosen/
             und wandelt nicht im rath der bösen/
@@ -55,13 +55,13 @@ voices:
             zu spotten.
     bassus:
         clef: C3
-        lyrics: |
+        lyrics: |-
             Selig zu preisen ist der mann/
             ist der mann/
             der sich enthelt von den gottlosen/
             und wandelt nicht im rath der bösen/
             trit auch nicht auf der sünder ban/
-            noch sitzt bey güfftig bösen rotten/
+            noch sitzt noch sitzt bey güfftig bösen rotten/
             da man honschimpflich weiß zu spotten/
             zu spotten/
             da man honschimpflich weiß zu spotten.

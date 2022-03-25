@@ -33,9 +33,9 @@ lyrics:
 voices:
     cantus:
         clef: G2
-        lyrics: |
+        lyrics: |-
             Warumb empören sich die Haiden/
-            warum empören sich die Haiden/
+            warumb empören sich die Haiden/
             und wüten so von allen seiten/
             sint ungestimes grimmen vol/
             sint ungestimes grimmen vol/
@@ -44,17 +44,17 @@ voices:
             d[a]ß ihn doch nit gelingen soll.
     tenor:
         clef: C2
-        lyrics: |
+        lyrics: |-
             Warumb empören sich die Haiden/
             warumb empören sich die Haiden/
-            und wüten so von allen seiten/
+            und wütten so von allen seiten/
             sind ungestimes grim̃en vol/
             die leut gehn umb mit losen rencken/
             thun eitel ding mit list erdencken/
             daß ihn doch nit gelingen sol.
     bassus:
         clef: C3
-        lyrics: |
+        lyrics: |-
             Warumb empören sich die Haiden/
             die Haiden/
             und wüten so von allen seiten/
