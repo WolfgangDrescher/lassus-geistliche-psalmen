@@ -15,7 +15,7 @@ const data = [];
 
 files.forEach((file) => {
     const fileContent = readYaml(file);
-    fileContent.id = getIdFromFilename(file, 'utf8');
+    fileContent.id = getIdFromFilename(file);
     fileContent.nr = getNrFromId(fileContent.id);
     data.push(fileContent);
 });
