@@ -9,7 +9,9 @@ on:
 jobs:
     build:
         runs-on: ubuntu-latest
-        container: wolfgangdrescher/humlib:latest
+        container:
+            image: wolfgangdrescher/humlib:latest
+            options: --user 1001
 
         steps:
             -
