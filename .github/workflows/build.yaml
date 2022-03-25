@@ -24,12 +24,12 @@ jobs:
                 name: Install dependencies
                 run: npm ci
             -
-                name: Build metadata and write to meta.json
+                name: Build metadata and write meta.json
                 run: npm run build
             -
                 name: Commit changes
                 run: |
                     git config --global user.name "Wolfgang Drescher"
                     git config --global user.email "drescher.wolfgang+git@gmail.com"
-                    git diff --quiet && git diff --staged --quiet || git commit -am "Action: build meta.json"
+                    git diff --quiet && git diff --staged --quiet || git commit -am "Action: Build metadata and write meta.json"
                     git push
