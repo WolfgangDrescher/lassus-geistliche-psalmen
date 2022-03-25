@@ -96,3 +96,15 @@ export function parseHumdrumReferenceRecords(humdrum) {
     }
     return output;
 }
+
+export function getHumdrumReferenceRecod(humdrum, key) {
+    const refs = parseHumdrumReferenceRecords(humdrum);
+    if(Array.isArray(key)) {
+        for(let value of key) {
+            if(refs[value]) {
+                return refs[value];
+            }
+        }
+    }
+    return refs[key] || null;
+}
