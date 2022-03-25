@@ -9,6 +9,7 @@ on:
 jobs:
     meta:
         runs-on: ubuntu-latest
+        container: wolfgangdrescher/humlib:latest
 
         steps:
             -
