@@ -84,3 +84,15 @@ export function mergeDeep(target, ...sources) {
 
     return mergeDeep(target, ...sources);
 }
+
+export function parseHumdrumReferenceRecords(humdrum) {
+    let lines = humdrum.split(/\r?\n/);
+    let output = {};
+    for (let i = 0; i < lines.length; i++) {
+        const matches = lines[i].match(/^!!!\s*([^:]+)\s*:\s*(.*)\s*$/);
+        if (matches) {
+            output[matches[1]] = matches[2];
+        }
+    }
+    return output;
+}
