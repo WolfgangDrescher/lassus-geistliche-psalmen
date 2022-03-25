@@ -1,4 +1,4 @@
-name: Build commands
+name: Build metadata from humdrum files
 
 on:
     push:
@@ -7,7 +7,7 @@ on:
     workflow_dispatch: ~
 
 jobs:
-    meta:
+    build:
         runs-on: ubuntu-latest
         container: wolfgangdrescher/humlib:latest
 
@@ -24,7 +24,7 @@ jobs:
                 name: Install dependencies
                 run: npm ci
             -
-                name: Build meta.json
+                name: Build metadata and write to meta.json
                 run: npm run build
             -
                 name: Commit changes
