@@ -40,10 +40,14 @@ export function getNrFromId(id) {
 
 export function readYaml(file) {
     try {
-        return yaml.load(fs.readFileSync(file, 'utf8'));
+        return yaml.load(readFile(file));
     } catch {
         return {};
     }
+}
+
+export function readFile(file) {
+    return fs.readFileSync(file, 'utf8');
 }
 
 export function writeYaml(file, object, options) {
