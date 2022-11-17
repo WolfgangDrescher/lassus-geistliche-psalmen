@@ -3,9 +3,9 @@
   "type": "module",
   "version": "0.0.0",
   "scripts": {
-    "build": "node bin/build.js",
-    "generate": "node bin/generate-meta.js",
-    "voice-lyrics": "node bin/voice-lyrics.js"
+    "build": "node scripts/build.js",
+    "generate": "node scripts/generate-meta.js",
+    "voice-lyrics": "node scripts/voice-lyrics.js"
   },
   "devDependencies": {
     "js-yaml": "^4.1.0"
