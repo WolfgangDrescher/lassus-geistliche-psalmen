@@ -3,7 +3,7 @@ incipit: Warumb empören sich die Haiden
 composer: Rudolphus Lassus
 rawFile: https://raw.githubusercontent.com/WolfgangDrescher/lassus-geistliche-psalmen/master/kern/02-quare-fremuerunt-gentes.krn
 mode: dorian
-transposed: false
+transposition: cantus_durus
 finalis: d
 lyrics:
     -

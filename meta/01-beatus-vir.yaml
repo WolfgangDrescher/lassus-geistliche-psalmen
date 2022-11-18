@@ -3,7 +3,7 @@ incipit: Selig zu preisen ist der mann
 composer: Orlandus Lassus
 rawFile: https://raw.githubusercontent.com/WolfgangDrescher/lassus-geistliche-psalmen/master/kern/01-beatus-vir.krn
 mode: ionian
-transposed: false
+transposition: cantus_durus
 finalis: c
 lyrics:
     -
