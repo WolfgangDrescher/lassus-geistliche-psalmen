@@ -16,6 +16,7 @@
 *met(C|)	*	*met(C|)	*	*met(C|)	*
 *MM180	*	*MM180	*	*MM180	*
 =1	=1	=1	=1	=1	=1
+*xywh-#129:113,40,2736,527	*	*xywh-#73:84,94,2752,532	*	*xywh-#13:139,46,2717,507	*
 2r	.	1g	O	2r	.
 2e-	O	.	.	2b-	O
 2c	Herr	2g	Herr	2.ee-i	Herr
@@ -40,9 +41,11 @@
 =5	=5	=5	=5	=5	=5
 2G	.	2r	.	1b-	mich
 2g	die	2dd	die	.	.
+*xywh-#129:111,561,2741,424	*	*	*	*xywh-#13:127,547,2755,459	*
 2e-i	mich	2g	mich	2b-	in
 2d	in	2a	in	2ff	die-
 =6	=6	=6	=6	=6	=6
+*	*	*xywh-#73:81,612,2765,433	*	*	*
 2g	die-	2b-	die-	2dd	-sen
 2f	-sen	2a	-sen	2.ff	ta-
 1c	ta-	1g	ta-	.	.
@@ -72,9 +75,11 @@
 =10	=10	=10	=10	=10	=10
 2e-i	sind	2r	.	.	.
 2d	der	2b-	Vil	2f	-gen/
+*	*	*	*	*xywh-#13:132,995,2739,421	*
 2c	bö-	2a	sind	1r	.
 2B-	-sen	2g	der	.	.
 =11	=11	=11	=11	=11	=11
+*xywh-#129:104,976,2748,420	*	*	*	*	*
 1A	leut/	2f	bö-	1r	.
 .	.	2e	-sen	.	.
 2r	.	1d	leut/	1a	Die
@@ -87,6 +92,7 @@
 =13	=13	=13	=13	=13	=13
 2d	zeit/	1a	Die	1dd	zeit/
 2f#	die	.	.	.	.
+*	*	*xywh-#73:79,1034,2777,425	*	*	*
 2g	feind-	2b-	feind-	2r	.
 2f#	-lich	2a	-lich	1dd	Gar
 =14	=14	=14	=14	=14	=14
@@ -104,6 +110,7 @@
 =16	=16	=16	=16	=16	=16
 2r	.	2g	un-	2b-	gar
 2d	gar	2a	-ver-	2ff	un-
+*xywh-#129:99,1379,2755,434	*	*	*	*xywh-#13:130,1410,2741,418	*
 2G	un-	2b-	-schuld-	4dd	-ver-
 .	.	.	.	4dd	-schul-
 2A	-ver-	2a	-ter	2.ff	-ter
@@ -122,6 +129,7 @@
 =19	=19	=19	=19	=19	=19
 2e	wi-	.	.	2gg	-schul-
 2f	-der	2a	mich	1cc	-ter
+*	*	*xywh-#73:84,1439,2744,433	*	*	*
 2e	mich	2g	auff-	.	.
 2f	auff-	2.a	-ma-	2.cc	sa-
 =20	=20	=20	=20	=20	=20
@@ -136,6 +144,7 @@
 .	.	2f#i	.	.	.
 =21	=21	=21	=21	=21	=21
 2G	-chen/	1g	-chen.	2b	-chen/
+*	*	*	*	*xywh-#13:129,1828,2741,491	*
 4r	.	.	.	4r	.
 4B	sich	.	.	4dd	sich
 2.c	wi-	4r	.	2.ee	wi-
@@ -147,6 +156,7 @@
 .	.	.	.	4dd	sich
 4r	.	2a	mich	4ee	wi-
 4d	sich	.	.	4ff	-der
+*xywh-#129:97,1798,1105,472	*	*	*	*	*
 2e	wi-	2g	auff-	2.cc	mich
 2f	-der	2.a	-ma-	.	.
 .	.	.	.	4cc	auff-
