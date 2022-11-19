@@ -1,7 +1,7 @@
-import fs from 'fs';
+import fs from 'node:fs';
 import yaml from 'js-yaml';
-import { dirname } from 'path';
-import { fileURLToPath } from 'url';
+import { dirname } from 'node:path';
+import { fileURLToPath } from 'node:url';
 
 export function getDirname(url) {
     return dirname(fileURLToPath(url));
