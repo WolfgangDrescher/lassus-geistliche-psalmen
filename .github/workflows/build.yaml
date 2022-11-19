@@ -34,4 +34,9 @@ jobs:
                     git config --global user.name "Wolfgang Drescher"
                     git config --global user.email "drescher.wolfgang+git@gmail.com"
                     git diff --quiet && git diff --staged --quiet || git commit -am "Action: Build metadata and write meta.json"
+            -
+                name: Fix EEV reference recod dates
+                run: |
+                    npm run eev
+                    git diff --quiet && git diff --staged --quiet || git commit -am "Action: Fix EEV reference recod dates"
                     git push
