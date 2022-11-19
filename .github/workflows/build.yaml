@@ -29,7 +29,7 @@ jobs:
                 name: Build metadata and write meta.json
                 run: npm run build
             -
-                name: Commit changes
+                name: Commit metadata and json file
                 run: |
                     git config --global user.name "Wolfgang Drescher"
                     git config --global user.email "drescher.wolfgang+git@gmail.com"
