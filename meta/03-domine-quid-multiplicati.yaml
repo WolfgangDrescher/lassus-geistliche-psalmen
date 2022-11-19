@@ -1,3 +1,35 @@
 title: Domine quid multiplicati
 incipit: O Herr ich klag es dir
 composer: Orlandus Lassus
+voices:
+    cantus:
+        lyrics: |-
+            O Herr ich klag es dir/
+            Unzalbar vil seind ir/
+            Die mich in diesen tagen/
+            On fug hoch schwerlich plagen/
+            Die feindtlich dieser zeit/
+            Gar unverschulter sachen gar unverschulter sachen/
+            gar unverschulter sachen/
+            sich wider mich sich wider mich auffmachen.
+    tenor:
+        lyrics: |-
+            O Herr ich klag es dir/
+            Unzalbar vil sind ihr/
+            die mich in diesen tagen/
+            On füg hoch schwerlich plagen/
+            Vil sind der bösen leut/
+            Die feindlich dieser zeit gar unverschuldter sachen/
+            Sich wider mich auffmachen. Sich wider mich auffmachen.
+    bassus:
+        lyrics: |-
+            O Herr ich klag es dir/
+            unzalbar vil seind ihr/
+            die mich in diesen tagen/
+            ohn fug hoch schwerlich plagen/
+            viel sind der bösen leut/
+            die feindlich dieser zeit/
+            die feindlich dieser zeit/
+            gar unverschulter gat unverschulter sachen/
+            sich wider mich auffmachen/
+            sich wider mich sich wider mich auffmachen.
