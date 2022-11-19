@@ -8,35 +8,35 @@ finalis: g
 lyrics:
     -
         text: O Herr ich klag es dir/
-        measures: null
+        measures: 1-2
         rhyme: a
     -
         text: unzalbar vil sind ihr/
-        measures: null
+        measures: 2-4
         rhyme: a
     -
         text: die mich in diesen tagen/
-        measures: null
+        measures: 4-7
         rhyme: b
     -
         text: ohn fug hoch schwerlich plagen/
-        measures: null
+        measures: 7-10
         rhyme: b
     -
         text: viel sind der bösen leut/
-        measures: null
+        measures: 9-11
         rhyme: c
     -
         text: die feindlich dieser zeit/
-        measures: null
+        measures: 11-14
         rhyme: c
     -
         text: gar unverschulter sachen/
-        measures: null
+        measures: 13-21
         rhyme: d
     -
         text: sich wider mich auffmachen.
-        measures: null
+        measures: 18-24
         rhyme: d
 voices:
     cantus:
