@@ -1,8 +1,47 @@
 title: Domine quid multiplicati
 incipit: O Herr ich klag es dir
 composer: Orlandus Lassus
+rawFile: https://raw.githubusercontent.com/WolfgangDrescher/lassus-geistliche-psalmen/master/kern/03-domine-quid-multiplicati.krn
+mode: dorian
+transposition: cantus_mollis
+finalis: g
+lyrics:
+    -
+        text: O Herr ich klag es dir/
+        measures:
+        rhyme: a
+    -
+        text: unzalbar vil sind ihr/
+        measures:
+        rhyme: a
+    -
+        text: die mich in diesen tagen/
+        measures:
+        rhyme: b
+    -
+        text: ohn fug hoch schwerlich plagen/
+        measures:
+        rhyme: b
+    -
+        text: viel sind der bösen leut/
+        measures:
+        rhyme: c
+    -
+        text: die feindlich dieser zeit/
+        measures:
+        rhyme: c
+    -
+        text: gar unverschulter sachen/
+        measures:
+        rhyme: d
+    -
+        text: sich wider mich auffmachen.
+        measures:
+        rhyme: d
+
 voices:
     cantus:
+        clef: G2
         lyrics: |-
             O Herr ich klag es dir/
             Unzalbar vil seind ir/
@@ -13,6 +52,7 @@ voices:
             gar unverschulter sachen/
             sich wider mich sich wider mich auffmachen.
     tenor:
+        clef: C1
         lyrics: |-
             O Herr ich klag es dir/
             Unzalbar vil sind ihr/
@@ -22,6 +62,7 @@ voices:
             Die feindlich dieser zeit gar unverschuldter sachen/
             Sich wider mich auffmachen. Sich wider mich auffmachen.
     bassus:
+        clef: C3
         lyrics: |-
             O Herr ich klag es dir/
             unzalbar vil seind ihr/
