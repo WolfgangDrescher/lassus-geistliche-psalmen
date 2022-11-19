@@ -3,6 +3,7 @@
   "type": "module",
   "version": "0.0.0",
   "scripts": {
+    "eev": "node scripts/eev-formatter.js",
     "build": "node scripts/build.js",
     "generate": "node scripts/generate-meta.js",
     "voice-lyrics": "node scripts/voice-lyrics.js"
