@@ -12,7 +12,6 @@ const __dirname = getDirname(import.meta.url);
 const files = getFiles(`${__dirname}/../kern`);
 
 function parsePrange(output) {
-    console.log(output);
     const prange = {
         noteCount: [],
         tessitura: null,
@@ -22,7 +21,6 @@ function parsePrange(output) {
     const lines = output.split(/\r?\n|\r|\n/g).filter(l => l);
     lines.forEach(line => {
         if (!(line.startsWith('*') || line.startsWith('!'))) {
-            // console.log(line, );
             const [keyno, kern, count] = line.split('\t');
             prange.noteCount.push({
                 keyno: parseInt(keyno, 10),
@@ -41,7 +39,6 @@ function parsePrange(output) {
                     kern: note,
                 };
             }
-            console.log([prop, num, note]);
         }
     });
     return prange;
