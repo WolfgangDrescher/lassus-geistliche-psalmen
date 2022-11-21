@@ -1,4 +1,6 @@
 cantusFirmus: tenor
+comments:
+    - Textwiederholung im cantus firmus
 composer: Rudolphus Lassus
 finalis: d
 incipit: Warumb empören sich die Haiden
@@ -28,8 +30,6 @@ lyrics:
         rhyme: b
         text: daß ihn doch nit gelingen soll.
 mode: dorian
-notes:
-    - Textwiederholung im cantus firmus
 prange:
     mean:
         kern: f#

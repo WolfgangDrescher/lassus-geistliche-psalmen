@@ -1,4 +1,8 @@
 cantusFirmus: tenor
+comments:
+    - Anhang mit Textwiederholung im cantus firmus
+    - Text «Viel sind der bösen leut» fehlt im Cantus
+    - Kadenz ohne Syncopatio mit Quartsextvorhalt
 composer: Orlandus Lassus
 finalis: g
 incipit: O Herr ich klag es dir
@@ -36,10 +40,6 @@ lyrics:
         rhyme: d
         text: sich wider mich auffmachen.
 mode: dorian
-notes:
-    - Anhang mit Textwiederholung im cantus firmus
-    - Text «Viel sind der bösen leut» fehlt im Cantus
-    - Kadenz ohne Syncopatio mit Quartsextvorhalt
 prange:
     mean:
         kern: g#

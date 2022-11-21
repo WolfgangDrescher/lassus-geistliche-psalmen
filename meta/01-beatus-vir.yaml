@@ -1,4 +1,8 @@
 cantusFirmus: tenor
+comments:
+    - Textwiederholung im cantus firmus
+    - Anhang mit plagaler Kadnez und Teil-Textwiederholung
+    - Anfang quasi mixolydisch
 composer: Orlandus Lassus
 finalis: c
 incipit: Selig zu preisen ist der mann
@@ -28,10 +32,6 @@ lyrics:
         rhyme: c
         text: da man honschimpflich weiß zu spotten.
 mode: ionian
-notes:
-    - Textwiederholung im cantus firmus
-    - Anhang mit plagaler Kadnez und Teil-Textwiederholung
-    - Anfang quasi mixolydisch
 prange:
     mean:
         kern: g
