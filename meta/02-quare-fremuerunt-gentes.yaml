@@ -27,6 +27,8 @@ lyrics:
         rhyme: b
         text: daß ihn doch nit gelingen soll.
 mode: dorian
+notes:
+    - Textwiederholung im cantus firmus
 prange:
     mean:
         kern: f#
