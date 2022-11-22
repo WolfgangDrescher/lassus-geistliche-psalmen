@@ -1,3 +1,298 @@
-title: Cum invocarem
-incipit: Zu dir ruff ich in böser Zeit
 composer: Rudolphus Lassus
+incipit: Zu dir ruff ich in böser Zeit
+prange:
+    mean:
+        kern: g#
+        keyno: 68.32
+    median:
+        kern: a
+        keyno: 69
+    noteCount:
+        -
+            count: 1
+            kern: F
+            keyno: 53
+        -
+            count: 7
+            kern: G
+            keyno: 55
+        -
+            count: 4
+            kern: A
+            keyno: 57
+        -
+            count: 8
+            kern: B-
+            keyno: 58
+        -
+            count: 7
+            kern: c
+            keyno: 60
+        -
+            count: 13
+            kern: d
+            keyno: 62
+        -
+            count: 1
+            kern: e-
+            keyno: 63
+        -
+            count: 3
+            kern: e
+            keyno: 64
+        -
+            count: 8
+            kern: f
+            keyno: 65
+        -
+            count: 5
+            kern: f#
+            keyno: 66
+        -
+            count: 38
+            kern: g
+            keyno: 67
+        -
+            count: 25
+            kern: a
+            keyno: 69
+        -
+            count: 33
+            kern: b-
+            keyno: 70
+        -
+            count: 2
+            kern: b
+            keyno: 71
+        -
+            count: 20
+            kern: cc
+            keyno: 72
+        -
+            count: 2
+            kern: cc#
+            keyno: 73
+        -
+            count: 30
+            kern: dd
+            keyno: 74
+        -
+            count: 2
+            kern: ee-
+            keyno: 75
+        -
+            count: 6
+            kern: ee
+            keyno: 76
+        -
+            count: 6
+            kern: ff
+            keyno: 77
+        -
+            count: 2
+            kern: ff#
+            keyno: 78
+        -
+            count: 2
+            kern: gg
+            keyno: 79
+    tessitura: 27
+title: Cum invocarem
+voices:
+    bassus:
+        lyrics: |-
+            Zu dir rüff ich ich in böser zeit/
+            O Gott meiner gerechtigkeit/
+            du hast mich auch erhöret/
+            da mich das ellend trenget das ellend trenget sehr/
+            hastu mich auß den engsten schwer/
+            auff weiten plan gefüret.
+        prange:
+            mean:
+                kern: c#
+                keyno: 61
+            median:
+                kern: c
+                keyno: 60
+            noteCount:
+                -
+                    count: 1
+                    kern: F
+                    keyno: 53
+                -
+                    count: 7
+                    kern: G
+                    keyno: 55
+                -
+                    count: 4
+                    kern: A
+                    keyno: 57
+                -
+                    count: 8
+                    kern: B-
+                    keyno: 58
+                -
+                    count: 7
+                    kern: c
+                    keyno: 60
+                -
+                    count: 8
+                    kern: d
+                    keyno: 62
+                -
+                    count: 1
+                    kern: e-
+                    keyno: 63
+                -
+                    count: 1
+                    kern: e
+                    keyno: 64
+                -
+                    count: 1
+                    kern: f
+                    keyno: 65
+                -
+                    count: 2
+                    kern: f#
+                    keyno: 66
+                -
+                    count: 9
+                    kern: g
+                    keyno: 67
+                -
+                    count: 2
+                    kern: a
+                    keyno: 69
+            tessitura: 17
+    cantus:
+        lyrics: |-
+            Zu dier rüff ich in böser zeit/
+            zu dir rüff ich in böser zeit O Gott meiner gerechtigkeit/
+            du hast mich auch erhöret/
+            da mich das ellend trenget sehr/
+            hastu mich auß den engsten schwer/
+            auff weiten plan geführet/
+            auff weiten auff weiten plan geführet.
+        prange:
+            mean:
+                kern: b
+                keyno: 71.1776
+            median:
+                kern: b-
+                keyno: 70
+            noteCount:
+                -
+                    count: 1
+                    kern: d
+                    keyno: 62
+                -
+                    count: 6
+                    kern: f
+                    keyno: 65
+                -
+                    count: 1
+                    kern: f#
+                    keyno: 66
+                -
+                    count: 16
+                    kern: g
+                    keyno: 67
+                -
+                    count: 12
+                    kern: a
+                    keyno: 69
+                -
+                    count: 19
+                    kern: b-
+                    keyno: 70
+                -
+                    count: 2
+                    kern: b
+                    keyno: 71
+                -
+                    count: 11
+                    kern: cc
+                    keyno: 72
+                -
+                    count: 2
+                    kern: cc#
+                    keyno: 73
+                -
+                    count: 19
+                    kern: dd
+                    keyno: 74
+                -
+                    count: 2
+                    kern: ee-
+                    keyno: 75
+                -
+                    count: 6
+                    kern: ee
+                    keyno: 76
+                -
+                    count: 6
+                    kern: ff
+                    keyno: 77
+                -
+                    count: 2
+                    kern: ff#
+                    keyno: 78
+                -
+                    count: 2
+                    kern: gg
+                    keyno: 79
+            tessitura: 18
+    tenor:
+        lyrics: |-
+            Zu dir rüff ich in böser zeit/
+            zu dir rüff ich in böer zeit/
+            O Gott meiner gerechtig -keit/
+            Du hast mich auch erhöret/
+            Da mich das elend drenget sehr/
+            hastu mich auß den engsten schwer/
+            auff weiten plan geführet auff weiten auff weiten plan geführet.
+        prange:
+            mean:
+                kern: a
+                keyno: 69.3284
+            median:
+                kern: b-
+                keyno: 70
+            noteCount:
+                -
+                    count: 4
+                    kern: d
+                    keyno: 62
+                -
+                    count: 2
+                    kern: e
+                    keyno: 64
+                -
+                    count: 1
+                    kern: f
+                    keyno: 65
+                -
+                    count: 2
+                    kern: f#
+                    keyno: 66
+                -
+                    count: 13
+                    kern: g
+                    keyno: 67
+                -
+                    count: 11
+                    kern: a
+                    keyno: 69
+                -
+                    count: 14
+                    kern: b-
+                    keyno: 70
+                -
+                    count: 9
+                    kern: cc
+                    keyno: 72
+                -
+                    count: 11
+                    kern: dd
+                    keyno: 74
+            tessitura: 13
