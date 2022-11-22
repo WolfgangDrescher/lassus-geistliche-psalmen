@@ -1,5 +1,37 @@
+cantusFirmus: tenor
+comments:
+    - Textwiederholung im cantus firmus
+    - Kadenzflucht aus Sopranklausel in die Terz
+    - Cadenza doppia
 composer: Rudolphus Lassus
-incipit: Zu dir ruff ich in böser Zeit
+finalis: g
+incipit: Zu dir rüff ich in böser Zeit
+lyrics:
+    -
+        measures: 1-8
+        rhyme: a
+        text: Zu dir rüff ich in böser zeit/
+    -
+        measures: 8-11
+        rhyme:a
+        text: o Gott meiner gerechtigkeit/
+    -
+        measures: 11-14
+        rhyme: b
+        text: du hast mich auch erhöret/
+    -
+        measures: 13-18
+        rhyme: c
+        text: da mich das ellend trenget sehr/
+    -
+        measures: 18-20
+        rhyme: c
+        text: hastu mich auß den engsten schwer/
+    -
+        measures: 20-25
+        rhyme: b
+        text: auff weiten plan geführet.
+mode: dorian
 prange:
     mean:
         kern: g#
