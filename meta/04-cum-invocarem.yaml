@@ -131,6 +131,7 @@ prange:
     tessitura: 27
 rawFile: https://raw.githubusercontent.com/WolfgangDrescher/lassus-geistliche-psalmen/master/kern/04-cum-invocarem.krn
 title: Cum invocarem
+transposition: cantus_mollis
 voices:
     bassus:
         lyrics: |-
