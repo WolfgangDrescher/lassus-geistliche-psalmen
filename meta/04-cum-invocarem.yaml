@@ -129,6 +129,7 @@ prange:
             kern: gg
             keyno: 79
     tessitura: 27
+rawFile: https://raw.githubusercontent.com/WolfgangDrescher/lassus-geistliche-psalmen/master/kern/04-cum-invocarem.krn
 title: Cum invocarem
 voices:
     bassus:
