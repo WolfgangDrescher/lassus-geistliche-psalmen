@@ -39,11 +39,7 @@ export function getNrFromId(id) {
 }
 
 export function readYaml(file) {
-    try {
-        return yaml.load(readFile(file));
-    } catch {
-        return {};
-    }
+    return yaml.load(readFile(file));
 }
 
 export function readFile(file) {
