@@ -1,5 +1,4 @@
-import { exec } from 'node:child_process';
-
+import { execSync } from 'node:child_process';
 import {
     getDirname,
     getFiles,
@@ -51,20 +50,15 @@ files.forEach((file) => {
         { spine: 3, name: 'tenor' },
         { spine: 5, name: 'cantus' },
     ];
+    const yamlConfig = readYaml(yamlFile);
     voices.forEach(voice => {
-        exec(`extract -f ${voice.spine} ${file} | prange`, (err, stdout, stderr) => {
-            if (err) return console.error(stderr);
-            const yamlConfig = readYaml(yamlFile);
-            yamlConfig.voices = yamlConfig.voices || {};
-            yamlConfig.voices[voice.name] = yamlConfig.voices[voice.name] || {};
-            yamlConfig.voices[voice.name].prange = parsePrange(stdout);
-            writeYaml(yamlFile, yamlConfig);
-        });
+        const stdout = execSync(`extract -f ${voice.spine} ${file} | prange`);
+        console.log(yamlConfig);
+        yamlConfig.voices = yamlConfig.voices || {};
+        yamlConfig.voices[voice.name] = yamlConfig.voices[voice.name] || {};
+        yamlConfig.voices[voice.name].prange = parsePrange(stdout.toString());
     });
-    exec(`prange ${file}`, (err, stdout, stderr) => {
-        if (err) return console.error(stderr);
-        const yamlConfig = readYaml(yamlFile);
-        yamlConfig.prange = parsePrange(stdout);
-        writeYaml(yamlFile, yamlConfig);
-    });
+    const stdout = execSync(`prange ${file}`);
+    yamlConfig.prange = parsePrange(stdout.toString());
+    writeYaml(yamlFile, yamlConfig);
 });
