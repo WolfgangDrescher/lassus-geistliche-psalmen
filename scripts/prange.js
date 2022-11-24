@@ -53,7 +53,6 @@ files.forEach((file) => {
     const yamlConfig = readYaml(yamlFile);
     voices.forEach(voice => {
         const stdout = execSync(`extract -f ${voice.spine} ${file} | prange`);
-        console.log(yamlConfig);
         yamlConfig.voices = yamlConfig.voices || {};
         yamlConfig.voices[voice.name] = yamlConfig.voices[voice.name] || {};
         yamlConfig.voices[voice.name].prange = parsePrange(stdout.toString());
