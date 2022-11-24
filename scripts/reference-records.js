@@ -65,6 +65,15 @@ files.forEach(file => {
 
     // rawFile
     tricinium.rawFile = `https://raw.githubusercontent.com/WolfgangDrescher/lassus-geistliche-psalmen/master/kern/${id}.krn`;
+
+    // sourceFile
+    tricinium.sourceFile = `https://github.com/WolfgangDrescher/lassus-geistliche-psalmen/blob/master/kern/${id}.krn`;
+
+    // ulenbergRawFile
+    tricinium.ulenbergRawFile = `https://raw.githubusercontent.com/WolfgangDrescher/ulenberg-psalmen-davids/master/kern/0${id}.krn`;
+
+    // ulenbergSourceFile
+    tricinium.ulenbergSourceFile = `https://github.com/WolfgangDrescher/ulenberg-psalmen-davids/blob/master/kern/0${id}.krn`;
     
     // YOR (Original document)
     tricinium.originalDocument = referenceRecords['YOR'] || null;
