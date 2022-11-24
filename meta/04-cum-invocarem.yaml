@@ -132,8 +132,11 @@ prange:
             keyno: 79
     tessitura: 27
 rawFile: https://raw.githubusercontent.com/WolfgangDrescher/lassus-geistliche-psalmen/master/kern/04-cum-invocarem.krn
+sourceFile: https://github.com/WolfgangDrescher/lassus-geistliche-psalmen/blob/master/kern/04-cum-invocarem.krn
 title: Cum invocarem
 transposition: cantus_mollis
+ulenbergRawFile: https://raw.githubusercontent.com/WolfgangDrescher/ulenberg-psalmen-davids/master/kern/004-cum-invocarem.krn
+ulenbergSourceFile: https://github.com/WolfgangDrescher/ulenberg-psalmen-davids/blob/master/kern/004-cum-invocarem.krn
 voices:
     bassus:
         clef: C3

@@ -112,8 +112,11 @@ prange:
             keyno: 79
     tessitura: 27
 rawFile: https://raw.githubusercontent.com/WolfgangDrescher/lassus-geistliche-psalmen/master/kern/01-beatus-vir.krn
+sourceFile: https://github.com/WolfgangDrescher/lassus-geistliche-psalmen/blob/master/kern/01-beatus-vir.krn
 title: Beatus vir
 transposition: cantus_durus
+ulenbergRawFile: https://raw.githubusercontent.com/WolfgangDrescher/ulenberg-psalmen-davids/master/kern/001-beatus-vir.krn
+ulenbergSourceFile: https://github.com/WolfgangDrescher/ulenberg-psalmen-davids/blob/master/kern/001-beatus-vir.krn
 voices:
     bassus:
         clef: C3

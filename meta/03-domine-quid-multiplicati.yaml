@@ -144,8 +144,11 @@ prange:
             keyno: 81
     tessitura: 29
 rawFile: https://raw.githubusercontent.com/WolfgangDrescher/lassus-geistliche-psalmen/master/kern/03-domine-quid-multiplicati.krn
+sourceFile: https://github.com/WolfgangDrescher/lassus-geistliche-psalmen/blob/master/kern/03-domine-quid-multiplicati.krn
 title: Domine quid multiplicati
 transposition: cantus_mollis
+ulenbergRawFile: https://raw.githubusercontent.com/WolfgangDrescher/ulenberg-psalmen-davids/master/kern/003-domine-quid-multiplicati.krn
+ulenbergSourceFile: https://github.com/WolfgangDrescher/ulenberg-psalmen-davids/blob/master/kern/003-domine-quid-multiplicati.krn
 voices:
     bassus:
         clef: C3

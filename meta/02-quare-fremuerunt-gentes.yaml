@@ -122,8 +122,11 @@ prange:
             keyno: 77
     tessitura: 26
 rawFile: https://raw.githubusercontent.com/WolfgangDrescher/lassus-geistliche-psalmen/master/kern/02-quare-fremuerunt-gentes.krn
+sourceFile: https://github.com/WolfgangDrescher/lassus-geistliche-psalmen/blob/master/kern/02-quare-fremuerunt-gentes.krn
 title: Quare fremuerunt gentes
 transposition: cantus_durus
+ulenbergRawFile: https://raw.githubusercontent.com/WolfgangDrescher/ulenberg-psalmen-davids/master/kern/002-quare-fremuerunt-gentes.krn
+ulenbergSourceFile: https://github.com/WolfgangDrescher/ulenberg-psalmen-davids/blob/master/kern/002-quare-fremuerunt-gentes.krn
 voices:
     bassus:
         clef: C3
