@@ -88,7 +88,14 @@ export function parseHumdrumReferenceRecords(humdrum) {
     for (let i = 0; i < lines.length; i++) {
         const matches = lines[i].match(/^!!!\s*([^:]+)\s*:\s*(.*)\s*$/);
         if (matches) {
-            output[matches[1]] = matches[2];
+            const existingValue = output[matches[1]];
+            if (Array.isArray(existingValue)) {
+                output[matches[1]].push(matches[2])
+            } else if (!Array.isArray(existingValue) && typeof existingValue !== 'undefined') {
+                output[matches[1]] = [existingValue, matches[2]]
+            } else {
+                output[matches[1]] = matches[2];
+            }
         }
     }
     return output;
