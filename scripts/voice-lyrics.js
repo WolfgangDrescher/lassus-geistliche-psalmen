@@ -20,7 +20,7 @@ files.forEach((file) => {
         voices: {},
     };
     let parts = stdout.toString().split('==');
-    piece.title = parts.shift().split(':')[1].trim();
+    parts.shift();
     parts = parts.map(line => {
         return line.trim();
     });
