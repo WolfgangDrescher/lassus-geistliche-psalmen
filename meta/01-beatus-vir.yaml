@@ -32,6 +32,8 @@ lyrics:
         rhyme: c
         text: da man honschimpflich weiß zu spotten.
 mode: ionian
+originalDocument: https://mdz-nbn-resolving.de/details:bsb00075346
+originalDocumentOwner: München, Bayerische Staatsbibliothek
 prange:
     mean:
         kern: g
@@ -178,6 +180,7 @@ voices:
                     kern: a
                     keyno: 69
             tessitura: 17
+        urlScan: https://www.digitale-sammlungen.de/de/view/bsb00075346?page=127
     cantus:
         clef: G2
         lyrics: |-
@@ -230,6 +233,7 @@ voices:
                     kern: gg
                     keyno: 79
             tessitura: 13
+        urlScan: https://www.digitale-sammlungen.de/de/view/bsb00072990?page=11
     tenor:
         clef: C2
         lyrics: |-
@@ -286,3 +290,4 @@ voices:
                     kern: cc
                     keyno: 72
             tessitura: 13
+        urlScan: https://www.digitale-sammlungen.de/de/view/bsb00075346?page=71

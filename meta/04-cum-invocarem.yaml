@@ -5,7 +5,7 @@ comments:
     - Cadenza doppia
 composer: Rudolphus Lassus
 finalis: g
-incipit: Zu dir rüff ich in böser Zeit
+incipit: Zu dir rüff ich in böser zeit
 lyrics:
     -
         measures: 1-8
@@ -32,6 +32,8 @@ lyrics:
         rhyme: b
         text: auff weiten plan geführet.
 mode: dorian
+originalDocument: https://mdz-nbn-resolving.de/details:bsb00075346
+originalDocumentOwner: München, Bayerische Staatsbibliothek
 prange:
     mean:
         kern: g#
@@ -134,6 +136,7 @@ title: Cum invocarem
 transposition: cantus_mollis
 voices:
     bassus:
+        clef: C3
         lyrics: |-
             Zu dir rüff ich ich in böser zeit/
             O Gott meiner gerechtigkeit/
@@ -198,7 +201,9 @@ voices:
                     kern: a
                     keyno: 69
             tessitura: 17
+        urlScan: https://www.digitale-sammlungen.de/de/view/bsb00075346?page=130
     cantus:
+        clef: G2
         lyrics: |-
             Zu dier rüff ich in böser zeit/
             zu dir rüff ich in böser zeit/
@@ -277,7 +282,9 @@ voices:
                     kern: gg
                     keyno: 79
             tessitura: 18
+        urlScan: https://www.digitale-sammlungen.de/de/view/bsb00075346?page=14
     tenor:
+        clef: C1
         lyrics: |-
             Zu dir rüff ich in böser zeit/
             zu dir rüff ich in böer zeit/
@@ -331,3 +338,4 @@ voices:
                     kern: dd
                     keyno: 74
             tessitura: 13
+        urlScan: https://www.digitale-sammlungen.de/de/view/bsb00075346?page=74

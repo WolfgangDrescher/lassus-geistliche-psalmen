@@ -30,6 +30,8 @@ lyrics:
         rhyme: b
         text: daß ihn doch nit gelingen soll.
 mode: dorian
+originalDocument: https://mdz-nbn-resolving.de/details:bsb00075346
+originalDocumentOwner: München, Bayerische Staatsbibliothek
 prange:
     mean:
         kern: f#
@@ -191,6 +193,7 @@ voices:
                     kern: a
                     keyno: 69
             tessitura: 18
+        urlScan: https://www.digitale-sammlungen.de/de/view/bsb00075346?page=128
     cantus:
         clef: G2
         lyrics: |-
@@ -259,6 +262,7 @@ voices:
                     kern: ff
                     keyno: 77
             tessitura: 14
+        urlScan: https://www.digitale-sammlungen.de/de/view/bsb00075346?page=12
     tenor:
         clef: C2
         lyrics: |-
@@ -318,3 +322,4 @@ voices:
                     kern: cc
                     keyno: 72
             tessitura: 16
+        urlScan: https://www.digitale-sammlungen.de/de/view/bsb00075346?page=72

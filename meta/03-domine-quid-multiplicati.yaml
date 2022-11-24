@@ -40,6 +40,8 @@ lyrics:
         rhyme: d
         text: sich wider mich auffmachen.
 mode: dorian
+originalDocument: https://mdz-nbn-resolving.de/details:bsb00075346
+originalDocumentOwner: München, Bayerische Staatsbibliothek
 prange:
     mean:
         kern: g#
@@ -215,6 +217,7 @@ voices:
                     kern: g
                     keyno: 67
             tessitura: 15
+        urlScan: https://www.digitale-sammlungen.de/de/view/bsb00075346?page=129
     cantus:
         clef: G2
         lyrics: |-
@@ -282,6 +285,7 @@ voices:
                     kern: aa
                     keyno: 81
             tessitura: 17
+        urlScan: https://www.digitale-sammlungen.de/de/view/bsb00075346?page=13
     tenor:
         clef: C1
         lyrics: |-
@@ -341,3 +345,4 @@ voices:
                     kern: dd
                     keyno: 74
             tessitura: 13
+        urlScan: https://www.digitale-sammlungen.de/de/view/bsb00075346?page=73
