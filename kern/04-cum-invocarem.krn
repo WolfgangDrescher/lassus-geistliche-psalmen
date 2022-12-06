@@ -56,6 +56,7 @@
 2B-	bö-	.	.	.	.
 2c	-ser	1cc	ich	1a	bö-
 =7	=7	=7	=7	=7	=7
+!! cadence start
 0d	zeit/	.	.	.	.
 .	.	2b-	in	1g	.
 .	.	2.a	bö-	.	.
@@ -63,6 +64,7 @@
 .	.	4a	-er	.	.
 =8	=8	=8	=8	=8	=8
 1r	.	1g	zeit/	2b-	zeit/
+!! cadence end; ultima=g
 *	*	*	*Xij	*	*Xij
 .	.	.	.	2dd	O
 *	*	*xywh-#74:335,579,2778,434	*	*	*
@@ -73,13 +75,16 @@
 2g	mei-	.	.	2.dd	ge-
 2d	-ner	2r	.	.	.
 .	.	.	.	4cc	.
+!! cadence start
 2g	ge-	2dd	O	2.b-	.
 =10	=10	=10	=10	=10	=10
 2g	-rech-	2dd	Gott	.	.
 .	.	.	.	4g	.
 2f#	-tig-	2dd	mei-	2a	.
 1g	-keit/	2b-	-ner	4dd	-rech-
+!! cadence end; ultima=g
 .	.	.	.	4cc	.
+!! cadence start
 .	.	2dd	ge-	4b-	.
 .	.	.	.	4g	.
 =11	=11	=11	=11	=11	=11
@@ -89,6 +94,7 @@
 .	.	.	.	4a	-tig-
 *	*	*	*	*xywh-#14:313,995,2729,416	*
 2r	.	1b-	-keit/	2dd	keit/
+!! cadence end; ultima=b-
 2B-	du	.	.	2dd	du
 =12	=12	=12	=12	=12	=12
 2c	hast	1r	.	2ee	hast
@@ -102,11 +108,13 @@
 .	.	.	.	4g	.
 2r	.	2cc	auch	4a	.
 .	.	.	.	4f	.
+!! cadence start
 2G	da	2b-	er-	1g	.
 =14	=14	=14	=14	=14	=14
 2c	mich	1a	-hö-	.	.
 2d	das	.	.	2f	-ret/
 1.e-	el-	1g	-ret/	2r	.
+!! cadence end; ultima=g
 .	.	.	.	2g	da
 =15	=15	=15	=15	=15	=15
 *	*	*xywh-#74:323,996,2774,421	*	*	*
@@ -124,6 +132,7 @@
 2F	das	2a	-end	4ff	.
 .	.	.	.	4cc	.
 =17	=17	=17	=17	=17	=17
+!! cadence start
 2c	el-	1g	dren-	2ee	.
 2B-	-lend	.	.	2.dd	-get
 *xywh-#130:313,959,2779,443	*	*	*	*	*
@@ -133,6 +142,7 @@
 2A	-get	.	.	2cc#i	.
 =18	=18	=18	=18	=18	=18
 2a	sehr/	2d	sehr/	2ff	sehr/
+!! cadence end; ultima=d
 1d	has-	2a	has-	1f	has-
 .	.	2b-	-tu	.	.
 2e	-tu	2cc	mich	2g	-tu
@@ -140,6 +150,7 @@
 2f	mich	2dd	auß	2a	mich
 2g	auß	2dd	den	4b-	auß
 .	.	.	.	4b-	den
+!! cadence start
 2a	den	2cc	eng-	2f	eng-
 1g	eng-	2b-	-sten	2g	-sten
 =20	=20	=20	=20	=20	=20
@@ -147,6 +158,7 @@
 2f#	-sten	.	.	2.dd	auff
 *	*	*xywh-#74:321,1407,2759,438	*	*	*
 1g	schwer/	2r	.	.	.
+!! cadence end; ultima=g
 .	.	.	.	4cc	.
 .	.	2dd	auff	2b-	.
 =21	=21	=21	=21	=21	=21
@@ -154,6 +166,7 @@
 .	.	2dd	-ten	2b-	-ten
 *	*	*	*	*xywh-#14:301,1786,2729,491	*
 .	.	2cc	plan	2a	plan
+ !! cadence start
 .	.	2b-	ge-	4g	.
 .	.	.	.	2gg	ge-
 =22	=22	=22	=22	=22	=22
@@ -162,6 +175,7 @@
 .	.	.	.	8ee	.
 .	.	.	.	2ff#i	.
 .	.	2g	-ret	2gg	-ret/
+!! cadence end; ultima=g
 .	.	2b-	auff	2dd	auff
 =23	=23	=23	=23	=23	=23
 2r	.	2g	wei-	2b-	wei-
@@ -171,6 +185,7 @@
 2d	-ten	4a	-ten	2ff	-ten
 .	.	2a	plan	.	.
 =24	=24	=24	=24	=24	=24
+!! cadence start
 2c	plan	.	.	2ee	plan
 .	.	4g	ge-	.	.
 2B-	ge-	2.g	-füh-	2dd	ge-
@@ -180,6 +195,7 @@
 .	.	2f#i	.	.	.
 =25	=25	=25	=25	=25	=25
 0Gll	-ret.	0gll	ret.	0bll	ret.
+!! cadence end; ultima=g
 ==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-
 !!!RDF**kern: l = terminal long
@@ -197,5 +213,5 @@
 !!!EED: Wolfgang Drescher
 !!!END: 2022/11/22
 !!!ENC: Wolfgang Drescher
-!!!EEV: 2022/11/22
+!!!EEV: 2022/12/06
 !!!title: @{ONM}. @{OTL} / <i>@{OTL-incipit@@DE}</i>

@@ -27,6 +27,7 @@
 2e	prei-	.	.	2cc	-sen
 2f	-sen	.	.	2a	ist
 =3	=3	=3	=3	=3	=3
+!! cadence start
 1e	ist	0r	.	2g	der
 .	.	.	.	2a	.
 1d	der	.	.	4b	.
@@ -36,6 +37,7 @@
 .	.	.	.	4b	.
 =4	=4	=4	=4	=4	=4
 1c	mann/	1g	Se-	2ee	mann/
+!! cadence end; ultima=c
 *	*	*	*	*	*ij
 .	.	.	.	2ee	se-
 2r	.	2g	-lig	2dd	-lig
@@ -46,6 +48,7 @@
 *	*	*	*	*xywh-#11:117,579,2766,432	*
 .	.	1e	ist	2cc	ist
 4B	.	.	.	.	.
+!! cadence start
 2c	.	.	.	4g	der
 .	.	.	.	4a	.
 =6	=6	=6	=6	=6	=6
@@ -53,6 +56,7 @@
 .	.	.	.	4cc	.
 .	.	.	.	2b	.
 2r	.	1c	mann/	2cc	mann/
+!! cadence end; ultima=c
 *	*	*	*	*	*Xij
 2e	der	.	.	2g	der
 =7	=7	=7	=7	=7	=7
@@ -75,9 +79,11 @@
 2G	und	2g	gott-	2b	gott-
 =10	=10	=10	=10	=10	=10
 *	*	*xywh-#71:102,593,2695,438	*	*	*
+!! cadence start
 2A	wan-	1f	-lo-	2cc	-lo-
 2B	-delt	.	.	2dd	sen/
 1.c	nicht	1e	-sen/	2r	.
+!! cadence end; ultima=c
 .	.	.	.	2g	und
 =11	=11	=11	=11	=11	=11
 *	*	*	*	*xywh-#11:117,988,2760,429	*
@@ -108,11 +114,13 @@
 2e	.	1b	nicht	2gg	auff
 2g	der	.	.	1dd	der
 2f	sün-	2a	auf	.	.
+!! cadence start
 2e	-der	2g	der	2cc	sün-
 =16	=16	=16	=16	=16	=16
 1d	ban/	2g	sün-	2b	-der
 .	.	2f#	-der	2a	ban/
 2r	.	1g	ban/	2r	.
+!! cadence end; ultima=g
 2B	noch	.	.	2dd	noch
 =17	=17	=17	=17	=17	=17
 *	*	*xywh-#71:108,1003,2678,435	*	*	*
@@ -131,10 +139,12 @@
 .	.	2e	-sen	2gg	.
 4c	-tig	.	.	.	.
 =19	=19	=19	=19	=19	=19
+!! cadence start
 2A	bö-	1f	rot-	2cc	-tig
 2B	-sen	.	.	2dd	bö-
 *xywh-#127:119,1357,2739,474	*	*	*	*	*
 2c	rot-	0e	-ten/	4.g	-sen
+!! cadence end; ultima=c
 .	.	.	.	16a	.
 .	.	.	.	16b	.
 2A	-ten/	.	.	2cc	.
@@ -178,13 +188,16 @@
 .	.	2e	-lich	4cc	.
 .	.	.	.	4b	.
 =26	=26	=26	=26	=26	=26
+!! cadence start a
 1r	.	2f	weiß	4a	.
 .	.	.	.	4b	.
 .	.	2e	zu	1cc	.
 1G	zu	1d	spot-	.	.
 .	.	.	.	2b	zu
 =27	=27	=27	=27	=27	=27
+!! cadence start b
 2.A	spot-	2c	ten/	2.cc	spot-
+!! cadence end a; ultima=c
 *	*	*	*Xij	*	*
 .	.	2e	zu	.	.
 4G	.	.	.	4b	.
@@ -193,6 +206,7 @@
 .	.	2f	.	.	.
 =28	=28	=28	=28	=28	=28
 0cll	ten.	0ell	ten.	0gll	ten.
+!! cadence end b; ultima=c
 ==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-
 !!!RDF**kern: l = terminal long
@@ -211,5 +225,5 @@
 !!!EED: Wolfgang Drescher
 !!!END: 2022/02/17
 !!!ENC: Wolfgang Drescher
-!!!EEV: 2022/03/09
+!!!EEV: 2022/12/06
 !!!title: @{ONM}. @{OTL} / <i>@{OTL-incipit@@DE}</i>

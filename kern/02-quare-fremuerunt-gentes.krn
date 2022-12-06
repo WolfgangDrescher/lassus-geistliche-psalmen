@@ -91,6 +91,7 @@
 .	.	2d	sind	2a	.
 =12	=12	=12	=12	=12	=12
 *	*	*	*	*xywh-#12:265,974,2768,430	*
+!! cadence start
 2c	-sti-	2e	un-	2g	-sti-
 2F	-mes	2f	-ge-	2a	-mes
 2c	gri-	2e	-sti-	2g	grim-
@@ -98,6 +99,7 @@
 =13	=13	=13	=13	=13	=13
 *	*	*xywh-#72:329,998,2751,437	*	*	*
 1A	vol/	1c	gri-	2e	vol/
+!! cadence end; ultima=a
 *	*	*	*	*	*ij
 .	.	.	.	2ee	sint
 2r	.	1B	-m̃en	2dd	un-
@@ -147,6 +149,7 @@
 *xywh-#128:288,1371,2735,451	*	*	*	*	*
 4G	list	2d	list	2b	list
 4G	er-	.	.	.	.
+!! cadence start
 2A	-den-	2c	er-	4e	er-
 .	.	.	.	2a	-den-
 =21	=21	=21	=21	=21	=21
@@ -156,6 +159,7 @@
 .	.	.	.	2g#i	.
 *	*	*xywh-#72:319,1426,2770,424	*	*	*
 2r	.	1A	-cken/	2cc	-cken/
+!! cadence end; ultima=a
 2F	daß	.	.	2a	d[a]ß
 =22	=22	=22	=22	=22	=22
 2A	ihn	1r	.	2cc	ihn
@@ -171,6 +175,7 @@
 2B-	doch	2d	doch	2dd	ge-
 2A	nit	2e	nit	2cc	-lin-
 *	*Xij	*	*	*	*
+!! cadence start
 2a	ge-	2d	ge-	2.ff	.
 =24	=24	=24	=24	=24	=24
 1d	lin-	1f	-lin-	.	.
@@ -182,6 +187,7 @@
 .	.	.	.	2cc#i	-gen
 =25	=25	=25	=25	=25	=25
 0dll	sol.	0dll	sol.	0ddll	soll.
+!! cadence end; ultima=d
 ==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-
 !!!RDF**kern: l = terminal long
@@ -198,5 +204,5 @@
 !!!EED: Wolfgang Drescher
 !!!END: 2022/02/28
 !!!ENC: Wolfgang Drescher
-!!!EEV: 2022/03/13
+!!!EEV: 2022/12/06
 !!!title: @{ONM}. @{OTL} / <i>@{OTL-incipit@@DE}</i>
