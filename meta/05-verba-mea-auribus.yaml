@@ -1,3 +1,316 @@
-title: Verba mea auribus
-incipit: Vernimb Herr meine Wort
+cantusFirmus: tenor
 composer: Orlandus Lassus
+finalis: g
+incipit: Vernimb Herr meine Wort
+mode: dorian
+originalDocument: https://mdz-nbn-resolving.de/details:bsb00075346
+originalDocumentOwner: München, Bayerische Staatsbibliothek
+prange:
+    mean:
+        kern: g
+        keyno: 67.4208
+    median:
+        kern: g
+        keyno: 67
+    noteCount:
+        -
+            count: 1
+            kern: F
+            keyno: 53
+        -
+            count: 5
+            kern: G
+            keyno: 55
+        -
+            count: 4
+            kern: A
+            keyno: 57
+        -
+            count: 8
+            kern: B-
+            keyno: 58
+        -
+            count: 1
+            kern: B
+            keyno: 59
+        -
+            count: 7
+            kern: c
+            keyno: 60
+        -
+            count: 21
+            kern: d
+            keyno: 62
+        -
+            count: 11
+            kern: e-
+            keyno: 63
+        -
+            count: 6
+            kern: e
+            keyno: 64
+        -
+            count: 13
+            kern: f
+            keyno: 65
+        -
+            count: 13
+            kern: f#
+            keyno: 66
+        -
+            count: 36
+            kern: g
+            keyno: 67
+        -
+            count: 33
+            kern: a
+            keyno: 69
+        -
+            count: 27
+            kern: b-
+            keyno: 70
+        -
+            count: 1
+            kern: b
+            keyno: 71
+        -
+            count: 13
+            kern: cc
+            keyno: 72
+        -
+            count: 1
+            kern: cc#
+            keyno: 73
+        -
+            count: 19
+            kern: dd
+            keyno: 74
+        -
+            count: 3
+            kern: ee-
+            keyno: 75
+        -
+            count: 5
+            kern: ee
+            keyno: 76
+        -
+            count: 9
+            kern: ff
+            keyno: 77
+        -
+            count: 3
+            kern: gg
+            keyno: 79
+    tessitura: 27
+rawFile: https://raw.githubusercontent.com/WolfgangDrescher/lassus-geistliche-psalmen/master/kern/05-verba-mea-auribus.krn
+sourceFile: https://github.com/WolfgangDrescher/lassus-geistliche-psalmen/blob/master/kern/05-verba-mea-auribus.krn
+title: Verba mea auribus
+transposition: cantus_mollis
+ulenbergRawFile: https://raw.githubusercontent.com/WolfgangDrescher/ulenberg-psalmen-davids/master/kern/005-verba-mea-auribus.krn
+ulenbergSourceFile: https://github.com/WolfgangDrescher/ulenberg-psalmen-davids/blob/master/kern/005-verba-mea-auribus.krn
+voices:
+    bassus:
+        clef: C3
+        lyrics: |-
+            Vernimb Herr meine wort/
+            und laß sie zu dir kommen ein/
+            merck an du trewer hort/
+            die wolbedachten reden mein/
+            hab acht mein höchste zier/
+            auff mein geschrey/
+            in dieser not bitt ich mit gantzer gir mit gantzer gir/
+            mein König from mein Herr uñ Gott. mein könig from mein Herr uñ Gott.
+        prange:
+            mean:
+                kern: d
+                keyno: 61.5417
+            median:
+                kern: d
+                keyno: 62
+            noteCount:
+                -
+                    count: 1
+                    kern: F
+                    keyno: 53
+                -
+                    count: 5
+                    kern: G
+                    keyno: 55
+                -
+                    count: 4
+                    kern: A
+                    keyno: 57
+                -
+                    count: 8
+                    kern: B-
+                    keyno: 58
+                -
+                    count: 1
+                    kern: B
+                    keyno: 59
+                -
+                    count: 7
+                    kern: c
+                    keyno: 60
+                -
+                    count: 18
+                    kern: d
+                    keyno: 62
+                -
+                    count: 11
+                    kern: e-
+                    keyno: 63
+                -
+                    count: 2
+                    kern: e
+                    keyno: 64
+                -
+                    count: 7
+                    kern: f
+                    keyno: 65
+                -
+                    count: 1
+                    kern: f#
+                    keyno: 66
+                -
+                    count: 5
+                    kern: g
+                    keyno: 67
+                -
+                    count: 1
+                    kern: a
+                    keyno: 69
+                -
+                    count: 1
+                    kern: b-
+                    keyno: 70
+            tessitura: 18
+        urlScan: https://www.digitale-sammlungen.de/de/view/bsb00075346?page=131
+    cantus:
+        clef: G2
+        lyrics: |-
+            Vernimb Herr meine wort/
+            und laß sie zu dir kummen ein/
+            Merck an du trewer hort/
+            die wohl -bedachte die wohlbedachte reden mein/
+            hab acht mein höchste zier/
+            auff mein geschrey in dieser not bitt ich mit gantzer gir/
+            mit gantzer gir/
+            mein König from̃/
+            mein Herr uñ Gott. mein König from mein Herr und Gott.
+        prange:
+            mean:
+                kern: cc
+                keyno: 71.9783
+            median:
+                kern: cc
+                keyno: 72
+            noteCount:
+                -
+                    count: 2
+                    kern: f
+                    keyno: 65
+                -
+                    count: 8
+                    kern: g
+                    keyno: 67
+                -
+                    count: 17
+                    kern: a
+                    keyno: 69
+                -
+                    count: 14
+                    kern: b-
+                    keyno: 70
+                -
+                    count: 1
+                    kern: b
+                    keyno: 71
+                -
+                    count: 11
+                    kern: cc
+                    keyno: 72
+                -
+                    count: 1
+                    kern: cc#
+                    keyno: 73
+                -
+                    count: 18
+                    kern: dd
+                    keyno: 74
+                -
+                    count: 3
+                    kern: ee-
+                    keyno: 75
+                -
+                    count: 5
+                    kern: ee
+                    keyno: 76
+                -
+                    count: 9
+                    kern: ff
+                    keyno: 77
+                -
+                    count: 3
+                    kern: gg
+                    keyno: 79
+            tessitura: 15
+        urlScan: https://www.digitale-sammlungen.de/de/view/bsb00075346?page=15
+    tenor:
+        clef: C1
+        lyrics: |-
+            Vernim̃ Herr meine wort/
+            und laß sie zu dir kommen ein/
+            Merck an du trewer hort/
+            die wolbedachten reden mein/
+            Hab acht mein höchste zier/
+            auff mein geschrey in dieser not/
+            Bit ich mit gantzer gir/
+            Mein König from/
+            mein Herr und Gott. mein König from mein Herr und Gott.
+        prange:
+            mean:
+                kern: g
+                keyno: 67.4737
+            median:
+                kern: g
+                keyno: 67
+            noteCount:
+                -
+                    count: 3
+                    kern: d
+                    keyno: 62
+                -
+                    count: 4
+                    kern: e
+                    keyno: 64
+                -
+                    count: 4
+                    kern: f
+                    keyno: 65
+                -
+                    count: 12
+                    kern: f#
+                    keyno: 66
+                -
+                    count: 23
+                    kern: g
+                    keyno: 67
+                -
+                    count: 15
+                    kern: a
+                    keyno: 69
+                -
+                    count: 12
+                    kern: b-
+                    keyno: 70
+                -
+                    count: 2
+                    kern: cc
+                    keyno: 72
+                -
+                    count: 1
+                    kern: dd
+                    keyno: 74
+            tessitura: 13
+        urlScan: https://www.digitale-sammlungen.de/de/view/bsb00075346?page=75
