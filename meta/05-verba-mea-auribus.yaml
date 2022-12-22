@@ -2,6 +2,39 @@ cantusFirmus: tenor
 composer: Orlandus Lassus
 finalis: g
 incipit: Vernimb Herr meine Wort
+lyrics:
+    -
+        measures: 1-20
+        rhyme: a
+        text: Vernimb Herr meine wort/
+    -
+        measures: 2-5
+        rhyme: b
+        text: und laß sie zu dir kommen ein/
+    -
+        measures: 5-7
+        rhyme: a
+        text: merck an du trewer hort/
+    -
+        measures: 7-10
+        rhyme: b
+        text: die wolbedachten reden mein/
+    -
+        measures: 10-12
+        rhyme: c
+        text: hab acht mein höchste zier/
+    -
+        measures: 12-15
+        rhyme: d
+        text: auff mein geschrey in dieser not/
+    -
+        measures: 15-17
+        rhyme: c
+        text: bitt ich mit gantzer gir/
+    -
+        measures: 17-23
+        rhyme: d
+        text: mein König from mein Herr und Gott.
 mode: dorian
 originalDocument: https://mdz-nbn-resolving.de/details:bsb00075346
 originalDocumentOwner: München, Bayerische Staatsbibliothek
