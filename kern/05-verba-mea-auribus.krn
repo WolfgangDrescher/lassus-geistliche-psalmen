@@ -23,9 +23,11 @@
 2G	-nimb	2b-	-nim̃	2dd	-nimb
 2A	Herr	2a	Herr	2cc#	Herr
 =2	=2	=2	=2	=2	=2
+!! cadence start
 2B	mei-	2g	mei-	2dd	mei-
 2c	-ne	2g	-ne	2ee	-ne
 2d	wort/	1f#	wort/	1a	wort/
+!! cadence end; ultima=d
 2d	und	.	.	.	.
 =3	=3	=3	=3	=3	=3
 1e	laß	1g	und	2r	.
@@ -43,6 +45,7 @@
 .	.	.	.	16a	.
 .	.	.	.	16g	.
 *	*	*	*	*xywh-#15:118,601,2818,405	*
+!! cadence start
 1d	-men	2f#	kom-	2a	.
 .	.	2.g	-men	2b-	kum-
 =5	=5	=5	=5	=5	=5
@@ -52,6 +55,7 @@
 .	.	2f#i	.	.	.
 *	*	*xywh-#75:107,602,2726,427	*	*	*
 2r	.	1g	ein/	4.g	ein/
+!! cadence end; ultima=g
 .	.	.	.	8a	.
 1G	merck	.	.	4.b-	.
 .	.	.	.	8cc	.
@@ -64,9 +68,11 @@
 2f	du	2a	du	.	.
 .	.	.	.	4a	du
 =7	=7	=7	=7	=7	=7
+!! cadence start
 2e-	trew-	2g	trew-	2b-	trew-
 2c	-er	2g	-er	2cc	-er
 1d	hort/	1f#	hort/	2a	hort/
+!! cadence end; ultima=d
 .	.	.	.	1dd	die
 =8	=8	=8	=8	=8	=8
 2r	.	1g	die	.	.
@@ -80,6 +86,7 @@
 .	.	.	.	4a	die
 2e-	-ten	2g	-ten	4b-	wol-
 .	.	.	.	4cc	-be-
+!! cadence start
 2d	re-	2f#	re-	4a	-dach-
 .	.	.	.	4dd	-te
 *	*	*	*	*xywh-#15:118,998,2763,424	*
@@ -94,6 +101,7 @@
 .	.	8e	.	.	.
 .	.	2f#i	.	2a	-den
 2r	.	1g	mein/	2g	mein/
+!! cadence end; ultima=g
 2e-	hab	.	.	2gg	hab
 =11	=11	=11	=11	=11	=11
 *	*	*xywh-#75:98,1007,2749,439	*	*	*
@@ -158,6 +166,7 @@
 2d	from	2a	from/	2ff	from̃/
 2g	mein	2b-	mein	1dd	mein
 =19	=19	=19	=19	=19	=19
+!! cadence start
 2f#	Herr	2a	Herr	.	.
 2g	uñ	2.g	und	2b-	Herr
 1d	Gott.	.	.	1a	uñ
@@ -166,6 +175,7 @@
 .	.	2f#i	.	.	.
 =20	=20	=20	=20	=20	=20
 2r	.	1g	Gott.	2g	Gott.
+!! cadence end; ultima=g
 *	*ij	*	*	*	*ij
 2G	mein	.	.	2b-	mein
 *	*	*	*	*xywh-#15:118,1824,2727,534	*
@@ -183,6 +193,7 @@
 .	.	2b-	mein	.	.
 =22	=22	=22	=22	=22	=22
 *	*	*xywh-#75:94,1828,2751,535	*	*	*
+!! cadence start
 0d	uñ	2a	Herr	.	.
 .	.	2g.	und	2b-	Herr
 .	.	.	.	1a	und
@@ -191,6 +202,7 @@
 .	.	2f#	.	.	.
 =23	=23	=23	=23	=23	=23
 0Gll	Gott.	0gl	Gott.	0bl	Gott.
+!! cadence end; ultima=g
 *	*Xij	*	*Xij	*	*Xij
 ==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-
