@@ -1,3 +1,290 @@
-title: Domine ne in furore
-incipit: Straff mich Herr nit
+cantusFirmus: null
 composer: Rudolphus Lassus
+finalis: e
+incipit: Straff mich Herr nit im eiffermut
+mode: phrygian
+originalDocument: https://mdz-nbn-resolving.de/details:bsb00075346
+originalDocumentOwner: München, Bayerische Staatsbibliothek
+prange:
+    mean:
+        kern: c#
+        keyno: 61.25
+    median:
+        kern: c#
+        keyno: 61
+    noteCount:
+        -
+            count: 2
+            kern: C
+            keyno: 48
+        -
+            count: 3
+            kern: D
+            keyno: 50
+        -
+            count: 8
+            kern: E
+            keyno: 52
+        -
+            count: 4
+            kern: F
+            keyno: 53
+        -
+            count: 17
+            kern: G
+            keyno: 55
+        -
+            count: 2
+            kern: G#
+            keyno: 56
+        -
+            count: 28
+            kern: A
+            keyno: 57
+        -
+            count: 1
+            kern: B-
+            keyno: 58
+        -
+            count: 23
+            kern: B
+            keyno: 59
+        -
+            count: 31
+            kern: c
+            keyno: 60
+        -
+            count: 5
+            kern: c#
+            keyno: 61
+        -
+            count: 30
+            kern: d
+            keyno: 62
+        -
+            count: 30
+            kern: e
+            keyno: 64
+        -
+            count: 17
+            kern: f
+            keyno: 65
+        -
+            count: 2
+            kern: f#
+            keyno: 66
+        -
+            count: 14
+            kern: g
+            keyno: 67
+        -
+            count: 1
+            kern: g#
+            keyno: 68
+        -
+            count: 13
+            kern: a
+            keyno: 69
+        -
+            count: 8
+            kern: b
+            keyno: 71
+        -
+            count: 5
+            kern: cc
+            keyno: 72
+    tessitura: 25
+rawFile: https://raw.githubusercontent.com/WolfgangDrescher/lassus-geistliche-psalmen/master/kern/06-domine-ne-in-furore.krn
+sourceFile: https://github.com/WolfgangDrescher/lassus-geistliche-psalmen/blob/master/kern/06-domine-ne-in-furore.krn
+title: Domine ne in furore
+transposition: cantus_durus
+ulenbergRawFile: https://raw.githubusercontent.com/WolfgangDrescher/ulenberg-psalmen-davids/master/kern/006-domine-ne-in-furore.krn
+ulenbergSourceFile: https://github.com/WolfgangDrescher/ulenberg-psalmen-davids/blob/master/kern/006-domine-ne-in-furore.krn
+voices:
+    bassus:
+        clef: C4
+        lyrics: |-
+            Straff mich Herr nicht im eiffermut/
+            wañ dein zorn graussam brennen thut/
+            züchtig mich nicht im grimmen dein/
+            nach viel gethaner sünden mein/
+            erbarm dich mein du frommer Gott/
+            in diesen engsten meiner not/
+            in diesen engsen in diesen engsten meiner not.
+        prange:
+            mean:
+                kern: A
+                keyno: 56.5921
+            median:
+                kern: A
+                keyno: 57
+            noteCount:
+                -
+                    count: 2
+                    kern: C
+                    keyno: 48
+                -
+                    count: 3
+                    kern: D
+                    keyno: 50
+                -
+                    count: 8
+                    kern: E
+                    keyno: 52
+                -
+                    count: 4
+                    kern: F
+                    keyno: 53
+                -
+                    count: 13
+                    kern: G
+                    keyno: 55
+                -
+                    count: 2
+                    kern: G#
+                    keyno: 56
+                -
+                    count: 18
+                    kern: A
+                    keyno: 57
+                -
+                    count: 1
+                    kern: B-
+                    keyno: 58
+                -
+                    count: 8
+                    kern: B
+                    keyno: 59
+                -
+                    count: 7
+                    kern: c
+                    keyno: 60
+                -
+                    count: 1
+                    kern: c#
+                    keyno: 61
+                -
+                    count: 7
+                    kern: d
+                    keyno: 62
+                -
+                    count: 1
+                    kern: e
+                    keyno: 64
+                -
+                    count: 1
+                    kern: f
+                    keyno: 65
+            tessitura: 18
+        urlScan: https://www.digitale-sammlungen.de/de/view/bsb00075346?page=132
+    cantus:
+        clef: C1
+        lyrics: |-
+            Straff mich Herr nit im eiffermut/
+            Wenn dein zorn graussam brennen thut/
+            züchtig mich nit im grimmen dein/
+            Nach vil gethaner sünden mein/
+            erbarm dich mein du from̃er Gott/
+            in diesen engsten meiner not. in diesen engsten meiner not.
+        prange:
+            mean:
+                kern: g
+                keyno: 67.4821
+            median:
+                kern: g
+                keyno: 67
+            noteCount:
+                -
+                    count: 1
+                    kern: c
+                    keyno: 60
+                -
+                    count: 2
+                    kern: d
+                    keyno: 62
+                -
+                    count: 10
+                    kern: e
+                    keyno: 64
+                -
+                    count: 5
+                    kern: f
+                    keyno: 65
+                -
+                    count: 11
+                    kern: g
+                    keyno: 67
+                -
+                    count: 1
+                    kern: g#
+                    keyno: 68
+                -
+                    count: 13
+                    kern: a
+                    keyno: 69
+                -
+                    count: 8
+                    kern: b
+                    keyno: 71
+                -
+                    count: 5
+                    kern: cc
+                    keyno: 72
+            tessitura: 13
+        urlScan: https://www.digitale-sammlungen.de/de/view/bsb00075346?page=16
+    tenor:
+        clef: C3
+        lyrics: |-
+            Straff mich Herr nit im eifermut wenn mein zorn grausam brennen thut/
+            Zichtig mich nicht im grimmen dein/
+            Nach viel gethaner sünden mein erbarm dich mein du frommer Gott in diesen engsten meiner not in diesen engsten meiner not.
+        prange:
+            mean:
+                kern: c#
+                keyno: 61.2946
+            median:
+                kern: d
+                keyno: 62
+            noteCount:
+                -
+                    count: 4
+                    kern: G
+                    keyno: 55
+                -
+                    count: 10
+                    kern: A
+                    keyno: 57
+                -
+                    count: 15
+                    kern: B
+                    keyno: 59
+                -
+                    count: 23
+                    kern: c
+                    keyno: 60
+                -
+                    count: 4
+                    kern: c#
+                    keyno: 61
+                -
+                    count: 21
+                    kern: d
+                    keyno: 62
+                -
+                    count: 19
+                    kern: e
+                    keyno: 64
+                -
+                    count: 11
+                    kern: f
+                    keyno: 65
+                -
+                    count: 2
+                    kern: f#
+                    keyno: 66
+                -
+                    count: 3
+                    kern: g
+                    keyno: 67
+            tessitura: 13
+        urlScan: https://www.digitale-sammlungen.de/de/view/bsb00075346?page=76
