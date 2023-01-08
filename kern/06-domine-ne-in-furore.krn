@@ -45,6 +45,7 @@
 .	.	4B	.	.	.
 .	.	2.c	.	2e	Herr
 =5	=5	=5	=5	=5	=5
+!! cadence start
 0r	.	.	.	2g	nit
 .	.	4B	.	.	.
 *	*	*xywh-#76:346,581,2716,414	*	*	*
@@ -53,6 +54,7 @@
 .	.	2d	-fer-	2f	-ffer-
 =6	=6	=6	=6	=6	=6
 2r	.	2.g	-mut	1e	-mut/
+!! cadence end; ultima=e
 2E	wañ	.	.	.	.
 .	.	4f	.	.	.
 2A	dein	2e	.	2r	.
@@ -68,6 +70,7 @@
 2D	-ssam	2d	.	2f	-ssam
 =8	=8	=8	=8	=8	=8
 *	*	*	*	*xywh-#16:298,590,2708,417	*
+!! cadence start
 2A	bren-	2c#	grau-	2e	bren-
 2B-	-nen	4d	-sam	2d	-nen
 .	.	2d	bren-	.	.
@@ -78,6 +81,7 @@
 .	.	4d	.	.	.
 =9	=9	=9	=9	=9	=9
 0r	.	2e	.	1g	züch-
+!! cadence end; ultima=d
 .	.	2c	-nen	.	.
 .	.	2.f	thut/	2a	-tig
 .	.	.	.	2a	mich
@@ -105,6 +109,8 @@
 2c	.	.	.	2g	Nach
 =13	=13	=13	=13	=13	=13
 1A	-men	1c	Nach	2a	vil
+!! cadence end; ultima=d
+!! cadence start a
 .	.	.	.	2cc	ge-
 2G	dein/	2d	viel	2b	-tha-
 2c	nach	2e	ge-	2a	-ner
@@ -113,7 +119,9 @@
 2d	viel	2f	-tha-	2a	sün-
 2e	ge-	2e	-ner	2g#	-den
 *	*	*	*	*xywh-#16:298,1017,2699,399	*
+!! cadence start b
 2f	-tha-	4d	sün-	1a	mein/
+!! cadence end a; ultima=a
 .	.	4e	.	.	.
 2d	-ner	4f	.	.	.
 .	.	4d	.	.	.
@@ -122,6 +130,7 @@
 2c#	-den	2e	-den	.	.
 *	*	*xywh-#76:339,1404,2725,428	*	*	*
 1d	mein/	2f	mein	1a	er-
+!! cadence end b; ultima=d
 .	.	2f	er-	.	.
 =16	=16	=16	=16	=16	=16
 2r	.	2e	-barm	2g	-barm
@@ -129,6 +138,7 @@
 2D	-barm	2d	mein	2f	mein
 2E	dich	2B	du	2g	du
 =17	=17	=17	=17	=17	=17
+!! cadence start
 2C	mein	4c	from-	1e	fro-
 .	.	4G	.	.	.
 2C	du	1c	.	.	.
@@ -137,6 +147,7 @@
 4G	-mer	.	.	.	.
 =18	=18	=18	=18	=18	=18
 1A	Gott/	2c	Gott	1c	Gott/
+!! cadence end; ultima=c
 .	.	2c	in	.	.
 2r	.	2d	die-	1r	.
 2G	in	2e	-sen	.	.
@@ -150,11 +161,13 @@
 *xywh-#132:318,1383,2725,459	*	*	*	*	*
 2A	.	4c	.	2a	die-
 .	.	4A	.	.	.
+!! cadence start
 2G#	-sten	1e	.	2b	-sen
 2A	mei-	.	.	2cc	eng-
 2d	-ner	2f#	-ner	2a	-sten
 =21	=21	=21	=21	=21	=21
 1G	not/	2g	not	2.b	mei-
+!! cadence end; ultima=g
 *	*	*	*ij	*	*
 .	.	1d	in	.	.
 .	.	.	.	4b	-ner
@@ -178,13 +191,16 @@
 .	.	4c	.	2a	-sten
 .	.	4d	.	.	.
 =24	=24	=24	=24	=24	=24
+!! cadence start c;
 2r	.	4e	.	1g	mei-
 .	.	4B	.	.	.
 2G	in	1e	.	.	.
 2A	die-	.	.	1f	-ner
 2B	-sen	2d	.	.	.
 =25	=25	=25	=25	=25	=25
+!! cadence start d
 2c	eng-	3.e	-sten	00ell	not.
+!! cadence end c; ultima=e
 *	*	*	*Xij	*	*Xij
 2A	-sten	6d	.	.	.
 .	.	3c	.	.	.
@@ -192,6 +208,7 @@
 2A	-ner	2c	-ner	.	.
 =26	=26	=26	=26	=26	=26
 0Ell	not.	0Bll	not.	.	.
+!! cadence end d; ultima=e
 ==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-
 !!!RDF**kern: l = terminal long
