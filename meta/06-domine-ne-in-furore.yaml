@@ -2,6 +2,31 @@ cantusFirmus: null
 composer: Rudolphus Lassus
 finalis: e
 incipit: Straff mich Herr nit im eiffermut
+lyrics:
+    -
+        measures: 1-6
+        rhyme: a
+        text: Straff mich Herr nicht im eiffermut/
+    -
+        measures: 6-9
+        rhyme: a
+        text: wenn dein zorn graussam brennen thut/
+    -
+        measures: 7-13
+        rhyme: b
+        text: züchtig mich nicht im grimmen dein/
+    -
+        measures: 12-15
+        rhyme: b
+        text: nach viel gethaner sünden mein/
+    -
+        measures: 15-18
+        rhyme: c
+        text: erbarm dich mein du frommer Gott/
+    -
+        measures: 18-26
+        rhyme: c
+        text: in diesen engsten meiner not.
 mode: phrygian
 originalDocument: https://mdz-nbn-resolving.de/details:bsb00075346
 originalDocumentOwner: München, Bayerische Staatsbibliothek
