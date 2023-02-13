@@ -1,3 +1,314 @@
-title: Domine Deus meus
+cantusFirmus: null
+composer: Rudolphus Lassus
+finalis: e
 incipit: Auff dich mein lieber Herr und Gott
-composer: Orlandus Lassus
+mode: phrygian
+originalDocument: https://mdz-nbn-resolving.de/details:bsb00075346
+originalDocumentOwner: München, Bayerische Staatsbibliothek
+prange:
+    mean:
+        kern: d
+        keyno: 61.8432
+    median:
+        kern: d
+        keyno: 62
+    noteCount:
+        -
+            count: 4
+            kern: C
+            keyno: 48
+        -
+            count: 6
+            kern: D
+            keyno: 50
+        -
+            count: 12
+            kern: E
+            keyno: 52
+        -
+            count: 5
+            kern: F
+            keyno: 53
+        -
+            count: 1
+            kern: F#
+            keyno: 54
+        -
+            count: 17
+            kern: G
+            keyno: 55
+        -
+            count: 28
+            kern: A
+            keyno: 57
+        -
+            count: 4
+            kern: B-
+            keyno: 58
+        -
+            count: 24
+            kern: B
+            keyno: 59
+        -
+            count: 25
+            kern: c
+            keyno: 60
+        -
+            count: 5
+            kern: c#
+            keyno: 61
+        -
+            count: 31
+            kern: d
+            keyno: 62
+        -
+            count: 30
+            kern: e
+            keyno: 64
+        -
+            count: 12
+            kern: f
+            keyno: 65
+        -
+            count: 8
+            kern: f#
+            keyno: 66
+        -
+            count: 22
+            kern: g
+            keyno: 67
+        -
+            count: 6
+            kern: g#
+            keyno: 68
+        -
+            count: 25
+            kern: a
+            keyno: 69
+        -
+            count: 13
+            kern: b
+            keyno: 71
+        -
+            count: 8
+            kern: cc
+            keyno: 72
+        -
+            count: 1
+            kern: dd
+            keyno: 74
+    tessitura: 27
+rawFile: https://raw.githubusercontent.com/WolfgangDrescher/lassus-geistliche-psalmen/master/kern/07-domine-deus-meus.krn
+sourceFile: https://github.com/WolfgangDrescher/lassus-geistliche-psalmen/blob/master/kern/07-domine-deus-meus.krn
+title: Domine Deus meus
+transposition: cantus_durus
+ulenbergRawFile: https://raw.githubusercontent.com/WolfgangDrescher/ulenberg-psalmen-davids/master/kern/007-domine-deus-meus.krn
+ulenbergSourceFile: https://github.com/WolfgangDrescher/ulenberg-psalmen-davids/blob/master/kern/007-domine-deus-meus.krn
+voices:
+    bassus:
+        clef: C4
+        lyrics: |-
+            Auff dich mein lieber Herr und Gott/
+            steht mein vertrawen steht mein vertrawen in der not/
+            hilff mir von aller widerpart/
+            von den die mich verfolgen hart/
+            errette mich auß feindes handen/
+            das er nicht nach daß er nicht nach der lewen weiß/
+            mein seel erhasch und gar zerreiß/
+            weñ kein nothelffer wer, wenn kein nothelffer wer verhanden.
+        prange:
+            mean:
+                kern: G#
+                keyno: 55.8214
+            median:
+                kern: G
+                keyno: 55
+            noteCount:
+                -
+                    count: 4
+                    kern: C
+                    keyno: 48
+                -
+                    count: 6
+                    kern: D
+                    keyno: 50
+                -
+                    count: 12
+                    kern: E
+                    keyno: 52
+                -
+                    count: 5
+                    kern: F
+                    keyno: 53
+                -
+                    count: 1
+                    kern: F#
+                    keyno: 54
+                -
+                    count: 14
+                    kern: G
+                    keyno: 55
+                -
+                    count: 17
+                    kern: A
+                    keyno: 57
+                -
+                    count: 3
+                    kern: B-
+                    keyno: 58
+                -
+                    count: 6
+                    kern: B
+                    keyno: 59
+                -
+                    count: 6
+                    kern: c
+                    keyno: 60
+                -
+                    count: 2
+                    kern: c#
+                    keyno: 61
+                -
+                    count: 4
+                    kern: d
+                    keyno: 62
+                -
+                    count: 3
+                    kern: e
+                    keyno: 64
+                -
+                    count: 1
+                    kern: f
+                    keyno: 65
+            tessitura: 18
+        urlScan: https://www.digitale-sammlungen.de/de/view/bsb00075346?page=133
+    cantus:
+        clef: C1
+        lyrics: |-
+            Auff dich mein lieber Herr und Gott/
+            steht mein vertrawen in der not/
+            hilff mir von aller widerpart/
+            von den die mich verfolgen hart/
+            Errette mich auß feindes handen/
+            Daß er nicht nach der lewen weiß/
+            mein seel erhasch und gar zereiß/
+            weñ kein nothelffer wer verhanden/
+            wenn kein nothelffer wer verhanden.
+        prange:
+            mean:
+                kern: g#
+                keyno: 67.6354
+            median:
+                kern: g#
+                keyno: 68
+            noteCount:
+                -
+                    count: 1
+                    kern: c#
+                    keyno: 61
+                -
+                    count: 8
+                    kern: d
+                    keyno: 62
+                -
+                    count: 11
+                    kern: e
+                    keyno: 64
+                -
+                    count: 6
+                    kern: f
+                    keyno: 65
+                -
+                    count: 3
+                    kern: f#
+                    keyno: 66
+                -
+                    count: 14
+                    kern: g
+                    keyno: 67
+                -
+                    count: 6
+                    kern: g#
+                    keyno: 68
+                -
+                    count: 25
+                    kern: a
+                    keyno: 69
+                -
+                    count: 13
+                    kern: b
+                    keyno: 71
+                -
+                    count: 8
+                    kern: cc
+                    keyno: 72
+                -
+                    count: 1
+                    kern: dd
+                    keyno: 74
+            tessitura: 14
+        urlScan: https://www.digitale-sammlungen.de/de/view/bsb00075346?page=17
+    tenor:
+        clef: C3
+        lyrics: |-
+            Auff dich mein lieber Herr uñ Gott/
+            Steht mein vertrawen in der not/
+            Hilff mir võ aller widerpart/
+            von den die mich verfolgen hart/
+            errette mich auß feindes handen/
+            Das er nit nach das er nit nach der lewen weis Mein seel erhasch und gar zerreiß/
+            weñ kein nothelffer wer verhanden. wenn kein nothelffer wer verhanden.
+        prange:
+            mean:
+                kern: c#
+                keyno: 61.3738
+            median:
+                kern: c#
+                keyno: 61
+            noteCount:
+                -
+                    count: 3
+                    kern: G
+                    keyno: 55
+                -
+                    count: 11
+                    kern: A
+                    keyno: 57
+                -
+                    count: 1
+                    kern: B-
+                    keyno: 58
+                -
+                    count: 18
+                    kern: B
+                    keyno: 59
+                -
+                    count: 19
+                    kern: c
+                    keyno: 60
+                -
+                    count: 2
+                    kern: c#
+                    keyno: 61
+                -
+                    count: 19
+                    kern: d
+                    keyno: 62
+                -
+                    count: 16
+                    kern: e
+                    keyno: 64
+                -
+                    count: 5
+                    kern: f
+                    keyno: 65
+                -
+                    count: 5
+                    kern: f#
+                    keyno: 66
+                -
+                    count: 8
+                    kern: g
+                    keyno: 67
+            tessitura: 13
+        urlScan: https://www.digitale-sammlungen.de/de/view/bsb00075346?page=77
