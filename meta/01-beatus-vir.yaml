@@ -1,4 +1,5 @@
-cantusFirmus: tenor
+cantusFirmus:
+    - tenor
 comments:
     - Textwiederholung im cantus firmus
     - Anhang mit plagaler Kadenz und Teil-Textwiederholung

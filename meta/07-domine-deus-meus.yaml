@@ -1,4 +1,6 @@
-cantusFirmus: null
+cantusFirmus:
+    - cantus
+    - bassus
 comments:
     - Wandernder cantus firmus
     - Anfang quasi dorisch
@@ -151,7 +153,7 @@ voices:
             hilff mir von aller widerpart/
             von den die mich verfolgen hart/
             errette mich auß feindes handen/
-            das er nicht nach daß er nicht nach der lewen weiß/
+            das er nicht nach das er nicht nach der lewen weiß/
             mein seel erhasch und gar zerreiß/
             weñ kein nothelffer wer, wenn kein nothelffer wer verhanden.
         prange:

@@ -1,4 +1,5 @@
-cantusFirmus: tenor
+cantusFirmus:
+    - tenor
 comments:
     - Textwiederholung im cantus firmus
     - Cadenza doppia

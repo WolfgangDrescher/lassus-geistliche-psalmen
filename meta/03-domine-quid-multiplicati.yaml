@@ -1,4 +1,5 @@
-cantusFirmus: tenor
+cantusFirmus:
+    - tenor
 comments:
     - Anhang mit Textwiederholung im cantus firmus
     - Text «Viel sind der bösen leut» fehlt im Cantus

@@ -1,4 +1,5 @@
-cantusFirmus: cantus
+cantusFirmus:
+    - cantus
 comments:
     - Plagale Schlusskadenz
     - Anfang quasi æolisch
