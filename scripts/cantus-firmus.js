@@ -41,13 +41,8 @@ files.forEach(file => {
         }
     });
 
-    let cantusFirmus = null;
-    if (cantusFirmusInVoices.length === 1) {
-        cantusFirmus = cantusFirmusInVoices[0];
-    }
-
     const metaConfig = {
-        cantusFirmus,
+        cantusFirmus: cantusFirmusInVoices,
     };
     
     const currentMetaConfig = readYaml(metaFile);
