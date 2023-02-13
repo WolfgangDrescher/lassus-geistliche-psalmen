@@ -2,6 +2,39 @@ cantusFirmus: null
 composer: Rudolphus Lassus
 finalis: e
 incipit: Auff dich mein lieber Herr und Gott
+lyrics:
+    -
+        measures: 1-5
+        rhyme: a
+        text: Auff dich mein lieber Herr und Gott/
+    -
+        measures: 5-9
+        rhyme: a
+        text: steht mein vertrawen in der not/
+    -
+        measures: 9-12
+        rhyme: b
+        text: hilff mir von aller widerpart/
+    -
+        measures: 12-14
+        rhyme: b
+        text: von den die mich verfolgen hart/
+    -
+        measures: 14-18
+        rhyme: c
+        text: errette mich auß feindes handen/
+    -
+        measures: 18-21
+        rhyme: d
+        text: das er nicht nach der lewen weiß/
+    -
+        measures: 21-24
+        rhyme: d
+        text: mein seel erhasch und gar zerreiß/
+    -
+        measures: 24-30
+        rhyme: c
+        text: wenn kein nothelffer wer verhanden
 mode: phrygian
 originalDocument: https://mdz-nbn-resolving.de/details:bsb00075346
 originalDocumentOwner: München, Bayerische Staatsbibliothek
