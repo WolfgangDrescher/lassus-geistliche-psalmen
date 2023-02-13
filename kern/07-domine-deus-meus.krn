@@ -16,6 +16,7 @@
 *met(C|)	*	*met(C|)	*	*met(C|)	*
 *MM180	*	*MM180	*	*MM180	*
 =1	=1	=1	=1	=1	=1
+*xywh-#133:149,22,2759,554	*	*xywh-#77:137,80,2710,533	*	*xywh-#17:120,93,2742,501	*
 0r	.	1d	Auff	1r	.
 .	.	2d	dich	2r	.
 .	.	2d	mein	2a	Auff
@@ -50,10 +51,12 @@
 .	.	.	.	8g#i	.
 .	.	.	.	8f#i	.
 .	.	.	.	2g#i	.
+*	*	*	*	*xywh-#17:104,592,2759,408	*
 2r	.	1A	Gott/	0a	Gott/
 !! cadence end; ultima=a
 2e	steht	.	.	.	.
 =6	=6	=6	=6	=6	=6
+*	*	*xywh-#77:128,581,2729,450	*	*	*
 2f	mein	2r	.	.	.
 2e	ver-	2A	Steht	.	.
 2d	-traw-	2B-	mein	2r	.
@@ -63,6 +66,7 @@
 2r	.	2d	-traw-	2f	mein
 *	*ij	*	*	*	*
 2A	steht	2c#	-en	2e	ver-
+*xywh-#133:139,532,2774,487	*	*	*	*	*
 2B-	mein	2r	.	2d	-traw-
 2A	ver-	2e	in	2c#	-en
 =8	=8	=8	=8	=8	=8
@@ -101,9 +105,11 @@
 2G	-part/	2g	-part/	1b	part/
 !! cadence end; ultima=g
 2B	von	2d	von	.	.
+*	*	*xywh-#77:123,994,2735,445	*	*	*
 2A	den	2c	den	2r	.
 2G	die	2d	die	2b	von
 =13	=13	=13	=13	=13	=13
+*xywh-#133:129,965,2759,464	*	*	*	*xywh-#17:95,985,2761,422	*
 2.c	mich	2.e	mich	2a	den
 .	.	.	.	2g	die
 4B	ver-	4d	ver-	.	.
@@ -143,12 +149,14 @@
 .	.	.	.	8f#i	.
 .	.	.	.	2g#i	.
 =18	=18	=18	=18	=18	=18
+*	*	*	*	*xywh-#17:90,1394,2748,430	*
 2r	.	1A	-den/	1a	-den/
 !! cadence end; ultima=a
 2c	das	.	.	.	.
 2B	er	2r	.	1r	.
 2A	nicht	2f	Das	.	.
 =19	=19	=19	=19	=19	=19
+*	*	*xywh-#77:121,1408,2712,441	*	*	*
 1G	nach	2e	er	1r	.
 .	.	2d	nit	.	.
 !	!	!	!	!LO:TX:a:i:t=c.f.	!
@@ -158,6 +166,7 @@
 *	*	*	*ij	*	*
 .	.	4G	das	.	.
 =20	=20	=20	=20	=20	=20
+*xywh-#133:121,1355,2769,482	*	*	*	*	*
 2D	er	2A	er	2f	er
 2C	nicht	2c	nit	2e	nicht
 2G	nach	2.B	nach	2d	nach
@@ -196,6 +205,7 @@
 .	.	8A	.	.	.
 .	.	2B	.	2d	ze-
 =24	=24	=24	=24	=24	=24
+*	*	*xywh-#77:116,1817,2708,501	*	*xywh-#17:87,1819,2756,545	*
 1C	-reiß/	2c	-reiß/	1.e	-reiß/
 !! cadence end; ultima=c
 .	.	2G	weñ	.	.
@@ -210,6 +220,7 @@
 2c#	-ffer	2e	wer	2.a	-hel-
 2d	wer,	2f#	ver-	.	.
 .	.	.	.	4a	-ffer
+*xywh-#133:116,1795,2759,457	*	*	*	*	*
 2r	.	1g	-han-	2b	wer
 !LO:TX:a:i:t=c.f.	!	!	!	!	!
 2G	wenn	.	.	2b	ver-
