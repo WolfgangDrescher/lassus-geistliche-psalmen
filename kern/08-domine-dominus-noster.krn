@@ -1,0 +1,199 @@
+!!!COM: Lassus, Rudolphus
+!!!CDT: 1563-1625
+!!!OPR: Geistliche Psalmen mit dreyen Stimmen
+!!!ONM: 8
+!!!OTL@@LA: Domine Dominus noster
+!!!OTL-incipit@@DE: Herr unser Herr allmechtig
+**kern	**text	**kern	**text	**kern	**text
+*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*Ivox	*	*Ivox	*	*Ivox	*
+*I"Bassus	*	*I"Tenor	*	*I"Cantus	*
+*I'B	*	*I'T	*	*I'C	*
+*clefC4	*	*clefC2	*	*clefC1	*
+*k[]	*	*k[]	*	*k[]	*
+*d:dor	*	*d:dor	*	*d:dor	*
+*M2/1	*	*M2/1	*	*M2/1	*
+*met(C|)	*	*met(C|)	*	*met(C|)	*
+*MM180	*	*MM180	*	*MM180	*
+=1	=1	=1	=1	=1	=1
+0r	.	2r	.	1dd	Herr
+.	.	2d	Herr	.	.
+.	.	4d	un-	2dd	un-
+.	.	4e	.	.	.
+.	.	4f	.	2dd	-ser
+.	.	4g	.	.	.
+=2	=2	=2	=2	=2	=2
+1r	.	4a	.	2cc	Herr
+.	.	4e	.	.	.
+.	.	2g	.	2b	all-
+2r	.	1f	-ser	1a	-mech-
+2D	Herr	.	.	.	.
+=3	=3	=3	=3	=3	=3
+4D	un-	2.f	Herr	1a	-tich/
+4E	.	.	.	.	.
+4F	.	.	.	.	.
+4G	.	8e	.	.	.
+.	.	8d	.	.	.
+4A	.	4c	.	2r	.
+4D	.	4A	.	.	.
+*	*	*	*	*	*ij
+1d	.	2.f	.	2a	Herr
+=4	=4	=4	=4	=4	=4
+.	.	.	.	2.a	un-
+.	.	4d	.	.	.
+2c#	-ser	2e	.	.	.
+.	.	.	.	4a	-ser
+2d	Herr	2f	all-	2a	Herr
+2A	all-	2.e	-mech-	2a	all-
+=5	=5	=5	=5	=5	=5
+1B-	-mech-	.	.	4g	-mech-
+.	.	4d	.	4f	.
+.	.	2.d	.	4f	.
+.	.	.	.	8e	.
+.	.	.	.	8d	.
+1A	-tig/	.	.	1e	.
+.	.	8c#i	.	.	.
+.	.	8B	.	.	.
+.	.	2c#i	.	.	.
+=6	=6	=6	=6	=6	=6
+2r	.	0d	-tig/	2d	-tich/
+*	*	*	*	*	*Xij
+2D	wie	.	.	2f	wie
+2F	herr-	.	.	2a	herr-
+2G	-lich	.	.	2b	-lich
+=7	=7	=7	=7	=7	=7
+2A	ist	2r	.	1cc	ist
+*	*ij	*	*	*	*
+2F	wie	2A	Wie	.	.
+2A	herr-	2c	herr-	2r	.
+*	*	*	*	*	*ij
+2B	-lich	2d	-lich	2g	wie
+=8	=8	=8	=8	=8	=8
+2c	ist	2e	ist	2g	herr-
+*	*Xij	*	*	*	*
+2F	der	2f	der	2a	-lich
+1G	na-	4e	na-	2.g	ist
+.	.	4d	.	.	.
+.	.	1d	.	.	.
+*	*	*	*	*	*Xij
+.	.	.	.	4g	der
+=9	=9	=9	=9	=9	=9
+1A	-men	.	.	2.e	na-
+.	.	2c#i	-me	.	.
+.	.	.	.	4e	-me
+2D	dein/	1f	dein/	2d	dein/
+2d	durch-	.	.	4r	.
+.	.	.	.	4d	durch-
+=10	=10	 =10	=10	=10	=10
+2c#	-auß	2r	.	2e	-auß
+2d	in	4r	.	2f	in
+.	.	4d	durch-	.	.
+2A	al-	2c#	-auß	2e	al-
+4D	-ler	2d	in	2f	-ler
+*	*ij	*	*	*	*
+4d	durch-	.	.	.	.
+=11	=11	=11	=11	=11	=11
+2c#	-aus	2A	al-	2e	welt
+2d	in	2f	-ler	4r	.
+*	*	*	*	*	*ij
+.	.	.	.	4dd	durch-
+2A	al-	2e	welt	2cc#	-auß
+2D	-ler	2f	in	2dd	in
+*	*Xij	*	*	*	*
+=12	=12	=12	=12	=12	=12
+2d	welt	2.f	al-	2a	al-
+2B-	ge-	.	.	2d	-ler
+.	.	4d	-ler	.	.
+0A	-main/	2c#	welt	2e	welt
+*	*	*	*	*	*Xij
+.	.	2.d	ge-	2f	ge-
+=13	=13	=13	=13	=13	=13
+.	.	.	.	1e	-mein/
+.	.	8c#i	.	.	.
+.	.	8B	.	.	.
+.	.	2c#i	.	.	.
+1D	dein	2d	-main/	2r	.
+.	.	1f	dein	1a	dein
+=14	=14	=14	=14	=14	=14
+2.F	may-	.	.	.	.
+.	.	1a	may-	1cc	mei-
+4G	.	.	.	.	.
+2.A	.	.	.	.	.
+.	.	1e	-stat	2cc	-stat
+4B	.	.	.	.	.
+=15	=15	=15	=15	=15	=15
+2c	.	.	.	2cc	e-
+2F	-stat	2f	e-	2a	-ren-
+2c	eh-	2e	-ren-	2.g	-brech-
+2C	-ren-	2.e	-brech-	.	.
+.	.	.	.	8f	.
+.	.	.	.	8e	.
+=16	=16	=16	=16	=16	=16
+1D	-prech-	.	.	2.f	.
+.	.	4d	.	.	.
+.	.	2.d	.	.	.
+.	.	.	.	8e	.
+.	.	.	.	8d	.
+2A	-tig/	.	.	1e	.
+.	.	8c#i	.	.	.
+.	.	8B	.	.	.
+4r	.	2c#i	.	.	.
+4A	ist	.	.	.	.
+=17	=17	=17	=17	=17	=17
+2B-	zwar	2d	-tig/	2d	-tig
+2A	von	2c	Ist	4r	.
+.	.	.	.	4a	ist
+2G	dir	2.d	zwar	2b-	zwar
+2F#	er-	.	.	2a	von
+.	.	4d	von	.	.
+=18	=18	=18	=18	=18	=18
+2G	-ho-	2B	dir	2g	dir
+2D	-ben	2A	er-	2f#	er-
+1G	fein/	2B	-ha-	1g	-ha-
+.	.	2.d	-ben	.	.
+=19	=19	=19	=19	=19	=19
+1A	.	.	.	1e	-ben
+.	.	8c#i	.	.	.
+.	.	8B	.	.	.
+.	.	2c#i	.	.	.
+2r	.	2f	fein/	1d	fein/
+2d	hö-	2f	hö-	.	.
+=20	=20	=20	=20	=20	=20
+2c	-her	2e	-her	1r	.
+2A	denn	2c	denn	.	.
+2F	al-	2c	al-	2r	.
+2G	-le	2B	-le	2dd	hö-
+=21	=21	=21	=21	=21	=21
+2.A	Him-	4r	.	2cc	-her
+.	.	4e	hö-	.	.
+.	.	2c	-her	2a	den
+4A	-mel	.	.	.	.
+2D	sein/	2A	denn	2f	al-
+2C	denn	2e	al-	2g	-le
+=22	=22	=22	=22	=22	=22
+2.D	al-	2A	-le	1f	Hi-
+.	.	1d	Him-	.	.
+4D	-le	.	.	.	.
+2A	Him-	.	.	1e	-mel
+2A	-mel	2c#	-mel	.	.
+=23	=23	=23	=23	=23	=23
+0Dll	sein.	0dll	sein.	0f#ll	sein.
+==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-
+!!!RDF**kern: l = terminal long
+!!!RDF**kern: i = editorial accidental
+!!!AGN: Psalm; Tricinium
+!!!LIB: Ulenberg, Caspar
+!!!LIB-CDT: 1548/12/24-1617/02/16
+!!!YOR: https://mdz-nbn-resolving.de/details:bsb00075346
+!!!YOR-alternative: https://mdz-nbn-resolving.de/details:bsb00072990
+!!!YOO: München, Bayerische Staatsbibliothek
+!!!URL-scan: https://www.digitale-sammlungen.de/de/view/bsb00075346?page=18 Cantus
+!!!URL-scan: https://www.digitale-sammlungen.de/de/view/bsb00075346?page=78 Tenor
+!!!URL-scan: https://www.digitale-sammlungen.de/de/view/bsb00075346?page=134 Bassus
+!!!IIIF: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00075346/manifest
+!!!EED: Wolfgang Drescher
+!!!END: 2023/01/14
+!!!ENC: Wolfgang Drescher
+!!!EEV: 2023/02/15
+!!!title: @{ONM}. @{OTL} / <i>@{OTL-incipit@@DE}</i>
