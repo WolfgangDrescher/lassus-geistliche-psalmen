@@ -9,27 +9,27 @@ finalis: d
 incipit: Herr unser Herr allmechtig
 lyrics:
     -
-        measures:
+        measures: 1-6
         rhyme: a
         text: Herr unser Herr allmechtig/
     -
-        measures:
+        measures: 6-9
         rhyme: b
         text: wie herrlich ist der name dein/
     -
-        measures:
+        measures: 9-13
         rhyme: b
         text: durchauß in aller welt gemain/
     -
-        measures:
+        measures: 13-17
         rhyme: a
         text: dein maystat ehrenprechtig/
     -
-        measures:
+        measures: 16-19
         rhyme: b
         text: ist zwar von dir erhaben fein/
     -
-        measures:
+        measures: 19-23
         rhyme: b
         text: höher denn alle Himmel sein.
 mode: dorian
