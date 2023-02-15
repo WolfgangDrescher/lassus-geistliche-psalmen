@@ -6,6 +6,31 @@ comments:
 composer: Rudolphus Lassus
 finalis: d
 incipit: Herr unser Herr allmechtig
+lyrics:
+    -
+        measures:
+        rhyme: a
+        text: Herr unser Herr allmechtig/
+    -
+        measures:
+        rhyme: b
+        text: wie herrlich ist der name dein/
+    -
+        measures:
+        rhyme: b
+        text: durchauß in aller welt gemain/
+    -
+        measures:
+        rhyme: a
+        text: dein maystat ehrenprechtig/
+    -
+        measures:
+        rhyme: b
+        text: ist zwar von dir erhaben fein/
+    -
+        measures:
+        rhyme: b
+        text: höher denn alle Himmel sein.
 mode: dorian
 originalDocument: https://mdz-nbn-resolving.de/details:bsb00075346
 originalDocumentOwner: München, Bayerische Staatsbibliothek
