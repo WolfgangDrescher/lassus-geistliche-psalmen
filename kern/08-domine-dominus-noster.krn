@@ -46,6 +46,7 @@
 .	.	.	.	4a	-ser
 *	*	*xywh-#78:304,545,2747,420	*	*	*
 2d	Herr	2f	all-	2a	Herr
+!! cadence start
 2A	all-	2.e	-mech-	2a	all-
 =5	=5	=5	=5	=5	=5
 1B-	-mech-	.	.	4g	-mech-
@@ -60,6 +61,7 @@
 .	.	2c#i	.	.	.
 =6	=6	=6	=6	=6	=6
 2r	.	0d	-tig/	2d	-tich/
+!! cadence end; ultima=d
 *	*	*	*	*	*Xij
 2D	wie	.	.	2f	wie
 *xywh-#134:289,551,2750,469	*	*	*	*	*
@@ -76,6 +78,7 @@
 2c	ist	2e	ist	2g	herr-
 *	*Xij	*	*	*	*
 2F	der	2f	der	2a	-lich
+!! cadence start
 1G	na-	4e	na-	2.g	ist
 .	.	4d	.	.	.
 .	.	1d	.	.	.
@@ -86,6 +89,7 @@
 .	.	2c#i	-me	.	.
 .	.	.	.	4e	-me
 2D	dein/	1f	dein/	2d	dein/
+!! cadence end; ultima=d
 2d	durch-	.	.	4r	.
 .	.	.	.	4d	durch-
 =10	=10	=10	=10	=10	=10
@@ -107,6 +111,7 @@
 *	*Xij	*	*	*	*
 =12	=12	=12	=12	=12	=12
 *xywh-#134:289,961,2735,466	*	*	*	*xywh-#18:287,986,2709,404	*
+!! cadence start
 2d	welt	2.f	al-	2a	al-
 2B-	ge-	.	.	2d	-ler
 .	.	4d	-ler	.	.
@@ -119,6 +124,7 @@
 .	.	8B	.	.	.
 .	.	2c#i	.	.	.
 1D	dein	2d	-main/	2r	.
+!! cadence end; ultima=d
 .	.	1f	dein	1a	dein
 =14	=14	=14	=14	=14	=14
 2.F	may-	.	.	.	.
@@ -131,6 +137,7 @@
 2c	.	.	.	2cc	e-
 2F	-stat	2f	e-	2a	-ren-
 *	*	*xywh-#78:292,1372,2724,420	*	*	*
+!! cadence start
 2c	eh-	2e	-ren-	2.g	-brech-
 2C	-ren-	2.e	-brech-	.	.
 .	.	.	.	8f	.
@@ -148,6 +155,7 @@
 4A	ist	.	.	.	.
 =17	=17	=17	=17	=17	=17
 2B-	zwar	2d	-tig/	2d	-tig
+!! cadence end; ultima=d
 2A	von	2c	Ist	4r	.
 .	.	.	.	4a	ist
 2G	dir	2.d	zwar	2b-	zwar
@@ -158,6 +166,7 @@
 2G	-ho-	2B	dir	2g	dir
 2D	-ben	2A	er-	2f#	er-
 *xywh-#134:289,1366,2729,492	*	*	*	*	*
+!! cadence start
 1G	fein/	2B	-ha-	1g	-ha-
 .	.	2.d	-ben	.	.
 =19	=19	=19	=19	=19	=19
@@ -166,6 +175,7 @@
 .	.	8B	.	.	.
 .	.	2c#i	.	.	.
 2r	.	2f	fein/	1d	fein/
+!! cadence end; ultima=d
 2d	hö-	2f	hö-	.	.
 =20	=20	=20	=20	=20	=20
 *	*	*xywh-#78:292,1787,2738,447	*	*	*
@@ -181,6 +191,7 @@
 2D	sein/	2A	denn	2f	al-
 2C	denn	2e	al-	2g	-le
 =22	=22	=22	=22	=22	=22
+!! cadence start
 2.D	al-	2A	-le	1f	Hi-
 .	.	1d	Him-	.	.
 4D	-le	.	.	.	.
@@ -188,6 +199,7 @@
 2A	-mel	2c#	-mel	.	.
 =23	=23	=23	=23	=23	=23
 0Dll	sein.	0dll	sein.	0f#ll	sein.
+!! cadence end; ultima=d
 ==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-
 !!!RDF**kern: l = terminal long
