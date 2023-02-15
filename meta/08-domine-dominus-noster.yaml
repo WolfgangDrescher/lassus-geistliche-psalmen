@@ -1,3 +1,297 @@
-title: Domine Dominus noster
-incipit: Herr unser Herr allmechtich
+cantusFirmus: []
 composer: Rudolphus Lassus
+finalis: d
+incipit: Herr unser Herr allmechtig
+mode: dorian
+originalDocument: https://mdz-nbn-resolving.de/details:bsb00075346
+originalDocumentOwner: München, Bayerische Staatsbibliothek
+prange:
+    mean:
+        kern: d
+        keyno: 61.7716
+    median:
+        kern: d
+        keyno: 62
+    noteCount:
+        -
+            count: 2
+            kern: C
+            keyno: 48
+        -
+            count: 14
+            kern: D
+            keyno: 50
+        -
+            count: 1
+            kern: E
+            keyno: 52
+        -
+            count: 7
+            kern: F
+            keyno: 53
+        -
+            count: 1
+            kern: F#
+            keyno: 54
+        -
+            count: 8
+            kern: G
+            keyno: 55
+        -
+            count: 25
+            kern: A
+            keyno: 57
+        -
+            count: 3
+            kern: B-
+            keyno: 58
+        -
+            count: 9
+            kern: B
+            keyno: 59
+        -
+            count: 10
+            kern: c
+            keyno: 60
+        -
+            count: 15
+            kern: c#
+            keyno: 61
+        -
+            count: 39
+            kern: d
+            keyno: 62
+        -
+            count: 28
+            kern: e
+            keyno: 64
+        -
+            count: 24
+            kern: f
+            keyno: 65
+        -
+            count: 2
+            kern: f#
+            keyno: 66
+        -
+            count: 11
+            kern: g
+            keyno: 67
+        -
+            count: 17
+            kern: a
+            keyno: 69
+        -
+            count: 1
+            kern: b-
+            keyno: 70
+        -
+            count: 2
+            kern: b
+            keyno: 71
+        -
+            count: 6
+            kern: cc
+            keyno: 72
+        -
+            count: 1
+            kern: cc#
+            keyno: 73
+        -
+            count: 6
+            kern: dd
+            keyno: 74
+    tessitura: 27
+rawFile: https://raw.githubusercontent.com/WolfgangDrescher/lassus-geistliche-psalmen/master/kern/08-domine-dominus-noster.krn
+sourceFile: https://github.com/WolfgangDrescher/lassus-geistliche-psalmen/blob/master/kern/08-domine-dominus-noster.krn
+title: Domine Dominus noster
+transposition: cantus_durus
+ulenbergRawFile: https://raw.githubusercontent.com/WolfgangDrescher/ulenberg-psalmen-davids/master/kern/008-domine-dominus-noster.krn
+ulenbergSourceFile: https://github.com/WolfgangDrescher/ulenberg-psalmen-davids/blob/master/kern/008-domine-dominus-noster.krn
+voices:
+    bassus:
+        clef: C4
+        lyrics: |-
+            Herr unser Herr allmechtig/
+            wie herrlich ist wie herrlich ist der namen dein/
+            durchauß in aller durchaus in aller welt gemain/
+            dein maystat ehrenprechtig/
+            ist zwar von dir erhoben fein/
+            höher denn alle Himmel sein/
+            denn alle Himmel sein.
+        prange:
+            mean:
+                kern: G#
+                keyno: 55.6528
+            median:
+                kern: A
+                keyno: 57
+            noteCount:
+                -
+                    count: 2
+                    kern: C
+                    keyno: 48
+                -
+                    count: 14
+                    kern: D
+                    keyno: 50
+                -
+                    count: 1
+                    kern: E
+                    keyno: 52
+                -
+                    count: 7
+                    kern: F
+                    keyno: 53
+                -
+                    count: 1
+                    kern: F#
+                    keyno: 54
+                -
+                    count: 8
+                    kern: G
+                    keyno: 55
+                -
+                    count: 19
+                    kern: A
+                    keyno: 57
+                -
+                    count: 3
+                    kern: B-
+                    keyno: 58
+                -
+                    count: 2
+                    kern: B
+                    keyno: 59
+                -
+                    count: 4
+                    kern: c
+                    keyno: 60
+                -
+                    count: 3
+                    kern: c#
+                    keyno: 61
+                -
+                    count: 8
+                    kern: d
+                    keyno: 62
+            tessitura: 15
+        urlScan: https://www.digitale-sammlungen.de/de/view/bsb00075346?page=134
+    cantus:
+        clef: C1
+        lyrics: |-
+            Herr unser Herr allmechtich/
+            Herr unser Herr allmechtich/
+            wie herrlich ist wie herrlich ist der name dein/
+            durchauß in aller welt durchauß in aller welt gemein/
+            dein meistat erenbrechtig ist zwar von dir erhaben fein/
+            höher den alle Himel sein.
+        prange:
+            mean:
+                kern: g
+                keyno: 67.2027
+            median:
+                kern: g
+                keyno: 67
+            noteCount:
+                -
+                    count: 8
+                    kern: d
+                    keyno: 62
+                -
+                    count: 14
+                    kern: e
+                    keyno: 64
+                -
+                    count: 10
+                    kern: f
+                    keyno: 65
+                -
+                    count: 2
+                    kern: f#
+                    keyno: 66
+                -
+                    count: 9
+                    kern: g
+                    keyno: 67
+                -
+                    count: 15
+                    kern: a
+                    keyno: 69
+                -
+                    count: 1
+                    kern: b-
+                    keyno: 70
+                -
+                    count: 2
+                    kern: b
+                    keyno: 71
+                -
+                    count: 6
+                    kern: cc
+                    keyno: 72
+                -
+                    count: 1
+                    kern: cc#
+                    keyno: 73
+                -
+                    count: 6
+                    kern: dd
+                    keyno: 74
+            tessitura: 13
+        urlScan: https://www.digitale-sammlungen.de/de/view/bsb00075346?page=18
+    tenor:
+        clef: C2
+        lyrics: |-
+            Herr unser Herr allmechtig/
+            Wie herrlich ist der name dein/
+            durchauß in aller welt in aller welt gemain/
+            dein maystat erenbrechtig/
+            Ist zwar von dir erhaben fein/
+            höher denn alle höher denn alle Himmel sein.
+        prange:
+            mean:
+                kern: d
+                keyno: 62.2209
+            median:
+                kern: d
+                keyno: 62
+            noteCount:
+                -
+                    count: 6
+                    kern: A
+                    keyno: 57
+                -
+                    count: 7
+                    kern: B
+                    keyno: 59
+                -
+                    count: 6
+                    kern: c
+                    keyno: 60
+                -
+                    count: 12
+                    kern: c#
+                    keyno: 61
+                -
+                    count: 23
+                    kern: d
+                    keyno: 62
+                -
+                    count: 14
+                    kern: e
+                    keyno: 64
+                -
+                    count: 14
+                    kern: f
+                    keyno: 65
+                -
+                    count: 2
+                    kern: g
+                    keyno: 67
+                -
+                    count: 2
+                    kern: a
+                    keyno: 69
+            tessitura: 13
+        urlScan: https://www.digitale-sammlungen.de/de/view/bsb00075346?page=78
