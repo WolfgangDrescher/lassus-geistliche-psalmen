@@ -3,6 +3,47 @@ cantusFirmus:
 composer: Orlandus Lassus
 finalis: d
 incipit: Ich wil auß gantzem hertzen mein
+lyrics:
+    -
+        measures: 1-5
+        rhyme: a
+        text: Ich wil auß gantzem hertzen mein/
+    -
+        measures: 5-8
+        rhyme: b
+        text: dir Herr preiß ehr bereitten/
+    -
+        measures: 8-12
+        rhyme: a
+        text: wil alle wunderwercke dein/
+    -
+        measures: 11-14
+        rhyme: b
+        text: mit hohem fleiß verbreitten/
+    -
+        measures: 14-17
+        rhyme: c
+        text: in dir wil ich einbrünstiglich/
+    -
+        measures: 17-19
+        rhyme: c
+        text: o höchster Gott erfrewen mich/
+    -
+        measures: 19-22
+        rhyme: d
+        text: und singen deinem namen/
+    -
+        measures: 22-24
+        rhyme: e
+        text: wenn du verjagt hast meine feind/
+    -
+        measures: 24-27
+        rhyme: e
+        text: daß sie für dir gefallen seind/
+    -
+        measures: 27-30
+        rhyme: d
+        text: und umbracht all zusamen.
 mode: dorian
 originalDocument: https://mdz-nbn-resolving.de/details:bsb00075346
 originalDocumentOwner: München, Bayerische Staatsbibliothek
