@@ -40,6 +40,7 @@
 .	.	4e	.	.	.
 2d	-tzen	2f#	.	4a	-tzen
 .	.	.	.	4b	.
+!! cadence start
 0e	mein/	2g	her-	1cc	.
 .	.	2.a	-tzen	.	.
 =5	=5	=5	=5	=5	=5
@@ -49,6 +50,7 @@
 .	.	2g#i	.	.	.
 *	*	*xywh-#79:131,613,2724,436	*	*	*
 2r	.	1a	mein/	2a	mein/
+!! cadence end; ultima=a
 2d	dir	.	.	2f	dir
 =6	=6	=6	=6	=6	=6
 1f	Herr	2r	.	1a	Herr
@@ -59,6 +61,7 @@
 .	.	2f	preiß	.	.
 .	.	.	.	4ff	ehr
 =7	=7	=7	=7	=7	=7
+!! cadence start
 2c	ehr	2g	ehr	2ee	be-
 2d	be-	2f	be-	2.dd	-reit-
 1A	-reit-	1e	-rei-	.	.
@@ -67,6 +70,7 @@
 .	.	.	.	2cc#i	.
 =8	=8	=8	=8	=8	=8
 0D	-ten/	1d	-ten/	2dd	-ten/
+!! cadence end; ultima=d
 .	.	.	.	2ff	wil
 .	.	1a	wil	2ff	al-
 .	.	.	.	2ff	-le
@@ -86,6 +90,7 @@
 2d	-le	.	.	2ff	-der-
 .	.	4a	-der-	.	.
 2A	wun-	2cc	-wer-	2ee	-wer-
+!! cadence start
 2B	-der-	2.b	-cke	2dd	-cke
 =11	=11	=11	=11	=11	=11
 2c	-wer-	.	.	2ee	dein/
@@ -99,6 +104,7 @@
 .	.	2g#i	.	2b	mit
 =12	=12	=12	=12	=12	=12
 2r	.	1a	dein/	1cc	ho-
+!! cadence end; ultima=a
 2A	mit	.	.	.	.
 *	*	*xywh-#79:129,1018,2719,439	*	*	*
 2B-	ho-	2r	.	2f	-hem
@@ -109,6 +115,7 @@
 .	.	.	.	4a	.
 2d	ver-	.	.	2ff	.
 .	.	4f	-hem	.	.
+!! cadence start
 2c	-breit-	2g	fleiß	2ee	ver-
 2d	-ten/	2f	ver-	2.dd	-breit-
 =14	=14	=14	=14	=14	=14
@@ -117,6 +124,7 @@
 .	.	.	.	8b	.
 2A	in	.	.	2cc#i	.
 2B-	dir	1d	-ten/	2dd	-ten/
+!! cadence end; ultima=d
 2B-	wil	.	.	2ff	in
 =15	=15	=15	=15	=15	=15
 *xywh-#135:120,927,2722,457	*	*	*	*	*
@@ -127,6 +135,7 @@
 4r	.	2d	wil	.	.
 4D	ein-	.	.	.	.
 =16	=16	=16	=16	=16	=16
+!! cadence start
 2E	-brün-	2g	ich	4r	.
 .	.	.	.	2ee	ein-
 2F	-stig-	2f	ein-	.	.
@@ -140,6 +149,7 @@
 =17	=17	=17	=17	=17	=17
 *	*	*	*	*xywh-#19:59,1214,2744,385	*
 2r	.	1c	-lich/	2cc	lich/
+!! cadence end; ultima=c
 2A	O	.	.	4r	.
 .	.	.	.	4ee	O
 1B	höch-	2r	.	1.gg	höch-
@@ -149,6 +159,7 @@
 2d	Gott	2f	-ster	2ff	-ster
 2c	er-	2g	Gott	4.ee	Gott
 .	.	.	.	8dd	.
+!! cadence start
 8F	-frew-	2a	er-	8cc	.
 8G	.	.	.	8b	.
 8A	.	.	.	8cc	.
@@ -163,6 +174,7 @@
 4D	-en	.	.	4dd	-en
 *xywh-#135:113,1347,2724,446	*	*	*	*	*
 2A	mich/	1e	mich/	2cc#	mich/
+!! cadence end; ultima=a
 2c#	und	.	.	2ee	und
 =20	=20	=20	=20	=20	=20
 2d	sin-	2r	.	2ff	sin-
@@ -170,6 +182,7 @@
 .	.	.	.	4a	und
 4r	.	2f	sin-	4a	sin-
 4d	und	.	.	4a	-gen
+!! cadence start
 4A	sin-	2e	-gen	2cc	dei-
 4cny	-gen	.	.	.	.
 =21	=21	=21	=21	=21	=21
@@ -183,6 +196,7 @@
 .	.	.	.	2g#i	.
 =22	=22	=22	=22	=22	=22
 4r	.	1A	-men/	2a	-men/
+!! cadence end; ultima=a
 4e	wenn	.	.	.	.
 1f	du	.	.	4r	.
 .	.	.	.	4a	wenn
@@ -228,6 +242,7 @@
 .	.	2d	-bracht	2f	-bracht
 2B-	um-	.	.	.	.
 =29	=29	=29	=29	=29	=29
+!! cadence start
 .	.	2g	all	2b-i	all
 4G	-bracht	.	.	.	.
 4d	all	2f	zu-	4a	zu-
@@ -238,6 +253,7 @@
 .	.	.	.	2cc#X	.
 =30	=30	=30	=30	=30	=30
 0Dll	-men.	0dll	-men.	0ddl	men.
+!! cadence end; ultima=d
 ==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-
 !!!RDF**kern: l = terminal long
