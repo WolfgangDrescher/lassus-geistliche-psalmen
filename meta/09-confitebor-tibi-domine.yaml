@@ -1,3 +1,345 @@
-title: Confitebor tibi Domine
-incipit: Ich wil auß ganzem herzen mein
+cantusFirmus:
+    - bassus
 composer: Orlandus Lassus
+finalis: e
+incipit: Ich wil auß gantzem hertzen mein
+mode: phrygian
+originalDocument: https://mdz-nbn-resolving.de/details:bsb00075346
+originalDocumentOwner: München, Bayerische Staatsbibliothek
+prange:
+    mean:
+        kern: f#
+        keyno: 65.8457
+    median:
+        kern: f
+        keyno: 65
+    noteCount:
+        -
+            count: 8
+            kern: D
+            keyno: 50
+        -
+            count: 3
+            kern: E
+            keyno: 52
+        -
+            count: 5
+            kern: F
+            keyno: 53
+        -
+            count: 6
+            kern: G
+            keyno: 55
+        -
+            count: 1
+            kern: G#
+            keyno: 56
+        -
+            count: 20
+            kern: A
+            keyno: 57
+        -
+            count: 6
+            kern: B-
+            keyno: 58
+        -
+            count: 5
+            kern: B
+            keyno: 59
+        -
+            count: 15
+            kern: c
+            keyno: 60
+        -
+            count: 2
+            kern: c#
+            keyno: 61
+        -
+            count: 39
+            kern: d
+            keyno: 62
+        -
+            count: 23
+            kern: e
+            keyno: 64
+        -
+            count: 26
+            kern: f
+            keyno: 65
+        -
+            count: 4
+            kern: f#
+            keyno: 66
+        -
+            count: 11
+            kern: g
+            keyno: 67
+        -
+            count: 6
+            kern: g#
+            keyno: 68
+        -
+            count: 39
+            kern: a
+            keyno: 69
+        -
+            count: 2
+            kern: b-
+            keyno: 70
+        -
+            count: 14
+            kern: b
+            keyno: 71
+        -
+            count: 21
+            kern: cc
+            keyno: 72
+        -
+            count: 6
+            kern: cc#
+            keyno: 73
+        -
+            count: 20
+            kern: dd
+            keyno: 74
+        -
+            count: 15
+            kern: ee
+            keyno: 76
+        -
+            count: 12
+            kern: ff
+            keyno: 77
+        -
+            count: 2
+            kern: gg
+            keyno: 79
+    tessitura: 30
+rawFile: https://raw.githubusercontent.com/WolfgangDrescher/lassus-geistliche-psalmen/master/kern/09-confitebor-tibi-domine.krn
+sourceFile: https://github.com/WolfgangDrescher/lassus-geistliche-psalmen/blob/master/kern/09-confitebor-tibi-domine.krn
+title: Confitebor tibi Domine
+transposition: cantus_durus
+ulenbergRawFile: https://raw.githubusercontent.com/WolfgangDrescher/ulenberg-psalmen-davids/master/kern/009-confitebor-tibi-domine.krn
+ulenbergSourceFile: https://github.com/WolfgangDrescher/ulenberg-psalmen-davids/blob/master/kern/009-confitebor-tibi-domine.krn
+voices:
+    bassus:
+        clef: C4
+        lyrics: |-
+            Ich wil auß gantzem hertzen mein/
+            dir Herr preiß ehr bereitten/
+            wil alle wunderwercke dein/
+            mit hohem fleiß verbreitten/
+            in dir wil ich einbrünstiglich/
+            O höchster Gott erfrewen mich/
+            und singen und singen deinem namen/
+            wenn du verjagt hast meine feind/
+            daß sie für dir daß sie für dir gefallen seind/
+            und umbracht und umbracht all zusamen.
+        prange:
+            mean:
+                kern: B-
+                keyno: 58.3333
+            median:
+                kern: B
+                keyno: 59
+            noteCount:
+                -
+                    count: 8
+                    kern: D
+                    keyno: 50
+                -
+                    count: 3
+                    kern: E
+                    keyno: 52
+                -
+                    count: 5
+                    kern: F
+                    keyno: 53
+                -
+                    count: 6
+                    kern: G
+                    keyno: 55
+                -
+                    count: 1
+                    kern: G#
+                    keyno: 56
+                -
+                    count: 18
+                    kern: A
+                    keyno: 57
+                -
+                    count: 6
+                    kern: B-
+                    keyno: 58
+                -
+                    count: 4
+                    kern: B
+                    keyno: 59
+                -
+                    count: 12
+                    kern: c
+                    keyno: 60
+                -
+                    count: 2
+                    kern: c#
+                    keyno: 61
+                -
+                    count: 23
+                    kern: d
+                    keyno: 62
+                -
+                    count: 5
+                    kern: e
+                    keyno: 64
+                -
+                    count: 3
+                    kern: f
+                    keyno: 65
+            tessitura: 16
+        urlScan: https://www.digitale-sammlungen.de/de/view/bsb00075346?page=135
+    cantus:
+        clef: G2
+        lyrics: |-
+            Ich wil auß gantzem hertzen mein/
+            dir Herr preiß ehr bereitten/
+            wil alle wunderwercke dein/
+            mit hohem fleiß verbreitten/
+            in dir wil ich einbrünstiglich/
+            O höchster Gott erfrewen mich/
+            und singen und singen deinen namen/
+            wenn du verjagt hast meine feind/
+            daß sie für dir gefallen seind/
+            und umbracht und umbracht all zusamen.
+        prange:
+            mean:
+                kern: cc#
+                keyno: 72.5128
+            median:
+                kern: cc
+                keyno: 72
+            noteCount:
+                -
+                    count: 1
+                    kern: e
+                    keyno: 64
+                -
+                    count: 3
+                    kern: f
+                    keyno: 65
+                -
+                    count: 1
+                    kern: f#
+                    keyno: 66
+                -
+                    count: 2
+                    kern: g#
+                    keyno: 68
+                -
+                    count: 20
+                    kern: a
+                    keyno: 69
+                -
+                    count: 2
+                    kern: b-
+                    keyno: 70
+                -
+                    count: 13
+                    kern: b
+                    keyno: 71
+                -
+                    count: 20
+                    kern: cc
+                    keyno: 72
+                -
+                    count: 6
+                    kern: cc#
+                    keyno: 73
+                -
+                    count: 20
+                    kern: dd
+                    keyno: 74
+                -
+                    count: 15
+                    kern: ee
+                    keyno: 76
+                -
+                    count: 12
+                    kern: ff
+                    keyno: 77
+                -
+                    count: 2
+                    kern: gg
+                    keyno: 79
+            tessitura: 16
+        urlScan: https://www.digitale-sammlungen.de/de/view/bsb00075346?page=19
+    tenor:
+        clef: C2
+        lyrics: |-
+            Ich wil auß gantzem hertzen mein/
+            Dir Herr preiß ehr bereiten/
+            wil alle wunderwercke dein/
+            mit hohem fleiß verbraiten/
+            in dir wil ich einbrünstiglich/
+            O höchster Gott erfrewe mich/
+            und singen deinem nanem/
+            wenn du verjagt hast meine feind/
+            daß sie für dir gefallen sein/
+            und umbracht all zusamen.
+        prange:
+            mean:
+                kern: f
+                keyno: 65.2449
+            median:
+                kern: f
+                keyno: 65
+            noteCount:
+                -
+                    count: 2
+                    kern: A
+                    keyno: 57
+                -
+                    count: 1
+                    kern: B
+                    keyno: 59
+                -
+                    count: 3
+                    kern: c
+                    keyno: 60
+                -
+                    count: 16
+                    kern: d
+                    keyno: 62
+                -
+                    count: 17
+                    kern: e
+                    keyno: 64
+                -
+                    count: 20
+                    kern: f
+                    keyno: 65
+                -
+                    count: 3
+                    kern: f#
+                    keyno: 66
+                -
+                    count: 11
+                    kern: g
+                    keyno: 67
+                -
+                    count: 4
+                    kern: g#
+                    keyno: 68
+                -
+                    count: 19
+                    kern: a
+                    keyno: 69
+                -
+                    count: 1
+                    kern: b
+                    keyno: 71
+                -
+                    count: 1
+                    kern: cc
+                    keyno: 72
+            tessitura: 16
+        urlScan: https://www.digitale-sammlungen.de/de/view/bsb00075346?page=79
