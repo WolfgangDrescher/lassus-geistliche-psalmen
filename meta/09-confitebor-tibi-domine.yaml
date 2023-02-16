@@ -1,4 +1,5 @@
 cantusFirmus:
+    - tenor
     - bassus
 comments:
     - Kadenz in doppeltem Tempo
@@ -52,7 +53,7 @@ originalDocumentOwner: München, Bayerische Staatsbibliothek
 prange:
     mean:
         kern: f#
-        keyno: 65.8457
+        keyno: 65.8521
     median:
         kern: f
         keyno: 65
@@ -134,11 +135,11 @@ prange:
             kern: b
             keyno: 71
         -
-            count: 21
+            count: 19
             kern: cc
             keyno: 72
         -
-            count: 6
+            count: 8
             kern: cc#
             keyno: 73
         -
@@ -256,7 +257,7 @@ voices:
         prange:
             mean:
                 kern: cc#
-                keyno: 72.5128
+                keyno: 72.5299
             median:
                 kern: cc
                 keyno: 72
@@ -290,11 +291,11 @@ voices:
                     kern: b
                     keyno: 71
                 -
-                    count: 20
+                    count: 18
                     kern: cc
                     keyno: 72
                 -
-                    count: 6
+                    count: 8
                     kern: cc#
                     keyno: 73
                 -
@@ -324,7 +325,7 @@ voices:
             mit hohem fleiß verbraiten/
             in dir wil ich einbrünstiglich/
             O höchster Gott erfrewe mich/
-            und singen deinem nanem/
+            und singen deinem namen/
             wenn du verjagt hast meine feind/
             daß sie für dir gefallen sein/
             und umbracht all zusamen.
