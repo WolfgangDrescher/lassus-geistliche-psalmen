@@ -50,6 +50,7 @@
 2d	dir	.	.	2f	dir
 =6	=6	=6	=6	=6	=6
 1f	Herr	2r	.	1a	Herr
+!	!	!LO:TX:a:i:t=c.f.	!	!	!
 .	.	2d	Dir	.	.
 1d	preiß	2f	Herr	2.a	preiß
 .	.	2f	preiß	.	.
@@ -73,6 +74,7 @@
 .	.	.	.	4cc	.
 2r	.	4d	wun-	1.ff	.
 .	.	4e	.	.	.
+!LO:TX:a:i:t=c.f.	!	!	!	!	!
 2d	wil	4f	.	.	.
 .	.	4g	.	.	.
 =10	=10	=10	=10	=10	=10
@@ -94,6 +96,7 @@
 2r	.	1a	dein/	1cc	ho-
 2A	mit	.	.	.	.
 2B-	ho-	2r	.	2f	-hem
+!	!	!LO:TX:a:i:t=c.f.	!	!	!
 2G	-hem	2d	mit	2.b-	fleiß
 =13	=13	=13	=13	=13	=13
 2d	fleiß	2.f	ho-	.	.
