@@ -4,27 +4,27 @@ finalis: d
 incipit: Mein herzt und mut mit festem trawen
 lyrics:
     -
-        measures: null
+        measures: 1-4
         rhyme: a
         text: Mein hertz und mut mit festem trawen/
     -
-        measures: null
+        measures: 4-7
         rhyme: a
         text: thut auff den Herren jmmer bawen/
     -
-        measures: null
+        measures: 6-11
         rhyme: b
         text: wie sprecht jr dann zur seelen mein/
     -
-        measures: null
+        measures: 11-15
         rhyme: c
         text: heb dich/ fleuch in der eil von hinnen/
     -
-        measures: null
+        measures: 15-19
         rhyme: c
         text: auff deinen berg hin zu entrinnen/
     -
-        measures: null
+        measures: 19-23
         rhyme: b
         text: wie ein schnel fliegents vögelein.
 mode: dorian
