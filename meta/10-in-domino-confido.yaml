@@ -4,27 +4,27 @@ finalis: d
 incipit: Mein herzt und mut mit festem trawen
 lyrics:
     -
-        measures:
+        measures: null
         rhyme: a
         text: Mein hertz und mut mit festem trawen/
     -
-        measures:
+        measures: null
         rhyme: a
         text: thut auff den Herren jmmer bawen/
     -
-        measures:
-        rhyme: b 
+        measures: null
+        rhyme: b
         text: wie sprecht jr dann zur seelen mein/
     -
-        measures:
+        measures: null
         rhyme: c
         text: heb dich/ fleuch in der eil von hinnen/
     -
-        measures:
+        measures: null
         rhyme: c
         text: auff deinen berg hin zu entrinnen/
     -
-        measures:
+        measures: null
         rhyme: b
         text: wie ein schnel fliegents vögelein.
 mode: dorian
@@ -33,7 +33,7 @@ originalDocumentOwner: München, Bayerische Staatsbibliothek
 prange:
     mean:
         kern: g
-        keyno: 67.0425
+        keyno: 67.0463
     median:
         kern: g
         keyno: 67
@@ -99,11 +99,11 @@ prange:
             kern: b
             keyno: 71
         -
-            count: 19
+            count: 18
             kern: cc
             keyno: 72
         -
-            count: 3
+            count: 4
             kern: cc#
             keyno: 73
         -
@@ -206,7 +206,7 @@ voices:
         prange:
             mean:
                 kern: cc#
-                keyno: 73.4368
+                keyno: 73.4483
             median:
                 kern: dd
                 keyno: 74
@@ -228,11 +228,11 @@ voices:
                     kern: b
                     keyno: 71
                 -
-                    count: 16
+                    count: 15
                     kern: cc
                     keyno: 72
                 -
-                    count: 3
+                    count: 4
                     kern: cc#
                     keyno: 73
                 -
