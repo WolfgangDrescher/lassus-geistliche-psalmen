@@ -16,6 +16,7 @@
 *met(C|)	*	*met(C|)	*	*met(C|)	*
 *MM180	*	*MM180	*	*MM180	*
 =1	=1	=1	=1	=1	=1
+*xywh-#136:286,71,2778,536	*	*xywh-#80:327,57,2757,535	*	*xywh-#20:316,66,2714,527	*
 1d	Mein	2r	.	2r	.
 .	.	2a	Mein	2ff	Mein
 2d	hertz	4b-	Hertz	2ff	hertz
@@ -43,11 +44,14 @@
 4g	thut	.	.	.	.
 4e	auff	.	.	2cc	thut/
 4f	den	4a	Thut	.	.
+*	*	*xywh-#80:315,591,2733,406	*	*	*
 2e	Her-	2g	auff	2cc	auff
 2d	-ren	2f	den	2dd	den
 =5	=5	=5	=5	=5	=5
+*	*	*	*	*xywh-#20:312,574,2739,422	*
 2c	jm-	2g	Her-	2ee	Her-
 2A	-mer	2c	-ren	1f	-ren
+*xywh-#136:288,558,2797,465	*	*	*	*	*
 1B-	baw-	2.d	jm-	.	.
 .	.	.	.	1dd	im-
 .	.	4d	-mer	.	.
@@ -73,6 +77,7 @@
 2A	jr	4r	.	.	.
 *	*	*	*ij	*	*
 .	.	4c	wie	4ff	.
+*	*	*xywh-#80:311,995,2745,420	*	*	*
 2B	dann	2d	sprecht	4gg	.
 .	.	.	.	4ff	.
 2c	zur	2e	jr	2.ee	.
@@ -84,6 +89,7 @@
 1A	mein/	2f	see-	.	.
 .	.	2e	-len	2cc#	-len
 =11	=11	=11	=11	=11	=11
+*	*	*	*	*xywh-#20:308,982,2726,428	*
 2r	.	1d	mein	2dd	mein/
 *	*	*	*Xij	*	*
 2f	heb	.	.	2a	heb
@@ -101,6 +107,7 @@
 .	.	4e	.	.	.
 2A	der	4a	.	.	.
 .	.	4g	.	.	.
+*xywh-#136:284,932,2790,495	*	*	*	*	*
 4a	eil	4f	.	2cc	der
 4g	.	4e	.	.	.
 4f	.	2d	.	1ff	eil
@@ -109,6 +116,7 @@
 2d	.	2.a	von	.	.
 2c	von	.	.	2ee	von
 .	.	4g	.	.	.
+*	*	*xywh-#80:308,1409,2743,425	*	*	*
 1d	hin-	2f#	.	2.dd	hin-
 .	.	2.a	hin-	.	.
 .	.	.	.	4cc	.
@@ -129,6 +137,7 @@
 2d	dei-	2.b-	dei-	2ff	berg
 2e	-nen	.	.	2gg	hin
 .	.	4b-	-nen	.	.
+*	*	*	*	*xywh-#20:306,1404,2718,419	*
 1f	berg	2a	berg	2cc	zu
 *	*Xij	*	*	*	*
 .	.	2d	hin	2a	en-
@@ -140,9 +149,11 @@
 =19	=19	=19	=19	=19	=19
 2c	-trin-	1e	-nen/	2g	en-
 2A	-nen/	.	.	1cc	-trin-
+*	*	*xywh-#80:304,1814,2745,451	*	*	*
 2r	.	1f	Wie	.	.
 2d	wie	.	.	2a	-nen/
 =20	=20	=20	=20	=20	=20
+*xywh-#136:281,1345,2781,506	*	*	*	*	*
 2c	ein	2g	ein	4ee	wie
 .	.	.	.	4ee	ein
 2A	schnell	2c	schnel	2ee	schnel
@@ -161,6 +172,7 @@
 4F	.	4cc	.	2a	-gends
 4A	.	4c	.	.	.
 =22	=22	=22	=22	=22	=22
+*	*	*	*	*xywh-#20:304,1811,2722,394	*
 2G	.	2.d	.	4b	vö-
 .	.	.	.	4cc	.
 2B-	-gent	.	.	1dd	.
