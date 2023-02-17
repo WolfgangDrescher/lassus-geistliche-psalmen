@@ -1,3 +1,299 @@
-title: In domino confido
-incipit: Mein herz und mut
+cantusFirmus: []
 composer: Rudolphus Lassus
+finalis: d
+incipit: Mein herzt und mut mit festem trawen
+mode: dorian
+originalDocument: https://mdz-nbn-resolving.de/details:bsb00075346
+originalDocumentOwner: München, Bayerische Staatsbibliothek
+prange:
+    mean:
+        kern: g
+        keyno: 66.9035
+    median:
+        kern: g
+        keyno: 67
+    noteCount:
+        -
+            count: 1
+            kern: F
+            keyno: 53
+        -
+            count: 2
+            kern: G
+            keyno: 55
+        -
+            count: 14
+            kern: A
+            keyno: 57
+        -
+            count: 4
+            kern: B-
+            keyno: 58
+        -
+            count: 3
+            kern: B
+            keyno: 59
+        -
+            count: 15
+            kern: c
+            keyno: 60
+        -
+            count: 34
+            kern: d
+            keyno: 62
+        -
+            count: 23
+            kern: e
+            keyno: 64
+        -
+            count: 25
+            kern: f
+            keyno: 65
+        -
+            count: 4
+            kern: f#
+            keyno: 66
+        -
+            count: 24
+            kern: g
+            keyno: 67
+        -
+            count: 2
+            kern: g#
+            keyno: 68
+        -
+            count: 28
+            kern: a
+            keyno: 69
+        -
+            count: 5
+            kern: b-
+            keyno: 70
+        -
+            count: 8
+            kern: b
+            keyno: 71
+        -
+            count: 19
+            kern: cc
+            keyno: 72
+        -
+            count: 3
+            kern: cc#
+            keyno: 73
+        -
+            count: 15
+            kern: dd
+            keyno: 74
+        -
+            count: 16
+            kern: ee
+            keyno: 76
+        -
+            count: 12
+            kern: ff
+            keyno: 77
+        -
+            count: 2
+            kern: gg
+            keyno: 79
+    tessitura: 27
+rawFile: https://raw.githubusercontent.com/WolfgangDrescher/lassus-geistliche-psalmen/master/kern/10-in-domino-confido.krn
+sourceFile: https://github.com/WolfgangDrescher/lassus-geistliche-psalmen/blob/master/kern/10-in-domino-confido.krn
+title: In Domino confido
+transposition: cantus_durus
+ulenbergRawFile: https://raw.githubusercontent.com/WolfgangDrescher/ulenberg-psalmen-davids/master/kern/010-in-domino-confido.krn
+ulenbergSourceFile: https://github.com/WolfgangDrescher/ulenberg-psalmen-davids/blob/master/kern/010-in-domino-confido.krn
+voices:
+    bassus:
+        clef: C3
+        lyrics: |-
+            Mein hertz und mut mit festem trawen/
+            thut auff den Herren jmmer bawen/
+            wie sprecht jr dann zur seele mein/
+            heb dich heb dich/
+            fleuch in der eil von hinnen/
+            auff deinen berg auff deinen berg hin zu entrinnen/
+            wie ein schnell fliegent vögelein.
+        prange:
+            mean:
+                kern: c#
+                keyno: 61.0137
+            median:
+                kern: d
+                keyno: 62
+            noteCount:
+                -
+                    count: 1
+                    kern: F
+                    keyno: 53
+                -
+                    count: 2
+                    kern: G
+                    keyno: 55
+                -
+                    count: 14
+                    kern: A
+                    keyno: 57
+                -
+                    count: 4
+                    kern: B-
+                    keyno: 58
+                -
+                    count: 3
+                    kern: B
+                    keyno: 59
+                -
+                    count: 11
+                    kern: c
+                    keyno: 60
+                -
+                    count: 17
+                    kern: d
+                    keyno: 62
+                -
+                    count: 9
+                    kern: e
+                    keyno: 64
+                -
+                    count: 7
+                    kern: f
+                    keyno: 65
+                -
+                    count: 3
+                    kern: g
+                    keyno: 67
+                -
+                    count: 2
+                    kern: a
+                    keyno: 69
+            tessitura: 17
+        urlScan: https://www.digitale-sammlungen.de/de/view/bsb00075346?page=136
+    cantus:
+        clef: G2
+        lyrics: |-
+            Mein hertz und mut mit festem trawen thut/
+            auff den Herren immer bawen/
+            wie sprecht jr dann zur seelen mein/
+            heb dich heb dich/
+            fleuch in der eil von hinnen Auff deinen berg hin zu entrinnen zu entrinnen/
+            wie ein schnel fliegends vögelein.
+        prange:
+            mean:
+                kern: cc#
+                keyno: 73.023
+            median:
+                kern: dd
+                keyno: 74
+            noteCount:
+                -
+                    count: 2
+                    kern: d
+                    keyno: 62
+                -
+                    count: 1
+                    kern: f
+                    keyno: 65
+                -
+                    count: 3
+                    kern: g
+                    keyno: 67
+                -
+                    count: 11
+                    kern: a
+                    keyno: 69
+                -
+                    count: 1
+                    kern: b-
+                    keyno: 70
+                -
+                    count: 5
+                    kern: b
+                    keyno: 71
+                -
+                    count: 16
+                    kern: cc
+                    keyno: 72
+                -
+                    count: 3
+                    kern: cc#
+                    keyno: 73
+                -
+                    count: 15
+                    kern: dd
+                    keyno: 74
+                -
+                    count: 16
+                    kern: ee
+                    keyno: 76
+                -
+                    count: 12
+                    kern: ff
+                    keyno: 77
+                -
+                    count: 2
+                    kern: gg
+                    keyno: 79
+            tessitura: 18
+        urlScan: https://www.digitale-sammlungen.de/de/view/bsb00075346?page=20
+    tenor:
+        clef: C2
+        lyrics: |-
+            Mein Hertz und mut mit festem trauen Thut auff den Herren jmmer bawen/
+            Wie sprecht jr dann zur seelen mein wie sprecht jr dann zur seelen mein Heb dich/
+            fleuch in der eil von hinnen auff deinen berg auff deinen berg hin zu entrinnen/
+            Wie ein schnel fliegents vögelein.
+        prange:
+            mean:
+                kern: f#
+                keyno: 65.8687
+            median:
+                kern: f
+                keyno: 65
+            noteCount:
+                -
+                    count: 4
+                    kern: c
+                    keyno: 60
+                -
+                    count: 15
+                    kern: d
+                    keyno: 62
+                -
+                    count: 14
+                    kern: e
+                    keyno: 64
+                -
+                    count: 17
+                    kern: f
+                    keyno: 65
+                -
+                    count: 4
+                    kern: f#
+                    keyno: 66
+                -
+                    count: 18
+                    kern: g
+                    keyno: 67
+                -
+                    count: 2
+                    kern: g#
+                    keyno: 68
+                -
+                    count: 15
+                    kern: a
+                    keyno: 69
+                -
+                    count: 4
+                    kern: b-
+                    keyno: 70
+                -
+                    count: 3
+                    kern: b
+                    keyno: 71
+                -
+                    count: 3
+                    kern: cc
+                    keyno: 72
+            tessitura: 13
+        urlScan: https://www.digitale-sammlungen.de/de/view/bsb00075346?page=80
