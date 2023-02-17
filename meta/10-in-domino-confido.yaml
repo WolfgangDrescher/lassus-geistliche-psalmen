@@ -8,7 +8,7 @@ originalDocumentOwner: München, Bayerische Staatsbibliothek
 prange:
     mean:
         kern: g
-        keyno: 66.9035
+        keyno: 67.0425
     median:
         kern: g
         keyno: 67
@@ -38,7 +38,7 @@ prange:
             kern: c
             keyno: 60
         -
-            count: 34
+            count: 32
             kern: d
             keyno: 62
         -
@@ -46,7 +46,7 @@ prange:
             kern: e
             keyno: 64
         -
-            count: 25
+            count: 24
             kern: f
             keyno: 65
         -
@@ -82,7 +82,7 @@ prange:
             kern: cc#
             keyno: 73
         -
-            count: 15
+            count: 17
             kern: dd
             keyno: 74
         -
@@ -90,7 +90,7 @@ prange:
             kern: ee
             keyno: 76
         -
-            count: 12
+            count: 13
             kern: ff
             keyno: 77
         -
@@ -181,19 +181,11 @@ voices:
         prange:
             mean:
                 kern: cc#
-                keyno: 73.023
+                keyno: 73.4368
             median:
                 kern: dd
                 keyno: 74
             noteCount:
-                -
-                    count: 2
-                    kern: d
-                    keyno: 62
-                -
-                    count: 1
-                    kern: f
-                    keyno: 65
                 -
                     count: 3
                     kern: g
@@ -219,7 +211,7 @@ voices:
                     kern: cc#
                     keyno: 73
                 -
-                    count: 15
+                    count: 17
                     kern: dd
                     keyno: 74
                 -
@@ -227,14 +219,14 @@ voices:
                     kern: ee
                     keyno: 76
                 -
-                    count: 12
+                    count: 13
                     kern: ff
                     keyno: 77
                 -
                     count: 2
                     kern: gg
                     keyno: 79
-            tessitura: 18
+            tessitura: 13
         urlScan: https://www.digitale-sammlungen.de/de/view/bsb00075346?page=20
     tenor:
         clef: C2
