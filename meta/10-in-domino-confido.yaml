@@ -2,6 +2,31 @@ cantusFirmus: []
 composer: Rudolphus Lassus
 finalis: d
 incipit: Mein herzt und mut mit festem trawen
+lyrics:
+    -
+        measures:
+        rhyme: a
+        text: Mein hertz und mut mit festem trawen/
+    -
+        measures:
+        rhyme: a
+        text: thut auff den Herren jmmer bawen/
+    -
+        measures:
+        rhyme: b 
+        text: wie sprecht jr dann zur seelen mein/
+    -
+        measures:
+        rhyme: c
+        text: heb dich/ fleuch in der eil von hinnen/
+    -
+        measures:
+        rhyme: c
+        text: auff deinen berg hin zu entrinnen/
+    -
+        measures:
+        rhyme: b
+        text: wie ein schnel fliegents vögelein.
 mode: dorian
 originalDocument: https://mdz-nbn-resolving.de/details:bsb00075346
 originalDocumentOwner: München, Bayerische Staatsbibliothek
