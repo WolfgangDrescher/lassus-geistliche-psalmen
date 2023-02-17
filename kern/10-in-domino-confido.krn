@@ -32,6 +32,7 @@
 .	.	.	.	8b	.
 .	.	.	.	8a	.
 =3	=3	=3	=3	=3	=3
+!! cadence start
 1e	traw-	2cc	fe-	2g	.
 .	.	4b	-stem	2g	-stem
 .	.	2g	trau-	.	.
@@ -41,6 +42,7 @@
 .	.	2f#	.	.	.
 =4	=4	=4	=4	=4	=4
 4r	.	2.g	-en	2b	-en
+!! cadence end; ultima=g
 4g	thut	.	.	.	.
 4e	auff	.	.	2cc	thut/
 4f	den	4a	Thut	.	.
@@ -52,6 +54,7 @@
 2c	jm-	2g	Her-	2ee	Her-
 2A	-mer	2c	-ren	1ff	-ren
 *xywh-#136:288,558,2797,465	*	*	*	*	*
+!! cadence start
 1B-	baw-	2.d	jm-	.	.
 .	.	.	.	1dd	im-
 .	.	4d	-mer	.	.
@@ -59,6 +62,7 @@
 1A	-en/	1e	baw-	.	.
 .	.	.	.	2cc#i	-mer
 1r	.	2d	-en/	1dd	baw-
+!! cadence end; ultima=d
 .	.	2g	Wie	.	.
 =7	=7	=7	=7	=7	=7
 0r	.	2f	sprecht	2a	-en/
@@ -80,6 +84,7 @@
 *	*	*xywh-#80:311,995,2745,420	*	*	*
 2B	dann	2d	sprecht	4gg	.
 .	.	.	.	4ff	.
+!! cadence start
 2c	zur	2e	jr	2.ee	.
 =10	=10	=10	=10	=10	=10
 2d	see-	2.f	dann	.	.
@@ -91,6 +96,7 @@
 =11	=11	=11	=11	=11	=11
 *	*	*	*	*xywh-#20:308,982,2726,428	*
 2r	.	1d	mein	2dd	mein/
+!! cadence end; ultima=d
 *	*	*	*Xij	*	*
 2f	heb	.	.	2a	heb
 2d	dich	2a	Heb	2ff	dich
@@ -117,6 +123,7 @@
 2c	von	.	.	2ee	von
 .	.	4g	.	.	.
 *	*	*xywh-#80:308,1409,2743,425	*	*	*
+!! cadence start
 1d	hin-	2f#	.	2.dd	hin-
 .	.	2.a	hin-	.	.
 .	.	.	.	4cc	.
@@ -126,6 +133,7 @@
 .	.	8f#i	.	.	.
 2e	auff	2g#i	.	.	.
 2f	dei-	2a	-nen	1a	-nen
+!! cadence end; ultima=a
 2d	-nen	2fny	auff	.	.
 =16	=16	=16	=16	=16	=16
 1c	berg	2g	dei-	2r	.
@@ -142,6 +150,7 @@
 *	*Xij	*	*	*	*
 .	.	2d	hin	2a	en-
 =18	=18	=18	=18	=18	=18
+!! cadence start
 1c	hin	2g	zu	2ee	-trin-
 .	.	2e	en-	2cc	-nen
 2A	zu	1f	-trin-	2r	.
@@ -155,6 +164,7 @@
 =20	=20	=20	=20	=20	=20
 *xywh-#136:281,1345,2781,506	*	*	*	*	*
 2c	ein	2g	ein	4ee	wie
+!! cadence end; ultima=c
 .	.	.	.	4ee	ein
 2A	schnell	2c	schnel	2ee	schnel
 2.a	flie-	4d	flie-	4ff	flie-
@@ -172,6 +182,7 @@
 4F	.	4cc	.	2a	-gends
 4A	.	4c	.	.	.
 =22	=22	=22	=22	=22	=22
+!! cadence start
 *	*	*	*	*xywh-#20:304,1811,2722,394	*
 2G	.	2.d	.	4b	vö-
 .	.	.	.	4cc	.
@@ -182,6 +193,7 @@
 4A	-ge-	.	.	.	.
 =23	=23	=23	=23	=23	=23
 0dll	-lein.	0dll	-lein.	0ddll	-lein.
+!! cadence end; ultima=d
 ==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-
 !!!RDF**kern: l = terminal long
