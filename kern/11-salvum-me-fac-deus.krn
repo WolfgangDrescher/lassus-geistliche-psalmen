@@ -16,6 +16,7 @@
 *met(C|)	*	*met(C|)	*	*met(C|)	*
 *MM180	*	*MM180	*	*MM180	*
 =1	=1	=1	=1	=1	=1
+*xywh-#137:106,41,2710,539	*	*xywh-#81:150,74,2671,534	*	*xywh-#21:105,78,2727,509	*
 !	!	!	!	!LO:TX:a:i:t=(c.f.)	!
 2r	.	2r	.	1g	Hilff
 2g	Hilff	2b-	Hilff	.	.
@@ -44,13 +45,16 @@
 2d	-ben	.	.	2r	.
 .	.	4a	-ben	.	.
 2B-	so	2dd	so	2b-	Ha-
+*xywh-#137:101,541,2715,464	*	*	*	*	*
 2r	.	2cc	gentz-	2a	-ben
 2d	ha-	2a	-lich	2f	so
 =5	=5	=5	=5	=5	=5
+*	*	*xywh-#81:130,593,2683,412	*	*	*
 2c	-ben	4r	.	2g	gentz-
 .	.	4e	ha-	.	.
 4A	so	4e	-ben	2cc	-lich
 4F	gentz-	4a	so	.	.
+*	*	*	*	*xywh-#21:100,587,2731,415	*
 4G	-lich	2d	gentz-	2b-	ab-
 4.G	ab-	.	.	.	.
 .	.	4g	-lich	2b-	-ge-
@@ -74,6 +78,7 @@
 8B-	.	.	.	.	.
 8c	.	.	.	.	.
 =8	=8	=8	=8	=8	=8
+*xywh-#137:93,958,2717,459	*	*	*	*	*
 4d	.	2f	auff-	2a	all
 4A	hin	.	.	.	.
 4c	all	2.e	-rich-	2g	auff-
@@ -95,6 +100,7 @@
 4f	un-	2a	-ter	2cc	schir
 4f	-ter	.	.	.	.
 =11	=11	=11	=11	=11	=11
+*	*	*xywh-#81:112,991,2698,437	*	*xywh-#21:96,998,2734,404	*
 4B-	men-	1b-	men-	2dd	un-
 4.G	-schen	.	.	.	.
 .	.	.	.	2dd	-der
@@ -110,6 +116,7 @@
 1g	trew	2b-	-den/	2b-	-den/
 .	.	2b-	Kein	2dd	kein
 =13	=13	=13	=13	=13	=13
+*xywh-#137:86,1391,2717,440	*	*	*	*	*
 2r	.	2a	trew	2cc	trew
 2g	kein	4r	.	2b-	und
 .	.	4dd	kein	.	.
@@ -131,6 +138,7 @@
 4d	.	2r	.	0a	-den/
 4d	in	.	.	.	.
 2f	die-	2d	In	.	.
+*	*	*xywh-#81:105,1395,2711,444	*	*	*
 2d	-ser	2f	die-	.	.
 4c#	fehr-	2e	-ser	.	.
 4c#	-lich	.	.	.	.
@@ -138,11 +146,13 @@
 2.d	bö-	1f	fehr-	2r	.
 .	.	.	.	2a	in
 4d	-sen	.	.	.	.
+*xywh-#137:81,1791,2737,492	*	*	*	*	*
 2G	zeit/	2d	-lich	2b-	die-
 2d	in	1f	bö-	2a	-ser
 =17	=17	=17	=17	=17	=17
 2B-	die-	.	.	2dd	fehr-
 2f	-ser	2.a	-sen	2cc	-lich
+*	*	*	*	*xywh-#21:96,1407,2718,409	*
 2g	fehr-	.	.	2.b-	bö-
 .	.	4g	.	.	.
 2e-	-lich	2.g	.	.	.
