@@ -6,6 +6,31 @@ comments:
 composer: Orlandus Lassus
 finalis: g
 incipit: Hilff lieber Herr die heilig frommen
+lyrics:
+    -
+        measures: 1-3
+        rhyme: a
+        text: Hilff lieber Herr die heilig frommen/
+    -
+        measures: 3-6
+        rhyme: a
+        text: haben so gentzlich abgenommen/
+    -
+        measures: 6-9
+        rhyme: b
+        text: es ist hin all auffrichtigkeit/
+    -
+        measures: 9-12
+        rhyme: c
+        text: das auch schir unter menschen kinden/
+    -
+        measures: 12-15
+        rhyme: c
+        text: kein trew und glaub mehr ist zu finden/
+    -
+        measures: 15-20
+        rhyme: b
+        text: in dieser fehrlich bösen zeit.
 mode: dorian
 originalDocument: https://mdz-nbn-resolving.de/details:bsb00075346
 originalDocumentOwner: München, Bayerische Staatsbibliothek
