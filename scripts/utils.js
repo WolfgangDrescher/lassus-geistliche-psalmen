@@ -43,13 +43,15 @@ export function readYaml(file) {
 }
 
 export function readFile(file) {
-    let result = '';
     try {
-        result = fs.readFileSync(file, 'utf8');
-    } catch (err) {
-        console.error(err);
+        return fs.readFileSync(file, 'utf8');
+    } catch (error) {
+        if (error.code === 'ENOENT') {
+            console.error(`File ${file} not found`);
+            return '';
+        }
+        throw err;
     }
-    return result;
 }
 
 export function writeYaml(file, object, options) {
