@@ -47,7 +47,7 @@ export function readFile(file) {
     try {
         result = fs.readFileSync(file, 'utf8');
     } catch (err) {
-        // console.error(err);
+        console.error(err);
     }
     return result;
 }
