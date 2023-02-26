@@ -1,4 +1,3 @@
-import './generate-yaml.js';
 import './reference-records.js';
 import './cantus-firmus.js';
 import './voice-lyrics.js';
