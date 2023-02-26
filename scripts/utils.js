@@ -39,11 +39,17 @@ export function getNrFromId(id) {
 }
 
 export function readYaml(file) {
-    return yaml.load(readFile(file));
+    return yaml.load(readFile(file)) || {};
 }
 
 export function readFile(file) {
-    return fs.readFileSync(file, 'utf8');
+    let result = null;
+    try {
+        result = fs.readFileSync(file, 'utf8');
+    } catch (err) {
+        // console.error(err);
+    }
+    return result;
 }
 
 export function writeYaml(file, object, options) {

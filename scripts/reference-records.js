@@ -5,6 +5,7 @@ import {
     getFiles,
     readYaml,
     writeYaml,
+    readFile,
     getIdFromFilename,
     mergeDeep,
     parseHumdrumReferenceRecords,
@@ -47,7 +48,7 @@ files.forEach(file => {
         voices: {},
     };
 
-    const kern = fs.readFileSync(file, 'utf8');
+    const kern = readFile(file);
     const referenceRecords = parseHumdrumReferenceRecords(kern);
 
     // Title
