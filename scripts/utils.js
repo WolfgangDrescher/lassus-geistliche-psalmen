@@ -43,7 +43,7 @@ export function readYaml(file) {
 }
 
 export function readFile(file) {
-    let result = null;
+    let result = '';
     try {
         result = fs.readFileSync(file, 'utf8');
     } catch (err) {
