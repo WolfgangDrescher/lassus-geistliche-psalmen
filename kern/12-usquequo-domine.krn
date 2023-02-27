@@ -53,7 +53,7 @@
 !! cadence start
 2D	ver-	1d	.	2f	ver-
 2G	-gis-	.	.	2b-	-gis-
-2E	-tu	2c	-tu	2g	-tu
+2E	-tu	2c#i	-tu	2g	-tu
 =7	=7	=7	=7	=7	=7
 2D	mein/	2d	mein/	1f	mein
 !! cadence end; ultima=d
@@ -110,7 +110,7 @@
 0r	.	2B	lang	2g	lang
 .	.	2c	willst	2g	wilt
 .	.	2d	du	2f	du
-.	.	2.B	das	2d	das
+.	.	2.B-y	das	2d	das
 =14	=14	=14	=14	=14	=14
 1r	.	.	.	2g	ant-
 .	.	4G	.	.	.
@@ -131,7 +131,7 @@
 2D	das	1d	.	2f	das
 =16	=16	=16	=16	=16	=16
 2G	ant-	.	.	2b-	ant-
-2E	-litz	2c	-litz	2g	-litz
+2E	-litz	2c#i	-litz	2g	-litz
 *xywh-#138:319,972,2770,455	*	*	*	*	*
 2D	dein/	2.d	dein/	1f	dein/
 !! cadence end; ultima=d
@@ -178,9 +178,9 @@
 2F	soll	2.d	.	.	.
 .	.	.	.	4f	-mer-
 2G	mein	.	.	1e	-lich/
-.	.	8c	.	.	.
-.	.	8B-	.	.	.
-2A	seel	2c	.	.	.
+.	.	8c#i	.	.	.
+.	.	8Bni	.	.	.
+2A	seel	2c#i	.	.	.
 =22	=22	=22	=22	=22	=22
 !! cadence start b
 2B-	küm-	2d	kü-	2r	.
@@ -208,9 +208,9 @@
 2F	-chem	2.c	.	.	.
 =25	=25	=25	=25	=25	=25
 2F	schwe-	.	.	2.d	.
-.	.	8B-	.	.	.
+.	.	8Bni	.	.	.
 .	.	8A	.	.	.
-2G	-ren	2B-	.	.	.
+2G	-ren	2Bni	.	.	.
 .	.	.	.	4e	.
 1A	za-	2c	-gen/	2f	.
 !! cadence end; ultima=c
