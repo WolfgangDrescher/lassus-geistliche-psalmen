@@ -1,0 +1,289 @@
+cantusFirmus:
+    - bassus
+composer: Rudolphus Lassus
+finalis: g
+incipit: Wie lang O Herr vergistu mein
+mode: dorian
+originalDocument: https://mdz-nbn-resolving.de/details:bsb00075346
+originalDocumentOwner: München, Bayerische Staatsbibliothek
+prange:
+    mean:
+        kern: c#
+        keyno: 60.6383
+    median:
+        kern: c
+        keyno: 60
+    noteCount:
+        -
+            count: 7
+            kern: D
+            keyno: 50
+        -
+            count: 5
+            kern: E
+            keyno: 52
+        -
+            count: 17
+            kern: F
+            keyno: 53
+        -
+            count: 42
+            kern: G
+            keyno: 55
+        -
+            count: 36
+            kern: A
+            keyno: 57
+        -
+            count: 42
+            kern: B-
+            keyno: 58
+        -
+            count: 8
+            kern: B
+            keyno: 59
+        -
+            count: 52
+            kern: c
+            keyno: 60
+        -
+            count: 49
+            kern: d
+            keyno: 62
+        -
+            count: 5
+            kern: e-
+            keyno: 63
+        -
+            count: 22
+            kern: e
+            keyno: 64
+        -
+            count: 28
+            kern: f
+            keyno: 65
+        -
+            count: 4
+            kern: f#
+            keyno: 66
+        -
+            count: 25
+            kern: g
+            keyno: 67
+        -
+            count: 13
+            kern: a
+            keyno: 69
+        -
+            count: 17
+            kern: b-
+            keyno: 70
+        -
+            count: 2
+            kern: cc
+            keyno: 72
+        -
+            count: 2
+            kern: dd
+            keyno: 74
+    tessitura: 25
+rawFile: https://raw.githubusercontent.com/WolfgangDrescher/lassus-geistliche-psalmen/master/kern/12-usquequo-domine.krn
+sourceFile: https://github.com/WolfgangDrescher/lassus-geistliche-psalmen/blob/master/kern/12-usquequo-domine.krn
+title: Usquequo Domine
+transposition: cantus_mollis
+ulenbergRawFile: https://raw.githubusercontent.com/WolfgangDrescher/ulenberg-psalmen-davids/master/kern/012-usquequo-domine.krn
+ulenbergSourceFile: https://github.com/WolfgangDrescher/ulenberg-psalmen-davids/blob/master/kern/012-usquequo-domine.krn
+voices:
+    bassus:
+        clef: C4
+        lyrics: |-
+            Wie lang O Herr vergistu mein/
+            wirt diß denn jmmer weren/
+            wie lang wilt du das antlitz dein/
+            wie lang wilt du das antlitz dein/
+            von mir hin kehren/
+            wie lang soll mein seel kümmerlich/
+            mit solchem schweren zagen/
+            in mir rathschlagen/
+            soll ich dann täglich engsten mich/
+            mit bitterlichen schmertzen/
+            mit bitterlichen schmertzen/
+            in meinem hertzen.
+        prange:
+            mean:
+                kern: G
+                keyno: 55.4314
+            median:
+                kern: G
+                keyno: 55
+            noteCount:
+                -
+                    count: 7
+                    kern: D
+                    keyno: 50
+                -
+                    count: 5
+                    kern: E
+                    keyno: 52
+                -
+                    count: 17
+                    kern: F
+                    keyno: 53
+                -
+                    count: 32
+                    kern: G
+                    keyno: 55
+                -
+                    count: 18
+                    kern: A
+                    keyno: 57
+                -
+                    count: 16
+                    kern: B-
+                    keyno: 58
+                -
+                    count: 3
+                    kern: c
+                    keyno: 60
+                -
+                    count: 3
+                    kern: d
+                    keyno: 62
+                -
+                    count: 1
+                    kern: e-
+                    keyno: 63
+            tessitura: 14
+        urlScan: https://www.digitale-sammlungen.de/de/view/bsb00075346?page=138
+    cantus:
+        clef: C1
+        lyrics: |-
+            Wie lang O Herr vergistu mein wie lang O Herr vergistu mein wirt diß denn jmmer weren/
+            wie lang wilt du das antlitz dein/
+            wie lang wilt du das antlitz dein/
+            von mir hin keren/
+            wie lang sol mein seel kümmerlich/
+            mit solchen schweren zagen/
+            in mir rathschlagen/
+            sol ich täglich engsten mich/
+            mit bitterlichen schmertzen/
+            in meinem hertzen.
+        prange:
+            mean:
+                kern: f#
+                keyno: 65.8952
+            median:
+                kern: f
+                keyno: 65
+            noteCount:
+                -
+                    count: 5
+                    kern: c
+                    keyno: 60
+                -
+                    count: 20
+                    kern: d
+                    keyno: 62
+                -
+                    count: 19
+                    kern: e
+                    keyno: 64
+                -
+                    count: 22
+                    kern: f
+                    keyno: 65
+                -
+                    count: 2
+                    kern: f#
+                    keyno: 66
+                -
+                    count: 22
+                    kern: g
+                    keyno: 67
+                -
+                    count: 13
+                    kern: a
+                    keyno: 69
+                -
+                    count: 17
+                    kern: b-
+                    keyno: 70
+                -
+                    count: 2
+                    kern: cc
+                    keyno: 72
+                -
+                    count: 2
+                    kern: dd
+                    keyno: 74
+            tessitura: 15
+        urlScan: https://www.digitale-sammlungen.de/de/view/bsb00075346?page=22
+    tenor:
+        clef: C3
+        lyrics: |-
+            Wie lang O Herr vergistu mein/
+            wie lang O Herr vergistu mein/
+            wird diß den jmmer weren/
+            wie lang wilt du das antlitz dein/
+            wie lang willst du das antlitz dein/
+            von mir hin keren/
+            Wie lang sol mein seel küm̃erlich mit solchen schweren zagen/
+            in mir rathschlagen/
+            sol ich deñ täglich engsten mich/
+            mit bitterlichen schmertzen/
+            mit bitterlichen schmerzen/
+            in meinẽ hertzen.
+        prange:
+            mean:
+                kern: c
+                keyno: 59.8333
+            median:
+                kern: c
+                keyno: 60
+            noteCount:
+                -
+                    count: 10
+                    kern: G
+                    keyno: 55
+                -
+                    count: 18
+                    kern: A
+                    keyno: 57
+                -
+                    count: 26
+                    kern: B-
+                    keyno: 58
+                -
+                    count: 8
+                    kern: B
+                    keyno: 59
+                -
+                    count: 44
+                    kern: c
+                    keyno: 60
+                -
+                    count: 26
+                    kern: d
+                    keyno: 62
+                -
+                    count: 4
+                    kern: e-
+                    keyno: 63
+                -
+                    count: 3
+                    kern: e
+                    keyno: 64
+                -
+                    count: 6
+                    kern: f
+                    keyno: 65
+                -
+                    count: 2
+                    kern: f#
+                    keyno: 66
+                -
+                    count: 3
+                    kern: g
+                    keyno: 67
+            tessitura: 13
+        urlScan: https://www.digitale-sammlungen.de/de/view/bsb00075346?page=82
