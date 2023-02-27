@@ -50,11 +50,13 @@
 .	.	8G	.	.	.
 =6	=6	=6	=6	=6	=6
 2F	Herr	2c	.	2a	Herr
+!! cadence start
 2D	ver-	1d	.	2f	ver-
 2G	-gis-	.	.	2b-	-gis-
 2E	-tu	2c	-tu	2g	-tu
 =7	=7	=7	=7	=7	=7
 2D	mein/	2d	mein/	1f	mein
+!! cadence end; ultima=d
 *	*	*	*Xij	*	*Xij
 2B-	wirt	2d	wird	.	.
 2B-	diß	2.d	diß	2r	.
@@ -75,6 +77,7 @@
 1B-	.	4d	we-	4f	-mer
 .	.	4B-	.	4d	.
 .	.	2.d	.	2.f	.
+!! cadence start
 1A	.	.	.	.	.
 .	.	4c	.	4e	.
 .	.	2.c	.	4e	.
@@ -86,6 +89,7 @@
 .	.	8A	.	.	.
 2G	wie	2B	.	.	.
 2F	lang	2c	-ren/	2a	we-
+!! cadence end; ultima=c
 2E	wilt	4r	.	2g	-ren/
 .	.	4c	wie	.	.
 =11	=11	=11	=11	=11	=11
@@ -123,12 +127,14 @@
 .	.	8A	.	.	.
 .	.	8G	.	.	.
 2F	du	2c	.	2a	du
+!! cadence start
 2D	das	1d	.	2f	das
 =16	=16	=16	=16	=16	=16
 2G	ant-	.	.	2b-	ant-
 2E	-litz	2c	-litz	2g	-litz
 *xywh-#138:319,972,2770,455	*	*	*	*	*
 2D	dein/	2.d	dein/	1f	dein/
+!! cadence end; ultima=d
 *	*Xij	*	*Xij	*	*Xij
 2B-	von	.	.	.	.
 .	.	4c	.	.	.
@@ -145,6 +151,7 @@
 1B-	.	4d	ke-	4f	ke-
 .	.	4B-	.	4d	.
 .	.	2.d	.	2.f	.
+!! cadence start
 1A	.	.	.	.	.
 .	.	4c	.	4e	.
 .	.	2.c	.	4e	.
@@ -156,6 +163,7 @@
 .	.	8A	.	.	.
 .	.	2Bni	.	.	.
 1r	.	2c	-ren/	2e	-ren/
+!! cadence end; ultima=c
 .	.	4r	.	2e	wie
 .	.	4c	Wie	.	.
 =20	=20	=20	=20	=20	=20
@@ -165,6 +173,7 @@
 2r	.	2B-	mein	2d	mein
 2A	wie	1c	seel	2e	seel
 =21	=21	=21	=21	=21	=21
+!! cadence start a
 2A	lang	.	.	2.f	küm-
 2F	soll	2.d	.	.	.
 .	.	.	.	4f	-mer-
@@ -173,10 +182,13 @@
 .	.	8B-	.	.	.
 2A	seel	2c	.	.	.
 =22	=22	=22	=22	=22	=22
+!! cadence start b
 2B-	küm-	2d	kü-	2r	.
+!! cadence end a; ultima=d
 2G	-mer-	2B-	-m̃er-	2d	mit
 *	*	*xywh-#82:311,1566,2771,374	*	*	*
 1D	-lich/	2A	-lich	2f	sol-
+!! cadence end b; ultima=d
 .	.	2A	mit	2f	-chen
 =23	=23	=23	=23	=23	=23
 0r	.	2B-	sol-	1f	schwe-
@@ -190,6 +202,7 @@
 .	.	8c	.	8e	.
 .	.	8B-	.	8d	.
 *xywh-#138:319,1394,2777,455	*	*	*	*	*
+!! cadence start
 2F	sol-	4A	.	1c	.
 .	.	4B-	.	.	.
 2F	-chem	2.c	.	.	.
@@ -200,6 +213,7 @@
 2G	-ren	2B-	.	.	.
 .	.	.	.	4e	.
 1A	za-	2c	-gen/	2f	.
+!! cadence end; ultima=c
 .	.	2c	in	2e	-gen/
 =26	=26	=26	=26	=26	=26
 2G	-gen/	1.d	mir	2r	.
@@ -231,6 +245,7 @@
 .	.	4B-	.	4g	.
 .	.	4A	.	4f	.
 .	.	4c	.	4e	.
+!! cadence start
 2.G	-sten	2.B-	.	2d	.
 .	.	.	.	2.g	mich/
 8F	.	8A	.	.	.
@@ -242,6 +257,7 @@
 .	.	2A	mit	2f#i	.
 *xywh-#138:317,1812,2770,455	*	*	*	*	*
 2G	mich/	2B	bit-	1g	.
+!! cadence end; ultima=g
 2F	mit	2c	-ter-	.	.
 =32	=32	=32	=32	=32	=32
 2F	bit-	1c	-li-	1a	.
@@ -272,6 +288,7 @@
 *	*	*	*Xij	*	*
 .	.	4d	in	.	.
 =36	=36	=36	=36	=36	=36
+!! cadence start
 2A	mei-	4f	mei-	2cc	mei-
 .	.	4e	-nẽ	.	.
 2G	-nem	2.g	her-	2b-	-nem
@@ -281,6 +298,7 @@
 .	.	2f#i	.	.	.
 =37	=37	=37	=37	=37	=37
 0Gll	-tzen.	0gl	-tzen.	0gll	-tzen.
+!! cadence end; ultima=g
 ==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-
 !!!RDF**kern: l = terminal long
