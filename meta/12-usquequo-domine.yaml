@@ -9,6 +9,47 @@ comments:
 composer: Rudolphus Lassus
 finalis: g
 incipit: Wie lang O Herr vergistu mein
+lyrics:
+    -
+        measures: 1-7
+        rhyme: a
+        text: Wie lang O Herr vergistu mein/
+    -
+        measures: 7-10
+        rhyme: b
+        text: wirt diß denn jmmer weren/
+    -
+        measures: 10-16
+        rhyme: a
+        text: wie lang wilt du das antlitz dein/
+    -
+        measures: 16-19
+        rhyme: b
+        text: von mir hin keren/
+    -
+        measures: 19-22
+        rhyme: c
+        text: wie lang sol mein seel kümmerlich/
+    -
+        measures: 22-26
+        rhyme: d
+        text: mit solchen schweren zagen/
+    -
+        measures: 25-27
+        rhyme: d
+        text: in mir rathschlagen/
+    -
+        measures: 27-31
+        rhyme: c
+        text: sol ich dann täglich engsten mich/
+    -
+        measures: 31-35
+        rhyme: e
+        text: mit bitterlichen schmertzen/
+    -
+        measures: 35-37
+        rhyme: e
+        text: in meinem hertzen.
 mode: dorian
 originalDocument: https://mdz-nbn-resolving.de/details:bsb00075346
 originalDocumentOwner: München, Bayerische Staatsbibliothek
