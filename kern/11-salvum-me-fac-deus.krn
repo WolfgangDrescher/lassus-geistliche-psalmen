@@ -30,6 +30,7 @@
 8A	.	.	.	.	.
 8B-	.	.	.	.	.
 8c	.	.	.	.	.
+!! cadence start
 4d	.	4f#	hei-	2a	hei-
 4d	-lig	4f#	-lig	.	.
 2e-	from̃-	2.g	from-	2g	-lig
@@ -39,6 +40,7 @@
 .	.	8e	.	.	.
 .	.	2f#i	.	.	.
 2r	.	2g	-men	1g	-men/
+!! cadence end; ultima=g
 2e-	ha-	4r	.	.	.
 .	.	2b-	ha-	.	.
 =4	=4	=4	=4	=4	=4
@@ -62,11 +64,13 @@
 8B-	.	4g	ab-	.	.
 8c	.	.	.	.	.
 =6	=6	=6	=6	=6	=6
+!! cadence start
 4d	.	4f#	-ge-	1a	-nom-
 4c	-ge-	2g	-nom-	.	.
 2d	-nom-	.	.	.	.
 .	.	4f#X	.	.	.
 2G	-en	2g	-men/	1g	-men/
+!! cadence end; ultima=g
 2B	es	2d	Es	.	.
 =7	=7	=7	=7	=7	=7
 2c	ist	1e	ist	2r	.
@@ -83,6 +87,7 @@
 4A	hin	.	.	.	.
 4c	all	2.e	-rich-	2g	auff-
 4G	auff-	.	.	.	.
+!! cadence start
 2B-	-rich-	.	.	2.f	-rich-
 .	.	4d	.	.	.
 2B-	-tig-	1d	.	.	.
@@ -92,6 +97,7 @@
 1A	-keit/	.	.	2e	.
 .	.	2c#i	-tig-	2e	-tig-
 2r	.	2d	-keit/	1d	-keit/
+!! cadence end; ultima=d
 2f	das	2a	Das	.	.
 =10	=10	=10	=1s	=10	=10
 2g	auch	2b-	auch	2r	.
@@ -106,6 +112,7 @@
 .	.	.	.	2dd	-der
 8A	.	.	.	.	.
 4B-	.	.	.	.	.
+!! cadence start
 2c	kin-	2g	-schen	2ee-i	men-
 2B-	-den/	2.b-	kin-	2dd	-schen
 =12	=12	=12	=12	=12	=12
@@ -114,6 +121,7 @@
 .	.	8g	.	.	.
 2f	kein	2a	.	.	.
 1g	trew	2b-	-den/	2b-	-den/
+!! cadence end; ultima=b-
 .	.	2b-	Kein	2dd	kein
 =13	=13	=13	=13	=13	=13
 *xywh-#137:86,1391,2717,440	*	*	*	*	*
@@ -124,11 +132,13 @@
 4e	und	4g	und	.	.
 2f	glaub	2a	glaub	4cc	mehr
 =14	=14	=14	=14	=14	=14
+!! cadence start
 .	.	.	.	2dd	ist
 4g	mehr	4b-	mehr	.	.
 4e	ist	4g	ist	2cc	zu
 4f	zu	4a	zu	.	.
 4g	fin-	2dd	fin-	1b-	fin-
+!! cadence end; ultima=b-
 4.G	-den/	.	.	.	.
 .	.	2d	-den/	.	.
 8A	.	.	.	.	.
@@ -153,6 +163,7 @@
 2B-	die-	.	.	2dd	fehr-
 2f	-ser	2.a	-sen	2cc	-lich
 *	*	*	*	*xywh-#21:96,1407,2718,409	*
+!! cadence start
 2g	fehr-	.	.	2.b-	bö-
 .	.	4g	.	.	.
 2e-	-lich	2.g	.	.	.
@@ -165,6 +176,7 @@
 .	.	2f#i	.	2a	-ser
 4d	-ser	.	.	.	.
 2G	zeit.	4g	zeit	1g	zeit/
+!! cadence end; ultima=g
 .	.	4d	in	.	.
 4r	.	2e-	die-	.	.
 *	*ij	*	*	*	*
@@ -174,12 +186,14 @@
 .	.	.	.	4g	in
 .	.	4g	fehr-	4b-	die-
 4e-	-ser	4g	-lich	4b-	-ser
+!! cadence start
 4c	fehr-	2g	bö-	4ee-i	fehr-
 4B	-lich	.	.	4dd	-lich
 4c	bö-	2e-	-sen	4g	bö-
 4c	-ser	.	.	4cc	-ser
 =20	=20	=20	=20	=20	=20
 0Gll	zeit.	0dll	zeit.	0bll	zeit.
+!! cadence end; ultima=g
 *	*Xij	*	*	*	*
 ==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-
