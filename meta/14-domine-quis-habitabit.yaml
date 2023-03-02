@@ -16,7 +16,7 @@ lyrics:
     -
         measures: 7-9
         rhyme: b
-        text:  bey dir in freuden leben/
+        text: bey dir in freuden leben/
     -
         measures: 9-12
         rhyme: c
@@ -133,7 +133,8 @@ voices:
         lyrics: |-
             Wer wirt Herr wolgemut/
             in deiner hütten gut/
-            in deiner hütten gut bey dir in freuden in freuden leben/
+            in deiner hütten gut/
+            bey dir in freuden in freuden leben/
             wem wirstu günstig sein/
             auff heilgem auff heilgem berge dein/
             auff heilgem berge dein/
@@ -258,7 +259,7 @@ voices:
             wem wirstu günstig sein/
             Auff heilgem berge dein/
             auff heilgem berge dein/
-            Ein ruhestat ein ruhe stat zu geben.
+            Ein ruhe stat ein ruhe stat zu geben.
         prange:
             mean:
                 kern: f#
