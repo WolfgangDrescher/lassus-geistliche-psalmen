@@ -1,4 +1,6 @@
-cantusFirmus: []
+cantusFirmus:
+    - cantus
+    - tenor
 comments:
     - Anfang quasi mixolydisch
     - Kadenz mit Quintsextakkord auf 4 Skalenstufe
@@ -151,7 +153,7 @@ voices:
             im Himel ist kein Gott/
             sie sind verderbt an allen örten/
             sind gar zu einem grewel worden/
-            in jhrer missethat in jhrer missethat in jhrer missethat. in jhrer misse -that.
+            in jhrer missethat in jhrer missethat in jhrer missethat. in jhrer missethat.
         prange:
             mean:
                 kern: G
@@ -274,7 +276,7 @@ voices:
     tenor:
         clef: C3
         lyrics: |-
-            Die thoren sprechem wol on schertzen/
+            Die thoren sprechen wol on schertzen/
             Heimlich in jhrem bösen hertzen/
             Im Himel ist kein Gott/
             sie sind verderbt an allen örten/
