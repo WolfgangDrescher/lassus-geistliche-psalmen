@@ -1,7 +1,34 @@
 cantusFirmus: []
+comments:
+    - Kadenzen in doppeltem Tempo
 composer: Rudolphus Lassus
 finalis: c
 incipit: Wer wird Herr wolgemut
+lyrics:
+    -
+        measures: 1-4
+        rhyme: a
+        text: Wer wird Herr wolgemut/
+    -
+        measures: 4-7
+        rhyme: a
+        text: in deiner hütten gut/
+    -
+        measures: 7-9
+        rhyme: b
+        text:  bey dir in freuden leben/
+    -
+        measures: 9-12
+        rhyme: c
+        text: wem wirstu günstig sein/
+    -
+        measures: 12-17
+        rhyme: c
+        text: auff heilgem berge dein/
+    -
+        measures: 17-21
+        rhyme: b
+        text: ein ruhe stat zu geben.
 mode: mixolydian
 originalDocument: https://mdz-nbn-resolving.de/details:bsb00075346
 originalDocumentOwner: München, Bayerische Staatsbibliothek
