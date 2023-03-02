@@ -1,0 +1,280 @@
+cantusFirmus: []
+composer: Rudolphus Lassus
+finalis: c
+incipit: Wer wird Herr wolgemut
+mode: mixolydian
+originalDocument: https://mdz-nbn-resolving.de/details:bsb00075346
+originalDocumentOwner: München, Bayerische Staatsbibliothek
+prange:
+    mean:
+        kern: f#
+        keyno: 66.1382
+    median:
+        kern: g
+        keyno: 67
+    noteCount:
+        -
+            count: 4
+            kern: F
+            keyno: 53
+        -
+            count: 9
+            kern: G
+            keyno: 55
+        -
+            count: 8
+            kern: A
+            keyno: 57
+        -
+            count: 9
+            kern: B-
+            keyno: 58
+        -
+            count: 24
+            kern: c
+            keyno: 60
+        -
+            count: 16
+            kern: d
+            keyno: 62
+        -
+            count: 2
+            kern: e-
+            keyno: 63
+        -
+            count: 12
+            kern: e
+            keyno: 64
+        -
+            count: 17
+            kern: f
+            keyno: 65
+        -
+            count: 4
+            kern: f#
+            keyno: 66
+        -
+            count: 24
+            kern: g
+            keyno: 67
+        -
+            count: 17
+            kern: a
+            keyno: 69
+        -
+            count: 12
+            kern: b-
+            keyno: 70
+        -
+            count: 8
+            kern: b
+            keyno: 71
+        -
+            count: 19
+            kern: cc
+            keyno: 72
+        -
+            count: 13
+            kern: dd
+            keyno: 74
+        -
+            count: 1
+            kern: ee-
+            keyno: 75
+        -
+            count: 10
+            kern: ee
+            keyno: 76
+        -
+            count: 7
+            kern: ff
+            keyno: 77
+        -
+            count: 1
+            kern: gg
+            keyno: 79
+    tessitura: 27
+rawFile: https://raw.githubusercontent.com/WolfgangDrescher/lassus-geistliche-psalmen/master/kern/14-domine-quis-habitabit.krn
+sourceFile: https://github.com/WolfgangDrescher/lassus-geistliche-psalmen/blob/master/kern/14-domine-quis-habitabit.krn
+title: Domine quis habitabit
+transposition: cantus_mollis
+ulenbergRawFile: https://raw.githubusercontent.com/WolfgangDrescher/ulenberg-psalmen-davids/master/kern/014-domine-quis-habitabit.krn
+ulenbergSourceFile: https://github.com/WolfgangDrescher/ulenberg-psalmen-davids/blob/master/kern/014-domine-quis-habitabit.krn
+voices:
+    bassus:
+        clef: C3
+        lyrics: |-
+            Wer wirt Herr wolgemut/
+            in deiner hütten gut/
+            in deiner hütten gut bey dir in freuden in freuden leben/
+            wem wirstu günstig sein/
+            auff heilgem auff heilgem berge dein/
+            auff heilgem berge dein/
+            ein ruhestat zu geben.
+        prange:
+            mean:
+                kern: B
+                keyno: 59.4412
+            median:
+                kern: c
+                keyno: 60
+            noteCount:
+                -
+                    count: 4
+                    kern: F
+                    keyno: 53
+                -
+                    count: 9
+                    kern: G
+                    keyno: 55
+                -
+                    count: 8
+                    kern: A
+                    keyno: 57
+                -
+                    count: 9
+                    kern: B-
+                    keyno: 58
+                -
+                    count: 17
+                    kern: c
+                    keyno: 60
+                -
+                    count: 9
+                    kern: d
+                    keyno: 62
+                -
+                    count: 2
+                    kern: e-
+                    keyno: 63
+                -
+                    count: 3
+                    kern: e
+                    keyno: 64
+                -
+                    count: 4
+                    kern: f
+                    keyno: 65
+                -
+                    count: 3
+                    kern: g
+                    keyno: 67
+            tessitura: 15
+        urlScan: https://www.digitale-sammlungen.de/de/view/bsb00075346?page=140
+    cantus:
+        clef: G2
+        lyrics: |-
+            Wer wird Herr wolgemut/
+            in deiner hüten in deiner hüten gut/
+            bey dir in freiden leben/
+            wem wirstu günstig sein/
+            auff heilgem berge dein/
+            auff heilgem berge dein/
+            ein ruhe stat ein ruhe stat zu geben.
+        prange:
+            mean:
+                kern: cc#
+                keyno: 72.6104
+            median:
+                kern: cc
+                keyno: 72
+            noteCount:
+                -
+                    count: 3
+                    kern: g
+                    keyno: 67
+                -
+                    count: 9
+                    kern: a
+                    keyno: 69
+                -
+                    count: 7
+                    kern: b-
+                    keyno: 70
+                -
+                    count: 8
+                    kern: b
+                    keyno: 71
+                -
+                    count: 18
+                    kern: cc
+                    keyno: 72
+                -
+                    count: 13
+                    kern: dd
+                    keyno: 74
+                -
+                    count: 1
+                    kern: ee-
+                    keyno: 75
+                -
+                    count: 10
+                    kern: ee
+                    keyno: 76
+                -
+                    count: 7
+                    kern: ff
+                    keyno: 77
+                -
+                    count: 1
+                    kern: gg
+                    keyno: 79
+            tessitura: 13
+        urlScan: https://www.digitale-sammlungen.de/de/view/bsb00075346?page=24
+    tenor:
+        clef: C2
+        lyrics: |-
+            Wer wird Herr wolgemuet/
+            In deiner hütten gut/
+            in deiner hütten gut/
+            Bey dir in frewden leben/
+            wem wirstu günstig sein/
+            Auff heilgem berge dein/
+            auff heilgem berge dein/
+            Ein ruhestat ein ruhe stat zu geben.
+        prange:
+            mean:
+                kern: f#
+                keyno: 65.5417
+            median:
+                kern: f
+                keyno: 65
+            noteCount:
+                -
+                    count: 7
+                    kern: c
+                    keyno: 60
+                -
+                    count: 7
+                    kern: d
+                    keyno: 62
+                -
+                    count: 9
+                    kern: e
+                    keyno: 64
+                -
+                    count: 13
+                    kern: f
+                    keyno: 65
+                -
+                    count: 4
+                    kern: f#
+                    keyno: 66
+                -
+                    count: 18
+                    kern: g
+                    keyno: 67
+                -
+                    count: 8
+                    kern: a
+                    keyno: 69
+                -
+                    count: 5
+                    kern: b-
+                    keyno: 70
+                -
+                    count: 1
+                    kern: cc
+                    keyno: 72
+            tessitura: 13
+        urlScan: https://www.digitale-sammlungen.de/de/view/bsb00075346?page=84
