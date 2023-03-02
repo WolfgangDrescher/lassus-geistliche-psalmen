@@ -1,7 +1,37 @@
 cantusFirmus: []
+comments:
+    - Anfang quasi mixolydisch
+    - Kadenz mit Quintsextakkord auf 4 Skalenstufe
+    - Mehrere Imitationen mit langen und kurzen ausschnitten der Soggetti
+    - Der cantus firmus fehlt im ersten Vers
 composer: Orlandus Lassus
 finalis: g
 incipit: Die thoren sprechen wol on schertzen
+lyrics:
+    -
+        measures: 1-5
+        rhyme: a
+        text: Die thoren sprechen wol on schertzen/
+    -
+        measures: 5-9
+        rhyme: a
+        text: heimlich in jhrem bösen hertzen/
+    -
+        measures: 8-11
+        rhyme: b
+        text: im Himel ist kein Gott/
+    -
+        measures: 10-13
+        rhyme: c
+        text: sie sind verderbt an allen örten/
+    -
+        measures: 13-17
+        rhyme: c
+        text: sind gar zu einem grewel worden/
+    -
+        measures: 16-24
+        rhyme: b
+        text: in jhrer missethat.
 mode: dorian
 originalDocument: https://mdz-nbn-resolving.de/details:bsb00075346
 originalDocumentOwner: München, Bayerische Staatsbibliothek
