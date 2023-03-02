@@ -74,11 +74,13 @@
 4A	.	.	.	.	.
 =9	=9	=9	=9	=9	=9
 *xywh-#138:321,561,2765,445	*	*	*	*	*
+*lig	*	*	*	*	*
 1B-	.	4d	we-	4f	-mer
 .	.	4B-	.	4d	.
 .	.	2.d	.	2.f	.
 !! cadence start
 1A	.	.	.	.	.
+*Xlig	*	*	*	*	*
 .	.	4c	.	4e	.
 .	.	2.c	.	4e	.
 .	.	.	.	8d	.
@@ -148,11 +150,13 @@
 4G	.	2e-	hin	2b-	hin
 4A	.	.	.	.	.
 =18	=18	=18	=18	=18	=18
+*lig	*	*	*	*	*
 1B-	.	4d	ke-	4f	ke-
 .	.	4B-	.	4d	.
 .	.	2.d	.	2.f	.
 !! cadence start
 1A	.	.	.	.	.
+*Xlig	*	*	*	*	*
 .	.	4c	.	4e	.
 .	.	2.c	.	4e	.
 .	.	.	.	8d	.
@@ -171,11 +175,13 @@
 .	.	2A	sol	2c	sol
 *	*	*	*	*xywh-#22:297,1249,2702,356	*
 2r	.	2B-	mein	2d	mein
+*	*	*lig	*	*	*
 2A	wie	1c	seel	2e	seel
 =21	=21	=21	=21	=21	=21
 !! cadence start a
 2A	lang	.	.	2.f	küm-
 2F	soll	2.d	.	.	.
+*	*	*Xlig	*	*	*
 .	.	.	.	4f	-mer-
 2G	mein	.	.	1e	-lich/
 .	.	8c#i	.	.	.
@@ -203,11 +209,13 @@
 .	.	8B-	.	8d	.
 *xywh-#138:319,1394,2777,455	*	*	*	*	*
 !! cadence start
+*	*	*	*	*lig	*
 2F	sol-	4A	.	1c	.
 .	.	4B-	.	.	.
 2F	-chem	2.c	.	.	.
 =25	=25	=25	=25	=25	=25
 2F	schwe-	.	.	2.d	.
+*	*	*	*	*Xlig	*
 .	.	8Bni	.	.	.
 .	.	8A	.	.	.
 2G	-ren	2Bni	.	.	.
@@ -256,11 +264,13 @@
 .	.	.	.	8e	.
 .	.	2A	mit	2f#i	.
 *xywh-#138:317,1812,2770,455	*	*	*	*	*
+*	*	*	*	*lig	*
 2G	mich/	2B	bit-	1g	.
 !! cadence end; ultima=g
 2F	mit	2c	-ter-	.	.
 =32	=32	=32	=32	=32	=32
 2F	bit-	1c	-li-	1a	.
+*	*	*	*	*Xlig	*
 2F	-ter-	.	.	.	.
 *	*	*	*	*xywh-#22:303,1934,2722,422	*
 2F	-li-	2d	-chen	1r	.
