@@ -28,6 +28,7 @@
 2d	.	2G	from-	2b-	from-
 2e-	mein	2c	-keit	1g	-keit
 2E-	from̃-	1B-	trew-	.	.
+!! cadence start
 2G	-keit	.	.	4d	trew-
 .	.	.	.	4e	.
 =3	=3	=3	=3	=3	=3
@@ -36,11 +37,13 @@
 2D	-er	.	.	.	.
 .	.	.	.	4f#i	-er
 2d	Herr/	2G	Herr/	2.b-	Herr/
+!! cadence end; ultima=g
 2G	ist	1d	ist	.	.
 .	.	.	.	4cc	.
 =4	=4	=4	=4	=4	=4
 2B-	mein	.	.	2dd	.
 2c	be-	2e	mein	2cc	ist
+!! cadence start
 0d	-ger/	2f#i	be-	2a	mein
 .	.	2.g	-ger/	2b-	be-
 =5	=5	=5	=5	=5	=5
@@ -52,6 +55,7 @@
 .	.	8d	.	.	.
 *xywh-#142:304,579,2742,465	*	*xywh-#86:287,557,2754,452	*	*	*
 2r	.	4e	.	2g	-nimb
+!! cadence end; ultima=g
 .	.	4c	.	.	.
 2G	ver-	2d	.	2g	mein
 =6	=6	=6	=6	=6	=6
@@ -76,6 +80,7 @@
 *	*	*	*	*	*Xij
 4B-	-ter-	.	.	.	.
 2G	-li-	2e-	-li-	2r	.
+!! cadence start
 2B-	-ches	2d	-ches	4f	kla-
 *	*Xij	*	*	*	*
 .	.	.	.	4g	.
@@ -84,9 +89,11 @@
 .	.	.	.	2b-	.
 .	.	.	.	4a	.
 2.G	-gen/	2.B-	-gen/	2b-	-gen/
+!! cadence end; ultima=b-
 .	.	.	.	2dd	in
 4B-	in	4d	in	.	.
 =10	=10	=10	=10	=10	=10
+!! cadence start
 2A	die-	4e	die-	2cc	die-
 .	.	4f#i	-sen	.	.
 2G	-sem	2.g	za-	2b-	-sen
@@ -97,6 +104,7 @@
 .	.	2f#i	.	.	.
 =11	=11	=11	=11	=11	=11
 2G	-gen/	1d	-gen/	2.b-	-gen/
+!! cadence end; ultima=g
 2G	merck	.	.	.	.
 .	.	.	.	8a	.
 .	.	.	.	8g	.
@@ -116,13 +124,16 @@
 =13	=13	=13	=13	=13	=13
 1B-	-li-	2d	bitt	2f	bitt
 .	.	2d	fleh-	2f	fleh-
+!! cadence start a
 1A	-cher	2e	-li-	2.cc	-li-
 .	.	2f	-cher	.	.
 .	.	.	.	4cc	-cher
 =14	=14	=14	=14	=14	=14
 2G	wort/	2g	wort/	1b	wort/
 2G	mein	2d	mein	.	.
+!! cadence start b
 2C	ai-	1e-	ai-	2cc	mein
+!! cadence end a; ultima=c
 2E-	-nig	.	.	4g	ai-
 .	.	.	.	2b-i	-nig
 =15	=15	=15	=15	=15	=15
@@ -132,6 +143,7 @@
 .	.	.	.	2a	.
 *	*	*	*	*xywh-#26:263,1222,2713,389	*
 2r	.	4B-	hort/	4b-	hort/
+!! cadence end b; ultima=b-
 .	.	4c	.	8a	.
 .	.	.	.	8g	.
 2B-	die	4d	.	2f	.
@@ -157,6 +169,7 @@
 4A	.	.	.	.	.
 2B-	.	2d	auß	4.f	fal-
 .	.	.	.	8g	.
+!! cadence start
 2F	-schem	2c	fal-	4a	.
 .	.	.	.	4a	-schem
 2G	mun-	2B-	-schem	2.b-	mun-
@@ -167,6 +180,7 @@
 .	.	.	.	2a	.
 *	*	*	*	*xywh-#26:256,1554,2729,419	*
 4r	.	2B-	-de/	4b-	-de/
+!! cadence end; ultima=b-
 4B-	auß	.	.	4dd	auß
 2A	lo-	4r	.	4cc	lo-
 .	.	4f	auß	4a	-sem
@@ -186,6 +200,7 @@
 4F	auß	.	.	.	.
 =21	=21	=21	=21	=21	=21
 *xywh-#142:291,1812,2760,433	*	*	*	*	*
+!! cadence start c
 4E-	lo-	2G	-sem	4c	-de/
 *	*	*	*Xij	*	*ij
 4C	-sem	.	.	4cc	auß
@@ -200,7 +215,9 @@
 .	.	.	.	4f#	-sem
 =22	=22	=22	=22	=22	=22
 *	*	*xywh-#86:265,1784,2770,455	*	*xywh-#26:250,1933,2729,403	*
+!! cadence start d
 4r	.	2G	-de.	4g	grun-
+!! cadence end c; ultima=g
 *	*ij	*	*	*	*
 4G	auß	.	.	4d	-de
 *	*	*	*ij	*	*Xij
@@ -213,6 +230,7 @@
 .	.	4c	.	.	.
 =23	=23	=23	=23	=23	=23
 0Gll	-de.	0Bll	-de.	0dll	-de.
+!! cadence end d; ultima=g
 *	*Xij	*	*Xij	*	*
 ==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-
