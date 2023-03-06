@@ -143,12 +143,12 @@
 2F	dir	.	.	2a	mein
 .	.	4e	.	.	.
 =17	=17	=17	=17	=17	=17
-1G	vn-	2d	.	2b-	güt
+1G	un-	2d	.	2b-	güt
 .	.	2g	dir	2b-	dir
 *	*	*xywh-#85:100,1406,2761,438	*	*	*
-2A	-uon-	2.f	vn-	2cc	vn-
-2B-	-nö-	.	.	2dd	-uon-
-.	.	4d	-uon-	.	.
+2A	-von-	2.f	un-	2cc	un-
+2B-	-nö-	.	.	2dd	-von-
+.	.	4d	-von-	.	.
 =18	=18	=18	=18	=18	=18
 !! cadence start
 1G	-ten	2d	-nö-	1b-	-nö-
@@ -167,18 +167,18 @@
 *	*	*	*	*xywh-#25:75,1833,2773,523	*
 2G	güt	2r	.	2b-	güt
 2F	dir	2A	mein	2cc	dir
-2r	.	2B-	gut	4f	vn-
+2r	.	2B-	gut	4f	un-
 .	.	.	.	4e	.
 2G	mein	2B-	dir	4d	.
 .	.	.	.	4e	.
 =21	=21	=21	=21	=21	=21
-2A	güt	1c	vn-	4f	.
+2A	güt	1c	un-	4f	.
 .	.	.	.	4e	.
 2A	dir	.	.	2.f	.
 *xywh-#141:130,1794,2734,549	*	*	*	*	*
-2B-	vn-	1d	-uon-	.	.
-.	.	.	.	4f	-uon-
-2G	-uon-	.	.	4b-	-nö-
+2B-	un-	1d	-von-	.	.
+.	.	.	.	4f	-von-
+2G	-von-	.	.	4b-	-nö-
 .	.	.	.	4cc	.
 =22	=22	=22	=22	=22	=22
 !! cadence start
