@@ -46,7 +46,7 @@ originalDocumentOwner: München, Bayerische Staatsbibliothek
 prange:
     mean:
         kern: d
-        keyno: 62.3404
+        keyno: 62.3617
     median:
         kern: d
         keyno: 62
@@ -100,11 +100,11 @@ prange:
             kern: e
             keyno: 64
         -
-            count: 25
+            count: 19
             kern: f
             keyno: 65
         -
-            count: 3
+            count: 9
             kern: f#
             keyno: 66
         -
@@ -149,7 +149,7 @@ voices:
             merck auff mein bitt flehlicher wort/
             mein ainig hort/
             die nicht herkum̃t auß falschem munde/
-            auß losem aus losem auß losem munde. auß losem munde.
+            auß losem aus losem auß losem grunde. auß losem grunde.
         prange:
             mean:
                 kern: G#
@@ -211,15 +211,15 @@ voices:
             ist mein beger/
             vernimb mein bitterliches vernimb mein bitterliches klagen/
             in diesen zagen/
-            merck auff mein bitt -flehlicher wort/
+            merck auff mein bitt flehlicher wort/
             mein ainig hort/
             die nicht herkum̃t auß falschem munde/
             auß losem auß losem grunde/
-            auß logrunde auß losem grunde.
+            auß losem grunde auß losem grunde.
         prange:
             mean:
                 kern: g#
-                keyno: 67.6903
+                keyno: 67.708
             median:
                 kern: a
                 keyno: 69
@@ -241,11 +241,11 @@ voices:
                     kern: e
                     keyno: 64
                 -
-                    count: 16
+                    count: 14
                     kern: f
                     keyno: 65
                 -
-                    count: 1
+                    count: 3
                     kern: f#
                     keyno: 66
                 -
@@ -288,7 +288,7 @@ voices:
         prange:
             mean:
                 kern: c#
-                keyno: 61.3333
+                keyno: 61.3827
             median:
                 kern: d
                 keyno: 62
@@ -326,11 +326,11 @@ voices:
                     kern: e
                     keyno: 64
                 -
-                    count: 8
+                    count: 4
                     kern: f
                     keyno: 65
                 -
-                    count: 2
+                    count: 6
                     kern: f#
                     keyno: 66
                 -
