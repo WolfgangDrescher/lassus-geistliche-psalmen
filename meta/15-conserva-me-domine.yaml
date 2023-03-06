@@ -119,8 +119,8 @@ voices:
             mein Got du bist/
             was an mir ist was an mir ist von guten dingen/
             kan dir kein nutz noch frommen bringen/
-            mein gut dir vnuonnöten ist/
-            mein güt mein güt dir mein güt dir vnuonnöten ist.
+            mein gut dir unvonnöten ist/
+            mein güt mein güt dir mein güt dir unvonnöten ist.
         prange:
             mean:
                 kern: A
@@ -189,8 +189,8 @@ voices:
             was an mir was an mir ist/
             von guten dingen/
             kan dir kein nutz kan dir kein nutz noch from̃en bringen/
-            mein güt dir vnuonnöten ist/
-            mein güt dir vnuonnöten ist.
+            mein güt dir unvonnöten ist/
+            mein güt dir unvonnöten ist.
         prange:
             mean:
                 kern: a
@@ -261,7 +261,7 @@ voices:
             Ich sprach zu dir mein Gott du bist/
             Was an mir ist von guten dingen/
             Kan dir kein nutz noch from̃en bringen/
-            Mein gut dir vnuonnöten ist mein gut dir mein gut dir vnuonnöten ist.
+            Mein gut dir unvonnöten ist mein gut dir mein gut dir unvonnöten ist.
         prange:
             mean:
                 kern: d
