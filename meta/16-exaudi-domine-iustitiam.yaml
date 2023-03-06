@@ -3,6 +3,39 @@ cantusFirmus:
 composer: Rudolphus Lassus
 finalis: g
 incipit: Erhör mein fromkeit trewer Herr
+lyrics:
+    -
+        measures: 1-3
+        rhyme: a
+        text: Erhör mein fromkeit trewer Herr/
+    -
+        measures: 3-5
+        rhyme: a
+        text: ist mein beger/
+    -
+        measures: 5-9
+        rhyme: b
+        text: vernimb mein bitterliches klagen/
+    -
+        measures: 9-11
+        rhyme: b
+        text: in diesen zagen/
+    -
+        measures: 11-14
+        rhyme: c
+        text: merck auff mein bitt flehlicher wort/
+    -
+        measures: 14-15
+        rhyme: c
+        text: mein ainig hort/
+    -
+        measures: 15-19
+        rhyme: d
+        text: die nicht herkum̃t auß falschem munde
+    -
+        measures: 19-23
+        rhyme: d
+        text: auß losem grunde.
 mode: dorian
 originalDocument: https://mdz-nbn-resolving.de/details:bsb00075346
 originalDocumentOwner: München, Bayerische Staatsbibliothek
