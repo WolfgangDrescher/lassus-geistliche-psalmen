@@ -1,0 +1,345 @@
+cantusFirmus: []
+composer: Orlandus Lassus
+finalis: f
+incipit: Herr der du meine stercke bist
+mode: ionian
+originalDocument: https://mdz-nbn-resolving.de/details:bsb00075346
+originalDocumentOwner: München, Bayerische Staatsbibliothek
+prange:
+    mean:
+        kern: d
+        keyno: 62.2405
+    median:
+        kern: d
+        keyno: 62
+    noteCount:
+        -
+            count: 1
+            kern: C
+            keyno: 48
+        -
+            count: 4
+            kern: D
+            keyno: 50
+        -
+            count: 1
+            kern: E-
+            keyno: 51
+        -
+            count: 1
+            kern: E
+            keyno: 52
+        -
+            count: 15
+            kern: F
+            keyno: 53
+        -
+            count: 1
+            kern: F#
+            keyno: 54
+        -
+            count: 12
+            kern: G
+            keyno: 55
+        -
+            count: 23
+            kern: A
+            keyno: 57
+        -
+            count: 14
+            kern: B-
+            keyno: 58
+        -
+            count: 3
+            kern: B
+            keyno: 59
+        -
+            count: 34
+            kern: c
+            keyno: 60
+        -
+            count: 4
+            kern: c#
+            keyno: 61
+        -
+            count: 40
+            kern: d
+            keyno: 62
+        -
+            count: 1
+            kern: e-
+            keyno: 63
+        -
+            count: 31
+            kern: e
+            keyno: 64
+        -
+            count: 38
+            kern: f
+            keyno: 65
+        -
+            count: 2
+            kern: f#
+            keyno: 66
+        -
+            count: 28
+            kern: g
+            keyno: 67
+        -
+            count: 20
+            kern: a
+            keyno: 69
+        -
+            count: 7
+            kern: b-
+            keyno: 70
+        -
+            count: 1
+            kern: b
+            keyno: 71
+        -
+            count: 9
+            kern: cc
+            keyno: 72
+        -
+            count: 1
+            kern: dd
+            keyno: 74
+    tessitura: 27
+rawFile: https://raw.githubusercontent.com/WolfgangDrescher/lassus-geistliche-psalmen/master/kern/17-diligam-te-domine.krn
+sourceFile: https://github.com/WolfgangDrescher/lassus-geistliche-psalmen/blob/master/kern/17-diligam-te-domine.krn
+title: Diligam te Domine
+transposition: cantus_mollis
+ulenbergRawFile: https://raw.githubusercontent.com/WolfgangDrescher/ulenberg-psalmen-davids/master/kern/017-diligam-te-domine.krn
+ulenbergSourceFile: https://github.com/WolfgangDrescher/ulenberg-psalmen-davids/blob/master/kern/017-diligam-te-domine.krn
+voices:
+    bassus:
+        clef: C4
+        lyrics: |-
+            Herr der du meine stercke bist/
+            so lang so lang in mir das leben ist/
+            soltu mir lieb von hertzen sein/
+            Gott ist fürwar der felse mein mein krafft/
+            mein hilff/
+            mein Herre milt/
+            mein macht drauf ich wil jm̃er hoffen/
+            wil jm̃er hoffen/
+            meins heils ein horn/
+            meins heils ein horn/
+            mein schirm uñ schilt/
+            mein schutz/
+            weñ not mein schutz/
+            weñ not mich hat betroffen/
+            mein schutz/
+            wenn not mich hat betroffen. mich hat betroffen.
+        prange:
+            mean:
+                kern: A
+                keyno: 57.2062
+            median:
+                kern: A
+                keyno: 57
+            noteCount:
+                -
+                    count: 1
+                    kern: C
+                    keyno: 48
+                -
+                    count: 4
+                    kern: D
+                    keyno: 50
+                -
+                    count: 1
+                    kern: E-
+                    keyno: 51
+                -
+                    count: 1
+                    kern: E
+                    keyno: 52
+                -
+                    count: 15
+                    kern: F
+                    keyno: 53
+                -
+                    count: 1
+                    kern: F#
+                    keyno: 54
+                -
+                    count: 9
+                    kern: G
+                    keyno: 55
+                -
+                    count: 19
+                    kern: A
+                    keyno: 57
+                -
+                    count: 10
+                    kern: B-
+                    keyno: 58
+                -
+                    count: 2
+                    kern: B
+                    keyno: 59
+                -
+                    count: 17
+                    kern: c
+                    keyno: 60
+                -
+                    count: 2
+                    kern: c#
+                    keyno: 61
+                -
+                    count: 14
+                    kern: d
+                    keyno: 62
+                -
+                    count: 1
+                    kern: e-
+                    keyno: 63
+            tessitura: 16
+        urlScan: https://www.digitale-sammlungen.de/de/view/bsb00075346?page=143
+    cantus:
+        clef: C1
+        lyrics: |-
+            Herr der du meine stercke bist/
+            so lang in mir das leben ist/
+            soltu mir lieb von hertzen sein/
+            Gott ist fürwar der felse mein/
+            mein krafft mein hilff/
+            mein Herre mild/
+            mein macht/
+            drauff ich wil jmmer hoffen/
+            meins heils ein horn/
+            mein schrim uñ schild/
+            mein schutz/
+            wenn not mich hat betroffen/
+            mein schutz/
+            wenn not mich hat betroffen.
+        prange:
+            mean:
+                kern: g#
+                keyno: 67.6125
+            median:
+                kern: g
+                keyno: 67
+            noteCount:
+                -
+                    count: 1
+                    kern: c
+                    keyno: 60
+                -
+                    count: 1
+                    kern: d
+                    keyno: 62
+                -
+                    count: 4
+                    kern: e
+                    keyno: 64
+                -
+                    count: 16
+                    kern: f
+                    keyno: 65
+                -
+                    count: 2
+                    kern: f#
+                    keyno: 66
+                -
+                    count: 23
+                    kern: g
+                    keyno: 67
+                -
+                    count: 15
+                    kern: a
+                    keyno: 69
+                -
+                    count: 7
+                    kern: b-
+                    keyno: 70
+                -
+                    count: 1
+                    kern: b
+                    keyno: 71
+                -
+                    count: 9
+                    kern: cc
+                    keyno: 72
+                -
+                    count: 1
+                    kern: dd
+                    keyno: 74
+            tessitura: 15
+        urlScan: https://www.digitale-sammlungen.de/de/view/bsb00075346?page=27
+    tenor:
+        clef: C3
+        lyrics: |-
+            Herr der du meine stercke bist/
+            so lang in mir das leben ist/
+            Sol du mir lieb von herzen sein/
+            Gott ist fürwar der felse mein/
+            Mein krafft/
+            mein hilff/
+            mein Herre mild/
+            mein macht/
+            drauff ich will jmmer hoffen/
+            meins heils ein horn/
+            mein schirm und schild/
+            mein schirm und schild/
+            mein schutz/
+            weñ not mich hat betroffen/
+            mein schutz/
+            weñ not mich hat betroffen/
+            mich hat betroffen.
+        prange:
+            mean:
+                kern: e-
+                keyno: 62.7544
+            median:
+                kern: e
+                keyno: 64
+            noteCount:
+                -
+                    count: 3
+                    kern: G
+                    keyno: 55
+                -
+                    count: 4
+                    kern: A
+                    keyno: 57
+                -
+                    count: 4
+                    kern: B-
+                    keyno: 58
+                -
+                    count: 1
+                    kern: B
+                    keyno: 59
+                -
+                    count: 16
+                    kern: c
+                    keyno: 60
+                -
+                    count: 2
+                    kern: c#
+                    keyno: 61
+                -
+                    count: 25
+                    kern: d
+                    keyno: 62
+                -
+                    count: 27
+                    kern: e
+                    keyno: 64
+                -
+                    count: 22
+                    kern: f
+                    keyno: 65
+                -
+                    count: 5
+                    kern: g
+                    keyno: 67
+                -
+                    count: 5
+                    kern: a
+                    keyno: 69
+            tessitura: 15
+        urlScan: https://www.digitale-sammlungen.de/de/view/bsb00075346?page=87
