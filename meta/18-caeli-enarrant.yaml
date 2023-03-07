@@ -1,8 +1,36 @@
 cantusFirmus:
     - bassus
+comments:
+    - Modale Beantwortung bei «die grosse herrligkeit des Herren»
+    - Pikardische Terz am Ende und im vorletzen Vers
 composer: Rudolphus Lassus
 finalis: d
 incipit: Die Himml künden auß mit eren
+lyrics:
+    -
+        measures: 1-6
+        rhyme:
+        text: Die Himel künden auß mit eren/
+    -
+        measures: 6-14
+        rhyme:
+        text: die grossen herrligkeit des Herren/
+    -
+        measures: 14-18
+        rhyme:
+        text: das gantze firmament/
+    -
+        measures: 18-24
+        rhyme:
+        text: erzehlet auch behende/
+    -
+        measures: 24-27
+        rhyme:
+        text: durchauß an allen enden/
+    -
+        measures: 27-31
+        rhyme:
+        text: die wercke deiner hende.
 mode: dorian
 originalDocument: https://mdz-nbn-resolving.de/details:bsb00075346
 originalDocumentOwner: München, Bayerische Staatsbibliothek
