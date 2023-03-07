@@ -17,7 +17,7 @@
 *MM180	*	*MM180	*	*MM180	*
 =1	=1	=1	=1	=1	=1
 *xywh-#144:322,66,2761,546	*	*xywh-#88:303,50,2760,562	*	*xywh-#28:276,82,2725,530	*
-0r	.	0r	.	1d	Der
+0r	.	0r	.	1d	Die
 .	.	.	.	2d	Hi-
 .	.	.	.	2d	-mel
 =2	=2	=2	=2	=2	=2
@@ -145,12 +145,12 @@
 2D	das	2a	das	.	.
 *	*	*xywh-#88:283,1411,2822,441	*	*	*
 !! cadence start
-2A	gan	2cc	gan-	2e	-ze
-2G	-ze	2b	-tze	1e	fir-
+2A	gan-	2cc	gan-	2e	-tze
+2G	-tze	2b	-tze	1e	fir-
 =18	=18	=18	=18	=18	=18
 2A	fir-	2cc	fir-	.	.
 2B	-ma-	2dd	-ma-	2g	-ma-
-1c	-ment	0ee	-ment	2g	-ment
+1c	-ment/	0ee	-ment	2g	-ment
 !! cadence end; ultima=c
 *	*Xij	*	*Xij	*	*Xij
 .	.	.	.	2g	er-
