@@ -1,0 +1,251 @@
+!!!COM: Lassus, Orlandus
+!!!CDT: 1532-1594/06/14
+!!!OPR: Geistliche Psalmen mit dreyen Stimmen
+!!!ONM: 17
+!!!OTL@@LA: Diligam te Domine
+!!!OTL-incipit@@DE: Herr der du meine stercke bist
+**kern	**text	**kern	**text	**kern	**text
+*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*Ivox	*	*Ivox	*	*Ivox	*
+*I"Bassus	*	*I"Tenor	*	*I"Cantus	*
+*I'B	*	*I'T	*	*I'C	*
+*clefC4	*	*clefC3	*	*clefC1	*
+*k[b-]	*	*k[b-]	*	*k[b-]	*
+*f:ion	*	*f:ion	*	*f:ion	*
+*M2/1	*	*M2/1	*	*M2/1	*
+*met(C|)	*	*met(C|)	*	*met(C|)	*
+*MM180	*	*MM180	*	*MM180	*
+=1	=1	=1	=1	=1	=1
+*xywh-#143:159,46,2665,542	*	*xywh-#87:133,80,2708,532	*	*xywh-#27:86,69,2725,565	*
+1F	Herr	2r	.	1r	.
+.	.	2c	Herr	.	.
+2A	der	2c	der	2r	.
+2A	du	2c	du	2f	Herr
+=2	=2	=2	=2	=2	=2
+2B-	mei-	2.d	mei-	2f	der
+2d	-ne	.	.	2f	du
+.	.	4d	-ne	.	.
+!! cadence start
+2c	ster-	2e	ster-	2g	mei-
+2F	-cke	2.f	-cke	2a	-ne
+=3	=3	=3	=3	=3	=3
+1c	bist/	.	.	2g	ster-
+.	.	8e	.	.	.
+.	.	8d	.	.	.
+.	.	2e	.	2g	-cke
+2r	.	2f	bist/	1f	bist/
+!! cadence end; ultima=f
+2A	so	2c	so	.	.
+=4	=4	=4	=4	=4	=4
+1d	lang	2f	lang	2r	.
+.	.	2a	in	2f	so
+*	*	*xywh-#87:116,527,2708,423	*	*	*
+4r	.	2g	mir	2b-	lang
+4G	so	.	.	.	.
+2d	lang	2f	das	2a	in
+=5	=5	=5	=5	=5	=5
+2B	in	2d	le-	2g	mir
+!! cadence start
+2c	mir	2e	-ben	2g	das
+*	*	*	*	*xywh-#27:84,595,2725,430	*
+2r	.	1d	ist/	2a	le-
+2G	das	.	.	2b	-ben
+=6	=6	=6	=6	=6	=6
+*xywh-#143:147,573,2675,442	*	*	*	*	*
+1.A	le-	2r	.	1cc	ist/
+!! cadence end; ultima=c
+.	.	2f	Sol	.	.
+.	.	2e	du	2r	.
+2A	-ben	2c	mir	2cc	sol-
+=7	=7	=7	=7	=7	=7
+2G	ist/	2d	lieb	2b-	-tu
+2c	sol-	2e	von	2g	mir
+2F	-tu	2.f	her-	2a	lieb
+2A	mir	.	.	2cc	von
+.	.	4c	.	.	.
+=8	=8	=8	=8	=8	=8
+!! cadence start
+2G	lieb	4d	.	2b-	her-
+.	.	4e	.	.	.
+2F	von	2f	.	2a	-tzen
+2c	her-	2e	-zen	1g	sein/
+2B	-tzen	2d	sein/	.	.
+=9	=9	=9	=9	=9	=9
+1c	sein/	2r	.	1g	Gott
+!! cadence end; ultima=c
+.	.	2e	Gott	.	.
+*	*	*xywh-#87:103,889,2730,393	*	*	*
+2r	.	1a	ist	2cc	ist
+2F	Gott	.	.	2cc	für-
+=10	=10	=10	=10	=10	=10
+1B-	ist	2g	für-	1dd	-war
+.	.	2.g	-war	.	.
+1A	für-	.	.	1cc	der
+.	.	4e	.	.	.
+.	.	4f	.	.	.
+.	.	4c	.	.	.
+=11	=11	=11	=11	=11	=11
+2G	-war	2.d	.	2b-	fel-
+2F#	der	.	.	2.a	-se
+.	.	4d	der	.	.
+!! cadence start
+2G	fel-	2.B-	fel-	.	.
+.	.	.	.	4g	.
+2E-	-se	.	.	2.g	.
+.	.	8A	.	.	.
+.	.	8G	.	.	.
+=12	=12	=12	=12	=12	=12
+1D	mein	2A	.	.	.
+.	.	.	.	8f#i	.
+.	.	.	.	8e	.
+.	.	2A	-se	2f#i	.
+*xywh-#143:129,986,2687,432	*	*	*	*xywh-#27:84,1015,2720,417	*
+2r	.	1G	mein/	2g	mein/
+!! cadence end; ultima=g
+1d	mein	.	.	2b-	mein
+=13	=13	=13	=13	=13	=13
+.	.	2r	.	1a	krafft
+2c	krafft/	2A	Mein	.	.
+2e-	mein	2c	krafft/	2g	mein
+2d	hilff/	2G	mein	2b-	hilff/
+=14	=14	=14	=14	=14	=14
+2r	.	2d	hilff/	1a	mein
+2A	mein	2f	mein	.	.
+*	*	*xywh-#87:97,1227,2738,406	*	*	*
+2c	Her-	2e	Her-	2g	Her-
+2d	-re	2f	-re	2f	-re
+=15	=15	=15	=15	=15	=15
+2c	milt/	2g	mild/	1e	mild/
+2A	mein	2c	mein	.	.
+2B-	macht	2d	macht/	2r	.
+2A	drauf	2e	drauff	2c	mein
+=16	=16	=16	=16	=16	=16
+4D	ich	2f	ich	2d	macht/
+4d	wil	.	.	.	.
+4c#	j-	1a	will	2e	drauff
+4c#	-m̃er	.	.	.	.
+2d	hof-	.	.	2f	ich
+4B-	-fen/	2d	jm-	2f	wil
+*	*ij	*	*	*	*
+4d	wil	.	.	.	.
+=17	=17	=17	=17	=17	=17
+!! cadence start
+2c	j-	2e	-mer	2g	jm-
+2A	-m̃er	2.f	hof-	2a	-mer
+2B-	hof-	.	.	1g	hof-
+.	.	8e	.	.	.
+.	.	8d	.	.	.
+2c	-fen/	2e	.	.	.
+*	*Xij	*	*	*	*
+=18	=18	=18	=18	=18	=18
+*xywh-#143:124,1384,2715,457	*	*	*	*xywh-#27:79,1416,2718,435	*
+2r	.	2f	-fen/	1f	-fen/
+!! cadence end; ultima=f
+2A	meins	4r	.	.	.
+.	.	4c	meins	.	.
+2B-	heils	2d	heils	2r	.
+2G	ein	2B-	ein	2g	meins
+=19	=19	=19	=19	=19	=19
+*	*	*xywh-#87:93,1569,2742,417	*	*	*
+2F	horn/	2c	horn/	1a	heils
+4r	.	2.f	mein	.	.
+*	*ij	*	*	*	*
+4D	meins	.	.	.	.
+2A	heils	.	.	1cc	ein
+.	.	4e	schirm	.	.
+2F	ein	2a	und	.	.
+=20	=20	=20	=20	=20	=20
+2G	horn/	2d	schild/	2b-	horn/
+*	*Xij	*	*	*	*
+2F	mein	4r	.	2a	mein
+*	*	*	*ij	*	*
+.	.	4f	mein	.	.
+!! cadence start
+2C	schirm	2e	schirm	2g	schrim
+2D	uñ	2.d	und	2f	uñ
+=21	=21	=21	=21	=21	=21
+2A	schilt/	.	.	1e	schild/
+.	.	8c#i	.	.	.
+.	.	8Bni	.	.	.
+4r	.	2c#i	.	.	.
+4A	mein	.	.	.	.
+2B-	schutz/	2d	schild/	2r	.
+!! cadence end; ultima=d
+*	*	*	*Xij	*	*
+2d	weñ	4r	.	2f	mein
+.	.	4d	mein	.	.
+=22	=22	=22	=22	=22	=22
+2c	not	2e	schutz/	2g	schutz/
+4r	.	2f	weñ	2a	wenn
+4F	mein	.	.	.	.
+4F	schutz/	4a	not	2cc	not
+4E	weñ	4g	mich	.	.
+4F	not	4.c	hat	2a	mich
+4F	mich	.	.	.	.
+.	.	8d	.	.	.
+=23	=23	=23	=23	=23	=23
+*xywh-#143:112,1794,2722,494	*	*	*	*	*
+!! cadence start
+2c	hat	4e	.	2g	hat
+.	.	4e	be-	.	.
+2d	be-	2.f	-trof-	2f	be-
+2c	-trof-	.	.	1g	-trof-
+.	.	8e	.	.	.
+.	.	8d	.	.	.
+2c	-fen/	2e	.	.	.
+=24	=24	=24	=24	=24	=24
+*	*	*xywh-#87:86,1897,2757,455	*	*xywh-#27:74,1831,2740,459	*
+4r	.	4f	-fen/	2f	-fen/
+!! cadence end; ultima=f
+4A	mein	4c	mein	.	.
+4.B-	schutz/	2d	schutz/	4r	.
+.	.	.	.	4f	mein
+8A	.	.	.	.	.
+4G	.	4e	weñ	4g	schutz/
+4F	wenn	2f	not	4a	wenn
+2A	not	.	.	2cc	not
+.	.	4e	mich	.	.
+=25	=25	=25	=25	=25	=25
+!! cadence start a
+4r	.	2f	hat	2a	mich
+4F	mich	.	.	.	.
+4c	hat	4e	be-	4g	hat
+4d	be-	2f	-trof-	4f	be-
+1c	-trof-	.	.	1g	-trof-
+.	.	8e	.	.	.
+.	.	8d	.	.	.
+.	.	2e	.	.	.
+=26	=26	=26	=26	=26	=26
+!! cadence start b;
+2d	-fen.	4f	-fen/	00fll	-fen.
+!! cadence end a; ultima=f
+.	.	4B-	mich	.	.
+4r	.	4.d	hat	.	.
+*	*ij	*	*	*	*
+4B-	mich	.	.	.	.
+.	.	8c	.	.	.
+4d	hat	4B-	.	.	.
+4A	be-	4c	be-	.	.
+2B-	-trof-	2d	-trof-	.	.
+=27	=27	=27	=27	=27	=27
+0Fll	-fen.	0cll	-fen.	.	.
+!! cadence end b; ultima=f
+*	*Xij	*	*	*	*
+==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-
+!!!RDF**kern: l = terminal long
+!!!RDF**kern: i = editorial accidental
+!!!AGN: Psalm; Tricinium
+!!!LIB: Ulenberg, Caspar
+!!!LIB-CDT: 1548/12/24-1617/02/16
+!!!YOR: https://mdz-nbn-resolving.de/details:bsb00075346
+!!!YOO: München, Bayerische Staatsbibliothek
+!!!URL-scan: https://www.digitale-sammlungen.de/de/view/bsb00075346?page=27 Cantus
+!!!URL-scan: https://www.digitale-sammlungen.de/de/view/bsb00075346?page=87 Tenor
+!!!URL-scan: https://www.digitale-sammlungen.de/de/view/bsb00075346?page=143 Bassus
+!!!IIIF: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00075346/manifest
+!!!EED: Wolfgang Drescher
+!!!END: 2023/03/07
+!!!ENC: Wolfgang Drescher
+!!!EEV: 2023/03/07
+!!!title: @{ONM}. @{OTL} / <i>@{OTL-incipit@@DE}</i>
