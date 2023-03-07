@@ -1,0 +1,325 @@
+cantusFirmus:
+    - bassus
+composer: Rudolphus Lassus
+finalis: d
+incipit: Die Himml künden auß mit eren
+mode: dorian
+originalDocument: https://mdz-nbn-resolving.de/details:bsb00075346
+originalDocumentOwner: München, Bayerische Staatsbibliothek
+prange:
+    mean:
+        kern: e
+        keyno: 63.6679
+    median:
+        kern: e
+        keyno: 64
+    noteCount:
+        -
+            count: 9
+            kern: D
+            keyno: 50
+        -
+            count: 6
+            kern: E
+            keyno: 52
+        -
+            count: 7
+            kern: F
+            keyno: 53
+        -
+            count: 6
+            kern: G
+            keyno: 55
+        -
+            count: 1
+            kern: G#
+            keyno: 56
+        -
+            count: 17
+            kern: A
+            keyno: 57
+        -
+            count: 2
+            kern: B-
+            keyno: 58
+        -
+            count: 8
+            kern: B
+            keyno: 59
+        -
+            count: 16
+            kern: c
+            keyno: 60
+        -
+            count: 6
+            kern: c#
+            keyno: 61
+        -
+            count: 41
+            kern: d
+            keyno: 62
+        -
+            count: 26
+            kern: e
+            keyno: 64
+        -
+            count: 31
+            kern: f
+            keyno: 65
+        -
+            count: 3
+            kern: f#
+            keyno: 66
+        -
+            count: 23
+            kern: g
+            keyno: 67
+        -
+            count: 3
+            kern: g#
+            keyno: 68
+        -
+            count: 38
+            kern: a
+            keyno: 69
+        -
+            count: 3
+            kern: b-
+            keyno: 70
+        -
+            count: 6
+            kern: b
+            keyno: 71
+        -
+            count: 20
+            kern: cc
+            keyno: 72
+        -
+            count: 4
+            kern: dd
+            keyno: 74
+        -
+            count: 1
+            kern: ee
+            keyno: 76
+    tessitura: 27
+rawFile: https://raw.githubusercontent.com/WolfgangDrescher/lassus-geistliche-psalmen/master/kern/18-caeli-enarrant.krn
+sourceFile: https://github.com/WolfgangDrescher/lassus-geistliche-psalmen/blob/master/kern/18-caeli-enarrant.krn
+title: Cæli enarrant
+transposition: cantus_durus
+ulenbergRawFile: https://raw.githubusercontent.com/WolfgangDrescher/ulenberg-psalmen-davids/master/kern/018-caeli-enarrant.krn
+ulenbergSourceFile: https://github.com/WolfgangDrescher/ulenberg-psalmen-davids/blob/master/kern/018-caeli-enarrant.krn
+voices:
+    bassus:
+        clef: C4
+        lyrics: |-
+            Die Himel künden auß mit ehren/
+            die grosse herrligkeit des Herren/
+            die grosse herrligkeit des Herren/
+            das gantze firmament/
+            das gan -ze firmament er zelet auch behende/
+            er zelet auch behende/
+            durchauß an allen enden/
+            die wercke deiner hende.
+        prange:
+            mean:
+                kern: G#
+                keyno: 56.2286
+            median:
+                kern: A
+                keyno: 57
+            noteCount:
+                -
+                    count: 9
+                    kern: D
+                    keyno: 50
+                -
+                    count: 6
+                    kern: E
+                    keyno: 52
+                -
+                    count: 7
+                    kern: F
+                    keyno: 53
+                -
+                    count: 6
+                    kern: G
+                    keyno: 55
+                -
+                    count: 1
+                    kern: G#
+                    keyno: 56
+                -
+                    count: 17
+                    kern: A
+                    keyno: 57
+                -
+                    count: 2
+                    kern: B-
+                    keyno: 58
+                -
+                    count: 4
+                    kern: B
+                    keyno: 59
+                -
+                    count: 10
+                    kern: c
+                    keyno: 60
+                -
+                    count: 8
+                    kern: d
+                    keyno: 62
+            tessitura: 13
+        urlScan: https://www.digitale-sammlungen.de/de/view/bsb00075346?page=144
+    cantus:
+        clef: C1
+        lyrics: |-
+            Der Himel künden auß mit eren/
+            mit eren/
+            Die grossen herrligkeit des Herren/
+            das gantze firmament das ganze firmament erzehlet auch behende/
+            erzehlet auch behende/
+            behende/
+            durchauß an allen enden/
+            die wercke die wercke seiner hende.
+        prange:
+            mean:
+                kern: f#
+                keyno: 65.633
+            median:
+                kern: f
+                keyno: 65
+            noteCount:
+                -
+                    count: 1
+                    kern: B
+                    keyno: 59
+                -
+                    count: 4
+                    kern: c
+                    keyno: 60
+                -
+                    count: 2
+                    kern: c#
+                    keyno: 61
+                -
+                    count: 18
+                    kern: d
+                    keyno: 62
+                -
+                    count: 19
+                    kern: e
+                    keyno: 64
+                -
+                    count: 22
+                    kern: f
+                    keyno: 65
+                -
+                    count: 1
+                    kern: f#
+                    keyno: 66
+                -
+                    count: 15
+                    kern: g
+                    keyno: 67
+                -
+                    count: 14
+                    kern: a
+                    keyno: 69
+                -
+                    count: 1
+                    kern: b-
+                    keyno: 70
+                -
+                    count: 2
+                    kern: b
+                    keyno: 71
+                -
+                    count: 9
+                    kern: cc
+                    keyno: 72
+                -
+                    count: 1
+                    kern: dd
+                    keyno: 74
+            tessitura: 16
+        urlScan: https://www.digitale-sammlungen.de/de/view/bsb00075346?page=28
+    tenor:
+        clef: C1
+        lyrics: |-
+            Die Himel künden auß mit eren/
+            Die grossen herrligkeit des Herren die grossen herrligkeit des Herren des Herren/
+            Das gantze firmament das gantze firmament erzellet auch behende/
+            erzellet auch behende/
+            durchauß an allen enden/
+            die wercke deiner hende.
+        prange:
+            mean:
+                kern: g
+                keyno: 66.7959
+            median:
+                kern: g
+                keyno: 67
+            noteCount:
+                -
+                    count: 3
+                    kern: B
+                    keyno: 59
+                -
+                    count: 2
+                    kern: c
+                    keyno: 60
+                -
+                    count: 4
+                    kern: c#
+                    keyno: 61
+                -
+                    count: 15
+                    kern: d
+                    keyno: 62
+                -
+                    count: 7
+                    kern: e
+                    keyno: 64
+                -
+                    count: 9
+                    kern: f
+                    keyno: 65
+                -
+                    count: 2
+                    kern: f#
+                    keyno: 66
+                -
+                    count: 8
+                    kern: g
+                    keyno: 67
+                -
+                    count: 3
+                    kern: g#
+                    keyno: 68
+                -
+                    count: 24
+                    kern: a
+                    keyno: 69
+                -
+                    count: 2
+                    kern: b-
+                    keyno: 70
+                -
+                    count: 4
+                    kern: b
+                    keyno: 71
+                -
+                    count: 11
+                    kern: cc
+                    keyno: 72
+                -
+                    count: 3
+                    kern: dd
+                    keyno: 74
+                -
+                    count: 1
+                    kern: ee
+                    keyno: 76
+            tessitura: 18
+        urlScan: https://www.digitale-sammlungen.de/de/view/bsb00075346?page=88
