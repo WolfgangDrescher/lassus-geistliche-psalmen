@@ -20,6 +20,7 @@
 1F	Herr	2r	.	1r	.
 .	.	2c	Herr	.	.
 2A	der	2c	der	2r	.
+!	!	!	!	!LO:TX:a:i:t=c.f.	!
 2A	du	2c	du	2f	Herr
 =2	=2	=2	=2	=2	=2
 2B-	mei-	2.d	mei-	2f	der
@@ -102,6 +103,7 @@
 *xywh-#143:129,986,2687,432	*	*	*	*xywh-#27:84,1015,2720,417	*
 2r	.	1G	mein/	2g	mein/
 !! cadence end; ultima=g
+!	!	!	!	!LO:TX:a:i:t=c.f.	!
 1d	mein	.	.	2b-	mein
 =13	=13	=13	=13	=13	=13
 .	.	2r	.	1a	krafft
