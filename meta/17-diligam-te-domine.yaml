@@ -1,7 +1,42 @@
 cantusFirmus: []
+comments:
+    - Plagale Schlusskadenz
 composer: Orlandus Lassus
 finalis: f
 incipit: Herr der du meine stercke bist
+lyrics:
+    -
+        measures: 1-3
+        rhyme: a
+        text: Herr der du meine stercke bist/
+    -
+        measures: 3-7
+        rhyme: a
+        text: so lang in mir das leben ist/
+    -
+        measures: 6-9
+        rhyme: b
+        text: soltu mir lieb von hertzen sein/
+    -
+        measures: 9-12
+        rhyme: b
+        text: Gott ist fürwar der felse mein/
+    -
+        measures: 12-15
+        rhyme: c
+        text: mein krafft/ mein hilff/ mein Herre mild/
+    -
+        measures: 15-18
+        rhyme: d
+        text: mein macht/ drauff ich wil jmmer hoffen/
+    -
+        measures: 18-21
+        rhyme: c
+        text: meins heils ein horn/ mein schirm und schild/
+    -
+        measures: 21-27
+        rhyme: d
+        text: mein schutz/ wenn not mich hat betroffen.
 mode: ionian
 originalDocument: https://mdz-nbn-resolving.de/details:bsb00075346
 originalDocumentOwner: München, Bayerische Staatsbibliothek
