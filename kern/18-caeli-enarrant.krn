@@ -1,0 +1,273 @@
+!!!COM: Lassus, Rudolphus
+!!!CDT: 1563-1625
+!!!OPR: Geistliche Psalmen mit dreyen Stimmen
+!!!ONM: 18
+!!!OTL@@LA: Cæli enarrant
+!!!OTL-incipit@@DE: Die Himml künden auß mit eren
+**kern	**text	**kern	**text	**kern	**text
+*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*Ivox	*	*Ivox	*	*Ivox	*
+*I"Bassus	*	*I"Tenor	*	*I"Cantus	*
+*I'B	*	*I'T	*	*I'C	*
+*clefC4	*	*clefC1	*	*clefC1	*
+*k[]	*	*k[]	*	*k[]	*
+*d:dor	*	*d:dor	*	*d:dor	*
+*M2/1	*	*M2/1	*	*M2/1	*
+*met(C|)	*	*met(C|)	*	*met(C|)	*
+*MM180	*	*MM180	*	*MM180	*
+=1	=1	=1	=1	=1	=1
+*xywh-#144:322,66,2761,546	*	*xywh-#88:303,50,2760,562	*	*xywh-#28:276,82,2725,530	*
+0r	.	0r	.	1d	Der
+.	.	.	.	2d	Hi-
+.	.	.	.	2d	-mel
+=2	=2	=2	=2	=2	=2
+0r	.	2r	.	2a	kün-
+.	.	2d	Die	2a	-den
+.	.	2d	Hi-	1dd	auß
+.	.	2d	-mel	.	.
+=3	=3	=3	=3	=3	=3
+2r	.	2a	kün-	2cc	mit
+!LO:TX:a:i:t=c.f.	!	!	!	!	!
+2D	Die	2a	-den	2.f	e-
+2D	Hi-	1.dd	auß	.	.
+.	.	.	.	4d	.
+2D	-mel	.	.	2f	.
+=4	=4	=4	=4	=4	=4
+2A	kün-	.	.	1e	-ren/
+2A	-den	2cc	mit	.	.
+!! cadence start a
+2d	auß	4b	e-	2r	.
+.	.	4a	.	.	.
+2c	mit	2.a	.	2e	mit
+=5	=5	=5	=5	=5	=5
+!! cadence start b
+1B	eh-	.	.	2.d	e-
+.	.	8g#i	.	.	.
+.	.	8f#i	.	.	.
+.	.	2g#i	.	.	.
+.	.	.	.	4e	.
+1A	-ren/	0a	-ren/	4f	.
+!! cadence end a; ultima=a
+.	.	.	.	8e	.
+.	.	.	.	8d	.
+.	.	.	.	2e	.
+=6	=6	=6	=6	=6	=6
+*	*	*	*	*xywh-#28:271,576,2727,363	*
+2r	.	.	.	0f	-ren/
+!! cadence end b; ultima=f
+2d	die	.	.	.	.
+2d	gros-	2r	.	.	.
+2d	-se	2a	Die	.	.
+=7	=7	=7	=7	=7	=7
+*	*	*xywh-#88:301,585,2783,462	*	*	*
+2c	herr-	2a	gros-	00r	.
+2A	-lig-	2a	-sen	.	.
+*xywh-#144:317,582,2784,457	*	*	*	*	*
+1.B-	-keit	2f	herr-	.	.
+.	.	2d	-lig-	.	.
+=8	=8	=8	=8	=8	=8
+.	.	1f	-keit	.	.
+2A	des	.	.	.	.
+*lig	*	*	*	*	*
+!! cadence start
+1G	Her-	2e	des	.	.
+.	.	2.d	Her-	.	.
+=9	=9	=9	=9	=9	=9
+1A	.	.	.	2r	.
+*Xlig	*	*	*	*	*
+.	.	8c#i	.	.	.
+.	.	8B	.	.	.
+.	.	2c#i	.	2a	Die
+0D	-ren/	1f	-ren	2a	gros-
+!! cadence end; ultima=d
+.	.	.	.	2a	-sen
+=10	=10	=10	=10	=10	=10
+.	.	2r	.	2f	herr-
+.	.	2a	die	2d	-lig-
+1r	.	2a	gros-	2.f	-keit
+.	.	2a	-sen	.	.
+.	.	.	.	4g	.
+=11	=11	=11	=11	=11	=11
+*	*ij	*	*	*	*
+1d	die	2.f	herr-	4a	.
+.	.	.	.	4b-	.
+.	.	.	.	4a	.
+.	.	4g	.	4g	.
+2d	gros-	2a	.	2f	.
+2d	-se	2f	-lig-	2d	des
+=12	=12	=12	=12	=12	=12
+2c	herr-	2g	-keit	4e	Her-
+.	.	.	.	4d	.
+2A	-lig-	2a	des	4c	.
+.	.	.	.	4d	.
+*	*	*xywh-#88:292,999,2801,448	*	*xywh-#28:260,911,2738,368	*
+2.c	-keit	4g	Her-	4e	.
+.	.	4f	.	4f	.
+.	.	4e	.	2.g	.
+4B	.	4d	.	.	.
+=13	=13	=13	=13	=13	=13
+!! cadence start
+2A	.	2c	.	.	.
+.	.	.	.	4f	.
+2B-	des	4d	-ren	2.f	.
+.	.	4d	des	.	.
+1G	Her-	1b-	Her-	.	.
+.	.	.	.	8e	.
+.	.	.	.	8d	.
+.	.	.	.	2e	.
+=14	=14	=14	=14	=14	=14
+1F	-ren/	1a	-ren/	2f	-ren/
+!! cadence end; ultima=f
+.	.	.	.	2f	das
+1r	.	2r	.	2e	gan-
+.	.	2f	Das	2d	-tze
+=15	=15	=15	=15	=15	=15
+2r	.	2e	gan-	1c	fir-
+*	*Xij	*	*	*	*
+2F	das	2a	-tze	.	.
+2E	gan-	2g	fir-	2c	-ma-
+2D	-tze	4f	.	2d	-ment
+.	.	4e	.	.	.
+=16	=16	=16	=16	=16	=16
+*xywh-#144:312,1006,2784,459	*	*	*	*	*
+2G	fir-	4d	.	2r	.
+.	.	4B	.	.	.
+*	*	*	*	*	*ij
+2F	-ma-	1d	.	2a	das
+1E	-ment/	.	.	2.g	gan-
+.	.	2c	-ma-	.	.
+.	.	.	.	8f	.
+.	.	.	.	8e	.
+=17	=17	=17	=17	=17	=17
+*	*	*	*	*xywh-#28:265,1248,2743,361	*
+2r	.	2d	-ment	1f	.
+*	*ij	*	*ij	*	*
+2D	das	2a	das	.	.
+*	*	*xywh-#88:283,1411,2822,441	*	*	*
+!! cadence start
+2A	gan	2cc	gan-	2e	-ze
+2G	-ze	2b	-tze	1e	fir-
+=18	=18	=18	=18	=18	=18
+2A	fir-	2cc	fir-	.	.
+2B	-ma-	2dd	-ma-	2g	-ma-
+1c	-ment	0ee	-ment	2g	-ment
+!! cadence end; ultima=c
+*	*Xij	*	*Xij	*	*Xij
+.	.	.	.	2g	er-
+=19	=19	=19	=19	=19	=19
+2r	.	.	.	2a	-zeh-
+2c	er	.	.	2g	-let
+2d	ze-	2r	.	2f	auch
+!! cadence start
+2c	-let	2cc	er-	2e	be-
+=20	=20	=20	=20	=20	=20
+2B	auch	2dd	-zel-	2d	-hen-
+2A	be-	2cc	-let	1e	-de/
+2G#	-hen-	2b	auch	.	.
+*	*	*	*	*	*ij
+2A	-de/	2a	be-	2cc	er-
+!! cadence end; ultima=a
+=21	=21	=21	=21	=21	=21
+0r	.	2g#	-hen-	2b	-zeh-
+.	.	1a	-de/	2cc	-let
+.	.	.	.	2f	auch
+*	*	*	*ij	*	*
+.	.	2b	er-	2g	be-
+=22	=22	=22	=22	=22	=22
+2r	.	2.cc	-zel-	2a	-hen-
+*	*ij	*	*	*	*
+2E	er	.	.	2g	-de/
+.	.	4cc	-let	.	.
+*	*	*	*	*	*Xij
+2F	ze-	2a	auch	2.c	be-
+2E	-let	2g	be-	.	.
+.	.	.	.	8d	.
+.	.	.	.	8e	.
+=23	=23	=23	=23	=23	=23
+*	*	*lig	*	*xywh-#28:260,1566,2736,379	*
+!! cadence start
+2D	auch	1a	-hen-	2f	.
+2F	be-	.	.	2.d	-hen-
+*xywh-#144:312,1415,2772,476	*	*	*	*	*
+1E	-hen-	1g	.	.	.
+*	*	*Xlig	*	*	*
+.	.	.	.	8c#i	.
+.	.	.	.	8B	.
+.	.	.	.	2c#i	.
+=24	=24	=24	=24	=24	=24
+1D	-de/	1f#	-de/	2d	-de/
+!! cadence end; ultima=d
+*	*Xij	*	*Xij	*	*
+.	.	.	.	2a	durch-
+*	*	*xywh-#88:285,1823,2804,446	*	*	*
+1r	.	2r	.	2cc	-auß
+.	.	2a	durch-	2cc	an
+=25	=25	=25	=25	=25	=25
+2r	.	2cc	-auß	2.a	al-
+2A	durch-	2cc	an	.	.
+.	.	.	.	8g	.
+.	.	.	.	8f	.
+2c	-auß	2g	al-	2e	.
+2c	an	2e	-len	1g	-len
+=26	=26	=26	=26	=26	=26
+*	*	*lig	*	*	*
+!! cadence start
+2A	al-	1cc	en-	.	.
+2A	-len	.	.	1f	en-
+1G	en-	1b-	.	.	.
+*	*	*Xlig	*	*	*
+.	.	.	.	2e	.
+=27	=27	=27	=27	=27	=27
+0F	-den/	1a	-den/	2f	-den/
+!! cadence end; ultima=f
+.	.	.	.	2cc	die
+.	.	2r	.	2.a	wer-
+.	.	2cc	die	.	.
+.	.	.	.	4g	.
+=28	=28	=28	=28	=28	=28
+1r	.	2a	wer-	4f	.
+.	.	.	.	4d	.
+.	.	2a	-cke	2f	.
+*	*	*	*	*xywh-#28:256,1940,2732,377	*
+1c	die	1g	dei-	2e	-cke
+*	*	*	*	*	*ij
+.	.	.	.	2cc	die
+=29	=29	=29	=29	=29	=29
+2A	wer-	2f	-ner	2cc	wer-
+2A	-cke	2.e	hen-	2cc	-cke
+*	*	*	*	*	*Xij
+1G	dei-	.	.	2b	sei-
+.	.	4d	.	.	.
+.	.	2.e	.	2g	-ner
+=30	=30	=30	=30	=30	=30
+*	*	*	*	*lig	*
+!! cadence start
+1F	-ner	.	.	1a	hen-
+.	.	4d	.	.	.
+.	.	2.d	.	.	.
+1E	hen-	.	.	1g	.
+*	*	*	*	*Xlig	*
+.	.	8c#i	.	.	.
+.	.	8B	.	.	.
+.	.	2c#i	.	.	.
+=31	=31	=31	=31	=31	=31
+0Dll	-de.	0dll	-de.	0f#ll	-de.
+!! cadence end; ultima=d
+==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-
+!!!RDF**kern: l = terminal long
+!!!RDF**kern: i = editorial accidental
+!!!AGN: Psalm; Tricinium
+!!!LIB: Ulenberg, Caspar
+!!!LIB-CDT: 1548/12/24-1617/02/16
+!!!YOR: https://mdz-nbn-resolving.de/details:bsb00075346
+!!!YOO: München, Bayerische Staatsbibliothek
+!!!URL-scan: https://www.digitale-sammlungen.de/de/view/bsb00075346?page=28 Cantus
+!!!URL-scan: https://www.digitale-sammlungen.de/de/view/bsb00075346?page=88 Tenor
+!!!URL-scan: https://www.digitale-sammlungen.de/de/view/bsb00075346?page=144 Bassus
+!!!IIIF: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00075346/manifest
+!!!EED: Wolfgang Drescher
+!!!END: 2023/03/06
+!!!ENC: Wolfgang Drescher
+!!!EEV: 2023/03/06
+!!!title: @{ONM}. @{OTL} / <i>@{OTL-incipit@@DE}</i>
