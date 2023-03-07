@@ -1,4 +1,5 @@
-cantusFirmus: []
+cantusFirmus:
+    - cantus
 comments:
     - Plagale Schlusskadenz
 composer: Orlandus Lassus
