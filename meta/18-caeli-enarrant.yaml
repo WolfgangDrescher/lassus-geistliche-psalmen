@@ -9,27 +9,27 @@ incipit: Die Himml künden auß mit eren
 lyrics:
     -
         measures: 1-6
-        rhyme:
+        rhyme: null
         text: Die Himel künden auß mit eren/
     -
         measures: 6-14
-        rhyme:
+        rhyme: null
         text: die grossen herrligkeit des Herren/
     -
         measures: 14-18
-        rhyme:
+        rhyme: null
         text: das gantze firmament/
     -
         measures: 18-24
-        rhyme:
+        rhyme: null
         text: erzehlet auch behende/
     -
         measures: 24-27
-        rhyme:
+        rhyme: null
         text: durchauß an allen enden/
     -
         measures: 27-31
-        rhyme:
+        rhyme: null
         text: die wercke deiner hende.
 mode: dorian
 originalDocument: https://mdz-nbn-resolving.de/details:bsb00075346
@@ -145,7 +145,8 @@ voices:
             die grosse herrligkeit des Herren/
             die grosse herrligkeit des Herren/
             das gantze firmament/
-            das gan -ze firmament er zelet auch behende/
+            das gantze firmament/
+            er zelet auch behende/
             er zelet auch behende/
             durchauß an allen enden/
             die wercke deiner hende.
@@ -202,10 +203,10 @@ voices:
     cantus:
         clef: C1
         lyrics: |-
-            Der Himel künden auß mit eren/
+            Die Himel künden auß mit eren/
             mit eren/
             Die grossen herrligkeit des Herren/
-            das gantze firmament das ganze firmament erzehlet auch behende/
+            das gantze firmament das gantze firmament erzehlet auch behende/
             erzehlet auch behende/
             behende/
             durchauß an allen enden/
