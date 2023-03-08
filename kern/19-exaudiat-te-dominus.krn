@@ -1,0 +1,195 @@
+!!!COM: Lassus, Orlandus
+!!!CDT: 1532-1594/06/14
+!!!OPR: Geistliche Psalmen mit dreyen Stimmen
+!!!ONM: 19
+!!!OTL@@LA: Exaudiat te Dominus
+!!!OTL-incipit@@DE: Der Herr erhöre deine klag
+**kern	**text	**kern	**text	**kern	**text
+*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*Ivox	*	*Ivox	*	*Ivox	*
+*I"Bassus	*	*I"Tenor	*	*I"Cantus	*
+*I'B	*	*I'T	*	*I'C	*
+*clefC4	*	*clefC1	*	*clefC1	*
+*k[]	*	*k[]	*	*k[]	*
+*f:lyd	*	*f:lyd	*	*f:lyd	*
+*M2/1	*	*M2/1	*	*M2/1	*
+*met(C|)	*	*met(C|)	*	*met(C|)	*
+*MM180	*	*MM180	*	*MM180	*
+=1	=1	=1	=1	=1	=1
+*xywh-#145:148,38,2698,554	*	*xywh-#89:127,77,2712,544	*	*xywh-#29:76,91,2754,547	*
+!	!	!	!	!LO:TX:a:i:t=c.f.	!
+2r	.	2r	.	1f	Der
+2d	Der	2a	Der	.	.
+2.B-	Herr	2.d	Herr	2f	Herr
+.	.	.	.	2f	er-
+4F	er-	4a	er-	.	.
+=2	=2	=2	=2	=2	=2
+!! cadence start
+4C	-hö-	2e	-hö-	2g	-hö-
+4C	-re	.	.	.	.
+2D	dei-	4A	-re	2f	-re
+.	.	2d	dei-	.	.
+1A	-ne	.	.	2e	dei-
+.	.	8c#	.	.	.
+.	.	8B	.	.	.
+.	.	4c#X	.	2e	-ne
+.	.	4c#	-ne	.	.
+=3	=3	=3	=3	=3	=3
+2D	klag/	2d	klag/	1d	klag/
+!! cadence end; ultima=d
+2.B-	wenn	4r	.	.	.
+.	.	4f	Wenn	.	.
+*	*	*xywh-#89:120,594,2694,429	*	*	*
+.	.	2g	dich	2r	.
+4c	dich	.	.	.	.
+2A	am	4r	.	2c	Wenn
+.	.	4a	wenn	.	.
+=4	=4	=4	=4	=4	=4
+!! cadence start
+2G	bö-	2b-	dich	2d	dich
+2F	-sen	2a	am	2f	am
+1c	tag/	2a	bö-	2f	bö-
+.	.	2g	-sen	2e	-sen
+=5	=5	=5	=5	=5	=5
+2r	.	2a	tag/	1f	tag
+!! cadence end; ultima=f
+2d	die	4r	.	.	.
+.	.	4d	Die	.	.
+2c	not	2e	not	1g	die
+*xywh-#145:128,550,2700,463	*	*	*	*	*
+2e	thut	4r	.	.	.
+*	*	*	*ij	*	*
+.	.	4c	die	.	.
+=6	=6	=6	=6	=6	=6
+*	*	*	*	*xywh-#29:62,600,2770,447	*
+2d	hart	2f	not	2a	not
+*	*	*	*Xij	*	*
+2G	be-	4d	thut	2b-	thut
+.	.	2d	hart	.	.
+!! cadence start
+1F	-tran-	.	.	2a	hart
+.	.	4c	be-	.	.
+.	.	2.f	-tran-	2a	be-
+=7	=7	=7	=7	=7	=7
+1c	-gen/	.	.	1g	-tran-
+.	.	8e	.	.	.
+.	.	8d	.	.	.
+.	.	2e	.	.	.
+*	*	*xywh-#89:106,993,2689,452	*	*	*
+2r	.	2a	-gen/	1f	-gen/
+!! cadence end; ultima=f
+2F	der	4r	.	.	.
+.	.	4a	Der	.	.
+=8	=8	=8	=8	=8	=8
+2G	nam	2b-	nam	2r	.
+2d	des	2a	des	2f	Der
+2.c	Got-	2e	Got-	2g	nam
+.	.	2e	-tes	2g	des
+4c	-tes	.	.	.	.
+=9	=9	=9	=9	=9	=9
+!! cadence start
+2F	Ja-	2a	Ja-	2cc	Got-
+2G	-cob	2.g	-cob	2b	-tes
+1d	mild/	.	.	2a	Ja-
+.	.	8f#i	.	.	.
+.	.	8e	.	.	.
+.	.	2f#i	.	2a	-cob
+=10	=10	=10	=10	=10	=10
+2r	.	2g	mild/	1g	mild/
+!! cadence end; ultima=g
+2B	sey	2d	sey	.	.
+4c	dir	2e	dir	2r	.
+4c	zu	.	.	.	.
+4F	ei-	4r	.	2a	Sei
+4A	-nem	4cc	sey	.	.
+=11	=11	=11	=11	=11	=11
+!! cadence start
+2G	schilt/	2dd	dir	2b-	dir
+4r	.	2cc	zu	2a	zu
+4A	zu	.	.	.	.
+*xywh-#145:119,966,2721,463	*	*	*	*xywh-#29:56,1016,2779,431	*
+4E	ei-	2b	ei-	2g	ei-
+4G	-nem	.	.	.	.
+2D	schilt/	2a	-nem	2f#	-nem
+=12	=12	=12	=12	=12	=12
+*	*	*xywh-#89:100,1395,2692,463	*	*	*
+2r	.	2b	schild/	1g	schild/
+!! cadence end; ultima=g
+2c	thu	4r	.	.	.
+.	.	4ee	Thu	.	.
+2B-	schirm̃	4dd	schirm	2r	.
+.	.	4d	weiß	.	.
+2A	weiß	4e	dich	2cc	Thu
+.	.	4f	umb-	.	.
+=13	=13	=13	=13	=13	=13
+2G	dich	4g	-fan-	2b-	schirm
+.	.	4d	-gen/	.	.
+*	*ij	*	*	*	*
+2d	thu	4r	.	2a	weis
+*	*	*	*ij	*	*
+.	.	4f	thu	.	.
+!! cadence start
+2e	schirm̃	4c	schirm	2g	dich
+.	.	4cc	weiß	.	.
+2d	weiß	8b-	dich	2f	umb-
+.	.	8a	.	.	.
+.	.	8a	.	.	.
+.	.	16g	.	.	.
+.	.	16f	.	.	.
+=14	=14	=14	=14	=14	=14
+4c	dich	4e	.	1g	-fan-
+*	*Xij	*	*	*	*
+4B	umb-	4d	um-	.	.
+2c	-fan-	2e	-fan-	.	.
+*	*	*xywh-#89:86,1811,2719,542	*	*	*
+2F	-gen/	2f	-gen	1a	-gen.
+!! cadence end; ultima=f
+*	*	*	*Xij	*	*
+4r	.	2cc	thu	.	.
+4A	thu	.	.	.	.
+=15	=15	=15	=15	=15	=15
+2G	schirm̃	2b-	schirm	2r	.
+*	*	*	*	*	*ij
+2F	weiß	2a	weiß	2cc	Thu
+4r	.	8g	dich	2b-	schirm
+.	.	8f	.	.	.
+*	*ij	*	*	*	*
+4G	thu	8d	.	.	.
+.	.	8e	.	.	.
+8d	schirm̃	8f	.	2a	weis
+8c	.	8e	.	.	.
+8A	.	8c	.	.	.
+8B	.	8d	.	.	.
+=16	=16	=16	=16	=16	=16
+*xywh-#145:113,1378,2700,458	*	*	*	*xywh-#29:65,1439,2747,343	*
+!! cadence start
+4c	.	2e	.	2g	dich
+4G	weiß	.	.	.	.
+*	*Xij	*	*	*	*
+4B-	dich	4d	.	2f	umb-
+4d	umb-	2f	umb-	.	.
+1c	-fan-	.	.	1g	-fan-
+.	.	8e	.	.	.
+.	.	8d	.	.	.
+.	.	2e	-fan-	.	.
+=17	=17	=17	=17	=17	=17
+0Fll	-gen.	0fll	-gen.	0all	-gen.
+!! cadence end; ultima=f
+==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-
+!!!RDF**kern: l = terminal long
+!!!RDF**kern: i = editorial accidental
+!!!AGN: Psalm; Tricinium
+!!!LIB: Ulenberg, Caspar
+!!!LIB-CDT: 1548/12/24-1617/02/16
+!!!YOR: https://mdz-nbn-resolving.de/details:bsb00075346
+!!!YOO: München, Bayerische Staatsbibliothek
+!!!URL-scan: https://www.digitale-sammlungen.de/de/view/bsb00075346?page=29 Cantus
+!!!URL-scan: https://www.digitale-sammlungen.de/de/view/bsb00075346?page=89 Tenor
+!!!URL-scan: https://www.digitale-sammlungen.de/de/view/bsb00075346?page=145 Bassus
+!!!IIIF: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00075346/manifest
+!!!EED: Wolfgang Drescher
+!!!END: 2023/03/08
+!!!ENC: Wolfgang Drescher
+!!!EEV: 2023/03/08
+!!!title: @{ONM}. @{OTL} / <i>@{OTL-incipit@@DE}</i>
