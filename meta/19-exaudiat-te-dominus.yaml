@@ -1,8 +1,38 @@
 cantusFirmus:
     - cantus
+comments:
+    - Die Ambitus sind ambivalent da Cantus und Tenor beide im Sopranschlüssel notiert sind
+    - Cadenza semplice mit Quartsextvorhalt
+    - Lange Melismen mit Achtel- und Sechzehntelnoten
+    - Schnelle Silbenwechsel bei Viertelnoten
 composer: Orlandus Lassus
 finalis: f
 incipit: Der Herr erhöre deine klag
+lyrics:
+    -
+        measures: 1-3
+        rhyme: a
+        text: Der Herr erhöre deine klag/
+    -
+        measures: 3-5
+        rhyme: a
+        text: wenn dich am bösen tag/
+    -
+        measures: 5-7
+        rhyme: b
+        text: die not thut hart betrangen/
+    -
+        measures: 7-10
+        rhyme: c
+        text: der nam des Gottes Jacob mild/
+    -
+        measures: 10-12
+        rhyme: c
+        text: sey dir zu einem schild/
+    -
+        measures: 12-17
+        rhyme: b
+        text: thu schirm weiß dich umbfangen.
 mode: lydian
 originalDocument: https://mdz-nbn-resolving.de/details:bsb00075346
 originalDocumentOwner: München, Bayerische Staatsbibliothek
