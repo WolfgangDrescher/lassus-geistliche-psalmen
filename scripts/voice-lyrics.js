@@ -28,7 +28,8 @@ files.forEach((file) => {
     parts.forEach(([key, lyrics]) => {
         key = key.toLowerCase();
         piece.voices[key] = {};
-        piece.voices[key].lyrics = lyrics.split(/(?<=\/)/).map(line => line.trim()).join('\n');
+        // Positive lookbehind: (?<=Y)X, matches X, but only if there’s Y before it.
+        piece.voices[key].lyrics = lyrics.split(/(?<=\/)|(?<=\.)/).map(line => line.trim()).join('\n');
     });
     const id = getIdFromFilename(file);
     const metaFile = `${__dirname}/../meta/${id}.yaml`;
