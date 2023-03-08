@@ -9,27 +9,27 @@ incipit: Die Himml künden auß mit eren
 lyrics:
     -
         measures: 1-6
-        rhyme: null
+        rhyme: a
         text: Die Himel künden auß mit eren/
     -
         measures: 6-14
-        rhyme: null
+        rhyme: a
         text: die grossen herrligkeit des Herren/
     -
         measures: 14-18
-        rhyme: null
+        rhyme: b (c)
         text: das gantze firmament/
     -
         measures: 18-24
-        rhyme: null
+        rhyme: c
         text: erzehlet auch behende/
     -
         measures: 24-27
-        rhyme: null
+        rhyme: c
         text: durchauß an allen enden/
     -
         measures: 27-31
-        rhyme: null
+        rhyme: c
         text: die wercke deiner hende.
 mode: dorian
 originalDocument: https://mdz-nbn-resolving.de/details:bsb00075346
