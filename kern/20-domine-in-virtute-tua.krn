@@ -1,0 +1,239 @@
+!!!COM: Lassus, Rudolphus
+!!!CDT: 1563-1625
+!!!OPR: Geistliche Psalmen mit dreyen Stimmen
+!!!ONM: 20
+!!!OTL@@LA: Domine in virtute tua
+!!!OTL-incipit@@DE: Der König wird Herr wolgemut
+!!
+!!
+!!
+!!
+**kern	**text	**kern	**text	**kern	**text
+*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*Ivox	*	*Ivox	*	*Ivox	*
+*I"Bassus	*	*I"Tenor	*	*I"Cantus	*
+*I'B	*	*I'T	*	*I'C	*
+*clefC3	*	*clefC2	*	*clefG2	*
+*k[b-]	*	*k[b-]	*	*k[b-]	*
+*f:ion	*	*f:ion	*	*f:ion	*
+*M2/1	*	*M2/1	*	*M2/1	*
+*met(C|)	*	*met(C|)	*	*met(C|)	*
+*MM180	*	*MM180	*	*MM180	*
+=1	=1	=1	=1	=1	=1
+*xywh-#146:341,81,2726,532	*	*xywh-#90:329,33,2744,537	*	*xywh-#30:245,69,2734,535	*
+00r	.	1g	Der	0r	.
+.	.	2g	Kö-	.	.
+.	.	2g	-nig	.	.
+=2	=2	=2	=2	=2	=2
+.	.	2f	wird	1cc	Der
+.	.	2e	Herr	.	.
+.	.	4f	wol-	2cc	Kö-
+.	.	4g	.	.	.
+.	.	4a	.	2cc	-nig
+.	.	4f	.	.	.
+=3	=3	=3	=3	=3	=3
+2r	.	2g	.	2b-	wird
+!LO:TX:a:i:t=c.f.	!	!	!	!	!
+2f	Der	2d	-ge-	4a	Herr
+.	.	.	.	4b-	.
+2f	Kö-	1a	-mut/	4cc	.
+.	.	.	.	4dd	.
+2f	-nig	.	.	2.cc	.
+=4	=4	=4	=4	=4	=4
+!! cadence start
+2e	wirt	2g	fro	.	.
+.	.	.	.	4g	.
+2d	Herr	2f	sein	2b-	.
+2f	wol-	2r	.	2a	wol-
+2d	-ge-	2f	fro	2b-	-ge-
+=5	=5	=5	=5	=5	=5
+*	*	*xywh-#90:323,555,2752,429	*	*	*
+2c	-mut/	2e	sein	2cc	-muet/
+!! cadence end; ultima=c
+2f	fro	2d	in	4b-	.
+.	.	.	.	4a	.
+*	*	*	*	*xywh-#30:236,591,2757,421	*
+2e	sein	2g	dei-	2cc	.
+2d	in	2a	-ner	2ff	fro
+=6	=6	=6	=6	=6	=6
+2c	dei-	2r	.	2ee	sein
+2F	-ner	4a	ster-	2cc	in
+.	.	4g	.	.	.
+!! cadence start
+1A	ster-	4f	.	2cc	dei-
+.	.	4e	.	.	.
+.	.	1f	.	2a	-ner
+=7	=7	=7	=7	=7	=7
+1G	-cke	.	.	2.b-	ster-
+.	.	2e	-cke	.	.
+.	.	.	.	4b-	-cke
+1F	gut/	2f	gut/	1f	guet/
+!! cadence end; ultima=f
+.	.	2f	wenn	.	.
+=8	=8	=8	=8	=8	=8
+*xywh-#146:343,602,2719,433	*	*	*	*	*
+2r	.	2a	du	2f	weñ
+2F	wenn	2c	jhm	2a	du
+2A	du	2f	hast	2cc	jhn
+2B-	jhm	4r	.	2f	hast
+.	.	4d	wenn	.	.
+=9	=9	=9	=9	=9	=9
+2c	hast	2e	du	2r	.
+2c	durch	2e	jm	2cc	durch
+!! cadence start
+2d	gü-	2f	hast	4b-	gü-
+.	.	.	.	4a	.
+2d	-te	2f	durch	4a	.
+.	.	.	.	8g	.
+.	.	.	.	8f	.
+=10	=10	=10	=10	=10	=10
+*	*	*xywh-#90:321,975,2752,423	*	*xywh-#30:227,987,2759,426	*
+1c	dein/	2g	gü-	2e	.
+.	.	2e	-te	2g	-te
+2r	.	1f	dein/	2a	dein/
+!! cadence end; ultima=f
+2A	hail	.	.	2cc	heil
+=11	=11	=11	=11	=11	=11
+2.B-	wi-	2r	.	2.dd	wi-
+.	.	2f	heil	.	.
+4d	-der-	.	.	4ff	-der-
+2c	-fah-	2.g	wi-	2ee	-fah-
+2B-	-ren	.	.	2dd	-ren
+.	.	4b-	-der-	.	.
+=12	=12	=12	=12	=12	=12
+2r	.	2a	-fah-	1ee	las-
+*	*ij	*	*	*	*
+2c	hail	2g	-ren	.	.
+2d	wi-	2f	las-	2.a	-sen
+2f	-der-	2d	-sen/	.	.
+.	.	.	.	4b-	.
+=13	=13	=13	=13	=13	=13
+!! cadence start
+2e	-fah-	2r	.	2cc	.
+*	*	*	*ij	*	*
+2d	-ren	2f	heil	4b-	.
+*	*Xij	*	*	*	*
+.	.	.	.	4a	.
+1e	las-	2g	wi-	4cc	.
+.	.	.	.	4b	.
+.	.	2g	-der-	2cc	.
+=14	=14	=14	=14	=14	=14
+1f	-sen/	1a	-fah-	2r	.
+!! cadence end; ultima=f
+*	*	*	*	*	*ij
+.	.	.	.	2cc	heil
+*xywh-#146:339,1008,2719,442	*	*	*	*xywh-#30:218,1386,2741,448	*
+2r	.	2g	-ren	2dd	wi-
+2c	hail	4cc	las-	2ee	-der-
+.	.	4b-	.	.	.
+=15	=15	=15	=15	=15	=15
+2.d	wi-	4a	.	4ff	-fah-
+.	.	4g	.	4ee	.
+.	.	4f	.	4dd	.
+4A	-der-	4e	.	4cc	.
+!! cadence start
+2B-	-fah-	4d	.	2b-	.
+.	.	4e	.	.	.
+2F	-ren	2.f	.	2a	-ren
+=16	=16	=16	=16	=16	=16
+1c	las-	.	.	1g	las-
+.	.	8e	.	.	.
+.	.	8d	.	.	.
+.	.	2e	.	.	.
+*	*	*xywh-#90:310,1375,2750,432	*	*	*
+1F	-sen/	2f	-sen/	1a	-sen
+!! cadence end; ultima=f
+*	*	*	*Xij	*	*Xij
+.	.	1f	wird	.	.
+=17	=17	=17	=17	=17	=17
+1r	.	.	.	1cc	wirt
+.	.	2e-	sein	.	.
+1f	wirt	2d	hertz	2b-	sein
+.	.	4r	.	2a	hertz
+*	*	*	*ij	*	*
+.	.	4a	wird	.	.
+=18	=18	=18	=18	=18	=18
+2e	sein	2g	sein	2r	.
+2d	hertz	2f	hertz	2ff	vol-
+*	*	*	*Xij	*	*
+2c	vol-	2r	.	2ee	-ler
+2d	-ler	2a	vol-	1ff	frew-
+=19	=19	=19	=19	=19	=19
+2B-	frew-	2d	-ler	.	.
+2B-	-den	1f	frei-	4ee	.
+.	.	.	.	4dd	.
+!! cadence start
+0A	sein/	.	.	2cc	.
+.	.	4e	.	2.dd	-den
+.	.	4d	.	.	.
+=20	=20	=20	=20	=20	=20
+.	.	2e	.	.	.
+.	.	.	.	8cc#i	.
+.	.	.	.	8bni	.
+.	.	2e	-den	2cc#i	.
+*	*	*	*	*xywh-#30:215,1814,2741,460	*
+2r	.	1d	sein/	2dd	sein/
+!! cadence end; ultima=d
+2f	und	.	.	2a	und
+=21	=21	=21	=21	=21	=21
+1g	jauch-	2r	.	2b-	jauch-
+.	.	2b-	und	2dd	-tzen
+!! cadence start
+1f	-tzen	2cc	jauch-	4a	u-
+.	.	.	.	4a	-ber
+.	.	2a	-zen	4.cc	mas-
+.	.	.	.	8dd	.
+=22	=22	=22	=22	=22	=22
+*	*	*xywh-#90:317,1803,2769,476	*	*	*
+2r	.	4a	u-	4ee	.
+.	.	4a	-ber	2ff	.
+*	*ij	*	*	*	*
+2c	und	2g	mas-	.	.
+.	.	.	.	4ee	.
+*xywh-#146:336,1415,2735,433	*	*	*	*	*
+1d	jauch-	8f	-sen.	2ff	-sen.
+!! cadence end; ultima=f
+.	.	8g	.	.	.
+.	.	8a	.	.	.
+.	.	8b-	.	.	.
+.	.	4a	.	4r	.
+*	*	*	*ij	*	*ij
+.	.	4f	und	4dd	und
+=23	=23	=23	=23	=23	=23
+2c	-tzen	2.g	jauch-	2ee-	jauch-
+*	*Xij	*	*	*	*
+1B-	u-	.	.	2dd	-tzen
+.	.	4f	-zen	.	.
+!! cadence start
+.	.	4f	u-	2dd	u-
+.	.	4d	-ber	.	.
+2A	-ber	1f	mas-	2cc	-ber
+=24	=24	=24	=24	=24	=24
+0G	mas-	.	.	0b-	mas-
+.	.	4e	.	.	.
+.	.	4d	.	.	.
+.	.	4e	.	.	.
+.	.	2f	.	.	.
+.	.	4e	.	.	.
+=25	=25	=25	=25	=25	=25
+0Fll	-sen.	0fll	-sen.	0all	-sen.
+!! cadence end; ultima=f
+*	*	*	*Xij	*	*Xij
+==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-
+!!!RDF**kern: l = terminal long
+!!!RDF**kern: i = editorial accidental
+!!!AGN: Psalm; Tricinium
+!!!LIB: Ulenberg, Caspar
+!!!LIB-CDT: 1548/12/24-1617/02/16
+!!!YOR: https://mdz-nbn-resolving.de/details:bsb00075346
+!!!YOO: München, Bayerische Staatsbibliothek
+!!!URL-scan: https://www.digitale-sammlungen.de/de/view/bsb00075346?page=30 Cantus
+!!!URL-scan: https://www.digitale-sammlungen.de/de/view/bsb00075346?page=90 Tenor
+!!!URL-scan: https://www.digitale-sammlungen.de/de/view/bsb00075346?page=146 Bassus
+!!!IIIF: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00075346/manifest
+!!!EED: Wolfgang Drescher
+!!!END: 2023/03/09
+!!!ENC: Wolfgang Drescher
+!!!EEV: 2023/03/09
+!!!title: @{ONM}. @{OTL} / <i>@{OTL-incipit@@DE}</i>
