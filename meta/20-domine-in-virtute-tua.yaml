@@ -1,8 +1,36 @@
 cantusFirmus:
     - bassus
+comments:
+    - Anfang quasi mixolydisch
+    - Imitation am Angang mit drei verschiedenen Starttönen (g – c – f)
 composer: Rudolphus Lassus
 finalis: f
 incipit: Der König wird Herr wolgemut
+lyrics: 
+    -
+        measures: 1-5
+        rhyme: a
+        text: Der König wird Herr wolgemut/
+    -
+        measures: 4-7
+        rhyme: a
+        text: fro sein in deiner stercke gut/
+    -
+        measures: 7-10
+        rhyme: b
+        text: wenn du jhm hast durch güte dein/
+    -
+        measures: 10-16
+        rhyme: c
+        text: heil widerfahren lassen/
+    -
+        measures: 16-20
+        rhyme: b
+        text: wirt sein hertz voller frewden sein/
+    -
+        measures: 20-25
+        rhyme: c
+        text: und jauchtzen uber massen.
 mode: ionian
 originalDocument: https://mdz-nbn-resolving.de/details:bsb00075346
 originalDocumentOwner: München, Bayerische Staatsbibliothek
