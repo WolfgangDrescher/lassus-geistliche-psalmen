@@ -128,6 +128,7 @@ ulenbergSourceFile: https://github.com/WolfgangDrescher/ulenberg-psalmen-davids/
 voices:
     bassus:
         clef: C3
+        endSoundFiguredbassNumber: '1'
         lyrics: |-
             Hilff lieber Herr die heilig from̃en/
             haben so haben so gentzlich abgenomen es ist hin es ist hin all auffrichtigkeit/
@@ -196,6 +197,7 @@ voices:
         urlScan: https://www.digitale-sammlungen.de/de/view/bsb00075346?page=137
     cantus:
         clef: G2
+        endSoundFiguredbassNumber: n10
         lyrics: |-
             Hilff lieber Herr/
             die heilig frommen/
@@ -257,6 +259,7 @@ voices:
         urlScan: https://www.digitale-sammlungen.de/de/view/bsb00075346?page=21
     tenor:
         clef: C1
+        endSoundFiguredbassNumber: '5'
         lyrics: |-
             Hilff lieber Herr/
             die heilig frommen haben so gentzlich haben so gentzlich abgenommen/

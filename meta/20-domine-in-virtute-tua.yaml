@@ -128,6 +128,7 @@ ulenbergSourceFile: https://github.com/WolfgangDrescher/ulenberg-psalmen-davids/
 voices:
     bassus:
         clef: C3
+        endSoundFiguredbassNumber: '1'
         lyrics: |-
             Der König wirt Herr wolgemut/
             fro sein in deiner stercke gut/
@@ -184,6 +185,7 @@ voices:
         urlScan: https://www.digitale-sammlungen.de/de/view/bsb00075346?page=146
     cantus:
         clef: G2
+        endSoundFiguredbassNumber: '10'
         lyrics: |-
             Der König wird Herr wolgemuet/
             fro sein in deiner stercke guet/
@@ -251,6 +253,7 @@ voices:
         urlScan: https://www.digitale-sammlungen.de/de/view/bsb00075346?page=30
     tenor:
         clef: C2
+        endSoundFiguredbassNumber: '8'
         lyrics: |-
             Der König wird Herr wolgemut/
             fro sein fro sein in deiner stercke gut/

@@ -132,6 +132,7 @@ ulenbergSourceFile: https://github.com/WolfgangDrescher/ulenberg-psalmen-davids/
 voices:
     bassus:
         clef: C4
+        endSoundFiguredbassNumber: '1'
         lyrics: |-
             Straff mich Herr nicht im eiffermut/
             wañ dein zorn graussam brennen thut/
@@ -208,6 +209,7 @@ voices:
         urlScan: https://www.digitale-sammlungen.de/de/view/bsb00075346?page=132
     cantus:
         clef: C1
+        endSoundFiguredbassNumber: '8'
         lyrics: |-
             Straff mich Herr nit im eiffermut/
             Wenn dein zorn graussam brennen thut/
@@ -264,6 +266,7 @@ voices:
         urlScan: https://www.digitale-sammlungen.de/de/view/bsb00075346?page=16
     tenor:
         clef: C3
+        endSoundFiguredbassNumber: '5'
         lyrics: |-
             Straff mich Herr nit im eifermut wenn mein zorn grausam brennen thut/
             Zichtig mich nicht im grimmen dein/

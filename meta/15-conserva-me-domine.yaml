@@ -140,6 +140,7 @@ ulenbergSourceFile: https://github.com/WolfgangDrescher/ulenberg-psalmen-davids/
 voices:
     bassus:
         clef: C4
+        endSoundFiguredbassNumber: '1'
         lyrics: |-
             Halt mich O Herr in deiner hüt/
             in deiner hüt/
@@ -209,6 +210,7 @@ voices:
         urlScan: https://www.digitale-sammlungen.de/de/view/bsb00075346?page=141
     cantus:
         clef: C1
+        endSoundFiguredbassNumber: '8'
         lyrics: |-
             Halt mich O Herr in deiner hut/
             denn mein hertz auff dich trauwen thut/
@@ -283,6 +285,7 @@ voices:
         urlScan: https://www.digitale-sammlungen.de/de/view/bsb00075346?page=25
     tenor:
         clef: C3
+        endSoundFiguredbassNumber: '1'
         lyrics: |-
             Halt mich O Herr in deiner hut/
             Denn mein hertz auff dich trawen thut/
