@@ -144,7 +144,7 @@ voices:
         lyrics: |-
             Mein Gott mein lieber trewer Gott/
             schaw her auff mich in meiner not/
-            ach warumb hastu dieser -massen/
+            ach warumb hastu dieser massen/
             in meinen engsten mich verlassen/
             ich heule fest für scherer pein/
             auß hochbetrübtem hertzen mein/
@@ -219,9 +219,9 @@ voices:
             Ach warumb hastu dieser massen/
             In meinen engsten mich verlassen/
             Ich heule fast für schwerer pein/
-            auß hoch -betrübtem hertzen mein/
+            auß hochbetrübtem hertzen mein/
             doch mag mein seufftzen nicht erwinden/
-            Es ist vom heil zu weit dahin -den es ist vom heil zu weit dahin -den.
+            Es ist vom heil zu weit dahinden es ist vom heil zu weit dahinden.
         prange:
             mean:
                 kern: b-
@@ -277,8 +277,8 @@ voices:
             auß hochbetrübtem auß hochbetrübtem hertzen mein/
             Doch mag mein seufftzen nicht erwinden/
             Es ist vom heil es ist vom heil zu weit dahinden/
-            es ist vom heil zu weit dahin -den/
-            zu weit dahin den.
+            es ist vom heil zu weit dahinden/
+            zu weit dahinden.
         prange:
             mean:
                 kern: f#
