@@ -140,6 +140,7 @@ ulenbergSourceFile: https://github.com/WolfgangDrescher/ulenberg-psalmen-davids/
 voices:
     bassus:
         clef: C4
+        endSoundFiguredbassNumber: '1'
         lyrics: |-
             Die Himel künden auß mit ehren/
             die grosse herrligkeit des Herren/
@@ -202,6 +203,7 @@ voices:
         urlScan: https://www.digitale-sammlungen.de/de/view/bsb00075346?page=144
     cantus:
         clef: C1
+        endSoundFiguredbassNumber: '#10'
         lyrics: |-
             Die Himel künden auß mit eren/
             mit eren/
@@ -275,6 +277,7 @@ voices:
         urlScan: https://www.digitale-sammlungen.de/de/view/bsb00075346?page=28
     tenor:
         clef: C1
+        endSoundFiguredbassNumber: '8'
         lyrics: |-
             Die Himel künden auß mit eren/
             Die grossen herrligkeit des Herren die grossen herrligkeit des Herren des Herren/
