@@ -72,7 +72,7 @@
 !! cadence end a; ultima=e
 2A	-ser	2c#	-sen/	2e	-ser
 =9	=9	=9	=9	=9	=9
-1D	-mas-	2r	.	1f	mas-
+1D	mas-	2r	.	1f	mas-
 !! cadence end b; ultima=d
 .	.	2a	In	.	.
 2A	-sen/	2.cc	mei-	1e	-sen/
@@ -124,7 +124,7 @@
 2A	hoch-	.	.	2r	.
 .	.	4f	-be-	.	.
 2c	-be-	2e	-trüb-	2g	auß
-1f	-trüb-	2d	-tem	2a	hoch
+1f	-trüb-	2d	-tem	2a	hoch-
 .	.	4r	.	2cc	-be-
 *	*	*	*ij	*	*
 .	.	2a	auß	.	.
@@ -178,7 +178,7 @@
 2e	hail	2g	heil	2b	weit
 *	*Xij	*	*Xij	*	*
 2f	zu	2.a	zu	2a	da-
-2d	weit	.	.	1b	-hin
+2d	weit	.	.	1b	-hin-
 .	.	8g#i	.	.	.
 .	.	8f#i	.	.	.
 2e	da-	2g#i	.	.	.
@@ -203,8 +203,8 @@
 2e	hail	4g#	weit	2b	weit
 *	*Xij	*	*	*	*
 .	.	4g#	da-	.	.
-2f	zu	2.a	-hin	2a	da-
-2d	weit	.	.	1b	-hin
+2f	zu	2.a	-hin-	2a	da-
+2d	weit	.	.	1b	-hin-
 .	.	8g#i	.	.	.
 .	.	8f#i	.	.	.
 2e	da-	2g#i	.	.	.
@@ -217,9 +217,9 @@
 4d	zu	.	.	.	.
 4d	weit	.	.	.	.
 4c#	da-	4e	da-	.	.
-2d	-hin-	2f	-hin	.	.
+2d	-hin-	2f	-hin-	.	.
 =27	=27	=27	=27	=27	=27
-0All	-den.	0ell	den.	.	.
+0All	-den.	0ell	-den.	.	.
 !! cadence end d; ultima=a
 ==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-
