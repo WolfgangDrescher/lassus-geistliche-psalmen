@@ -1,8 +1,44 @@
 cantusFirmus:
     - cantus
+comments:
+    - Kadenzen in doppeltem Tempo
+    - Plagale Schlusskadenz
 composer: Orlandus Lassus
 finalis: a
 incipit: Mein Gott mein lieber trewer Gott
+lyrics:
+    -
+        measures: 1-4
+        rhyme: a
+        text: Mein Gott mein lieber trewer Gott/
+    -
+        measures: 4-6
+        rhyme: a
+        text: schaw her auff mich in meiner not/
+    -
+        measures: 6-9
+        rhyme: b
+        text: ach warumb hastu dieser massen/
+    -
+        measures: 9-12
+        rhyme: b
+        text: in meinen engsten mich verlassen/
+    -
+        measures: 12-14
+        rhyme: c
+        text: ich heule fast für schwerer pein/
+    -
+        measures: 14-17
+        rhyme: c
+        text: auß hochbetrübtem hertzen mein/
+    -
+        measures: 17-20
+        rhyme: d
+        text: doch mag mein seufftzen nicht erwinden/
+    -
+        measures: 20-27
+        rhyme: d
+        text: es ist vom heil zu weit dahinden.
 mode: aeolian
 originalDocument: https://mdz-nbn-resolving.de/details:bsb00075346
 originalDocumentOwner: München, Bayerische Staatsbibliothek
