@@ -1,7 +1,50 @@
 cantusFirmus: []
+comments:
+    - Pausen mitten im Text
 composer: Rudolphus Lassus
 finalis: d
 incipit: Mein hirt ist Gott der Herr
+lyrics:
+    -
+        measures: 1-4
+        rhyme: a
+        text: Mein hirt ist Gott der Herr/
+    -
+        measures: 4-7
+        rhyme: b
+        text: er thut mich jmmer waiden/
+    -
+        measures: 7-9
+        rhyme: a
+        text: darumb ich nimmermehr/
+    -
+        measures: 9-12
+        rhyme: b
+        text: mag not und mangel leiden/
+    -
+        measures: 12-14
+        rhyme: c
+        text: er wird mit trewem mut/
+    -
+        measures: 14-18
+        rhyme: c
+        text: auff grüner awen gut/
+    -
+        measures: 17-20
+        rhyme: d
+        text: mir rast und waide günnen/
+    -
+        measures: 20-23
+        rhyme: e
+        text: wird mich hinführen fein/
+    -
+        measures: 23-25
+        rhyme: e
+        text: zum wasser still und rain/
+    -
+        measures: 25-29
+        rhyme: d
+        text: zu frischen külen brunnen.
 mode: dorian
 originalDocument: https://mdz-nbn-resolving.de/details:bsb00075346
 originalDocumentOwner: München, Bayerische Staatsbibliothek
