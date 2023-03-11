@@ -1,4 +1,6 @@
-cantusFirmus: []
+cantusFirmus:
+    - tenor
+    - bassus
 comments:
     - Pausen mitten im Text
     - Teilweise freie Behandlung des cantus firmus
@@ -143,7 +145,7 @@ voices:
         lyrics: |-
             Mein hirt ist Gott der Herr/
             mein hirt ist Gott der Herr/
-            er thut mich er tut mich jmmer waiden/
+            er thut mich er thut mich jmmer waiden/
             darumb ich nimmermehr/
             mag not und mangel leiden/
             er wirt mit trewem mut/
@@ -202,14 +204,15 @@ voices:
         clef: C1
         endSoundFiguredbassNumber: '1'
         lyrics: |-
-            Mein hirt ist Gott Herr/
-            mein hirt ist Gott der Herr Er thut mich jmmer waiden darumb ich nimmermehr/
+            Mein hirt ist Gott der Herr/
+            mein hirt ist Gott der Herr/
+            Er thut mich jmmer waiden darumb ich nimmermehr/
             Mag not und mangel leiden: Er wird mit trewen mut/
             auff grüner awen guet/
             Mir rast und waide günnen/
             Wird mich hin führen fein/
             wird mich hin führen fein/
-            Wum wasser still und rain/
+            Zum wasser still und rain/
             Zu frischen külen brunnen brunnen.
         prange:
             mean:
@@ -280,9 +283,9 @@ voices:
             Mein hirt ist Gott der Herr/
             Er thut mich jmmer waiden/
             Darumb ich nimmermehr mag not und mangel leiden/
-            Erwird mit trewem mut/
+            Er wird mit trewem mut/
             auff grüner awen auff grüner awen gut/
-            mir rast und weide günnen Wird mich hinführen fein hinführen fein zum was -ser still und rein/
+            mir rast und weide günnen Wird mich hinführen fein hinführen fein zum wasser still und rein/
             zu frischen külen brunnen.
         prange:
             mean:
