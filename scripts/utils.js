@@ -47,7 +47,7 @@ export function readFile(file) {
         return fs.readFileSync(file, 'utf8');
     } catch (error) {
         if (error.code === 'ENOENT') {
-            // console.error(`File ${file} not found`);
+            console.error(`File ${file} not found`);
             return '';
         }
         throw err;
