@@ -1,7 +1,27 @@
 cantusFirmus: []
+comments:
+    - Einsätze der Imitation am Anfng sind weit auseinander
 composer: Rudolphus Lassus
 finalis: d
 incipit: Zu dir O Gott allein in diesem leben
+lyrics:
+    -
+        measures: 1-8
+        rhyme: a
+        text: Zu dir O Gott allein in diesem leben/
+    -
+        measures: 8-13
+        rhyme: a
+        text: will ich mein hertz und meine seel erheben/
+    -
+        measures: 13-19
+        rhyme: b
+        text: auff dich mein Herr trau ich bestendigklich/
+    -
+        measures: 18-24
+        rhyme: b
+        text: laß nimmermehr zu schanden werden mich.
+
 mode: dorian
 originalDocument: https://mdz-nbn-resolving.de/details:bsb00075346
 originalDocumentOwner: München, Bayerische Staatsbibliothek
