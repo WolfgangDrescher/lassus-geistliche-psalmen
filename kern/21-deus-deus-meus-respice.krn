@@ -16,6 +16,7 @@
 *met(C|)	*	*met(C|)	*	*met(C|)	*
 *MM180	*	*MM180	*	*MM180	*
 =1	=1	=1	=1	=1	=1
+*xywh-#147:133,33,2721,550	*	*xywh-#91:118,103,2710,547	*	*xywh-#31:98,64,2774,540	*
 !	!	!	!	!LO:TX:a:i:t=c.f.	!
 1r	.	2r	.	1a	Mein
 .	.	2d	Mein	.	.
@@ -41,6 +42,7 @@
 2d	her	2f	her	2r	.
 2G	auff	2d	auff	2b	schaw
 =5	=5	=5	=5	=5	=5
+*	*	*xywh-#91:109,593,2708,365	*	*	*
 1A	mich	2f	mich	2cc	her
 .	.	2.e	in	2cc	auff
 1A	in	.	.	2cc	mich
@@ -50,6 +52,7 @@
 !! cadence start
 2G	mei-	2b	mei-	2dd	mei-
 2A	-ner	2a	-ner	2cc	-ner
+*xywh-#147:128,548,2694,456	*	*	*	*xywh-#31:93,575,2779,447	*
 1e	not/	2g#	not/	1b	not/
 .	.	2g#	ach	.	.
 =7	=7	=7	=7	=7	=7
@@ -75,6 +78,7 @@
 1D	mas-	2r	.	1f	mas-
 !! cadence end b; ultima=d
 .	.	2a	In	.	.
+*	*	*xywh-#91:104,930,2685,397	*	*	*
 2A	-sen/	2.cc	mei-	1e	-sen/
 2A	in	.	.	.	.
 .	.	8b	.	.	.
@@ -97,6 +101,7 @@
 .	.	8g#i	.	.	.
 .	.	8f#i	.	.	.
 .	.	2g#i	.	.	.
+*	*	*	*	*xywh-#31:79,976,2799,466	*
 1F	ich	2a	-sen/	2a	-sen/
 !! cadence end; ultima=a
 .	.	2fny	ich	4r	.
@@ -105,6 +110,7 @@
 2c	heu-	2e	heu-	2g	heu-
 2A	-le	2c	-le	2f	-le
 !! cadence start
+*xywh-#147:137,962,2694,452	*	*	*	*	*
 2.A	fest	2c	fast	2e	fast
 .	.	2cc	für	2e	für
 4A	für	.	.	.	.
@@ -115,6 +121,7 @@
 .	.	16f#i	.	.	.
 .	.	16e	.	.	.
 .	.	4f#	.	.	.
+*	*	*xywh-#91:90,1277,2703,402	*	*	*
 2G	pein/	4g	pein/	1b	pein/
 !! cadence end; ultima=g
 .	.	2d	auß	.	.
@@ -146,11 +153,13 @@
 =18	=18	=18	=18	=18	=18
 1A	seuff-	2cc	mag	2ee	mag
 .	.	2cc	mein	2ee	mein
+*	*	*	*	*xywh-#31:66,1391,2767,447	*
 1d	-tzen	2.f	seuff-	2a	seuff-
 .	.	.	.	2a	-tzen
 .	.	4f	-tzen	.	.
 =19	=19	=19	=19	=19	=19
 !! cadence start
+*	*	*xywh-#91:86,1626,2729,399	*	*	*
 2A	nicht	4e	nicht	2cc	nicht
 .	.	4f	er-	.	.
 2G	er-	2.g	-win-	2b	er-
@@ -159,6 +168,7 @@
 .	.	8e	.	.	.
 .	.	2f#i	.	.	.
 =20	=20	=20	=20	=20	=20
+*xywh-#147:135,1356,2687,467	*	*	*	*	*
 2e	-den/	2g	-den/	1g	-den/
 !! cadence end; ultima=g
 2c	es	2e	Es	.	.
@@ -188,6 +198,7 @@
 .	.	4d	da-	.	.
 4d	-den/	2f	-hin-	.	.
 4d	es	.	.	.	.
+*	*	*xywh-#91:90,1935,2705,466	*	*	*
 2c	ist	2e	-den/	2r	.
 2A	vom	4r	.	2cc	es
 .	.	4a	es	.	.
@@ -196,10 +207,12 @@
 4r	.	2cc	vom	2ee	vom
 *	*ij	*	*	*	*
 4c	es	.	.	.	.
+*	*	*	*	*xywh-#31:64,1819,2779,513	*
 2G	ist	2b	heil	2dd	heil
 2A	vom	2a	zu	2cc	zu
 =25	=25	=25	=25	=25	=25
 !! cadence start c
+*xywh-#147:142,1783,2705,478	*	*	*	*	*
 2e	hail	4g#	weit	2b	weit
 *	*Xij	*	*	*	*
 .	.	4g#	da-	.	.
