@@ -1,0 +1,258 @@
+!!!COM: Lassus, Orlandus
+!!!CDT: 1532-1594/06/14
+!!!OPR: Geistliche Psalmen mit dreyen Stimmen
+!!!ONM: 23
+!!!OTL@@LA: Domini est terra
+!!!OTL-incipit@@DE: Die welt und all jhr reichthumb
+**kern	**text	**kern	**text	**kern	**text
+*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*Ivox	*	*Ivox	*	*Ivox	*
+*I"Bassus	*	*I"Tenor	*	*I"Cantus	*
+*I'B	*	*I'T	*	*I'C	*
+*clefC3	*	*clefC1	*	*clefC1	*
+*k[]	*	*k[]	*	*k[]	*
+*d:dor	*	*d:dor	*	*d:dor	*
+*M2/1	*	*M2/1	*	*M2/1	*
+*met(C|)	*	*met(C|)	*	*met(C|)	*
+*MM180	*	*MM180	*	*MM180	*
+=1	=1	=1	=1	=1	=1
+*xywh-#149:124,51,2765,516	*	*xywh-#93:129,58,2703,515	*	*xywh-#33:119,54,2720,522	*
+0r	.	1a	Die	0r	.
+.	.	2a	welt	.	.
+.	.	2a	und	.	.
+=2	=2	=2	=2	=2	=2
+1r	.	2.d	all	2r	.
+!	!	!	!	!LO:TX:a:i:t=c.f.	!
+.	.	.	.	2dd	Die
+.	.	4e	.	.	.
+2r	.	4f	.	2dd	welt
+.	.	4g	.	.	.
+2d	Die	2f	.	2dd	und
+=3	=3	=3	=3	=3	=3
+2d	welt	1f	jhr	2a	all
+2d	und	.	.	2b	ir
+!! cadence start
+2A	all	2e	reiche-	1cc	reich-
+2f	jhr	2.a	.	.	.
+=4	=4	=4	=4	=4	=4
+2d	rei-	.	.	1b	.
+.	.	8g#i	.	.	.
+.	.	8f#i	.	.	.
+2e	-che-	2g#i	.	.	.
+2f.	-thumb/	2a	-thum̃/	1a	-thumb/
+!! cadence end; ultima=a
+.	.	2d	ist	.	.
+4g	.	.	.	.	.
+=5	=5	=5	=5	=5	=5
+4a	.	2d	erb-	2r	.
+4g	.	.	.	.	.
+4f	.	2d	-lich	2a	ist
+4e	.	.	.	.	.
+*	*	*xywh-#93:125,511,2717,404	*	*	*
+1d	.	1.f	ei-	2a	erb-
+.	.	.	.	2a	-lich
+=6	=6	=6	=6	=6	=6
+2r	.	.	.	1.cc	ei-
+2A	ist	2e	-gen	.	.
+*xywh-#149:119,501,2754,416	*	*	*	*	*
+2A	erb-	4ee	Gott	.	.
+.	.	4dd	.	.	.
+2A	-lich	4cc	.	2a	-gen
+.	.	4dd	.	.	.
+=7	=7	=7	=7	=7	=7
+*	*	*	*	*xywh-#33:107,561,2734,438	*
+!! cadence start
+2c	ei-	2ee	.	2g	Gott
+2d	-gen	4a	dem	2f	dem
+.	.	2dd	Her-	.	.
+2A	Gott	.	.	1e	Her-
+.	.	8cc#i	.	.	.
+.	.	8b	.	.	.
+2A	dem	2cc#i	.	.	.
+=8	=8	=8	=8	=8	=8
+4B-	Her-	4dd	-ren/	1d	-ren/
+!! cadence end; ultima=d
+4A	.	4cc	.	.	.
+4G	.	4b-	.	.	.
+4F#	.	4a	.	.	.
+2G	.	2b-X	.	2r	.
+2G	-ren/	2b-	Der	2dd	Der
+=9	=9	=9	=9	=9	=9
+2r	.	2g	gantz	2dd	gantz
+2d	der	2f	erd-	2dd	erd-
+*	*	*xywh-#93:125,843,2708,422	*	*	*
+2d	gantz	1f	-bo-	2a	-bo-
+2d	erd-	.	.	2b	-den
+=10	=10	=10	=10	=10	=10
+!! cadence start
+2A	-bo-	2e	-den	1cc	umb
+2f	-den	1a	umb	.	.
+2d	umb	.	.	1b	und
+2e	und	2g#	und	.	.
+=11	=11	=11	=11	=11	=11
+2.f	umb/	2a	umb/	1a	umb/
+!! cadence end; ultima=a
+.	.	2d	uñ	.	.
+4g	.	.	.	.	.
+*xywh-#149:117,859,2745,405	*	*	*	*	*
+4a	.	2d	was	2r	.
+4g	.	.	.	.	.
+4f	.	2d	dar-	2a	und
+4e	.	.	.	.	.
+=12	=12	=12	=12	=12	=12
+1d	.	1.f	-auff	2a	was
+.	.	.	.	2a	dar-
+*	*	*	*	*xywh-#33:103,961,2727,443	*
+2r	.	.	.	1.cc	-auff
+2A	und	2e	sich	.	.
+=13	=13	=13	=13	=13	=13
+2A	was	4ee	thut	.	.
+.	.	4dd	.	.	.
+2A	dar-	4cc	.	2a	sich
+.	.	4dd	.	.	.
+!! cadence start
+2c	-auff	2ee	.	2g	thut
+2d	sich	4a	er-	2f	er-
+.	.	2dd	-ne-	.	.
+=14	=14	=14	=14	=14	=14
+1A	thut	.	.	1e	-ne-
+.	.	8cc#i	.	.	.
+.	.	8b	.	.	.
+.	.	2cc#i	.	.	.
+*	*	*xywh-#93:116,1199,2696,388	*	*	*
+2B-	er-	2dd	-ren/	1d	-ren/
+!! cadence end; ultima=d
+1f	-ne-	2a	denn	.	.
+=15	=15	=15	=15	=15	=15
+.	.	2a	er	2r	.
+2f	-ren/	2a	hat	2d	Denn
+2r	.	2f	jhn	2d	er
+2f	denn	2a	zu	2d	hat
+=16	=16	=16	=16	=16	=16
+2d	er	2a	fe-	2f	jhn
+2A	hat	4cc	-stem	2e	zu
+.	.	4b	.	.	.
+!! cadence start
+2.d	jm	4a	.	1f	fe-
+.	.	4g	.	.	.
+.	.	2.f	.	.	.
+4d	zu	.	.	.	.
+=17	=17	=17	=17	=17	=17
+2c	fe-	.	.	1g	-stem
+.	.	8e	.	.	.
+.	.	8d	.	.	.
+2c	-stem	2e	.	.	.
+*xywh-#149:117,1201,2747,418	*	*	*	*	*
+2F	stand/	2f	stand	1a	stand/
+!! cadence end; ultima=f
+2f	auffs	2d	auffs	.	.
+=18	=18	=18	=18	=18	=18
+2e	meer	2g	meer	1r	.
+2c	ge-	2e	ge-	.	.
+2d	-grund	2f	-grund	1a	Auffs
+2f	mit	1d	auffs	.	.
+=19	=19	=19	=19	=19	=19
+2B-	sei-	.	.	2dd	Meer
+2G	-ner	2g	meer	2b	ge-
+*	*	*xywh-#93:109,1534,2710,397	*	*xywh-#33:101,1372,2745,452	*
+1A	hand/	2e	ge-	1cc	-grund
+.	.	2f	-grund	.	.
+=20	=20	=20	=20	=20	=20
+!! cadence start
+2r	.	2g	mit	2b	mit
+2A	mit	2cc	sei-	1a	sei-
+1e	sei-	1b	-ner	.	.
+.	.	.	.	2g#	-ner
+=21	=21	=21	=21	=21	=21
+2.f	-ner	2a	hand/	1a	hand/
+!! cadence end; ultima=a
+.	.	2cc	hat	.	.
+4g	.	.	.	.	.
+2a	.	2cc	jn	2r	.
+2f	hand/	1a	im	2cc	Hat
+=22	=22	=22	=22	=22	=22
+2F	hat	.	.	2cc	jhm
+4F	jhn	2f	an-	2a	im
+4F	im	.	.	.	.
+2G	an-	2d	-fang	2b-	an-
+2F	-fang	2f	zu-	2a	-fang
+=23	=23	=23	=23	=23	=23
+*xywh-#149:130,1564,2727,402	*	*	*	*	*
+!! cadence start
+2c	zu-	2e	-be-	2g	zu-
+2d	-be-	2.f	-reit-	2f	-be-
+1c	-rait	.	.	1g	-rai-
+.	.	8e	.	.	.
+.	.	8d	.	.	.
+.	.	2e	.	.	.
+=24	=24	=24	=24	=24	=24
+2d	-tet/	2f	-tet/	1f	-tet/
+!! cadence end; ultima=f
+2A	und	2cc	und	.	.
+2B-	auff	2dd	auff	1f	Und
+2d	den	2dd	den	.	.
+=25	=25	=25	=25	=25	=25
+*	*	*xywh-#93:102,1862,2726,492	*	*xywh-#33:107,1804,2720,525	*
+2.c	was-	1ee	was-	2g	auff
+.	.	.	.	2g	den
+4c	-sern	.	.	.	.
+2f	auß-	2cc	-sern	2a	was-
+2c	-ge-	2ee	auß-	2g	-sern
+=26	=26	=26	=26	=26	=26
+!! cadence start
+4d	-brei-	2a	-ge-	2f	auß-
+4A	.	.	.	.	.
+2B-	.	2.dd	-brei-	2d	-ge-
+1A	-tet/	.	.	1e	-brei
+.	.	8cc#i	.	.	.
+.	.	8b	.	.	.
+.	.	2cc#i	.	.	.
+=27	=27	=27	=27	=27	=27
+2r	.	2dd	-tet	1d	-tet
+!! cadence end; ultima=d
+2f	und	2a	und	.	.
+!! cadence start
+2B-	auff	2.d	auff	1f	und
+2d	den	.	.	.	.
+.	.	2f	den	.	.
+=28	=28	=28	=28	=28	=28
+2c	was-	.	.	2g	auff
+.	.	8e	.	.	.
+.	.	8d	.	.	.
+2c	-sern	2e	.	2g	den
+*xywh-#149:130,1897,2705,458	*	*	*	*	*
+2F	auß-	2f	was-	2a	was-
+!! cadence end; ultima=f
+2G	-ge-	2e	-sern	2g	-sern
+=29	=29	=29	=29	=29	=29
+*lig	*	*	*	*	*
+!! cadence start
+1B-	-brei-	4d	auß-	2f	auß-
+.	.	4d	-ge-	.	.
+.	.	2.dd	-brei-	2d	-ge-
+1A	.	.	.	1e	-brei-
+*Xlig	*	*	*	*	*
+.	.	8cc#i	.	.	.
+.	.	8b	.	.	.
+.	.	2cc#i	.	.	.
+=30	=30	=30	=30	=30	=30
+0dll	-tet.	0ddll	-tet.	0dll	-tet.
+!! cadence end; ultima=d
+==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-
+!!!RDF**kern: l = terminal long
+!!!RDF**kern: i = editorial accidental
+!!!AGN: Psalm; Tricinium
+!!!LIB: Ulenberg, Caspar
+!!!LIB-CDT: 1548/12/24-1617/02/16
+!!!YOR: https://mdz-nbn-resolving.de/details:bsb00075346
+!!!YOO: München, Bayerische Staatsbibliothek
+!!!URL-scan: https://www.digitale-sammlungen.de/de/view/bsb00075346?page=33 Cantus
+!!!URL-scan: https://www.digitale-sammlungen.de/de/view/bsb00075346?page=93 Tenor
+!!!URL-scan: https://www.digitale-sammlungen.de/de/view/bsb00075346?page=149 Bassus
+!!!IIIF: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00075346/manifest
+!!!EED: Wolfgang Drescher
+!!!END: 2023/03/12
+!!!ENC: Wolfgang Drescher
+!!!EEV: 2023/03/12
+!!!title: @{ONM}. @{OTL} / <i>@{OTL-incipit@@DE}</i>
