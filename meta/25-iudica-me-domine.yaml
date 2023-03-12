@@ -1,8 +1,53 @@
 cantusFirmus:
     - cantus
+comments:
+    - Wiederholung der ersten Imitation
+    - Plagale Schlusskadenz
+    - Kadenz mit Ultima in T. 20 kann man entweder nach `f` oder `a` verstehen
 composer: Orlandus Lassus
 finalis: f
 incipit: Schaff mir doch recht in Sachen mein
+lyrics:
+    -
+        measures: 1-4
+        rhyme: a
+        text: Schaff mir doch recht in sachen mein/
+    -
+        measures: 4-7
+        rhyme: b
+        text: darnach o Herr steht mein verlangen/
+    -
+        measures: 6-9
+        rhyme: a
+        text: denn ich bin für den augen dein/
+    -
+        measures: 9-12
+        rhyme: b
+        text: in meiner unschuld einher gangen/
+    -
+        measures: 12-14
+        rhyme: c
+        text: mein hoffnung fester zuversicht/
+    -
+        measures: 14-17
+        rhyme: c
+        text: hab ich getrost auff dich gericht/
+    -
+        measures: 17-20
+        rhyme: d
+        text: darumb mag ich zum fal nicht wancken/
+    -
+        measures: 20-22
+        rhyme: e
+        text: versuch/ prüff mich in grund hinein/
+    -
+        measures: 22-25
+        rhyme: e
+        text: durchleuter auch die nieren mein/
+    -
+        measures: 25-33
+        rhyme: d
+        text: dazu das hertz und all gedancken.
 mode: ionian
 originalDocument: https://mdz-nbn-resolving.de/details:bsb00075346
 originalDocumentOwner: München, Bayerische Staatsbibliothek
