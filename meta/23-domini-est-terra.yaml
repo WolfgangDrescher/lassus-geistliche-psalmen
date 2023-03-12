@@ -1,8 +1,47 @@
 cantusFirmus:
     - cantus
+comments:
+    - Mehrere Imitationen
+    - Modale Beantwortung
+    - Trugschlüssige Kadenzflucht in Bassklauseln
+    - Wiederholung der letzten Verszeile
+    - Kadenz mit Quintsextakkord auf 4 Skalenstufe
 composer: Orlandus Lassus
 finalis: d
 incipit: Die welt und all jhr reichthumb
+lyrics:
+    -
+        measures: 1-4
+        rhyme: a
+        text: Die welt und all jhr reichethumb
+    -
+        measures: 4-8
+        rhyme: b
+        text: ist erblich eigen Gott dem Herren/
+    -
+        measures: 8-11
+        rhyme: a
+        text: der gantz erdboden umb und umb/
+    -
+        measures: 11-15
+        rhyme: b
+        text: und was darauff sich thut erneren/
+    -
+        measures: 14-17
+        rhyme: c
+        text: denn er hat jhn zu festem stand/
+    -
+        measures: 17-21
+        rhyme: c
+        text: auffs meer gegrund mit seiner hand/
+    -
+        measures: 21-24
+        rhyme: d
+        text: hat jhn im anfang zuberaitet/
+    -
+        measures: 24-30
+        rhyme: d
+        text: und auff den wassern außgebreitet.
 mode: dorian
 originalDocument: https://mdz-nbn-resolving.de/details:bsb00075346
 originalDocumentOwner: München, Bayerische Staatsbibliothek
