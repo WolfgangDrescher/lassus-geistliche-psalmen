@@ -8,7 +8,7 @@ comments:
     - Kadenz mit Quintsextakkord auf 4 Skalenstufe
 composer: Orlandus Lassus
 finalis: d
-incipit: Die welt und all jhr reichthumb
+incipit: Die welt und all jhr reichethumb
 lyrics:
     -
         measures: 1-4
@@ -148,7 +148,7 @@ voices:
             denn er hat jm zu festem stand/
             auffs meer gegrund mit seiner hand/
             mit seiner hand/
-            hat jhn im anfang zuberait -tet/
+            hat jhn im anfang zuberaittet/
             und auff den wassern außgebreitet/
             und auff den wassern außgebreitet.
         prange:
@@ -216,7 +216,7 @@ voices:
             Denn er hat jhn zu festem stand/
             Auffs Meer gegrund mit seiner hand/
             Hat jhm im anfang zuberaitet/
-            Und auff den wassern außgebrei -tet und auff den wassern außgebreitet.
+            Und auff den wassern außgebreitet und auff den wassern außgebreitet.
         prange:
             mean:
                 kern: g#
