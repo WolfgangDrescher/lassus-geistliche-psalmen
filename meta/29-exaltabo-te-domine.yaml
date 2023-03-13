@@ -1,0 +1,280 @@
+cantusFirmus:
+    - bassus
+composer: Orlandus Lassus
+finalis: d
+incipit: Ich wil dich Herr gebürlich loben
+mode: dorian
+originalDocument: https://mdz-nbn-resolving.de/details:bsb00075346
+originalDocumentOwner: München, Bayerische Staatsbibliothek
+prange:
+    mean:
+        kern: d
+        keyno: 62.2599
+    median:
+        kern: d
+        keyno: 62
+    noteCount:
+        -
+            count: 12
+            kern: D
+            keyno: 50
+        -
+            count: 9
+            kern: E
+            keyno: 52
+        -
+            count: 13
+            kern: F
+            keyno: 53
+        -
+            count: 12
+            kern: G
+            keyno: 55
+        -
+            count: 24
+            kern: A
+            keyno: 57
+        -
+            count: 16
+            kern: B
+            keyno: 59
+        -
+            count: 27
+            kern: c
+            keyno: 60
+        -
+            count: 8
+            kern: c#
+            keyno: 61
+        -
+            count: 40
+            kern: d
+            keyno: 62
+        -
+            count: 32
+            kern: e
+            keyno: 64
+        -
+            count: 25
+            kern: f
+            keyno: 65
+        -
+            count: 3
+            kern: f#
+            keyno: 66
+        -
+            count: 23
+            kern: g
+            keyno: 67
+        -
+            count: 2
+            kern: g#
+            keyno: 68
+        -
+            count: 32
+            kern: a
+            keyno: 69
+        -
+            count: 5
+            kern: b-
+            keyno: 70
+        -
+            count: 8
+            kern: b
+            keyno: 71
+        -
+            count: 13
+            kern: cc
+            keyno: 72
+    tessitura: 23
+rawFile: https://raw.githubusercontent.com/WolfgangDrescher/lassus-geistliche-psalmen/master/kern/29-exaltabo-te-domine.krn
+sourceFile: https://github.com/WolfgangDrescher/lassus-geistliche-psalmen/blob/master/kern/29-exaltabo-te-domine.krn
+title: Exaltabo te Domine
+transposition: cantus_durus
+ulenbergRawFile: https://raw.githubusercontent.com/WolfgangDrescher/ulenberg-psalmen-davids/master/kern/029-exaltabo-te-domine.krn
+ulenbergSourceFile: https://github.com/WolfgangDrescher/ulenberg-psalmen-davids/blob/master/kern/029-exaltabo-te-domine.krn
+voices:
+    bassus:
+        clef: C4
+        endSoundFiguredbassNumber: '1'
+        lyrics: |-
+            Ich wil dich Herr gebürlich loben/
+            denn du hast mich genommen an/
+            hast nicht dem feind in seinem toben/
+            zum frewdenspott mich werden lan/
+            da mir war eilend uberkommen/
+            schreit ich zu dir mein Got uñ Herr/
+            du hast auch meine bitt vernommen/
+            und mich geheilt von oben her/
+            und mich geheilt von oben her.
+        prange:
+            mean:
+                kern: G#
+                keyno: 55.5
+            median:
+                kern: G
+                keyno: 55
+            noteCount:
+                -
+                    count: 12
+                    kern: D
+                    keyno: 50
+                -
+                    count: 6
+                    kern: E
+                    keyno: 52
+                -
+                    count: 12
+                    kern: F
+                    keyno: 53
+                -
+                    count: 12
+                    kern: G
+                    keyno: 55
+                -
+                    count: 13
+                    kern: A
+                    keyno: 57
+                -
+                    count: 5
+                    kern: B
+                    keyno: 59
+                -
+                    count: 9
+                    kern: c
+                    keyno: 60
+                -
+                    count: 7
+                    kern: d
+                    keyno: 62
+            tessitura: 13
+        urlScan: https://www.digitale-sammlungen.de/de/view/bsb00075346?page=155
+    cantus:
+        clef: C1
+        endSoundFiguredbassNumber: '#10'
+        lyrics: |-
+            Ich wil dich Herr gebürlich loben/
+            denn du hast mich genommen an/
+            hast nicht dem feind in seinem toben/
+            zum frewden spot mich werden lan/
+            da mir war eilend uberkommen/
+            schreit ich zu dir mein Gott und Herr/
+            du hast auch meine bitt vernommen/
+            und mich geheilt und mich geheilt von oben her/
+            und mich geheilt von oben her.
+        prange:
+            mean:
+                kern: g
+                keyno: 67.3697
+            median:
+                kern: g#
+                keyno: 68
+            noteCount:
+                -
+                    count: 5
+                    kern: c
+                    keyno: 60
+                -
+                    count: 8
+                    kern: d
+                    keyno: 62
+                -
+                    count: 12
+                    kern: e
+                    keyno: 64
+                -
+                    count: 10
+                    kern: f
+                    keyno: 65
+                -
+                    count: 3
+                    kern: f#
+                    keyno: 66
+                -
+                    count: 21
+                    kern: g
+                    keyno: 67
+                -
+                    count: 2
+                    kern: g#
+                    keyno: 68
+                -
+                    count: 32
+                    kern: a
+                    keyno: 69
+                -
+                    count: 5
+                    kern: b-
+                    keyno: 70
+                -
+                    count: 8
+                    kern: b
+                    keyno: 71
+                -
+                    count: 13
+                    kern: cc
+                    keyno: 72
+            tessitura: 13
+        urlScan: https://www.digitale-sammlungen.de/de/view/bsb00075346?page=39
+    tenor:
+        clef: C3
+        endSoundFiguredbassNumber: '8'
+        lyrics: |-
+            Ich wil dich Herr gebürlich loben/
+            denn du hast mich genommen an/
+            hast nicht den feind in seinem toben/
+            zum freudenspott mich werden lan/
+            da mir war eilend uberkommen/
+            scheit ich zu dir mein Got uñ Herr du hast auch meine bitt vernommen/
+            uñ mich geheilt uñ mich geheilt von oben her/
+            und mich geheilt von oben her.
+        prange:
+            mean:
+                kern: c#
+                keyno: 61.3945
+            median:
+                kern: d
+                keyno: 62
+            noteCount:
+                -
+                    count: 3
+                    kern: E
+                    keyno: 52
+                -
+                    count: 1
+                    kern: F
+                    keyno: 53
+                -
+                    count: 11
+                    kern: A
+                    keyno: 57
+                -
+                    count: 11
+                    kern: B
+                    keyno: 59
+                -
+                    count: 13
+                    kern: c
+                    keyno: 60
+                -
+                    count: 8
+                    kern: c#
+                    keyno: 61
+                -
+                    count: 25
+                    kern: d
+                    keyno: 62
+                -
+                    count: 20
+                    kern: e
+                    keyno: 64
+                -
+                    count: 15
+                    kern: f
+                    keyno: 65
+                -
+                    count: 2
+                    kern: g
+                    keyno: 67
+            tessitura: 16
+        urlScan: https://www.digitale-sammlungen.de/de/view/bsb00075346?page=99
