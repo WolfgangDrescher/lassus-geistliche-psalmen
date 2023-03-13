@@ -152,7 +152,7 @@ voices:
             thu mich mein Got erlösen/
             auß aller fehrligkeit/
             errette mich errette mich errette mich errette mich vom bösen/
-            durch dein gerech -tigkeit.
+            durch dein gerechtigkeit.
         prange:
             mean:
                 kern: G
@@ -212,10 +212,11 @@ voices:
             du lieber trewer Herr/
             du lieber trewer Herr/
             laß mich in meinem trauen/
-            laß mich in meinem trawen beschem̃t stehn nim̃ermehr beschem̃t stehn nim̃ermehr thu mich mein Got erlösen/
-            tu mich mein Got erlösen/
+            laß mich in meinem trauen/
+            beschem̃t stehn nim̃ermehr beschem̃t stehn nim̃ermehr thu mich mein Got erlösen/
+            thu mich mein Got erlösen/
             auß aller fehrligkeit/
-            erret -te mich errette mich errette mich vom bösen/
+            errette mich errette mich errette mich vom bösen/
             durch dein gerechtigkeit.
         prange:
             mean:
@@ -289,7 +290,8 @@ voices:
         lyrics: |-
             Mein hertz auff dich thut bawen/
             du lieber trewer Herr/
-            du lieber trewer Herr Laß mich in meinem trawen/
+            du lieber trewer Herr/
+            Laß mich in meinem trawen/
             Beschembt stehn nimmermehr/
             beschembt stehn nimmermehr thu mich mein Got erlösen/
             erlösen/
