@@ -1,8 +1,45 @@
 cantusFirmus:
     - bassus
+comments:
+    - Exemplarisch für klare cantus firmus Behandlung
+    - Sprünge in Melismen
+    - Schnelle Synkopenkette
 composer: Orlandus Lassus
 finalis: d
 incipit: Ich wil dich Herr gebürlich loben
+lyrics:
+    -
+        measures: 1-5
+        rhyme: a
+        text: Ich wil dich Herr gebürlich loben/
+    -
+        measures: 5-8
+        rhyme: b
+        text: denn du hast mich genommen an/
+    -
+        measures: 8-11
+        rhyme: a
+        text: hast nicht dem feind in seinem toben/
+    -
+        measures: 11-15
+        rhyme: b
+        text: zum frewdenspott mich werden lan/
+    -
+        measures: 14-17
+        rhyme: c
+        text: da mir war eilend uberkommen/
+    -
+        measures: 17-20
+        rhyme: d
+        text: schreit ich zu dir mein Gott und Herr/
+    -
+        measures: 20-23
+        rhyme: c
+        text: du hast auch meine bitt vernommen/
+    -
+        measures: 23-30
+        rhyme: d
+        text: und mich geheilt von oben her.
 mode: dorian
 originalDocument: https://mdz-nbn-resolving.de/details:bsb00075346
 originalDocumentOwner: München, Bayerische Staatsbibliothek
