@@ -1,8 +1,45 @@
 cantusFirmus:
     - cantus
+comments:
+    - Cadenza doppia (schnell in Semiminimae und langsam in Semibreven)
+    - Modale Beantwortung
+    - Oktavregel-Ausschnitt (③ – ④ – ⑤ – ⑥ – ⑦ – ①)
 composer: Rudolphus Lassus
 finalis: d
 incipit: Ihr kinder Gottes hoch von stande
+lyrics:
+    -
+        measures: 1-6
+        rhyme: a
+        text: Ihr kinder Gottes hoch von stande/
+    -
+        measures: 5-10
+        rhyme: a
+        text: jhr hohen häupter in dem lande/
+    -
+        measures: 9-14
+        rhyme: b
+        text: bringet dem Herren wolgemut/
+    -
+        measures: 13-16
+        rhyme: b
+        text: Wider und Böck zum opffer gut/
+    -
+        measures: 15-19
+        rhyme: c
+        text: bringet jhm ehr und preiß/
+    -
+        measures: 19-23
+        rhyme: d
+        text: ja bringet ehr her all zusamen/
+    -
+        measures: 22-28
+        rhyme: d
+        text: zu lobe seinem heilgen namen/
+    -
+        measures: 28-32
+        rhyme: c
+        text: mit sonderlichem fleiß.
 mode: dorian
 originalDocument: https://mdz-nbn-resolving.de/details:bsb00075346
 originalDocumentOwner: München, Bayerische Staatsbibliothek
