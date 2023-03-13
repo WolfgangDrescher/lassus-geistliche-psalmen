@@ -211,7 +211,7 @@ voices:
                     kern: g
                     keyno: 67
             tessitura: 16
-        urlScan: https://www.digitale-sammlungen.de/de/view/bsb00075346?page=153
+        urlScan: https://www.digitale-sammlungen.de/de/view/bsb00075346?page=154
     cantus:
         clef: C1
         endSoundFiguredbassNumber: '8'
@@ -280,7 +280,7 @@ voices:
                     kern: dd
                     keyno: 74
             tessitura: 15
-        urlScan: https://www.digitale-sammlungen.de/de/view/bsb00075346?page=37
+        urlScan: https://www.digitale-sammlungen.de/de/view/bsb00075346?page=38
     tenor:
         clef: C2
         endSoundFiguredbassNumber: '1'
@@ -360,4 +360,4 @@ voices:
                     kern: cc
                     keyno: 72
             tessitura: 16
-        urlScan: https://www.digitale-sammlungen.de/de/view/bsb00075346?page=97
+        urlScan: https://www.digitale-sammlungen.de/de/view/bsb00075346?page=98
