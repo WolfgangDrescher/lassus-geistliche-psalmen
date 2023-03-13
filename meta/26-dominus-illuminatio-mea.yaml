@@ -1,0 +1,298 @@
+cantusFirmus:
+    - cantus
+    - tenor
+    - bassus
+composer: Rudolphus Lassus
+finalis: d
+incipit: Gott ist mein liecht mein trost und hail
+mode: dorian
+originalDocument: https://mdz-nbn-resolving.de/details:bsb00075346
+originalDocumentOwner: München, Bayerische Staatsbibliothek
+prange:
+    mean:
+        kern: f
+        keyno: 65.1882
+    median:
+        kern: f
+        keyno: 65
+    noteCount:
+        -
+            count: 6
+            kern: F
+            keyno: 53
+        -
+            count: 6
+            kern: G
+            keyno: 55
+        -
+            count: 8
+            kern: A
+            keyno: 57
+        -
+            count: 4
+            kern: B-
+            keyno: 58
+        -
+            count: 4
+            kern: B
+            keyno: 59
+        -
+            count: 14
+            kern: c
+            keyno: 60
+        -
+            count: 1
+            kern: c#
+            keyno: 61
+        -
+            count: 37
+            kern: d
+            keyno: 62
+        -
+            count: 31
+            kern: e
+            keyno: 64
+        -
+            count: 33
+            kern: f
+            keyno: 65
+        -
+            count: 2
+            kern: f#
+            keyno: 66
+        -
+            count: 27
+            kern: g
+            keyno: 67
+        -
+            count: 41
+            kern: a
+            keyno: 69
+        -
+            count: 1
+            kern: b-
+            keyno: 70
+        -
+            count: 16
+            kern: b
+            keyno: 71
+        -
+            count: 10
+            kern: cc
+            keyno: 72
+        -
+            count: 5
+            kern: cc#
+            keyno: 73
+        -
+            count: 9
+            kern: dd
+            keyno: 74
+    tessitura: 22
+rawFile: https://raw.githubusercontent.com/WolfgangDrescher/lassus-geistliche-psalmen/master/kern/26-dominus-illuminatio-mea.krn
+sourceFile: https://github.com/WolfgangDrescher/lassus-geistliche-psalmen/blob/master/kern/26-dominus-illuminatio-mea.krn
+title: Dominus illuminatio mea
+transposition: cantus_durus
+ulenbergRawFile: https://raw.githubusercontent.com/WolfgangDrescher/ulenberg-psalmen-davids/master/kern/026-dominus-illuminatio-mea.krn
+ulenbergSourceFile: https://github.com/WolfgangDrescher/ulenberg-psalmen-davids/blob/master/kern/026-dominus-illuminatio-mea.krn
+voices:
+    bassus:
+        clef: C3
+        endSoundFiguredbassNumber: '1'
+        lyrics: |-
+            Gott ist mein liecht/
+            mein trost und hail/
+            wen soll dann fürchten meine seel/
+            der Herr ist meine stercke gut/
+            mein leben steht in seiner hut/
+            in seiner hut/
+            für wem soll mir dann auß mißtrawen/
+            mit schrecken grawen mit schrecken grawen.
+        prange:
+            mean:
+                kern: c
+                keyno: 60.3649
+            median:
+                kern: d
+                keyno: 62
+            noteCount:
+                -
+                    count: 6
+                    kern: F
+                    keyno: 53
+                -
+                    count: 6
+                    kern: G
+                    keyno: 55
+                -
+                    count: 8
+                    kern: A
+                    keyno: 57
+                -
+                    count: 4
+                    kern: B-
+                    keyno: 58
+                -
+                    count: 4
+                    kern: B
+                    keyno: 59
+                -
+                    count: 7
+                    kern: c
+                    keyno: 60
+                -
+                    count: 1
+                    kern: c#
+                    keyno: 61
+                -
+                    count: 18
+                    kern: d
+                    keyno: 62
+                -
+                    count: 10
+                    kern: e
+                    keyno: 64
+                -
+                    count: 7
+                    kern: f
+                    keyno: 65
+                -
+                    count: 2
+                    kern: g
+                    keyno: 67
+                -
+                    count: 1
+                    kern: a
+                    keyno: 69
+            tessitura: 17
+        urlScan: https://www.digitale-sammlungen.de/de/view/bsb00075346?page=152
+    cantus:
+        clef: C1
+        endSoundFiguredbassNumber: '1'
+        lyrics: |-
+            Gott ist mein liecht mein trost und hail/
+            Wen sol den fürchten meine seel/
+            Der Herr ist meine stercke gut/
+            Mein leben steht in seiner hut/
+            mein leben steht in seiner hut für wem sol mir dann auß mißtrawen mit schrecken grawen.
+            mit schrecken grawen.
+        prange:
+            mean:
+                kern: f#
+                keyno: 66.4556
+            median:
+                kern: f#
+                keyno: 66
+            noteCount:
+                -
+                    count: 4
+                    kern: c
+                    keyno: 60
+                -
+                    count: 9
+                    kern: d
+                    keyno: 62
+                -
+                    count: 14
+                    kern: e
+                    keyno: 64
+                -
+                    count: 17
+                    kern: f
+                    keyno: 65
+                -
+                    count: 2
+                    kern: f#
+                    keyno: 66
+                -
+                    count: 12
+                    kern: g
+                    keyno: 67
+                -
+                    count: 19
+                    kern: a
+                    keyno: 69
+                -
+                    count: 6
+                    kern: b
+                    keyno: 71
+                -
+                    count: 4
+                    kern: cc
+                    keyno: 72
+                -
+                    count: 1
+                    kern: cc#
+                    keyno: 73
+                -
+                    count: 2
+                    kern: dd
+                    keyno: 74
+            tessitura: 15
+        urlScan: https://www.digitale-sammlungen.de/de/view/bsb00075346?page=36
+    tenor:
+        clef: C1
+        endSoundFiguredbassNumber: '8'
+        lyrics: |-
+            Gott ist mein liecht mein trost und heil/
+            Wen sol dann fürchten meine seel/
+            wen sol dann fürchten meine seel/
+            der Herr ist meine stercke gut/
+            Mein leben steht in seiner in seiner hut/
+            Für wem sol mir dann auß mißtrauen/
+            mit schrecken grawen.
+            mit schrecken grawen.
+        prange:
+            mean:
+                kern: g#
+                keyno: 67.8571
+            median:
+                kern: a
+                keyno: 69
+            noteCount:
+                -
+                    count: 3
+                    kern: c
+                    keyno: 60
+                -
+                    count: 10
+                    kern: d
+                    keyno: 62
+                -
+                    count: 7
+                    kern: e
+                    keyno: 64
+                -
+                    count: 9
+                    kern: f
+                    keyno: 65
+                -
+                    count: 13
+                    kern: g
+                    keyno: 67
+                -
+                    count: 21
+                    kern: a
+                    keyno: 69
+                -
+                    count: 1
+                    kern: b-
+                    keyno: 70
+                -
+                    count: 10
+                    kern: b
+                    keyno: 71
+                -
+                    count: 6
+                    kern: cc
+                    keyno: 72
+                -
+                    count: 4
+                    kern: cc#
+                    keyno: 73
+                -
+                    count: 7
+                    kern: dd
+                    keyno: 74
+            tessitura: 15
+        urlScan: https://www.digitale-sammlungen.de/de/view/bsb00075346?page=96
