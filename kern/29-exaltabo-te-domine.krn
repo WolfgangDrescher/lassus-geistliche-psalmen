@@ -35,6 +35,7 @@
 .	.	4A	.	4f	.
 2D	ge-	1f	.	2a	.
 =4	=4	=4	=4	=4	=4
+!! cadence start
 2F	-bür-	.	.	2a	lo-
 2G	-lich	4e	.	4g	.
 .	.	4d	.	4f	.
@@ -45,6 +46,7 @@
 =5	=5	=5	=5	=5	=5
 *	*	*xywh-#99:118,517,2689,380	*	*xywh-#39:122,545,2731,363	*
 1D	-ben/	2d	-ben/	2f	-ben/
+!! cadence end; ultima=d
 .	.	2f	denn	2a	denn
 2r	.	1f	du	2a	du
 2d	denn	.	.	2a	hast
@@ -57,6 +59,7 @@
 2c	mich	2e	mich	2g	.
 2A	ge-	2e	ge-	2c	ge-
 =7	=7	=7	=7	=7	=7
+!! cadence start
 *	*	*lig	*	*	*
 1G	-nom-	1B	-nom-	2d	-nom-
 .	.	.	.	2.e	-men
@@ -68,6 +71,7 @@
 *	*	*Xlig	*	*	*
 =8	=8	=8	=8	=8	=8
 1E	an/	2B	-men	2g	an/
+!! cadence end; ultima=e
 .	.	2c	an/	2e	hast
 2r	.	2A	hast	2e	nicht
 2D	hast	2A	nicht	1f	dem
@@ -81,14 +85,16 @@
 =10	=10	=10	=10	=10	=10
 2F	sei-	.	.	2a	in
 2G	-nem	1e	-nem	1g	sei-
+!! cadence start
 0A	to-	.	.	.	.
 .	.	2.d	to-	2f	-nem
 =11	=11	=11	=11	=11	=11
 .	.	.	.	1e	to-
-.	.	8c	.	.	.
+.	.	8c#i	.	.	.
 .	.	8B	.	.	.
-.	.	2c	.	.	.
+.	.	2c#i	.	.	.
 1D	-ben/	2d	-ben/	2f	-ben/
+!! cadence end; ultima=d
 *	*	*xywh-#99:109,861,2691,382	*	*	*
 .	.	2f	zum	2a	zum
 =12	=12	=12	=12	=12	=12
@@ -102,6 +108,7 @@
 =13	=13	=13	=13	=13	=13
 2c	-spott	2e	-spott	2g	.
 2A	mich	2e	mich	2c	mich
+!! cadence start
 1G	wer-	1B	wer-	2d	wer-
 .	.	.	.	2.e	-den
 =14	=14	=14	=14	=14	=14
@@ -112,6 +119,7 @@
 .	.	4B	.	.	.
 *	*	*	*	*xywh-#39:106,1223,2728,369	*
 1E	lan/	4c	.	2e	lan/
+!! cadence end; ultima=e
 .	.	4B	.	.	.
 .	.	2e	.	2g	da
 =15	=15	=15	=15	=15	=15
@@ -124,6 +132,7 @@
 =16	=16	=16	=16	=16	=16
 2c	ei-	2e	ei-	.	.
 2c	-lend	2A	-lend	2e	u-
+!! cadence start
 2B	u-	2d	u-	2g	-ber-
 2A	-ber-	4e	-ber-	2.cc	-kom-
 .	.	2e	-kom-	.	.
@@ -134,6 +143,7 @@
 .	.	2d	.	2b	.
 *	*	*xywh-#99:109,1186,2678,438	*	*	*
 1A	-men/	1c	men/	2e	-men/
+!! cadence end; utlima=c
 .	.	.	.	2cc	schreit
 =18	=18	=18	=18	=18	=18
 2r	.	4r	.	2b	ich
@@ -148,16 +158,18 @@
 2A	dir	2e	mein	2cc	Gott
 *	*	*	*	*lig	*
 2B	mein	2E	Got	1g	und
+!! cadence start
 1c	Got	1e	uñ	.	.
 .	.	.	.	2.a	.
 *	*	*	*	*Xlig	*
 =20	=20	=20	=20	=20	=20
 1B	uñ	1E	Herr	.	.
-.	.	.	.	8g	.
-.	.	.	.	8f	.
-.	.	.	.	2g	.
+.	.	.	.	8g#i	.
+.	.	.	.	8f#i	.
+.	.	.	.	2g#i	.
 *	*	*	*	*xywh-#39:104,1569,2720,371	*
 1A	Herr/	2r	.	2a	Herr/
+!! cadence end; ultima=a
 .	.	2e	du	2cc	du
 =21	=21	=21	=21	=21	=21
 2r	.	2A	hast	2cc	hast
@@ -168,6 +180,7 @@
 2A	mei-	1e	bitt	2cc	bitt
 2G	-ne	.	.	2b	ver-
 *xywh-#155:121,1376,2734,460	*	*	*	*	*
+!! cadence start
 2F	bitt	2A	ver-	2.cc	-nom-
 2A	ver-	2.f	-nom-	.	.
 .	.	.	.	4a	.
@@ -178,6 +191,7 @@
 .	.	2e	.	.	.
 *	*	*xywh-#99:105,1582,2704,378	*	*	*
 1F	-men/	2f	-men/	1.a	-men/
+!! cadence end; ultima=f
 .	.	2c	uñ	.	.
 =24	=24	=24	=24	=24	=24
 1r	.	2d	mich	.	.
@@ -196,16 +210,18 @@
 2D	von	2f	von	2b-	ge-
 =26	=26	=26	=26	=26	=26
 *	*	*	*	*xywh-#39:102,1910,2702,431	*
+!! cadence start
 1F	o-	2c	o-	2.a	-heilt
 *	*	*	*	*	*Xij
 .	.	2.d	-ben	.	.
 .	.	.	.	4a	von
 1E	-ben	.	.	2g	o-
-.	.	8c	.	.	.
+.	.	8c#i	.	.	.
 .	.	8B	.	.	.
-.	.	2c	.	2g	-ben
+.	.	2c#i	.	2g	-ben
 =27	=27	=27	=27	=27	=27
 1D	her/	2d	.	1f#	her/
+!! cadence end; ultima=d
 .	.	2d	her/	.	.
 2r	.	2e	und	2r	.
 2G	und	2d	mich	2b	und
@@ -217,14 +233,16 @@
 2D	von	2f	von	2a	von
 =29	=29	=29	=29	=29	=29
 *	*	*xywh-#99:88,1908,2713,449	*	*	*
+!! cadence start
 1F	o-	2c	o-	1a	o-
 .	.	2.d	-ben	.	.
 1E	-ben	.	.	1g	-ben
-.	.	8c	.	.	.
+.	.	8c#i	.	.	.
 .	.	8B	.	.	.
-.	.	2c	.	.	.
+.	.	2c#i	.	.	.
 =30	=30	=30	=30	=30	=30
 0Dl	her.	0dll	her.	0f#ll	her.
+!! cadence end; ultima=d
 ==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-
 !!!RDF**kern: l = terminal long
