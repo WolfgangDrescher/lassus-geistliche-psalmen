@@ -1,0 +1,325 @@
+cantusFirmus:
+    - cantus
+composer: Rudolphus Lassus
+finalis: d
+incipit: Ihr kinder Gottes hoch von stande
+mode: dorian
+originalDocument: https://mdz-nbn-resolving.de/details:bsb00075346
+originalDocumentOwner: München, Bayerische Staatsbibliothek
+prange:
+    mean:
+        kern: e
+        keyno: 64.3556
+    median:
+        kern: e
+        keyno: 64
+    noteCount:
+        -
+            count: 1
+            kern: E
+            keyno: 52
+        -
+            count: 4
+            kern: F
+            keyno: 53
+        -
+            count: 3
+            kern: G
+            keyno: 55
+        -
+            count: 26
+            kern: A
+            keyno: 57
+        -
+            count: 3
+            kern: B-
+            keyno: 58
+        -
+            count: 13
+            kern: B
+            keyno: 59
+        -
+            count: 16
+            kern: c
+            keyno: 60
+        -
+            count: 9
+            kern: c#
+            keyno: 61
+        -
+            count: 48
+            kern: d
+            keyno: 62
+        -
+            count: 50
+            kern: e
+            keyno: 64
+        -
+            count: 37
+            kern: f
+            keyno: 65
+        -
+            count: 4
+            kern: f#
+            keyno: 66
+        -
+            count: 36
+            kern: g
+            keyno: 67
+        -
+            count: 4
+            kern: g#
+            keyno: 68
+        -
+            count: 37
+            kern: a
+            keyno: 69
+        -
+            count: 2
+            kern: b-
+            keyno: 70
+        -
+            count: 14
+            kern: b
+            keyno: 71
+        -
+            count: 15
+            kern: cc
+            keyno: 72
+        -
+            count: 2
+            kern: cc#
+            keyno: 73
+        -
+            count: 5
+            kern: dd
+            keyno: 74
+    tessitura: 23
+rawFile: https://raw.githubusercontent.com/WolfgangDrescher/lassus-geistliche-psalmen/master/kern/28-afferte-domino.krn
+sourceFile: https://github.com/WolfgangDrescher/lassus-geistliche-psalmen/blob/master/kern/28-afferte-domino.krn
+title: Afferte Domino
+transposition: cantus_durus
+ulenbergRawFile: https://raw.githubusercontent.com/WolfgangDrescher/ulenberg-psalmen-davids/master/kern/028-afferte-domino.krn
+ulenbergSourceFile: https://github.com/WolfgangDrescher/ulenberg-psalmen-davids/blob/master/kern/028-afferte-domino.krn
+voices:
+    bassus:
+        clef: C3
+        endSoundFiguredbassNumber: '1'
+        lyrics: |-
+            Ihr kinder Gottes hoch von stande/
+            jhr hohen häupter in dem lande/
+            bringet dem Herren wolgemut/
+            bringet dem Herren wolgemut Wider und Böck zum opffer gut/
+            bringet jhm ehr und preiß/
+            bringet jhm ehr und preiß/
+            ja bringet ehr ja bringet ehr her all zusamen/
+            zu lobe seisem zu lobe seinem heilgen naman/
+            mit sonderlichem fleiß.
+            mit sonderlichem fleiß.
+        prange:
+            mean:
+                kern: c
+                keyno: 60.3558
+            median:
+                kern: c
+                keyno: 60
+            noteCount:
+                -
+                    count: 1
+                    kern: E
+                    keyno: 52
+                -
+                    count: 4
+                    kern: F
+                    keyno: 53
+                -
+                    count: 3
+                    kern: G
+                    keyno: 55
+                -
+                    count: 22
+                    kern: A
+                    keyno: 57
+                -
+                    count: 3
+                    kern: B-
+                    keyno: 58
+                -
+                    count: 10
+                    kern: B
+                    keyno: 59
+                -
+                    count: 10
+                    kern: c
+                    keyno: 60
+                -
+                    count: 4
+                    kern: c#
+                    keyno: 61
+                -
+                    count: 20
+                    kern: d
+                    keyno: 62
+                -
+                    count: 15
+                    kern: e
+                    keyno: 64
+                -
+                    count: 9
+                    kern: f
+                    keyno: 65
+                -
+                    count: 3
+                    kern: g
+                    keyno: 67
+            tessitura: 16
+        urlScan: https://www.digitale-sammlungen.de/de/view/bsb00075346?page=153
+    cantus:
+        clef: C1
+        endSoundFiguredbassNumber: '8'
+        lyrics: |-
+            Ihr Kinder Gottes hoch von stande/
+            jhr hohen häupter in dem lande/
+            in dem lande/
+            bringet dem Herren wolgemut/
+            Wider und Böck zum opffer gut/
+            bringet jhm ehr und preiß/
+            ja bringet ehr her all zusamen/
+            zu lobe seinem heilgen namen/
+            seinem heilgen namen/
+            mit sonderlichem fleiß.
+            mit sonderlichem fleiß.
+        prange:
+            mean:
+                kern: g#
+                keyno: 67.8947
+            median:
+                kern: a
+                keyno: 69
+            noteCount:
+                -
+                    count: 2
+                    kern: c
+                    keyno: 60
+                -
+                    count: 8
+                    kern: d
+                    keyno: 62
+                -
+                    count: 11
+                    kern: e
+                    keyno: 64
+                -
+                    count: 8
+                    kern: f
+                    keyno: 65
+                -
+                    count: 3
+                    kern: f#
+                    keyno: 66
+                -
+                    count: 14
+                    kern: g
+                    keyno: 67
+                -
+                    count: 18
+                    kern: a
+                    keyno: 69
+                -
+                    count: 12
+                    kern: b
+                    keyno: 71
+                -
+                    count: 12
+                    kern: cc
+                    keyno: 72
+                -
+                    count: 2
+                    kern: cc#
+                    keyno: 73
+                -
+                    count: 5
+                    kern: dd
+                    keyno: 74
+            tessitura: 15
+        urlScan: https://www.digitale-sammlungen.de/de/view/bsb00075346?page=37
+    tenor:
+        clef: C2
+        endSoundFiguredbassNumber: '1'
+        lyrics: |-
+            Ihr kinder Gottes hoch von stande/
+            jr hohen häupter jr hohen häupter in dem lande/
+            bringet dem Herren wolgemut/
+            bringet dem Herren wolgemut/
+            Wider und Böck zum opffer gut/
+            bringet jm ehr und preiß/
+            ja bringet ehr her all zusamen/
+            zu lobe seinem heilgen namen/
+            seinem heilgen namen/
+            mit sunderlichem mit sunderlichem fleiß.
+        prange:
+            mean:
+                kern: f
+                keyno: 64.9692
+            median:
+                kern: f
+                keyno: 65
+            noteCount:
+                -
+                    count: 4
+                    kern: A
+                    keyno: 57
+                -
+                    count: 3
+                    kern: B
+                    keyno: 59
+                -
+                    count: 4
+                    kern: c
+                    keyno: 60
+                -
+                    count: 5
+                    kern: c#
+                    keyno: 61
+                -
+                    count: 20
+                    kern: d
+                    keyno: 62
+                -
+                    count: 24
+                    kern: e
+                    keyno: 64
+                -
+                    count: 20
+                    kern: f
+                    keyno: 65
+                -
+                    count: 1
+                    kern: f#
+                    keyno: 66
+                -
+                    count: 19
+                    kern: g
+                    keyno: 67
+                -
+                    count: 4
+                    kern: g#
+                    keyno: 68
+                -
+                    count: 19
+                    kern: a
+                    keyno: 69
+                -
+                    count: 2
+                    kern: b-
+                    keyno: 70
+                -
+                    count: 2
+                    kern: b
+                    keyno: 71
+                -
+                    count: 3
+                    kern: cc
+                    keyno: 72
+            tessitura: 16
+        urlScan: https://www.digitale-sammlungen.de/de/view/bsb00075346?page=97
