@@ -1,7 +1,45 @@
 cantusFirmus: []
+comments:
+    - Verschiedene Textwiederholungen
+    - Wiederholung der Imitation
+    - Melisma bei Minimae und Semiminimae
+    - Mi-Kadenz
 composer: Rudolphus Lassus
 finalis: d
 incipit: Mein hertz auff dich thut bawen
+lyrics:
+    -
+        measures: 1-6
+        rhyme: a
+        text: Mein hertz auff dich thut bawen/
+    -
+        measures: 5-9
+        rhyme: b
+        text: du lieber trewer Herr/
+    -
+        measures: 9-15
+        rhyme: a
+        text: laß mich in meinem trawen/
+    -
+        measures: 14-18
+        rhyme: b
+        text: beschembt stehn nimmermehr/
+    -
+        measures: 18-23
+        rhyme: c
+        text: thu mich mein Got erlösen/
+    -
+        measures: 23-25
+        rhyme: d
+        text: auß aller fehrligkeit/
+    -
+        measures: 25-30
+        rhyme: c
+        text: errette mich vom bösen/
+    -
+        measures: 30-32
+        rhyme: d
+        text: durch dein gerechtigkeit.
 mode: dorian
 originalDocument: https://mdz-nbn-resolving.de/details:bsb00075346
 originalDocumentOwner: München, Bayerische Staatsbibliothek
