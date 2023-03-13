@@ -50,7 +50,7 @@ originalDocumentOwner: München, Bayerische Staatsbibliothek
 prange:
     mean:
         kern: f
-        keyno: 64.6801
+        keyno: 64.7243
     median:
         kern: f
         keyno: 65
@@ -80,7 +80,7 @@ prange:
             kern: B
             keyno: 59
         -
-            count: 13
+            count: 12
             kern: c
             keyno: 60
         -
@@ -124,7 +124,7 @@ prange:
             kern: b
             keyno: 71
         -
-            count: 6
+            count: 7
             kern: cc
             keyno: 72
         -
@@ -302,17 +302,17 @@ voices:
         prange:
             mean:
                 kern: g
-                keyno: 66.661
+                keyno: 66.7627
             median:
-                kern: f
-                keyno: 65
+                kern: f#
+                keyno: 66
             noteCount:
                 -
                     count: 2
                     kern: B
                     keyno: 59
                 -
-                    count: 3
+                    count: 2
                     kern: c
                     keyno: 60
                 -
@@ -356,7 +356,7 @@ voices:
                     kern: b
                     keyno: 71
                 -
-                    count: 1
+                    count: 2
                     kern: cc
                     keyno: 72
                 -
