@@ -2,9 +2,37 @@ cantusFirmus:
     - cantus
     - tenor
     - bassus
+comments:
+    - Cantus firmus wird in mehreren Stimmen angedeutet und ist streckenweise transponiert
+    - Kadenzflucht aus der Sopranklausel mit Melisma
 composer: Rudolphus Lassus
 finalis: d
 incipit: Gott ist mein liecht mein trost und hail
+lyrics:
+    -
+        measures: 1-5
+        rhyme: a
+        text: Gott ist mein liecht mein trost und hail/
+    -
+        measures: 4-9
+        rhyme: a
+        text: wen sol dann fürchten meine seel/
+    -
+        measures: 9-13
+        rhyme: b
+        text: der Herr ist meine stercke gut/
+    -
+        measures: 13-18
+        rhyme: b
+        text: mein leben steht in seiner hut/
+    -
+        measures: 18-22
+        rhyme: c
+        text: für wem sol mir dann auß mißtrawen/
+    -
+        measures: 22-26
+        rhyme: c
+        text: mit schrecken grawen.
 mode: dorian
 originalDocument: https://mdz-nbn-resolving.de/details:bsb00075346
 originalDocumentOwner: München, Bayerische Staatsbibliothek
