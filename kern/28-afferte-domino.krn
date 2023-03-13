@@ -1,0 +1,298 @@
+!!!COM: Lassus, Rudolphus
+!!!CDT: 1563-1625
+!!!OPR: Geistliche Psalmen mit dreyen Stimmen
+!!!ONM: 28
+!!!OTL@@LA: Afferte Domino
+!!!OTL-incipit@@DE: Ihr kinder Gottes hoch von stande
+**kern	**text	**kern	**text	**kern	**text
+*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*Ivox	*	*Ivox	*	*Ivox	*
+*I"Bassus	*	*I"Tenor	*	*I"Cantus	*
+*I'B	*	*I'T	*	*I'C	*
+*clefC3	*	*clefC2	*	*clefC1	*
+*k[]	*	*k[]	*	*k[]	*
+*d:dor	*	*d:dor	*	*d:dor	*
+*M2/1	*	*M2/1	*	*M2/1	*
+*met(C|)	*	*met(C|)	*	*met(C|)	*
+*MM180	*	*MM180	*	*MM180	*
+=1	=1	=1	=1	=1	=1
+*xywh-#154:295,76,2732,533	*	*xywh-#98:349,29,2734,539	*	*xywh-#38:227,54,2719,555	*
+00r	.	1d	Ihr	0r	.
+.	.	2A	kin-	.	.
+.	.	2A	-der	.	.
+=2	=2	=2	=2	=2	=2
+!	!	!	!	!LO:TX:a:i:t=c.f.	!
+.	.	4d	Got-	1a	Ihr
+.	.	4e	.	.	.
+.	.	4f	.	.	.
+.	.	4g	.	.	.
+.	.	2.a	.	2d	Kin-
+.	.	.	.	2d	-der
+.	.	4g	.	.	.
+=3	=3	=3	=3	=3	=3
+1d	Ihr	1f	.	2a	Got-
+.	.	.	.	2b	-tes
+2A	kin-	1e	-tes	2cc	hoch
+2A	-der	.	.	2cc	von
+=4	=4	=4	=4	=4	=4
+2d	Got-	1r	.	2.b	stan-
+2e	-tes	.	.	.	.
+.	.	.	.	4cc	.
+2f	hoch	2r	.	2a	.
+2f	von	2a	hoch	2.cc	-de/
+=5	=5	=5	=5	=5	=5
+!! cadence start a
+1e	stan-	2g	von	.	.
+.	.	.	.	4b	.
+.	.	2.g	stan-	4b	.
+.	.	.	.	8a	.
+.	.	.	.	8g	.
+!! cadence start b
+2.d	-de/	.	.	2a	.
+.	.	4f	.	.	.
+.	.	4f	.	1dd	jhr
+8c	.	8e	.	.	.
+8B	.	8d	.	.	.
+=6	=6	=6	=6	=6	=6
+1A	.	2e	.	.	.
+!! cadence end a; ultima=g
+.	.	2e	-de/	2cc	ho-
+*	*	*xywh-#98:342,475,2752,452	*	*xywh-#38:227,600,2725,426	*
+2r	.	4r	.	2b	-hen
+!! cadence end b; ultima=d
+.	.	4g	jr	.	.
+2d	jhr	2f	ho-	1a	häup-
+=7	=7	=7	=7	=7	=7
+2c#	ho-	2e	-hen	.	.
+2d	-hen	2f	häup-	2a	-ter
+*xywh-#154:279,571,2746,439	*	*	*	*	*
+2e	häup-	2c	-ter	2g	in
+2d	-ter	4r	.	2f	dem
+*	*	*	*ij	*	*
+.	.	4a	jr	.	.
+=8	=8	=8	=8	=8	=8
+2r	.	2g	ho-	1e	lan-
+1g	in	2cc	-hen	.	.
+.	.	2b-	häup-	1d	-de/
+2f	dem	2a	-ter	.	.
+*	*	*	*Xij	*	*
+=9	=9	=9	=9	=9	=9
+1e	lan-	2.g	in	2r	.
+.	.	.	.	1g	in
+.	.	4g	dem	.	.
+2d	-de/	2b-	lan-	.	.
+2d	brin-	2a	-de/	2f#	dem
+=10	=10	=10	=10	=10	=10
+2e	-get	2r	.	2g	lan-
+2f	dem	2d	brin-	2a	-de/
+2g	Her-	2e	-get	1r	.
+2d	-ren	2f	dem	.	.
+=11	=11	=11	=11	=11	=11
+2e	wol-	2g	Her-	2r	.
+2f	-ge-	2a	-ren	2d	brin-
+*	*	*xywh-#98:334,804,2754,467	*	*	*
+2c	-mut/	2g	wol-	2e	-get
+*	*ij	*	*	*	*
+2A	brin-	2c	-ge-	2f#	dem
+=12	=12	=12	=12	=12	=12
+2B	-get	2d	-mut/	2g	Her-
+2c#	dem	4r	.	2e	-ren
+*	*	*	*ij	*	*
+.	.	2a	brin-	.	.
+2d	Her-	.	.	2f#	wol-
+.	.	4a	-get	.	.
+2B	-ren	2d	dem	2g	-ge-
+=13	=13	=13	=13	=13	=13
+2c#	wol-	2e	Her-	1a	-mut/
+2d	-ge-	2f	-ren	.	.
+*xywh-#154:281,985,2748,448	*	*	*	*xywh-#38:223,1014,2721,420	*
+2e	-mut	2g	wol-	2r	.
+*	*Xij	*	*	*	*
+2A	Wi-	2cc	-ge-	2a	Wi-
+=14	=14	=14	=14	=14	=14
+2e	-der	2b	-mut/	2g	-der
+*	*	*	*Xij	*	*
+2f	und	4r	.	2a	und
+.	.	2a	Wi-	.	.
+!! cadence start
+2e	Böck	.	.	2b	Böck
+.	.	4g	-der	.	.
+2A	zum	4e	und	2cc	zum
+.	.	4a	Böck	.	.
+=15	=15	=15	=15	=15	=15
+4e	opf-	4g#	zum	2b	opf-
+4d	.	2a	opf-	.	.
+2e	.	.	.	2b	-fer
+.	.	4g#X	-fer	.	.
+1A	-fer	2a	gut/	1cc	gut/
+!! cadence end; ultima=a
+*	*	*xywh-#98:327,1159,2745,448	*	*	*
+.	.	2a	brin-	.	.
+=16	=16	=16	=16	=16	=16
+2d	gut/	4f	-get	0r	.
+.	.	4g	.	.	.
+2d	brin-	4a	.	.	.
+.	.	8g	.	.	.
+.	.	8f	.	.	.
+2c	-get	2e	.	.	.
+2A	jhm	1f	jm	.	.
+=17	=17	=17	=17	=17	=17
+2B-	ehr	.	.	1dd	brin-
+2B-	und	4d	ehr	.	.
+.	.	4e	.	.	.
+2A	preiß/	4f	.	1cc	-get
+.	.	4e	.	.	.
+*	*ij	*	*	*	*
+2.F	brin-	4a	.	.	.
+.	.	4g	.	.	.
+=18	=18	=18	=18	=18	=18
+.	.	2f	.	2a	jhm
+4F	-get	.	.	.	.
+*	*	*lig	*	*	*
+2G	jhm	1e	und	1g	ehr
+!! cadence start
+2.A	ehr	.	.	.	.
+.	.	2.d	.	2f	und
+*	*	*Xlig	*	*	*
+4A	und	.	.	.	.
+=19	=19	=19	=19	=19	=19
+*xywh-#154:283,1396,2741,441	*	*	*	*	*
+2A	preiß/	.	.	1e	preiß/
+*	*Xij	*	*	*	*
+.	.	8c#i	.	.	.
+.	.	8B	.	.	.
+2A	ja	2c#i	.	.	.
+2B	brin-	2d	preiß/	1r	.
+!! cadence end; ultima=d
+2B	-get	2d	ja	.	.
+=20	=20	=20	=20	=20	=20
+1c	ehr	2e	brin-	1g	ja
+.	.	2e	-get	.	.
+*	*	*xywh-#98:327,1482,2741,433	*	*	*
+2r	.	2f	ehr	2a	brin-
+*	*ij	*	*	*	*
+2G	ja	4e	.	2b	-get
+.	.	4d	.	.	.
+=21	=21	=21	=21	=21	=21
+2A	brin-	2f	.	2cc	ehr
+2A	-get	2e	her	2cc	her
+*	*	*	*	*xywh-#38:218,1426,2736,422	*
+!! cadence start
+2B	ehr	2d	all	2dd	all
+*	*Xij	*	*	*	*
+2c	her	4e	zu-	2cc	zu-
+.	.	2a	-sa-	.	.
+=22	=22	=22	=22	=22	=22
+2d	all	.	.	1b	-sa-
+.	.	8g#i	.	.	.
+.	.	8f#i	.	.	.
+2e	zu-	2g#i	.	.	.
+1f	-sa-	2a	-men/	1a	-men/
+!! cadence end; ultima=a
+.	.	1cc	zu	.	.
+=23	=23	=23	=23	=23	=23
+2e	-men/	.	.	1r	.
+2g	zu	2b	lo-	.	.
+2f	lo-	2a	-be	1cc	zu
+2e	-be	2.g	sei-	.	.
+=24	=24	=24	=24	=24	=24
+1d	sei-	.	.	2b	lo-
+.	.	4f	.	.	.
+.	.	4f	.	2.a	-be
+.	.	8e	.	.	.
+.	.	8d	.	.	.
+2e	-sem	1.c	.	.	.
+.	.	.	.	2g	sei-
+*	*ij	*	*	*	*
+2E	zu	.	.	.	.
+.	.	.	.	4g	-nem
+=25	=25	=25	=25	=25	=25
+!! cadence start
+2F	lo-	.	.	2a	heil-
+2G	-be	2B	-nem	2g	-gen
+*	*	*xywh-#98:323,1843,2743,417	*	*	*
+2A	sei-	2c	heil-	1f	na-
+2B	-nem	2d	-gen	.	.
+*	*Xij	*	*	*	*
+=26	=26	=26	=26	=26	=26
+*xywh-#154:293,1812,2732,469	*	*	*	*	*
+2c	heil-	2A	na-	2e	-men/
+!! cadence start; ultima=c
+*	*	*	*	*	*ij
+2A	-gen	2e	-men/	4c	sei-
+.	.	.	.	4c	-nem
+*	*	*	*ij	*	*
+1B-	na-	2.d	sei-	4g	heil-
+.	.	.	.	4f	.
+.	.	.	.	4f	.
+.	.	4d	-nem	8e	.
+.	.	.	.	8d	.
+=27	=27	=27	=27	=27	=27
+!! cadence start
+0A	-man/	2c#	heil-	2e	.
+.	.	2.d	-gen	2f	-gen
+*	*	*	*	*xywh-#38:214,1846,2769,434	*
+.	.	.	.	1e	na-
+.	.	8c#	.	.	.
+.	.	8B	.	.	.
+.	.	2c#	.	.	.
+=28	=28	=28	=28	=28	=28
+2r	.	3.d	na-	1d	-men/
+!! cadence end; ultima=d
+*	*	*	*	*	*Xij
+2d	mit	6e	.	.	.
+.	.	3f	.	.	.
+2c	son-	2g	-men/	1r	.
+*	*	*	*Xij	*	*
+2B	-der-	2g	mit	.	.
+=29	=29	=29	=29	=29	=29
+4A	-li-	2f	sun-	1a	mit
+4B	.	.	.	.	.
+4c	.	2e	-der-	.	.
+4A	.	.	.	.	.
+!! cadence start
+4B	.	1d	-li-	2g	son-
+4c	.	.	.	.	.
+1d	.	.	.	2f	-der-
+=30	=30	=30	=30	=30	=30
+.	.	1A	-chem	2e	-li-
+2c#i	-chem	.	.	2e	-chem
+*	*	*	*ij	*	*
+2f	fleiß.	1a	mit	4d	fleiß.
+!! cadence end; ultima=d
+*	*	*	*	*	*ij
+.	.	.	.	4d	mit
+*	*ij	*	*	*	*
+2F	mit	.	.	2f	son-
+=31	=31	=31	=31	=31	=31
+!! cadence start
+2c	son-	2g	sun-	2e	-der-
+2d	-der-	2f	-der-	4a	-li-
+.	.	.	.	4b	.
+2.A	-li-	2e	-li-	4cc#	.
+.	.	.	.	2dd	.
+.	.	2e	-chem	.	.
+*	*	*	*Xij	*	*
+4A	-chem	.	.	4cc#	-chem
+=32	=32	=32	=32	=32	=32
+0dll	fleiß.	0dll	fleiß.	0ddll	fleiß.
+!! cadence end; ultima=d
+*	*Xij	*	*	*	*
+==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-
+!!!RDF**kern: l = terminal long
+!!!RDF**kern: i = editorial accidental
+!!!AGN: Psalm; Tricinium
+!!!LIB: Ulenberg, Caspar
+!!!LIB-CDT: 1548/12/24-1617/02/16
+!!!YOR: https://mdz-nbn-resolving.de/details:bsb00075346
+!!!YOO: München, Bayerische Staatsbibliothek
+!!!URL-scan: https://www.digitale-sammlungen.de/de/view/bsb00075346?page=37 Cantus
+!!!URL-scan: https://www.digitale-sammlungen.de/de/view/bsb00075346?page=97 Tenor
+!!!URL-scan: https://www.digitale-sammlungen.de/de/view/bsb00075346?page=153 Bassus
+!!!IIIF: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00075346/manifest
+!!!EED: Wolfgang Drescher
+!!!END: 2023/03/13
+!!!ENC: Wolfgang Drescher
+!!!EEV: 2023/03/13
+!!!title: @{ONM}. @{OTL} / <i>@{OTL-incipit@@DE}</i>
