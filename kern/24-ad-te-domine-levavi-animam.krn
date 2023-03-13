@@ -1,7 +1,7 @@
 !!!COM: Lassus, Rudolphus
 !!!CDT: 1563-1625
 !!!OPR: Geistliche Psalmen mit dreyen Stimmen
-!!!ONM: 22
+!!!ONM: 24
 !!!OTL@@LA: Ad te Domine levavi animam
 !!!OTL-incipit@@DE: Zu dir O Gott allein in diesem leben
 **kern	**text	**kern	**text	**kern	**text
@@ -228,5 +228,5 @@
 !!!EED: Wolfgang Drescher
 !!!END: 2023/03/12
 !!!ENC: Wolfgang Drescher
-!!!EEV: 2023/03/12
+!!!EEV: 2023/03/13
 !!!title: @{ONM}. @{OTL} / <i>@{OTL-incipit@@DE}</i>
