@@ -139,7 +139,7 @@
 1.B-	gut	2r	.	1dd	-gen/
 !! cadence end; ultima=d
 .	.	2d	Mein	.	.
-.	.	2f.	gut	2r	.
+.	.	2.f	gut	2r	.
 2F	dir	.	.	2a	mein
 .	.	4e	.	.	.
 =17	=17	=17	=17	=17	=17
@@ -207,5 +207,5 @@
 !!!EED: Wolfgang Drescher
 !!!END: 2023/03/06
 !!!ENC: Wolfgang Drescher
-!!!EEV: 2023/03/06
+!!!EEV: 2023/03/14
 !!!title: @{ONM}. @{OTL} / <i>@{OTL-incipit@@DE}</i>

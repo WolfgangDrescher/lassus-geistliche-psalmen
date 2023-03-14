@@ -132,7 +132,7 @@
 =15	=15	=15	=15	=15	=15
 2d	not	1a	not/	2.f	not
 !!cadence end; ultima=d
-2d.	bitt	.	.	.	.
+2.d	bitt	.	.	.	.
 .	.	.	.	4g	.
 *	*	*	*	*xywh-#15:116,1423,2753,405	*
 .	.	2r	.	2a	.
@@ -195,7 +195,7 @@
 *	*	*xywh-#75:94,1828,2751,535	*	*	*
 !! cadence start
 0d	uñ	2a	Herr	.	.
-.	.	2g.	und	2b-	Herr
+.	.	2.g	und	2b-	Herr
 .	.	.	.	1a	und
 .	.	8f#	.	.	.
 .	.	8e	.	.	.
@@ -220,5 +220,5 @@
 !!!EED: Wolfgang Drescher
 !!!END: 2022/12/22
 !!!ENC: Wolfgang Drescher
-!!!EEV: 2023/02/16
+!!!EEV: 2023/03/14
 !!!title: @{ONM}. @{OTL} / <i>@{OTL-incipit@@DE}</i>
