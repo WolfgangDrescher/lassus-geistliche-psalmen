@@ -137,14 +137,14 @@
 .	.	8e	.	.	.
 .	.	8d	.	.	.
 .	.	2e	.	.	.
-2F	-ren	2f	-ren/	2a	-ren/
+2F/	-ren	2f	-ren/	2a	-ren/
 !! cadence end; ultima=f
 2D	dem	2f	dem	2a	dem
 =15	=15	=15	=15	=15	=15
 *	*	*xywh-#102:298,1202,2756,379	*	*	*
 2F	lie-	4c	lie-	4a	lie-
 .	.	4c	-ben	4a	-ben
-2G	-ben	2.e-	Her-	2.g	Her
+2G	-ben	2.e-	Her-	2.g	Her-
 !! cadence start
 1B-	Her-	.	.	.	.
 .	.	4d	.	4f	.
@@ -157,7 +157,7 @@
 .	.	8c#i	.	.	.
 .	.	8Bi	.	.	.
 .	.	2c#i	.	.	.
-2r	.	1d	-ren	2d	-ren/
+2r	.	1d	-ren/	2d	-ren/
 !! cadence end; ultima=d
 2F#	preist	.	.	2a	preist
 =17	=17	=17	=17	=17	=17
@@ -168,7 +168,7 @@
 2A	preist	2f	auff	4a	.
 .	.	.	.	4g	.
 =18	=18	=18	=18	=18	=18
-2B-	hhn	4d	In-	4f	.
+2B-	jhn	4d	In-	4f	.
 .	.	4e	.	4e	.
 2B-	auff	4f	.	4d	.
 .	.	2d	.	4f	.
