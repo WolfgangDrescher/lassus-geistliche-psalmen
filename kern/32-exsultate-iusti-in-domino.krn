@@ -18,6 +18,7 @@
 =1	=1	=1	=1	=1	=1
 *xywh-#158:289,68,2751,546	*	*xywh-#102:289,72,2765,491	*	*xywh-#42:255,81,2757,507	*
 1r	.	1r	.	1g	Ihr
+!LO:TX:a:i:t=(c.f.)	!	!	!	!	!
 1G	Ihr	2r	.	2d	from-
 .	.	1d	Ihr	2d	-men
 =2	=2	=2	=2	=2	=2
@@ -66,6 +67,7 @@
 .	.	.	.	4b-	.
 =7	=7	=7	=7	=7	=7
 2r	.	2.f	ste-	1.a	.
+!LO:TX:a:i:t=c.f.	!	!	!	!	!
 2D	es	.	.	.	.
 .	.	8e	.	.	.
 .	.	8d	.	.	.
@@ -85,6 +87,7 @@
 =9	=9	=9	=9	=9	=9
 2D	fein/	2A	fein/	2d	fein/
 !! cadence end; ultima=d
+!	!	!	!	!LO:TX:a:i:t=c.f.	!
 2d	zu	4r	.	2.f	zu
 .	.	4B-	zu	.	.
 2B-	lo-	2d	lo-	.	.
@@ -114,6 +117,7 @@
 1r	.	2g	auff	1dd	spilt
 .	.	2g	der	.	.
 =12	=12	=12	=12	=12	=12
+!LO:TX:a:i:t=c.f.	!	!	!	!	!
 1d	spilt	2f	harp-	2dd	auff
 .	.	2B-	-ffen	2dd	der
 2d	auff	2r	.	1a	harp-
