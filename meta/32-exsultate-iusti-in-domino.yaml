@@ -1,4 +1,6 @@
-cantusFirmus: []
+cantusFirmus:
+    - cantus
+    - bassus
 comments:
     - Keine Wiederholdungen im Text
     - Vorzeichen auch ausserhalb der Kadenz
@@ -156,7 +158,7 @@ voices:
             mit hohen ehren es stehet den auffrechten fein/
             zu loben unvertrossen sein/
             spilt auff der harpffen jm zu ehren dem lieben Herren/
-            preist jhn preist hhn auff Instrumenten rein/
+            preist jhn preist jhn auff Instrumenten rein/
             braucht das zehnfeltig Psalterlein.
         prange:
             mean:
@@ -224,7 +226,7 @@ voices:
             es stehet den auffrechtẽ fein/
             zu loben unverdrossen sein/
             spilt auff der harpffen jm zu ehren/
-            dem lieben Her -ren/
+            dem lieben Herren/
             preist jn auff Instrumenten rein/
             braucht das zehnfeltig Psalterlein.
         prange:
@@ -290,7 +292,8 @@ voices:
             es stehet den auff rechten fein/
             zu loben unvertrossen sein/
             spilt auff der harpffen jm zu ehren/
-            dem lieben Herren preist jn auff Instrumenten rein/
+            dem lieben Herren/
+            preist jn auff Instrumenten rein/
             braucht das zehnfeltig Psalterlein.
         prange:
             mean:
