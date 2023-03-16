@@ -1,9 +1,28 @@
 cantusFirmus:
     - tenor
     - bassus
+comments:
+    - Finalis ohne klare Kadenz, aber stattdessen mit Achtelmelismen
 composer: Rudolphus Lassus
 finalis: d
 incipit: Herr richte meine widerpart
+lyrics:
+    -
+        measures: 1-3
+        rhyme: a
+        text: Herr richte meine widerpart/
+    -
+        measures: 3-6
+        rhyme: a
+        text: die mich mit zanck angreiffen hart/
+    -
+        measures: 6-9
+        rhyme: b
+        text: thu dich zum streit für mich beraitten/
+    -
+        measures: 9-17
+        rhyme: b
+        text: bestreite sie die mich bestreiten.
 mode: dorian
 originalDocument: https://mdz-nbn-resolving.de/details:bsb00075346
 originalDocumentOwner: München, Bayerische Staatsbibliothek
