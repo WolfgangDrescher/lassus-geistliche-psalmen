@@ -1,0 +1,191 @@
+!!!COM: Lassus, Rudolphus
+!!!CDT: 1563-1625
+!!!OPR: Geistliche Psalmen mit dreyen Stimmen
+!!!ONM: 34
+!!!OTL@@LA: Iudica Domine nocentes
+!!!OTL-incipit@@DE: Herr richte meine widerpart
+**kern	**text	**kern	**text	**kern	**text
+*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*Ivox	*	*Ivox	*	*Ivox	*
+*I"Bassus	*	*I"Tenor	*	*I"Cantus	*
+*I'B	*	*I'T	*	*I'C	*
+*clefC4	*	*clefC1	*	*clefC1	*
+*k[]	*	*k[]	*	*k[]	*
+*d:dor	*	*d:dor	*	*d:dor	*
+*M2/1	*	*M2/1	*	*M2/1	*
+*met(C|)	*	*met(C|)	*	*met(C|)	*
+*MM180	*	*MM180	*	*MM180	*
+=1	=1	=1	=1	=1	=1
+*xywh-#160:307,93,2753,545	*	*xywh-#104:328,56,2754,550	*	*xywh-#44:283,90,2717,518	*
+2r	.	1d	Herr	2r	.
+2d	Herr	.	.	2f	Herr
+2B-	rich-	2d	rich-	2f	rich-
+2G	-te	2d	-te	2b-	-te
+=2	=2	=2	=2	=2	=2
+!! cadence start
+2d	mei-	2.f	mei-	4a	mei-
+.	.	.	.	4a	-ne
+2d	-ne	.	.	1f	wi-
+.	.	4f	-ne	.	.
+2c	wi-	2g	wi-	.	.
+2c	-der-	2g	-der-	2e	-der-
+=3	=3	=3	=3	=3	=3
+2F	-part	1a	-part/	2f	-part/
+!! cadence end; ultima=f
+2D	die	.	.	2d	die
+2.F	mich	2r	.	2a	mich
+.	.	2a	die	2cc	mit
+4G	.	.	.	.	.
+=4	=4	=4	=4	=4	=4
+2A	.	2a	mich	2.cc	zanck
+2F	mit	2a	mit	.	.
+.	.	.	.	4cc	mit
+2c	zanck	2g	zanck	2ee	zanck
+2d	an-	2f	an-	4r	.
+.	.	.	.	4a	an-
+=5	=5	=5	=5	=5	=5
+*xywh-#160:300,565,2729,485	*	*	*	*xywh-#44:281,604,2713,426	*
+!! cadence start
+4d	-greif-	1a	-greif-	4f	-greif-
+4e	.	.	.	4e	.
+4f	.	.	.	4d	.
+4d	.	.	.	2f	.
+2B-	.	1g	-fen	.	.
+.	.	.	.	8e	.
+.	.	.	.	8d	.
+2c	-fen	.	.	4e	.
+.	.	.	.	4e	-fen
+=6	=6	=6	=6	=6	=6
+*	*	*xywh-#104:328,590,2754,421	*	*	*
+1F	hart/	2a	hart/	2f	hart/
+!! cadence end; ultima=f
+.	.	2.f	thu	2a	thu
+2r	.	.	.	2a	dich
+.	.	4f	dich	.	.
+2F	thu	2cc	zum	2a	zum
+=7	=7	=7	=7	=7	=7
+2F	dich	4a	streit	2.cc	streit
+.	.	8g	.	.	.
+.	.	8f	.	.	.
+2A	zum	2e	.	.	.
+.	.	.	.	8b	.
+.	.	.	.	8a	.
+2G	streit	2r	.	4b	.
+.	.	.	.	4cc	.
+2F	für	2a	für	4dd	.
+.	.	.	.	4a	.
+=8	=8	=8	=8	=8	=8
+!! cadence start
+2E	mich	2g	mich	2cc	.
+2D	be-	4f	be-	2dd	für
+.	.	2a	-rait-	.	.
+1E	-rait-	.	.	4cc	mich
+.	.	8g	.	8b	.
+.	.	8f	.	8a	.
+.	.	2g	.	4b	.
+.	.	.	.	4cc	be-
+=9	=9	=9	=9	=9	=9
+*	*	*	*	*xywh-#44:281,1022,2701,420	*
+1F	-ten/	2c	-ten/	1a	-rai-
+!! cadence end; ultima=f
+.	.	2cc	Be-	.	.
+1r	.	4f	-streit-	2d	-ten/
+.	.	4g	.	.	.
+.	.	4a	.	2d	be-
+.	.	4b	.	.	.
+=10	=10	=10	=10	=10	=10
+2r	.	4cc	.	1e	-strei-
+.	.	4b	.	.	.
+2A	be-	2cc	.	.	.
+*	*	*xywh-#104:323,999,2754,431	*	*	*
+1D	-strei-	2a	-te	1f	-te
+.	.	2a	be-	.	.
+=11	=11	=11	=11	=11	=11
+1E	-te	4cc	-streit-	1g	sie/
+.	.	4b	.	.	.
+.	.	4cc	.	.	.
+.	.	4g	.	.	.
+*xywh-#160:303,1002,2725,464	*	*	*	*	*
+1F	sie	4a	.	2r	.
+.	.	4g	.	.	.
+*	*	*	*	*	*ij
+.	.	4f	.	2a	be-
+.	.	4g	.	.	.
+=12	=12	=12	=12	=12	=12
+!! cadence start a
+1r	.	4a	.	1d	-strei-
+.	.	4f	.	.	.
+.	.	4a	.	.	.
+.	.	4b	.	.	.
+*	*ij	*	*	*	*
+1A	be-	4cc#	.	1e	-te
+.	.	2dd	.	.	.
+.	.	4cc#i	-te	.	.
+=13	=13	=13	=13	=13	=13
+!! cadence start b
+1D	-strei-	2dd	sie	2f	sie/
+!! cadence end a; ultima=d
+*	*	*	*ij	*	*Xij
+.	.	2.a	be-	2f	be-
+1E	-te	.	.	4cc	-strei-
+.	.	8g	.	8b	.
+.	.	8f	.	8a	.
+.	.	2g	.	4b	.
+.	.	.	.	4cc	-te
+=14	=14	=14	=14	=14	=14
+1F	sie	2c	-streit-	2a	sie/
+!! cadence end b; ultima=f
+*	*Xij	*	*	*	*ij
+.	.	2cc	-te	2a	be-
+*	*	*xywh-#104:318,1412,2747,429	*	*	*
+1G	die	2.b	sie	2d	-strei-
+*	*	*	*Xij	*	*
+.	.	.	.	2e	-te
+.	.	4b	die	.	.
+=15	=15	=15	=15	=15	=15
+2F	mich	2a	mich	2f	sie
+*	*	*	*	*	*Xij
+2D	be-	2f	be-	2a	die
+*	*	*	*	*xywh-#44:285,1442,2704,408	*
+1E	-strei-	2.g	-strei-	4cc	mich
+.	.	.	.	4b	.
+.	.	.	.	4b	.
+.	.	8f	.	8a	.
+.	.	8e	.	8g	.
+=16	=16	=16	=16	=16	=16
+00D	-ten.	8f	.	4a	.
+.	.	8e	.	.	.
+.	.	8f	.	4d	be-
+.	.	8g	.	.	.
+.	.	2a	.	8f	-strei-
+.	.	.	.	8e	.
+.	.	.	.	8f	.
+.	.	.	.	8g	.
+.	.	8d	.	2a	.
+.	.	8c	.	.	.
+.	.	8d	.	.	.
+.	.	8e	.	.	.
+.	.	8f#	.	8d	.
+.	.	8e	.	8c	.
+.	.	8f#i	.	8d	.
+.	.	8g	.	8e	.
+=17	=17	=17	=17	=17	=17
+.	.	0all	-ten.	0f#ll	-ten.
+==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-
+!!!RDF**kern: l = terminal long
+!!!RDF**kern: i = editorial accidental
+!!!AGN: Psalm; Tricinium
+!!!LIB: Ulenberg, Caspar
+!!!LIB-CDT: 1548/12/24-1617/02/16
+!!!YOR: https://mdz-nbn-resolving.de/details:bsb00075346
+!!!YOO: München, Bayerische Staatsbibliothek
+!!!URL-scan: https://www.digitale-sammlungen.de/de/view/bsb00075346?page=44 Cantus
+!!!URL-scan: https://www.digitale-sammlungen.de/de/view/bsb00075346?page=104 Tenor
+!!!URL-scan: https://www.digitale-sammlungen.de/de/view/bsb00075346?page=160 Bassus
+!!!IIIF: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00075346/manifest
+!!!EED: Wolfgang Drescher
+!!!END: 2023/03/16
+!!!ENC: Wolfgang Drescher
+!!!EEV: 2023/03/16
+!!!title: @{ONM}. @{OTL} / <i>@{OTL-incipit@@DE}</i>
