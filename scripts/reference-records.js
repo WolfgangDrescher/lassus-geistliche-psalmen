@@ -58,7 +58,7 @@ files.forEach(file => {
     tricinium.incipit = referenceRecords['OTL-incipit@@DE'] || null;
 
     // IIIF manifest
-    tricinium.iiifManifest = referenceRecords['IIIF'] || null;
+    tricinium.iiifManifestUrl = referenceRecords['IIIF'] || null;
 
     // Composer
     const com = getHumdrumReferenceRecod(kern, 'COM');
