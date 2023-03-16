@@ -1,4 +1,6 @@
-cantusFirmus: []
+cantusFirmus:
+    - tenor
+    - bassus
 composer: Rudolphus Lassus
 finalis: d
 incipit: Herr richte meine widerpart
