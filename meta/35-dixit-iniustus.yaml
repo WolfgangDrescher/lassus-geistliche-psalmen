@@ -1,9 +1,27 @@
 beats: 136
 cantusFirmus:
     - cantus
+comments: []
 composer: Orlandus Lassus
 finalis: g
 incipit: Es zeugen des gottlosen wercke
+lyrics:
+    -
+        measures: 1-4
+        rhyme: a
+        text: Es zeugen des gottlosen wercke/
+    -
+        measures: 4-7
+        rhyme: a
+        text: wie ich in meinem hertzen mercke/
+    -
+        measures: 6-10
+        rhyme: b
+        text: daß er Gott hat für augen nicht/
+    -
+        measures: 10-18
+        rhyme: b
+        text: und ist ein grosser bösewicht.
 mode: dorian
 originalDocument: https://mdz-nbn-resolving.de/details:bsb00075346
 originalDocumentOwner: München, Bayerische Staatsbibliothek
