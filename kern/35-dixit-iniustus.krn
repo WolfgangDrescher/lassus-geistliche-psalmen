@@ -1,0 +1,156 @@
+!!!COM: Lassus, Orlandus
+!!!CDT: 1532-1594/06/14
+!!!OPR: Geistliche Psalmen mit dreyen Stimmen
+!!!ONM: 35
+!!!OTL@@LA: Dixit iniustus
+!!!OTL-incipit@@DE: Es zeugen des gottlosen wercke
+**kern	**text	**kern	**text	**kern	**text
+*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*Ivox	*	*Ivox	*	*Ivox	*
+*I"Bassus	*	*I"Tenor	*	*I"Cantus	*
+*I'B	*	*I'T	*	*I'C	*
+*clefC4	*	*clefC1	*	*clefC1	*
+*k[b-]	*	*k[b-]	*	*k[b-]	*
+*g:dor	*	*g:dor	*	*g:dor	*
+*M2/1	*	*M2/1	*	*M2/1	*
+*met(C|)	*	*met(C|)	*	*met(C|)	*
+*MM180	*	*MM180	*	*MM180	*
+=1	=1	=1	=1	=1	=1
+*xywh-#161:106,59,2698,537	*	*xywh-#105:120,34,2869,538	*	*xywh-#45:131,77,2728,562	*
+!	!	!	!	!LO:TX:a:i:t=c.f.	!
+1r	.	1r	.	1g	Es
+1G	Es	2r	.	2g	zeu-
+.	.	2b-	Es	2g	-gen
+=2	=2	=2	=2	=2	=2
+2G	zeu-	2b-	zeu-	1d	des
+2G	-gen	2b-	-gen	.	.
+2D	des	2a	des	1f	gott-
+2B-	gott-	2dd	gott-	.	.
+=3	=3	=3	=3	=3	=3
+!! cadence start
+2G	-lo-	2b-	-lo-	2g	-lo-
+2d	-sen	4a	-sen	2f	-sen
+.	.	2dd	wer-	.	.
+1A	wer-	.	.	1e	wer-
+.	.	8cc#i	.	.	.
+.	.	8bi	.	.	.
+.	.	2cc#i	.	.	.
+=4	=4	=4	=4	=4	=4
+2B-	-cke/	2dd	-cke/	1d	-cke/
+!! cadence end; ultima=d
+2G	wie	2b-	wie	.	.
+2B-	ich	2.dd	ich	2r	.
+2B-	in	.	.	2d	wie
+.	.	8cc	.	.	.
+.	.	8b-	.	.	.
+=5	=5	=5	=5	=5	=5
+*	*	*xywh-#105:109,505,2738,503	*	*	*
+2d	mei-	2a	.	2f	ich
+2B-	-nem	2dd	in	2f	in
+2A	her-	2cc	mei-	2f	mei-
+2G	-tzen	2b	-nem	2g	-nem
+=6	=6	=6	=6	=6	=6
+*xywh-#161:88,574,2705,440	*	*	*	*	*
+!! cadence start
+2F#	mer-	2dd	her-	2a	her-
+2G	-cke/	4d	-tzen	2b-	-tzen
+.	.	2g	mer-	.	.
+*	*	*	*	*xywh-#45:102,610,2743,432	*
+2r	.	.	.	1a	mer-
+.	.	8f#i	.	.	.
+.	.	8e	.	.	.
+2d	daß	2f#i	.	.	.
+=7	=7	=7	=7	=7	=7
+2e-	er	2g	-cke/	1g	-cke/
+!! cadence end; ultima=g
+2e-	Gott	2.b-	daß	.	.
+1d	hat	.	.	2r	.
+.	.	4a	.	.	.
+.	.	2ff	.	2a	daß
+=8	=8	=8	=8	=8	=8
+2r	.	2dd	er	2b-	er
+*	*ij	*	*	*	*
+2G	daß	2dd	Gott	2b-	Gott
+2d	er	2ff	hat	2a	hat
+2e-	Gott	2b-	für	2g	für
+=9	=9	=9	=9	=9	=9
+!! cadence start
+2E-	hat	2.g	au-	1b-	au-
+*	*Xij	*	*	*	*
+2G	für	.	.	.	.
+.	.	2b-	-gen	.	.
+2F	au-	.	.	1cc	-gen
+.	.	8a	.	.	.
+.	.	8g	.	.	.
+2F	-gen	2a	.	.	.
+=10	=10	=10	=10	=10	=10
+*	*	*xywh-#105:102,958,2745,455	*	*	*
+1B-	nicht/	2f	nicht/	0dd	nicht/
+!! cadence end; ultima=b-
+.	.	1b-	und	.	.
+2r	.	.	.	.	.
+2d	und	1a	ist	.	.
+=11	=11	=11	=11	=11	=11
+2c	ist	.	.	2r	.
+2B-	ein	2g	ein	1dd	und
+2B-	gros-	2f	gros-	.	.
+2A	-ser	2e	-ser	2cc	ist
+=12	=12	=12	=12	=12	=12
+*xywh-#161:82,990,2727,447	*	*	*	*	*
+2r	.	2.g	bö-	2b-	ein
+*	*ij	*	*	*	*
+1B-	und	.	.	1dd	gros-
+.	.	4g	-se-	.	.
+.	.	1f	-wicht/	.	.
+2A	ist	.	.	2cc	-ser
+=13	=13	=13	=13	=13	=13
+1G	ein	2r	.	1.b-	bö-
+*	*	*	*ij	*	*
+.	.	1dd	und	.	.
+2B-	gros-	.	.	.	.
+2F	-ser	2cc	ist	2a	-se-
+*	*Xij	*	*	*	*
+=14	=14	=14	=14	=14	=14
+2r	.	2b-	ein	0g	-wicht/
+1c	und	1ee-i	gros-	.	.
+2B-	ist	2dd	-ser	.	.
+=15	=15	=15	=15	=15	=15
+2A	ein	2cc	bö-	2r	.
+1B-	gros-	2f	-se-	1dd	und
+.	.	2f	-wicht/	.	.
+*	*	*	*Xij	*	*
+2F	-ser	2a	und	2cc	ist
+=16	=16	=16	=16	=16	=16
+*	*	*	*	*xywh-#45:92,1016,2738,447	*
+2r	.	2g	ist	2b-	ein
+2B-	ein	2f	ein	1dd	gros-
+*	*	*xywh-#105:83,1369,2745,455	*	*	*
+2B-	gros-	2g	gros-	.	.
+2c	-ser	1a	-ser	2cc	-ser
+=17	=17	=17	=17	=17	=17
+!! cadence start
+1d	bö-	.	.	1b-	bö-
+.	.	1g	bö-	.	.
+1d	-se-	.	.	1a	-se-
+.	.	2f#	-se-	.	.
+=18	=18	=18	=18	=18	=18
+0Gll	-wicht.	0gll	-wicht.	0gll	-wicht.
+!! cadence end; ultima=g
+==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-
+!!!RDF**kern: l = terminal long
+!!!RDF**kern: i = editorial accidental
+!!!AGN: Psalm; Tricinium
+!!!LIB: Ulenberg, Caspar
+!!!LIB-CDT: 1548/12/24-1617/02/16
+!!!YOR: https://mdz-nbn-resolving.de/details:bsb00075346
+!!!YOO: München, Bayerische Staatsbibliothek
+!!!URL-scan: https://www.digitale-sammlungen.de/de/view/bsb00075346?page=45 Cantus
+!!!URL-scan: https://www.digitale-sammlungen.de/de/view/bsb00075346?page=105 Tenor
+!!!URL-scan: https://www.digitale-sammlungen.de/de/view/bsb00075346?page=161 Bassus
+!!!IIIF: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00075346/manifest
+!!!EED: Wolfgang Drescher
+!!!END: 2023/03/16
+!!!ENC: Wolfgang Drescher
+!!!EEV: 2023/03/16
+!!!title: @{ONM}. @{OTL} / <i>@{OTL-incipit@@DE}</i>
