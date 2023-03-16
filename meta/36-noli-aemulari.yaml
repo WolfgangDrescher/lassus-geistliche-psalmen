@@ -1,0 +1,353 @@
+beats: 256
+cantusFirmus:
+    - cantus
+    - tenor
+    - bassus
+composer: Rudolphus Lassus
+finalis: d
+incipit: Erzürne nicht über die bösen
+mode: dorian
+originalDocument: https://mdz-nbn-resolving.de/details:bsb00075346
+originalDocumentOwner: München, Bayerische Staatsbibliothek
+prange:
+    mean:
+        kern: e
+        keyno: 63.733
+    median:
+        kern: f
+        keyno: 65
+    noteCount:
+        -
+            count: 19
+            kern: D
+            keyno: 50
+        -
+            count: 8
+            kern: E
+            keyno: 52
+        -
+            count: 15
+            kern: F
+            keyno: 53
+        -
+            count: 2
+            kern: F#
+            keyno: 54
+        -
+            count: 14
+            kern: G
+            keyno: 55
+        -
+            count: 1
+            kern: G#
+            keyno: 56
+        -
+            count: 18
+            kern: A
+            keyno: 57
+        -
+            count: 4
+            kern: B-
+            keyno: 58
+        -
+            count: 3
+            kern: B
+            keyno: 59
+        -
+            count: 13
+            kern: c
+            keyno: 60
+        -
+            count: 4
+            kern: c#
+            keyno: 61
+        -
+            count: 43
+            kern: d
+            keyno: 62
+        -
+            count: 39
+            kern: e
+            keyno: 64
+        -
+            count: 43
+            kern: f
+            keyno: 65
+        -
+            count: 2
+            kern: f#
+            keyno: 66
+        -
+            count: 25
+            kern: g
+            keyno: 67
+        -
+            count: 48
+            kern: a
+            keyno: 69
+        -
+            count: 3
+            kern: b-
+            keyno: 70
+        -
+            count: 20
+            kern: b
+            keyno: 71
+        -
+            count: 21
+            kern: cc
+            keyno: 72
+        -
+            count: 10
+            kern: cc#
+            keyno: 73
+        -
+            count: 12
+            kern: dd
+            keyno: 74
+    tessitura: 25
+rawFile: https://raw.githubusercontent.com/WolfgangDrescher/lassus-geistliche-psalmen/master/kern/36-noli-aemulari.krn
+sourceFile: https://github.com/WolfgangDrescher/lassus-geistliche-psalmen/blob/master/kern/36-noli-aemulari.krn
+title: Noli æmulari
+transposition: cantus_durus
+ulenbergRawFile: https://raw.githubusercontent.com/WolfgangDrescher/ulenberg-psalmen-davids/master/kern/036-noli-aemulari.krn
+ulenbergSourceFile: https://github.com/WolfgangDrescher/ulenberg-psalmen-davids/blob/master/kern/036-noli-aemulari.krn
+voices:
+    bassus:
+        clef: C4
+        endSoundFiguredbassNumber: '1'
+        lyrics: |-
+            Erzürne nicht uber die bösen/
+            hab keinen neid auff die gottlosen/
+            die ubels thun in dieser welt/
+            denn sie gleich wie das graß der erden/
+            schnel einmal abgehawen werden/
+            und welcken wie grün kraut im feld/
+            vertrawe dich dem lieben Gott/
+            und hoff auff jhn in aller not/
+            thu guts/
+            bleib wonen in dem land/
+            der Herr wirt dir mit milder hand/
+            reichthum̃ zur notturfft wol bescheren/
+            und trewlich dich erneren.
+        prange:
+            mean:
+                kern: G#
+                keyno: 55.5673
+            median:
+                kern: G
+                keyno: 55
+            noteCount:
+                -
+                    count: 19
+                    kern: D
+                    keyno: 50
+                -
+                    count: 8
+                    kern: E
+                    keyno: 52
+                -
+                    count: 15
+                    kern: F
+                    keyno: 53
+                -
+                    count: 2
+                    kern: F#
+                    keyno: 54
+                -
+                    count: 14
+                    kern: G
+                    keyno: 55
+                -
+                    count: 1
+                    kern: G#
+                    keyno: 56
+                -
+                    count: 18
+                    kern: A
+                    keyno: 57
+                -
+                    count: 4
+                    kern: B-
+                    keyno: 58
+                -
+                    count: 2
+                    kern: B
+                    keyno: 59
+                -
+                    count: 7
+                    kern: c
+                    keyno: 60
+                -
+                    count: 6
+                    kern: d
+                    keyno: 62
+                -
+                    count: 4
+                    kern: e
+                    keyno: 64
+                -
+                    count: 4
+                    kern: f
+                    keyno: 65
+            tessitura: 16
+        urlScan: https://www.digitale-sammlungen.de/de/view/bsb00075346?page=162
+    cantus:
+        clef: C1
+        endSoundFiguredbassNumber: '8'
+        lyrics: |-
+            Erzürne nicht uber die bösen/
+            hab keinen neid auff die gottlosen/
+            die ubels thun in dieser welt/
+            dann sie gleich wie das gras der erden/
+            schnell einmal abge -hawen werden/
+            und welcken wie grün kraut im felt/
+            vertrawe dich dem lieben Gott/
+            dem lieben Gott/
+            und hoff auff jhn in aller not/
+            thu guts/
+            bleib wonen in dem land/
+            der Herr wirt dir mit milder hand/
+            reichthum̃ zur notturfft wol bescheren/
+            uñ trewlich dich erneren.
+        prange:
+            mean:
+                kern: g
+                keyno: 67.1022
+            median:
+                kern: g
+                keyno: 67
+            noteCount:
+                -
+                    count: 1
+                    kern: B
+                    keyno: 59
+                -
+                    count: 3
+                    kern: c
+                    keyno: 60
+                -
+                    count: 3
+                    kern: c#
+                    keyno: 61
+                -
+                    count: 20
+                    kern: d
+                    keyno: 62
+                -
+                    count: 18
+                    kern: e
+                    keyno: 64
+                -
+                    count: 17
+                    kern: f
+                    keyno: 65
+                -
+                    count: 12
+                    kern: g
+                    keyno: 67
+                -
+                    count: 26
+                    kern: a
+                    keyno: 69
+                -
+                    count: 1
+                    kern: b-
+                    keyno: 70
+                -
+                    count: 12
+                    kern: b
+                    keyno: 71
+                -
+                    count: 7
+                    kern: cc
+                    keyno: 72
+                -
+                    count: 8
+                    kern: cc#
+                    keyno: 73
+                -
+                    count: 9
+                    kern: dd
+                    keyno: 74
+            tessitura: 16
+        urlScan: https://www.digitale-sammlungen.de/de/view/bsb00075346?page=46
+    tenor:
+        clef: C1
+        endSoundFiguredbassNumber: '#10'
+        lyrics: |-
+            Erzürne nicht uber die bösen/
+            hab keinen neid hab keinen neid auff die gottlosen/
+            die ubels thun in dieser welt/
+            deñ sie gleich wie das graß der erden/
+            schnel einmal abgehawen werden/
+            und welcken wie grün kraut im feld/
+            vertrawe dich vertrawe dich dem lieben Gott/
+            und hoff auff jhn in aller not/
+            htu guts/
+            bleib wonen in dem land/
+            der Herr wirt dir mit milder hãd/
+            reichthum̃ zur notturfft wol bescheren/
+            und trewlich dich erneren.
+        prange:
+            mean:
+                kern: g
+                keyno: 66.8095
+            median:
+                kern: g
+                keyno: 67
+            noteCount:
+                -
+                    count: 3
+                    kern: c
+                    keyno: 60
+                -
+                    count: 1
+                    kern: c#
+                    keyno: 61
+                -
+                    count: 17
+                    kern: d
+                    keyno: 62
+                -
+                    count: 17
+                    kern: e
+                    keyno: 64
+                -
+                    count: 22
+                    kern: f
+                    keyno: 65
+                -
+                    count: 2
+                    kern: f#
+                    keyno: 66
+                -
+                    count: 13
+                    kern: g
+                    keyno: 67
+                -
+                    count: 22
+                    kern: a
+                    keyno: 69
+                -
+                    count: 2
+                    kern: b-
+                    keyno: 70
+                -
+                    count: 8
+                    kern: b
+                    keyno: 71
+                -
+                    count: 14
+                    kern: cc
+                    keyno: 72
+                -
+                    count: 2
+                    kern: cc#
+                    keyno: 73
+                -
+                    count: 3
+                    kern: dd
+                    keyno: 74
+            tessitura: 15
+        urlScan: https://www.digitale-sammlungen.de/de/view/bsb00075346?page=106
