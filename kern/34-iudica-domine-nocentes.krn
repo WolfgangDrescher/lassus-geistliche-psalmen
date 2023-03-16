@@ -17,6 +17,7 @@
 *MM180	*	*MM180	*	*MM180	*
 =1	=1	=1	=1	=1	=1
 *xywh-#160:307,93,2753,545	*	*xywh-#104:328,56,2754,550	*	*xywh-#44:283,90,2717,518	*
+!	!	!LO:TX:a:i:t=c.f.	!	!	!
 2r	.	1d	Herr	2r	.
 2d	Herr	.	.	2f	Herr
 2B-	rich-	2d	rich-	2f	rich-
@@ -62,6 +63,7 @@
 .	.	2.f	thu	2a	thu
 2r	.	.	.	2a	dich
 .	.	4f	dich	.	.
+!LO:TX:a:i:t=c.f.	!	!	!	!	!
 2F	thu	2cc	zum	2a	zum
 =7	=7	=7	=7	=7	=7
 2F	dich	4a	streit	2.cc	streit
