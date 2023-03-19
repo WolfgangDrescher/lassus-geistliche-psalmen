@@ -30,7 +30,7 @@ const voices = [
 
 files.forEach((file) => {
     const id = getIdFromFilename(file);
-    const fb = execSync(`fb -i -a -m ${file} | extractxx -i **fb | ridx -LGTM`).toString().trim();
+    const fb = execSync(`fb -i -a -m ${file} | extractxx -i **fb | ridxx -LGTM`).toString().trim();
 
     const piece = {
         voices: {
