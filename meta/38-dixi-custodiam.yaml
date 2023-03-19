@@ -1,10 +1,38 @@
 beats: 160
 cantusFirmus:
     - tenor
+comments:
+    - Sequenzartiges Echo zwischen dem Stimmenpaar Cantus mit Tenor und dem Bassus
+    - Kadenzflucht aus phrygischer Sopranklausel in die 6. Skalenstufe
 composer: Rudolphus Lassus
 finalis: g
 iiifManifestUrl: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00075346/manifest
 incipit: Ich hab also bey mir gedacht
+lyrics:
+    -
+        measures: 1-3
+        rhyme: a
+        text: Ich hab also bey mir gedacht/
+    -
+        measures: 3-6
+        rhyme: a
+        text: auff mein thun wil ich haben acht/
+    -
+        measures: 6-9
+        rhyme: b
+        text: und zwingen meine zungen/
+    -
+        measures: 9-13
+        rhyme: c
+        text: halten sie wol im zaum/
+    -
+        measures: 13-16
+        rhyme: b
+        text: daß sie nicht unbezwungen/
+    -
+        measures: 16-21
+        rhyme: c
+        text: zu sünden habe raum.
 mode: dorian
 originalDocument: https://mdz-nbn-resolving.de/details:bsb00075346
 originalDocumentOwner: München, Bayerische Staatsbibliothek
