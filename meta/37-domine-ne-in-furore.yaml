@@ -1,10 +1,39 @@
 beats: 152
 cantusFirmus:
     - cantus
+comments:
+    - Fauxbourdon mit 5-6 Seitenbewegung aufwärts
+    - Mehrere Kadenzen mit ambivalentem Ende
+    - Plagale Schlusskadenz
 composer: Orlandus Lassus
 finalis: e
 iiifManifestUrl: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00075346/manifest
 incipit: Straff mich Herr nit im eiffermut
+lyrics:
+    -
+        measures: 1-5
+        rhyme: a
+        text: Straff mich Herr nicht im eiffermut/
+    -
+        measures: 5-7
+        rhyme: a
+        text: wenn dein zorn hefftig brennen thut/
+    -
+        measures: 7-10
+        rhyme: b
+        text: züchtig mich nit im grim̃en dein/
+    -
+        measures: 10-13
+        rhyme: b
+        text: umb vil gethoner sünde mein/
+    -
+        measures: 13-15
+        rhyme: b
+        text: denn deine pfeil mit grosser pein/
+    -
+        measures: 15-20
+        rhyme: b
+        text: gar tieff in mich geschossen sein.
 mode: phrygian
 originalDocument: https://mdz-nbn-resolving.de/details:bsb00075346
 originalDocumentOwner: München, Bayerische Staatsbibliothek
