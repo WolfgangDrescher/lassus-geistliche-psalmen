@@ -1,0 +1,288 @@
+beats: 160
+cantusFirmus:
+    - tenor
+composer: Rudolphus Lassus
+finalis: g
+iiifManifestUrl: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00075346/manifest
+incipit: Ich hab also bey mir gedacht
+mode: dorian
+originalDocument: https://mdz-nbn-resolving.de/details:bsb00075346
+originalDocumentOwner: München, Bayerische Staatsbibliothek
+prange:
+    mean:
+        kern: f#
+        keyno: 66.25
+    median:
+        kern: g
+        keyno: 67
+    noteCount:
+        -
+            count: 11
+            kern: G
+            keyno: 55
+        -
+            count: 1
+            kern: A
+            keyno: 57
+        -
+            count: 5
+            kern: B-
+            keyno: 58
+        -
+            count: 1
+            kern: B
+            keyno: 59
+        -
+            count: 12
+            kern: c
+            keyno: 60
+        -
+            count: 27
+            kern: d
+            keyno: 62
+        -
+            count: 4
+            kern: e-
+            keyno: 63
+        -
+            count: 12
+            kern: e
+            keyno: 64
+        -
+            count: 14
+            kern: f
+            keyno: 65
+        -
+            count: 9
+            kern: f#
+            keyno: 66
+        -
+            count: 34
+            kern: g
+            keyno: 67
+        -
+            count: 30
+            kern: a
+            keyno: 69
+        -
+            count: 25
+            kern: b-
+            keyno: 70
+        -
+            count: 2
+            kern: b
+            keyno: 71
+        -
+            count: 12
+            kern: cc
+            keyno: 72
+        -
+            count: 9
+            kern: dd
+            keyno: 74
+        -
+            count: 1
+            kern: ee-
+            keyno: 75
+        -
+            count: 3
+            kern: ee
+            keyno: 76
+        -
+            count: 4
+            kern: ff
+            keyno: 77
+    tessitura: 23
+rawFile: https://raw.githubusercontent.com/WolfgangDrescher/lassus-geistliche-psalmen/master/kern/38-dixi-custodiam.krn
+sourceFile: https://github.com/WolfgangDrescher/lassus-geistliche-psalmen/blob/master/kern/38-dixi-custodiam.krn
+title: Dixi custodiam
+transposition: cantus_mollis
+ulenbergRawFile: https://raw.githubusercontent.com/WolfgangDrescher/ulenberg-psalmen-davids/master/kern/038-dixi-custodiam.krn
+ulenbergSourceFile: https://github.com/WolfgangDrescher/ulenberg-psalmen-davids/blob/master/kern/038-dixi-custodiam.krn
+voices:
+    bassus:
+        clef: C3
+        endSoundFiguredbassNumber: '1'
+        lyrics: |-
+            Ich hab also bey mir gedacht/
+            auff mein thun wil ich haben acht/
+            und zwingen meine zungen/
+            halten sie wol in zaum/
+            halten sie wol im zaum/
+            daß sie daß sie nicht unbezwungen/
+            zu sünden zu sünden zu sünden zu sünden habe raum.
+        prange:
+            mean:
+                kern: c#
+                keyno: 60.7164
+            median:
+                kern: d
+                keyno: 62
+            noteCount:
+                -
+                    count: 11
+                    kern: G
+                    keyno: 55
+                -
+                    count: 1
+                    kern: A
+                    keyno: 57
+                -
+                    count: 5
+                    kern: B-
+                    keyno: 58
+                -
+                    count: 1
+                    kern: B
+                    keyno: 59
+                -
+                    count: 11
+                    kern: c
+                    keyno: 60
+                -
+                    count: 21
+                    kern: d
+                    keyno: 62
+                -
+                    count: 4
+                    kern: e-
+                    keyno: 63
+                -
+                    count: 6
+                    kern: e
+                    keyno: 64
+                -
+                    count: 5
+                    kern: f
+                    keyno: 65
+                -
+                    count: 2
+                    kern: g
+                    keyno: 67
+            tessitura: 13
+        urlScan: https://www.digitale-sammlungen.de/de/view/bsb00075346?page=164
+    cantus:
+        clef: G2
+        endSoundFiguredbassNumber: n10
+        lyrics: |-
+            Ich hab also bey mir gedacht/
+            auff mein thun wil ich haben acht/
+            und zwingen meine zungen/
+            halten wol im zaum/
+            daß sie mich unbezwungen/
+            zu sünden zu sünden zu sünden zu sünden zu sünden lassen raum.
+        prange:
+            mean:
+                kern: b-
+                keyno: 70.2941
+            median:
+                kern: b-
+                keyno: 70
+            noteCount:
+                -
+                    count: 1
+                    kern: d
+                    keyno: 62
+                -
+                    count: 1
+                    kern: e
+                    keyno: 64
+                -
+                    count: 4
+                    kern: f
+                    keyno: 65
+                -
+                    count: 11
+                    kern: g
+                    keyno: 67
+                -
+                    count: 19
+                    kern: a
+                    keyno: 69
+                -
+                    count: 19
+                    kern: b-
+                    keyno: 70
+                -
+                    count: 2
+                    kern: b
+                    keyno: 71
+                -
+                    count: 11
+                    kern: cc
+                    keyno: 72
+                -
+                    count: 9
+                    kern: dd
+                    keyno: 74
+                -
+                    count: 1
+                    kern: ee-
+                    keyno: 75
+                -
+                    count: 3
+                    kern: ee
+                    keyno: 76
+                -
+                    count: 4
+                    kern: ff
+                    keyno: 77
+            tessitura: 16
+        urlScan: https://www.digitale-sammlungen.de/de/view/bsb00075346?page=48
+    tenor:
+        clef: C1
+        endSoundFiguredbassNumber: '8'
+        lyrics: |-
+            Ich hab also bey mir gedacht/
+            auff mein thun wil ich haben acht/
+            und zwingen meine zungen/
+            halten sie wol im zaum/
+            im zaum/
+            daß sie nicht unbezwungen/
+            zu sünden zu sünden zu sünden zu sünden habe raum.
+        prange:
+            mean:
+                kern: g
+                keyno: 66.6719
+            median:
+                kern: g
+                keyno: 67
+            noteCount:
+                -
+                    count: 1
+                    kern: c
+                    keyno: 60
+                -
+                    count: 5
+                    kern: d
+                    keyno: 62
+                -
+                    count: 5
+                    kern: e
+                    keyno: 64
+                -
+                    count: 5
+                    kern: f
+                    keyno: 65
+                -
+                    count: 9
+                    kern: f#
+                    keyno: 66
+                -
+                    count: 21
+                    kern: g
+                    keyno: 67
+                -
+                    count: 11
+                    kern: a
+                    keyno: 69
+                -
+                    count: 6
+                    kern: b-
+                    keyno: 70
+                -
+                    count: 1
+                    kern: cc
+                    keyno: 72
+            tessitura: 13
+        urlScan: https://www.digitale-sammlungen.de/de/view/bsb00075346?page=108
