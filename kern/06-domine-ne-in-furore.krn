@@ -31,9 +31,9 @@
 2G	nicht	4B	.	0r	.
 .	.	4c	.	.	.
 2G	im	2.d	.	.	.
-2F	ei-	.	.	.	.
+2F	eif-	.	.	.	.
 .	.	4c	.	.	.
-2F	-ffer-	4A	.	.	.
+2F	-fer-	4A	.	.	.
 .	.	4B	.	.	.
 =4	=4	=4	=4	=4	=4
 !	!	!	!	!LO:TX:a:i:t=c.f.	!
@@ -50,8 +50,8 @@
 .	.	4B	.	.	.
 *	*	*xywh-#76:346,581,2716,414	*	*	*
 .	.	1e	.	2g	im
-.	.	.	.	2f	ei-
-.	.	2d	-fer-	2f	-ffer-
+.	.	.	.	2f	eif-
+.	.	2d	-fer-	2f	-fer-
 =6	=6	=6	=6	=6	=6
 2r	.	2.g	-mut	1e	-mut/
 !! cadence end; ultima=e
@@ -226,5 +226,5 @@
 !!!EED: Wolfgang Drescher
 !!!END: 2023/01/06
 !!!ENC: Wolfgang Drescher
-!!!EEV: 2023/03/14
+!!!EEV: 2023/03/19
 !!!title: @{ONM}. @{OTL} / <i>@{OTL-incipit@@DE}</i>
