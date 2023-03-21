@@ -1,0 +1,294 @@
+beats: 216
+cantusFirmus:
+    - cantus
+composer: Orlandus Lassus
+finalis: f
+iiifManifestUrl: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00075346/manifest
+incipit: Ich harr auff Gott mit gantzer gir
+mode: ionian
+originalDocument: https://mdz-nbn-resolving.de/details:bsb00075346
+originalDocumentOwner: München, Bayerische Staatsbibliothek
+prange:
+    mean:
+        kern: g#
+        keyno: 67.5017
+    median:
+        kern: a
+        keyno: 69
+    noteCount:
+        -
+            count: 10
+            kern: F
+            keyno: 53
+        -
+            count: 7
+            kern: G
+            keyno: 55
+        -
+            count: 11
+            kern: A
+            keyno: 57
+        -
+            count: 16
+            kern: B-
+            keyno: 58
+        -
+            count: 9
+            kern: c
+            keyno: 60
+        -
+            count: 14
+            kern: d
+            keyno: 62
+        -
+            count: 12
+            kern: e
+            keyno: 64
+        -
+            count: 38
+            kern: f
+            keyno: 65
+        -
+            count: 21
+            kern: g
+            keyno: 67
+        -
+            count: 38
+            kern: a
+            keyno: 69
+        -
+            count: 11
+            kern: b-
+            keyno: 70
+        -
+            count: 3
+            kern: b
+            keyno: 71
+        -
+            count: 42
+            kern: cc
+            keyno: 72
+        -
+            count: 27
+            kern: dd
+            keyno: 74
+        -
+            count: 15
+            kern: ee
+            keyno: 76
+        -
+            count: 19
+            kern: ff
+            keyno: 77
+        -
+            count: 1
+            kern: gg
+            keyno: 79
+        -
+            count: 1
+            kern: aa
+            keyno: 81
+    tessitura: 29
+rawFile: https://raw.githubusercontent.com/WolfgangDrescher/lassus-geistliche-psalmen/master/kern/39-exspectans-exspectavi.krn
+sourceFile: https://github.com/WolfgangDrescher/lassus-geistliche-psalmen/blob/master/kern/39-exspectans-exspectavi.krn
+title: Exspectans exspectavi
+transposition: cantus_mollis
+ulenbergRawFile: https://raw.githubusercontent.com/WolfgangDrescher/ulenberg-psalmen-davids/master/kern/039-exspectans-exspectavi.krn
+ulenbergSourceFile: https://github.com/WolfgangDrescher/ulenberg-psalmen-davids/blob/master/kern/039-exspectans-exspectavi.krn
+voices:
+    bassus:
+        clef: C3
+        endSoundFiguredbassNumber: '1'
+        lyrics: |-
+            Ich harr auff Gott mit gantzer gir/
+            da anst hat uber hand genommen/
+            der naiget freundlich sich zu mir/
+            ließ mein klag jhm zu ohren kommen/
+            er zoch mich auß schrecklichem sumpf/
+            darin ich lag in schwerem dūpff/
+            mit kot und unflat uberschüt -tet/
+            er stellet auch die füsse mein/
+            auff einen felß auff einen felß und hohen stein/
+            das mein trit bleiben unzurit -tet.
+        prange:
+            mean:
+                kern: c
+                keyno: 60.3627
+            median:
+                kern: c
+                keyno: 60
+            noteCount:
+                -
+                    count: 10
+                    kern: F
+                    keyno: 53
+                -
+                    count: 7
+                    kern: G
+                    keyno: 55
+                -
+                    count: 11
+                    kern: A
+                    keyno: 57
+                -
+                    count: 16
+                    kern: B-
+                    keyno: 58
+                -
+                    count: 9
+                    kern: c
+                    keyno: 60
+                -
+                    count: 13
+                    kern: d
+                    keyno: 62
+                -
+                    count: 9
+                    kern: e
+                    keyno: 64
+                -
+                    count: 22
+                    kern: f
+                    keyno: 65
+                -
+                    count: 5
+                    kern: g
+                    keyno: 67
+            tessitura: 15
+        urlScan: https://www.digitale-sammlungen.de/de/view/bsb00075346?page=165
+    cantus:
+        clef: G2
+        endSoundFiguredbassNumber: '8'
+        lyrics: |-
+            Ich harr auff Gott mit gantzer gir/
+            da angst hat uberhand genommen/
+            der neiget freundlich sich zu mir/
+            ließ mein klag jhm zu oren kommen/
+            er zoch mich auß schrecklichem sumpff/
+            darinn ich lag in schwerem dumpff/
+            mit kot und unflat uberschüttet/
+            er stellet auch die füsse mein/
+            auff einen felß und hohen stein/
+            das mein tritt bleiben unzurittet.
+        prange:
+            mean:
+                kern: b
+                keyno: 71.4762
+            median:
+                kern: cc
+                keyno: 72
+            noteCount:
+                -
+                    count: 7
+                    kern: f
+                    keyno: 65
+                -
+                    count: 4
+                    kern: g
+                    keyno: 67
+                -
+                    count: 14
+                    kern: a
+                    keyno: 69
+                -
+                    count: 8
+                    kern: b-
+                    keyno: 70
+                -
+                    count: 1
+                    kern: b
+                    keyno: 71
+                -
+                    count: 25
+                    kern: cc
+                    keyno: 72
+                -
+                    count: 12
+                    kern: dd
+                    keyno: 74
+                -
+                    count: 5
+                    kern: ee
+                    keyno: 76
+                -
+                    count: 8
+                    kern: ff
+                    keyno: 77
+            tessitura: 13
+        urlScan: https://www.digitale-sammlungen.de/de/view/bsb00075346?page=49
+    tenor:
+        clef: G2
+        endSoundFiguredbassNumber: '15'
+        lyrics: |-
+            Ich harr auff Gott mit gantzer gir/
+            da angst hat uberhand genommen/
+            der neiget freundlich sich zu mir/
+            ließ mein klag jm zu ohren kommen/
+            er zoch mich auß schröcklichem sumpf/
+            darin ich lag in schwerem dumpf/
+            mit kot und unflat uber schüttet/
+            er stellet auch die füs -se mein/
+            auff einen felß und hohen stein/
+            das mein trit bleiben unzurüttet.
+        prange:
+            mean:
+                kern: b
+                keyno: 71.1193
+            median:
+                kern: cc
+                keyno: 72
+            noteCount:
+                -
+                    count: 1
+                    kern: d
+                    keyno: 62
+                -
+                    count: 3
+                    kern: e
+                    keyno: 64
+                -
+                    count: 9
+                    kern: f
+                    keyno: 65
+                -
+                    count: 12
+                    kern: g
+                    keyno: 67
+                -
+                    count: 24
+                    kern: a
+                    keyno: 69
+                -
+                    count: 3
+                    kern: b-
+                    keyno: 70
+                -
+                    count: 2
+                    kern: b
+                    keyno: 71
+                -
+                    count: 17
+                    kern: cc
+                    keyno: 72
+                -
+                    count: 15
+                    kern: dd
+                    keyno: 74
+                -
+                    count: 10
+                    kern: ee
+                    keyno: 76
+                -
+                    count: 11
+                    kern: ff
+                    keyno: 77
+                -
+                    count: 1
+                    kern: gg
+                    keyno: 79
+                -
+                    count: 1
+                    kern: aa
+                    keyno: 81
+            tessitura: 20
+        urlScan: https://www.digitale-sammlungen.de/de/view/bsb00075346?page=109
