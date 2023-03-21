@@ -2,7 +2,7 @@ beats: 216
 cantusFirmus:
     - cantus
 comments:
-    - Keine Wiederholdungen im Text
+    - Keine Wiederholdungen im Text (nur eine kurze)
     - Wiederholung im cantus firmus mit exakt gleichen Satz, aber mit anderem Text
 composer: Orlandus Lassus
 finalis: f
