@@ -1,10 +1,54 @@
 beats: 216
 cantusFirmus:
     - cantus
+comments:
+    - Keine Wiederholdungen im Text
+    - Wiederholung im cantus firmus mit exakt gleichen Satz, aber mit anderem Text
 composer: Orlandus Lassus
 finalis: f
 iiifManifestUrl: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00075346/manifest
 incipit: Ich harr auff Gott mit gantzer gir
+lyrics:
+    -
+        measures: 1-3
+        rhyme: a
+        text: Ich harr auff Gott mit gantzer gir/
+    -
+        measures: 3-6
+        rhyme: b
+        text: da angst hat uberhand genommen/
+    -
+        measures: 6-8
+        rhyme: a
+        text: der neiget freundlich sich zu mir/
+    -
+        measures: 8-11
+        rhyme: b
+        text: ließ mein klag jhm zu ohren kommen/
+    -
+        measures: 11-14
+        rhyme: c
+        text: er zoch mich auß schrecklichem sumpf/
+    -
+        measures: 14-16
+        rhyme: c
+        text: darin ich lag in schwerem dumpff/
+    -
+        measures: 16-19
+        rhyme: d
+        text: mit kot und unflat uberschüttet/
+    -
+        measures: 19-22
+        rhyme: e
+        text: er stellet auch die füsse mein/
+    -
+        measures: 22-25
+        rhyme: e
+        text: auff einen felß und hohen stein/
+    -
+        measures: 25-28
+        rhyme: d
+        text: das mein trit bleiben unzurittet.
 mode: ionian
 originalDocument: https://mdz-nbn-resolving.de/details:bsb00075346
 originalDocumentOwner: München, Bayerische Staatsbibliothek
