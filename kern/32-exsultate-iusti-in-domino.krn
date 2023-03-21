@@ -137,7 +137,7 @@
 .	.	8e	.	.	.
 .	.	8d	.	.	.
 .	.	2e	.	.	.
-2F/	-ren	2f	-ren/	2a	-ren/
+2F	-ren	2f	-ren/	2a	-ren/
 !! cadence end; ultima=f
 2D	dem	2f	dem	2a	dem
 =15	=15	=15	=15	=15	=15
@@ -244,5 +244,5 @@
 !!!EED: Wolfgang Drescher
 !!!END: 2023/03/15
 !!!ENC: Wolfgang Drescher
-!!!EEV: 2023/03/15
+!!!EEV: 2023/03/21
 !!!title: @{ONM}. @{OTL} / <i>@{OTL-incipit@@DE}</i>
