@@ -1,5 +1,7 @@
 # «Geistliche Psalmen mit dreyen Stimmen» von Orlandus und Rudolphus Lassus
 
+https://lassus.mh-freiburg.de/
+
 * https://mdz-nbn-resolving.de/details:bsb00075346
 * https://mdz-nbn-resolving.de/details:bsb00072990
 
