@@ -1,0 +1,310 @@
+beats: 232
+cantusFirmus:
+    - cantus
+composer: Orlandus Lassus
+finalis: c
+iiifManifestUrl: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00075346/manifest
+incipit: Wie ein hirsch girlich schreyen thut
+mode: mixolydian
+originalDocument: https://mdz-nbn-resolving.de/details:bsb00075346
+originalDocumentOwner: München, Bayerische Staatsbibliothek
+prange:
+    mean:
+        kern: b
+        keyno: 70.8676
+    median:
+        kern: b
+        keyno: 71
+    noteCount:
+        -
+            count: 3
+            kern: B-
+            keyno: 58
+        -
+            count: 8
+            kern: c
+            keyno: 60
+        -
+            count: 9
+            kern: d
+            keyno: 62
+        -
+            count: 2
+            kern: e-
+            keyno: 63
+        -
+            count: 2
+            kern: e
+            keyno: 64
+        -
+            count: 9
+            kern: f
+            keyno: 65
+        -
+            count: 2
+            kern: f#
+            keyno: 66
+        -
+            count: 34
+            kern: g
+            keyno: 67
+        -
+            count: 37
+            kern: a
+            keyno: 69
+        -
+            count: 23
+            kern: b-
+            keyno: 70
+        -
+            count: 15
+            kern: b
+            keyno: 71
+        -
+            count: 43
+            kern: cc
+            keyno: 72
+        -
+            count: 6
+            kern: cc#
+            keyno: 73
+        -
+            count: 39
+            kern: dd
+            keyno: 74
+        -
+            count: 2
+            kern: ee-
+            keyno: 75
+        -
+            count: 23
+            kern: ee
+            keyno: 76
+        -
+            count: 20
+            kern: ff
+            keyno: 77
+        -
+            count: 9
+            kern: gg
+            keyno: 79
+        -
+            count: 1
+            kern: aa
+            keyno: 81
+    tessitura: 24
+rawFile: https://raw.githubusercontent.com/WolfgangDrescher/lassus-geistliche-psalmen/master/kern/41-quemadmodum-desiderat.krn
+sourceFile: https://github.com/WolfgangDrescher/lassus-geistliche-psalmen/blob/master/kern/41-quemadmodum-desiderat.krn
+title: Quemadmodum desiderat
+transposition: cantus_mollis
+ulenbergRawFile: https://raw.githubusercontent.com/WolfgangDrescher/ulenberg-psalmen-davids/master/kern/041-quemadmodum-desiderat.krn
+ulenbergSourceFile: https://github.com/WolfgangDrescher/ulenberg-psalmen-davids/blob/master/kern/041-quemadmodum-desiderat.krn
+voices:
+    bassus:
+        clef: C2
+        endSoundFiguredbassNumber: '1'
+        lyrics: |-
+            Wie ein hirsch girlich schreyen thut/
+            nach frischen nach frischen wasser bruñen gut/
+            so sehnet sich die seel in mir/
+            schreit Herr zu schreit Herr zu dir mit gantzer gir/
+            nach dir sie groß verlangen hat/
+            dem lebendigen starcken Gott/
+            weñ soll ich zu dir kommen ein/
+            erscheinen für den augen dein/
+            wenn soll ich zu dir komen ein/
+            erscheinen erscheinen für den augen dein.
+        prange:
+            mean:
+                kern: g
+                keyno: 66.5806
+            median:
+                kern: g
+                keyno: 67
+            noteCount:
+                -
+                    count: 3
+                    kern: B-
+                    keyno: 58
+                -
+                    count: 8
+                    kern: c
+                    keyno: 60
+                -
+                    count: 9
+                    kern: d
+                    keyno: 62
+                -
+                    count: 2
+                    kern: e-
+                    keyno: 63
+                -
+                    count: 2
+                    kern: e
+                    keyno: 64
+                -
+                    count: 6
+                    kern: f
+                    keyno: 65
+                -
+                    count: 22
+                    kern: g
+                    keyno: 67
+                -
+                    count: 21
+                    kern: a
+                    keyno: 69
+                -
+                    count: 13
+                    kern: b-
+                    keyno: 70
+                -
+                    count: 1
+                    kern: b
+                    keyno: 71
+                -
+                    count: 6
+                    kern: cc
+                    keyno: 72
+            tessitura: 15
+        urlScan: https://www.digitale-sammlungen.de/de/view/bsb00075346?page=167
+    cantus:
+        clef: G2
+        endSoundFiguredbassNumber: '10'
+        lyrics: |-
+            Wie ein hirsch gierlich schreyen thut/
+            nach frischen wasser brunnen gut/
+            so sehnet sich die seel in mir/
+            schreit herr zu dir mit gantzer gier/
+            nach dir sie groß verlangen hat/
+            denn lebendigen starcken Got/
+            weñ soll ich zu dir kommen ein/
+            erscheinen für den augen dein/
+            wenn soll ich zu dir kommen ein/
+            erscheinen für den augen dein.
+        prange:
+            mean:
+                kern: ee-
+                keyno: 74.6627
+            median:
+                kern: dd
+                keyno: 74
+            noteCount:
+                -
+                    count: 2
+                    kern: g
+                    keyno: 67
+                -
+                    count: 2
+                    kern: a
+                    keyno: 69
+                -
+                    count: 2
+                    kern: b-
+                    keyno: 70
+                -
+                    count: 1
+                    kern: b
+                    keyno: 71
+                -
+                    count: 15
+                    kern: cc
+                    keyno: 72
+                -
+                    count: 21
+                    kern: dd
+                    keyno: 74
+                -
+                    count: 2
+                    kern: ee-
+                    keyno: 75
+                -
+                    count: 16
+                    kern: ee
+                    keyno: 76
+                -
+                    count: 13
+                    kern: ff
+                    keyno: 77
+                -
+                    count: 8
+                    kern: gg
+                    keyno: 79
+                -
+                    count: 1
+                    kern: aa
+                    keyno: 81
+            tessitura: 15
+        urlScan: https://www.digitale-sammlungen.de/de/view/bsb00075346?page=51
+    tenor:
+        clef: G2
+        endSoundFiguredbassNumber: '8'
+        lyrics: |-
+            Wie ein Hirsch girlich schrey -en thut/
+            nach frischen wasser brunnen gut/
+            so sehnet sich die seel in mir/
+            schreit Herr zu dir mit gantzer gier/
+            nach dir sie groß verlangen hat/
+            dem lebendigen starcken Gott/
+            weñ soll ich zu dir kommen ein/
+            erscheinen für den augen dein/
+            weñ soll ich zu dir kommen ein/
+            erscheinen für den augen dein.
+        prange:
+            mean:
+                kern: cc
+                keyno: 71.6216
+            median:
+                kern: cc
+                keyno: 72
+            noteCount:
+                -
+                    count: 3
+                    kern: f
+                    keyno: 65
+                -
+                    count: 2
+                    kern: f#
+                    keyno: 66
+                -
+                    count: 10
+                    kern: g
+                    keyno: 67
+                -
+                    count: 14
+                    kern: a
+                    keyno: 69
+                -
+                    count: 8
+                    kern: b-
+                    keyno: 70
+                -
+                    count: 13
+                    kern: b
+                    keyno: 71
+                -
+                    count: 22
+                    kern: cc
+                    keyno: 72
+                -
+                    count: 6
+                    kern: cc#
+                    keyno: 73
+                -
+                    count: 18
+                    kern: dd
+                    keyno: 74
+                -
+                    count: 7
+                    kern: ee
+                    keyno: 76
+                -
+                    count: 7
+                    kern: ff
+                    keyno: 77
+                -
+                    count: 1
+                    kern: gg
+                    keyno: 79
+            tessitura: 15
+        urlScan: https://www.digitale-sammlungen.de/de/view/bsb00075346?page=111
