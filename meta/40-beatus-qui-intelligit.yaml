@@ -1,11 +1,54 @@
 beats: 224
 cantusFirmus:
     - tenor
+comments:
+    - Verszeile «in fehrlich bösen zeiten» fehlt im Bassus
 composer: Rudolphus Lassus
 finalis: g
 iiifManifestUrl: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00075346/manifest
 incipit: Selig zu preisen ist der mann
 mode: dorian
+lyrics:
+    -
+        measures: 1-4
+        rhyme: a
+        text: Selig zu preisen ist der mann/
+    -
+        measures: 4-6
+        rhyme: b
+        text: der acht hat auff den armen/
+    -
+        measures: 6-9
+        rhyme: a
+        text: und nimmt sich des ellenden an/
+    -
+        measures: 9-11
+        rhyme: b
+        text: thut sein sich gern erbarmen/
+    -
+        measures: 11-14
+        rhyme: c
+        text: den wird der liebe trewe Gott/
+    -
+        measures: 14-17
+        rhyme: c
+        text: mit gnad erretten auß der not/
+    -
+        measures: 16-18
+        rhyme: d
+        text: in fehrlich bösen zeiten/
+    -
+        measures: 18-23
+        rhyme: e
+        text: wenn jhm ist leiden ubersandt/
+    -
+        measures: 21-26
+        rhyme: e
+        text: das auff jhn ellend vieler hand/
+    -
+        measures: 26-29
+        rhyme: d
+        text: hertringt von allen seiten.
 originalDocument: https://mdz-nbn-resolving.de/details:bsb00075346
 originalDocumentOwner: München, Bayerische Staatsbibliothek
 prange:
