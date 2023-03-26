@@ -7,7 +7,6 @@ composer: Rudolphus Lassus
 finalis: g
 iiifManifestUrl: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00075346/manifest
 incipit: Selig zu preisen ist der mann
-mode: dorian
 lyrics:
     -
         measures: 1-4
@@ -49,6 +48,7 @@ lyrics:
         measures: 26-29
         rhyme: d
         text: hertringt von allen seiten.
+mode: dorian
 originalDocument: https://mdz-nbn-resolving.de/details:bsb00075346
 originalDocumentOwner: München, Bayerische Staatsbibliothek
 prange:
@@ -166,7 +166,7 @@ voices:
             den wirt der liebe trewe Gott/
             mit gnaden retten auß der not/
             wañ jm ist leiden uberstand/
-            das auff ihn ellend vieler hand/
+            das auff jhn ellend vieler hand/
             hertringt von allen seiten.
         prange:
             mean:
