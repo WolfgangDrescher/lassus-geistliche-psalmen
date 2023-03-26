@@ -1,0 +1,314 @@
+beats: 224
+cantusFirmus:
+    - tenor
+composer: Rudolphus Lassus
+finalis: g
+iiifManifestUrl: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00075346/manifest
+incipit: Selig zu preisen ist der mann
+mode: dorian
+originalDocument: https://mdz-nbn-resolving.de/details:bsb00075346
+originalDocumentOwner: München, Bayerische Staatsbibliothek
+prange:
+    mean:
+        kern: g
+        keyno: 66.8721
+    median:
+        kern: g
+        keyno: 67
+    noteCount:
+        -
+            count: 3
+            kern: F
+            keyno: 53
+        -
+            count: 18
+            kern: G
+            keyno: 55
+        -
+            count: 12
+            kern: A
+            keyno: 57
+        -
+            count: 17
+            kern: B-
+            keyno: 58
+        -
+            count: 18
+            kern: c
+            keyno: 60
+        -
+            count: 20
+            kern: d
+            keyno: 62
+        -
+            count: 6
+            kern: e-
+            keyno: 63
+        -
+            count: 7
+            kern: e
+            keyno: 64
+        -
+            count: 13
+            kern: f
+            keyno: 65
+        -
+            count: 7
+            kern: f#
+            keyno: 66
+        -
+            count: 36
+            kern: g
+            keyno: 67
+        -
+            count: 30
+            kern: a
+            keyno: 69
+        -
+            count: 35
+            kern: b-
+            keyno: 70
+        -
+            count: 1
+            kern: b
+            keyno: 71
+        -
+            count: 20
+            kern: cc
+            keyno: 72
+        -
+            count: 1
+            kern: cc#
+            keyno: 73
+        -
+            count: 25
+            kern: dd
+            keyno: 74
+        -
+            count: 5
+            kern: ee-
+            keyno: 75
+        -
+            count: 14
+            kern: ee
+            keyno: 76
+        -
+            count: 11
+            kern: ff
+            keyno: 77
+        -
+            count: 2
+            kern: ff#
+            keyno: 78
+        -
+            count: 4
+            kern: gg
+            keyno: 79
+    tessitura: 27
+rawFile: https://raw.githubusercontent.com/WolfgangDrescher/lassus-geistliche-psalmen/master/kern/40-beatus-qui-intelligit.krn
+sourceFile: https://github.com/WolfgangDrescher/lassus-geistliche-psalmen/blob/master/kern/40-beatus-qui-intelligit.krn
+title: Beatus qui intelligit
+transposition: cantus_mollis
+ulenbergRawFile: https://raw.githubusercontent.com/WolfgangDrescher/ulenberg-psalmen-davids/master/kern/040-beatus-qui-intelligit.krn
+ulenbergSourceFile: https://github.com/WolfgangDrescher/ulenberg-psalmen-davids/blob/master/kern/040-beatus-qui-intelligit.krn
+voices:
+    bassus:
+        clef: C3
+        endSoundFiguredbassNumber: '1'
+        lyrics: |-
+            Selig zu preisen ist der mann/
+            der acht hat auff den armen/
+            und nim̃t sich des ellenden an/
+            thut sich sein gern erbarmen/
+            den wirt der liebe trewe Gott/
+            mit gnaden retten auß der not/
+            wañ jm ist leiden uberstand/
+            das auff ihn ellend vieler hand/
+            hertringt von allen seiten.
+        prange:
+            mean:
+                kern: B-
+                keyno: 58.4138
+            median:
+                kern: B-
+                keyno: 58
+            noteCount:
+                -
+                    count: 3
+                    kern: F
+                    keyno: 53
+                -
+                    count: 18
+                    kern: G
+                    keyno: 55
+                -
+                    count: 12
+                    kern: A
+                    keyno: 57
+                -
+                    count: 17
+                    kern: B-
+                    keyno: 58
+                -
+                    count: 18
+                    kern: c
+                    keyno: 60
+                -
+                    count: 14
+                    kern: d
+                    keyno: 62
+                -
+                    count: 5
+                    kern: e-
+                    keyno: 63
+            tessitura: 11
+        urlScan: https://www.digitale-sammlungen.de/de/view/bsb00075346?page=166
+    cantus:
+        clef: G2
+        endSoundFiguredbassNumber: n10
+        lyrics: |-
+            Selig zu preisen ist der mañ/
+            der acht hat auff den armen/
+            uñ nim̃t sich des ellenden an/
+            thut sein sich gern erbarmen/
+            den wird der liebe trewe Gott/
+            mit gnad erretten auß der not/
+            in fehrlich bösen zeiten/
+            wenn jhm ist leiden ubersant/
+            das auff jhm ellend vielerhand/
+            herdringt von allen seiten.
+        prange:
+            mean:
+                kern: cc
+                keyno: 71.744
+            median:
+                kern: cc
+                keyno: 72
+            noteCount:
+                -
+                    count: 2
+                    kern: e
+                    keyno: 64
+                -
+                    count: 7
+                    kern: f
+                    keyno: 65
+                -
+                    count: 5
+                    kern: f#
+                    keyno: 66
+                -
+                    count: 14
+                    kern: g
+                    keyno: 67
+                -
+                    count: 13
+                    kern: a
+                    keyno: 69
+                -
+                    count: 16
+                    kern: b-
+                    keyno: 70
+                -
+                    count: 1
+                    kern: b
+                    keyno: 71
+                -
+                    count: 11
+                    kern: cc
+                    keyno: 72
+                -
+                    count: 1
+                    kern: cc#
+                    keyno: 73
+                -
+                    count: 19
+                    kern: dd
+                    keyno: 74
+                -
+                    count: 5
+                    kern: ee-
+                    keyno: 75
+                -
+                    count: 14
+                    kern: ee
+                    keyno: 76
+                -
+                    count: 11
+                    kern: ff
+                    keyno: 77
+                -
+                    count: 2
+                    kern: ff#
+                    keyno: 78
+                -
+                    count: 4
+                    kern: gg
+                    keyno: 79
+            tessitura: 16
+        urlScan: https://www.digitale-sammlungen.de/de/view/bsb00075346?page=50
+    tenor:
+        clef: C1
+        endSoundFiguredbassNumber: '8'
+        lyrics: |-
+            Selig zu preisen ist der mann/
+            der acht hat auff den armen/
+            und nim̃t sich des ellenden an/
+            thut sein sich gern erbarmen/
+            den wird der liebe trewe Gott/
+            mit gnad erretten auß der not/
+            in fehrlich bösen zeiten/
+            wenn jhm ist leiden ubersandt/
+            das auff jhn ellend vieler hand/
+            vieler hand/
+            hertringt von allen seiten.
+        prange:
+            mean:
+                kern: g#
+                keyno: 68.2366
+            median:
+                kern: a
+                keyno: 69
+            noteCount:
+                -
+                    count: 6
+                    kern: d
+                    keyno: 62
+                -
+                    count: 1
+                    kern: e-
+                    keyno: 63
+                -
+                    count: 5
+                    kern: e
+                    keyno: 64
+                -
+                    count: 6
+                    kern: f
+                    keyno: 65
+                -
+                    count: 2
+                    kern: f#
+                    keyno: 66
+                -
+                    count: 22
+                    kern: g
+                    keyno: 67
+                -
+                    count: 17
+                    kern: a
+                    keyno: 69
+                -
+                    count: 19
+                    kern: b-
+                    keyno: 70
+                -
+                    count: 9
+                    kern: cc
+                    keyno: 72
+                -
+                    count: 6
+                    kern: dd
+                    keyno: 74
+            tessitura: 13
+        urlScan: https://www.digitale-sammlungen.de/de/view/bsb00075346?page=110
