@@ -1,9 +1,41 @@
 beats: 192
 cantusFirmus: []
 composer: Rudolphus Lassus
+comments:
+    - Mehrere Kadenzen im doppelten Tempo
+    - 
 finalis: f
 iiifManifestUrl: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00075346/manifest
 incipit: Urtheil mich Herr und schaff mit recht
+lyrics:
+    -
+        measures: 1-3
+        rhyme: a
+        text: Urtheil mich Herr und schaff mir recht/
+    -
+        measures: 3-7
+        rhyme: b
+        text: nimb dich an meiner sachen/
+    -
+        measures: 7-11
+        rhyme: b
+        text: außfindig sie zu machen/
+    -
+        measures: 11-14
+        rhyme: a
+        text: gen das unheilige geschlecht/
+    -
+        measures: 14-16
+        rhyme: c
+        text: von den verkerten buben/
+    -
+        measures: 16-18
+        rhyme: c
+        text: die list und falscheit uben/
+    -
+        measures: 18-25
+        rhyme: a
+        text: erlöß mit gnaden deine knecht.
 mode: ionian
 originalDocument: https://mdz-nbn-resolving.de/details:bsb00075346
 originalDocumentOwner: München, Bayerische Staatsbibliothek
