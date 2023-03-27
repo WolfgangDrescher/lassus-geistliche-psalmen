@@ -1,0 +1,296 @@
+beats: 192
+cantusFirmus: []
+composer: Rudolphus Lassus
+finalis: f
+iiifManifestUrl: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00075346/manifest
+incipit: Urtheil mich Herr und schaff mit recht
+mode: ionian
+originalDocument: https://mdz-nbn-resolving.de/details:bsb00075346
+originalDocumentOwner: München, Bayerische Staatsbibliothek
+prange:
+    mean:
+        kern: g
+        keyno: 66.5753
+    median:
+        kern: g
+        keyno: 67
+    noteCount:
+        -
+            count: 8
+            kern: F
+            keyno: 53
+        -
+            count: 6
+            kern: G
+            keyno: 55
+        -
+            count: 5
+            kern: A
+            keyno: 57
+        -
+            count: 5
+            kern: B-
+            keyno: 58
+        -
+            count: 17
+            kern: c
+            keyno: 60
+        -
+            count: 14
+            kern: d
+            keyno: 62
+        -
+            count: 1
+            kern: e-
+            keyno: 63
+        -
+            count: 17
+            kern: e
+            keyno: 64
+        -
+            count: 45
+            kern: f
+            keyno: 65
+        -
+            count: 2
+            kern: f#
+            keyno: 66
+        -
+            count: 31
+            kern: g
+            keyno: 67
+        -
+            count: 31
+            kern: a
+            keyno: 69
+        -
+            count: 16
+            kern: b-
+            keyno: 70
+        -
+            count: 2
+            kern: b
+            keyno: 71
+        -
+            count: 32
+            kern: cc
+            keyno: 72
+        -
+            count: 11
+            kern: dd
+            keyno: 74
+        -
+            count: 1
+            kern: ee-
+            keyno: 75
+        -
+            count: 8
+            kern: ee
+            keyno: 76
+        -
+            count: 7
+            kern: ff
+            keyno: 77
+    tessitura: 25
+rawFile: https://raw.githubusercontent.com/WolfgangDrescher/lassus-geistliche-psalmen/master/kern/42-iudica-me-deus.krn
+sourceFile: https://github.com/WolfgangDrescher/lassus-geistliche-psalmen/blob/master/kern/42-iudica-me-deus.krn
+title: Iudica me Deus
+transposition: cantus_mollis
+ulenbergRawFile: https://raw.githubusercontent.com/WolfgangDrescher/ulenberg-psalmen-davids/master/kern/042-iudica-me-deus.krn
+ulenbergSourceFile: https://github.com/WolfgangDrescher/ulenberg-psalmen-davids/blob/master/kern/042-iudica-me-deus.krn
+voices:
+    bassus:
+        clef: C3
+        endSoundFiguredbassNumber: '1'
+        lyrics: |-
+            Urtheil mich Herr uñ schaf mir recht/
+            nimb dich an meiner sachen/
+            außfindig sie zu machen/
+            außfindig sie zu machen/
+            gegn das unheilige geschlecht/
+            von den verkehrten buben/
+            die list und falscheit uben erlöß erlöß mit gnaden deine knecht/
+            erlöß erlöß mit gnaden deinen knecht.
+        prange:
+            mean:
+                kern: c#
+                keyno: 60.8158
+            median:
+                kern: d
+                keyno: 62
+            noteCount:
+                -
+                    count: 8
+                    kern: F
+                    keyno: 53
+                -
+                    count: 6
+                    kern: G
+                    keyno: 55
+                -
+                    count: 5
+                    kern: A
+                    keyno: 57
+                -
+                    count: 5
+                    kern: B-
+                    keyno: 58
+                -
+                    count: 13
+                    kern: c
+                    keyno: 60
+                -
+                    count: 8
+                    kern: d
+                    keyno: 62
+                -
+                    count: 1
+                    kern: e-
+                    keyno: 63
+                -
+                    count: 8
+                    kern: e
+                    keyno: 64
+                -
+                    count: 18
+                    kern: f
+                    keyno: 65
+                -
+                    count: 2
+                    kern: g
+                    keyno: 67
+                -
+                    count: 2
+                    kern: a
+                    keyno: 69
+            tessitura: 17
+        urlScan: https://www.digitale-sammlungen.de/de/view/bsb00075346?page=168
+    cantus:
+        clef: G2
+        endSoundFiguredbassNumber: '15'
+        lyrics: |-
+            Urtheil mich Herr und schaf mir recht/
+            nim̃ dich an meiner sachen/
+            außfindig sie zumachen/
+            zumachen/
+            genn das unheilige geschlecht/
+            von den verkerten buben/
+            die list und falscheit uben/
+            erlöß erlöß mit gnaden deine knecht/
+            erlöß mit gnaden deine knecht.
+        prange:
+            mean:
+                kern: b
+                keyno: 70.902
+            median:
+                kern: cc
+                keyno: 72
+            noteCount:
+                -
+                    count: 1
+                    kern: c
+                    keyno: 60
+                -
+                    count: 2
+                    kern: e
+                    keyno: 64
+                -
+                    count: 6
+                    kern: f
+                    keyno: 65
+                -
+                    count: 2
+                    kern: f#
+                    keyno: 66
+                -
+                    count: 10
+                    kern: g
+                    keyno: 67
+                -
+                    count: 16
+                    kern: a
+                    keyno: 69
+                -
+                    count: 11
+                    kern: b-
+                    keyno: 70
+                -
+                    count: 2
+                    kern: b
+                    keyno: 71
+                -
+                    count: 25
+                    kern: cc
+                    keyno: 72
+                -
+                    count: 11
+                    kern: dd
+                    keyno: 74
+                -
+                    count: 1
+                    kern: ee-
+                    keyno: 75
+                -
+                    count: 8
+                    kern: ee
+                    keyno: 76
+                -
+                    count: 7
+                    kern: ff
+                    keyno: 77
+            tessitura: 18
+        urlScan: https://www.digitale-sammlungen.de/de/view/bsb00075346?page=52
+    tenor:
+        clef: C1
+        endSoundFiguredbassNumber: '8'
+        lyrics: |-
+            Urtheil mich Herr und schaff mir recht/
+            nimb dich an meiner sachen/
+            außfündig sie zu machen/
+            gen das unheilige unheilige geschlecht/
+            von den verkerten buben/
+            die list und falschheit uben/
+            erlöß erlöß mit gnaden deine knecht.
+            erlöß mit gnaden deine knecht.
+        prange:
+            mean:
+                kern: g
+                keyno: 66.5309
+            median:
+                kern: g
+                keyno: 67
+            noteCount:
+                -
+                    count: 3
+                    kern: c
+                    keyno: 60
+                -
+                    count: 6
+                    kern: d
+                    keyno: 62
+                -
+                    count: 7
+                    kern: e
+                    keyno: 64
+                -
+                    count: 21
+                    kern: f
+                    keyno: 65
+                -
+                    count: 19
+                    kern: g
+                    keyno: 67
+                -
+                    count: 13
+                    kern: a
+                    keyno: 69
+                -
+                    count: 5
+                    kern: b-
+                    keyno: 70
+                -
+                    count: 7
+                    kern: cc
+                    keyno: 72
+            tessitura: 13
+        urlScan: https://www.digitale-sammlungen.de/de/view/bsb00075346?page=112
