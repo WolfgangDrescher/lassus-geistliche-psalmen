@@ -1,9 +1,10 @@
 beats: 192
-cantusFirmus: []
-composer: Rudolphus Lassus
+cantusFirmus:
+    - tenor
 comments:
     - Mehrere Kadenzen im doppelten Tempo
-    - 
+    - null
+composer: Rudolphus Lassus
 finalis: f
 iiifManifestUrl: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00075346/manifest
 incipit: Urtheil mich Herr und schaff mit recht
