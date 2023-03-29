@@ -1,10 +1,46 @@
 beats: 160
 cantusFirmus:
     - bassus
+comments:
+    - Kadenzende auf leichter Zählzeit
+    - Dezimensatz
 composer: Orlandus Lassus
 finalis: a
 iiifManifestUrl: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00075346/manifest
 incipit: Wir haben Herr mit unsern ohren
+lyrics:
+    -
+        measures: 1-5
+        rhyme: a
+        text: Wir haben Herr mit unsern ohren/
+    -
+        measures: 5-6
+        rhyme: a
+        text: wol sagen hören/
+    -
+        measures: 6-9
+        rhyme: b
+        text: was unser Väter alter welt/
+    -
+        measures: 9-12
+        rhyme: b
+        text: von dir uns haben offt vermeld/
+    -
+        measures: 11-14
+        rhyme: c
+        text: wie sich vor alters zu getragen/
+    -
+        measures: 14-16
+        rhyme: c
+        text: in jhren tagen/
+    -
+        measures: 16-18
+        rhyme: d
+        text: das du viel wunder hast gethan/
+    -
+        measures: 18-21
+        rhyme: d
+        text: und grosse thaten sehen lan.
 mode: aeolian
 originalDocument: https://mdz-nbn-resolving.de/details:bsb00075346
 originalDocumentOwner: München, Bayerische Staatsbibliothek
