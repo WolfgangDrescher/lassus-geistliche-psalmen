@@ -16,6 +16,7 @@
 *met(C|)	*	*met(C|)	*	*met(C|)	*
 *MM180	*	*MM180	*	*MM180	*
 =1	=1	=1	=1	=1	=1
+*xywh-#169:112,24,2732,545	*	*xywh-#113:140,50,2698,526	*	*xywh-#53:134,81,2702,529	*
 0r	.	1dd	Wie	0r	.
 .	.	2a	ha-	.	.
 .	.	2a	-ben	.	.
@@ -43,6 +44,7 @@
 2d	-ren/	2ff#	oh-	2a	-ren/
 2e	wol	4gg	-ren/	2g	wol
 .	.	4cc	wol	.	.
+*	*	*xywh-#113:131,540,2701,461	*	*xywh-#53:129,598,2697,434	*
 2f	sa-	2cc	sa-	2a	sa-
 2e	-gen	2gg	-gen	4b	-gen
 .	.	.	.	2cc	hö-
@@ -58,6 +60,7 @@
 2r	.	4r	.	2cc	un-
 .	.	4a	was	.	.
 2A	was	2cc	un-	2ee	-ser
+*xywh-#169:103,543,2727,431	*	*	*	*	*
 2c	un-	4g	-ser	2ee	Vä-
 .	.	2gg	Vat-	.	.
 2d	-ser	.	.	2a	-ter
@@ -80,10 +83,12 @@
 1A	welt/	4.cc	-ter	2a	welt/
 .	.	8b	.	.	.
 .	.	2a	.	2cc	von
+*	*	*	*	*xywh-#53:122,1004,2713,427	*
 2r	.	1g	welt/	4dd	dir
 .	.	.	.	4dd	uns
 2c	von	.	.	2ee	ha-
 =10	=10	=10	=10	=10	=10
+*	*	*xywh-#113:118,950,2719,456	*	*	*
 2d	dir	2r	.	2a	-ben
 2d	uns	2f	von	4a	offt
 .	.	.	.	4b	.
@@ -106,6 +111,7 @@
 =13	=13	=13	=13	=13	=13
 2d	al-	2ff	al-	2a	.
 2g	-ters	2dd	-ters	2b	-ters
+*xywh-#169:99,950,2729,444	*	*	*	*	*
 2f	zu	2aa	zu	4cc	zu
 .	.	.	.	4a	ge-
 2e	ge-	2gg	ge-	2.cc	-tra-
@@ -114,9 +120,11 @@
 .	.	.	.	8b	.
 .	.	.	.	8a	.
 .	.	.	.	2b	.
+*	*	*	*	*xywh-#53:120,1420,2700,418	*
 2c	-gen/	2ee	-gen/	2cc	-gen/
 2A	in	2cc	in	2ee	in
 =15	=15	=15	=15	=15	=15
+*	*	*xywh-#113:113,1388,2712,440	*	*	*
 2c	jh-	4g	jh-	2ee	jh-
 .	.	4g	-ren	.	.
 2d	-ren	2.b-	ta-	2dd	-ren
@@ -151,11 +159,13 @@
 =19	=19	=19	=19	=19	=19
 2r	.	2a	tha-	2cc	gros-
 2e	und	2g	-ten	2b	-se
+*	*	*xywh-#113:109,1818,2707,533	*	*xywh-#53:118,1838,2716,525	*
 2c	gros-	2.g	se-	2ee	tha-
 2B	-se	.	.	2dd	-ten
 .	.	8a	.	.	.
 .	.	8b	.	.	.
 =20	=20	=20	=20	=20	=20
+*xywh-#169:90,1366,2736,440	*	*	*	*	*
 2A	tha-	2cc	.	1ee	se-
 2c	-ten	2.a	-hen	.	.
 2B	se-	.	.	1dd	-hen
