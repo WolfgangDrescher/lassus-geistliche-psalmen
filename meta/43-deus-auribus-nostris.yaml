@@ -1,0 +1,305 @@
+beats: 160
+cantusFirmus:
+    - bassus
+composer: Orlandus Lassus
+finalis: a
+iiifManifestUrl: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00075346/manifest
+incipit: Wir haben Herr mit unsern ohren
+mode: aeolian
+originalDocument: https://mdz-nbn-resolving.de/details:bsb00075346
+originalDocumentOwner: München, Bayerische Staatsbibliothek
+prange:
+    mean:
+        kern: a
+        keyno: 69.1717
+    median:
+        kern: a
+        keyno: 69
+    noteCount:
+        -
+            count: 7
+            kern: A
+            keyno: 57
+        -
+            count: 4
+            kern: B
+            keyno: 59
+        -
+            count: 11
+            kern: c
+            keyno: 60
+        -
+            count: 13
+            kern: d
+            keyno: 62
+        -
+            count: 15
+            kern: e
+            keyno: 64
+        -
+            count: 11
+            kern: f
+            keyno: 65
+        -
+            count: 1
+            kern: f#
+            keyno: 66
+        -
+            count: 19
+            kern: g
+            keyno: 67
+        -
+            count: 5
+            kern: g#
+            keyno: 68
+        -
+            count: 41
+            kern: a
+            keyno: 69
+        -
+            count: 2
+            kern: b-
+            keyno: 70
+        -
+            count: 21
+            kern: b
+            keyno: 71
+        -
+            count: 30
+            kern: cc
+            keyno: 72
+        -
+            count: 1
+            kern: cc#
+            keyno: 73
+        -
+            count: 13
+            kern: dd
+            keyno: 74
+        -
+            count: 20
+            kern: ee
+            keyno: 76
+        -
+            count: 7
+            kern: ff
+            keyno: 77
+        -
+            count: 2
+            kern: ff#
+            keyno: 78
+        -
+            count: 9
+            kern: gg
+            keyno: 79
+        -
+            count: 1
+            kern: aa
+            keyno: 81
+    tessitura: 25
+rawFile: https://raw.githubusercontent.com/WolfgangDrescher/lassus-geistliche-psalmen/master/kern/43-deus-auribus-nostris.krn
+sourceFile: https://github.com/WolfgangDrescher/lassus-geistliche-psalmen/blob/master/kern/43-deus-auribus-nostris.krn
+title: Deus auribus nostris
+transposition: cantus_durus
+ulenbergRawFile: https://raw.githubusercontent.com/WolfgangDrescher/ulenberg-psalmen-davids/master/kern/043-deus-auribus-nostris.krn
+ulenbergSourceFile: https://github.com/WolfgangDrescher/ulenberg-psalmen-davids/blob/master/kern/043-deus-auribus-nostris.krn
+voices:
+    bassus:
+        clef: C3
+        endSoundFiguredbassNumber: '1'
+        lyrics: |-
+            Wir haben Herr mit unsern ohren/
+            wol sagen hören/
+            was unser Väter alter welt/
+            von dir uns haben offt vermeld/
+            wie sich vor alters zu getragen/
+            in jhren tagen/
+            das du viel wunder hast gethan/
+            und grosse thaten sehen lan.
+        prange:
+            mean:
+                kern: d
+                keyno: 62.0333
+            median:
+                kern: d
+                keyno: 62
+            noteCount:
+                -
+                    count: 7
+                    kern: A
+                    keyno: 57
+                -
+                    count: 4
+                    kern: B
+                    keyno: 59
+                -
+                    count: 11
+                    kern: c
+                    keyno: 60
+                -
+                    count: 13
+                    kern: d
+                    keyno: 62
+                -
+                    count: 14
+                    kern: e
+                    keyno: 64
+                -
+                    count: 7
+                    kern: f
+                    keyno: 65
+                -
+                    count: 3
+                    kern: g
+                    keyno: 67
+                -
+                    count: 1
+                    kern: a
+                    keyno: 69
+            tessitura: 13
+        urlScan: https://www.digitale-sammlungen.de/de/view/bsb00075346?page=169
+    cantus:
+        clef: G2
+        endSoundFiguredbassNumber: '#10'
+        lyrics: |-
+            Wir haben Herr mit unsern ohren/
+            wol sagen hören/
+            was unser Väter alter welt/
+            von dir uns haben offt vermeld/
+            wie sich vor alters zu getragen/
+            in jhren tagen/
+            das du viel wunder hast gethan/
+            und grosse thaten sehen lan.
+        prange:
+            mean:
+                kern: b
+                keyno: 71.1798
+            median:
+                kern: b
+                keyno: 71
+            noteCount:
+                -
+                    count: 1
+                    kern: e
+                    keyno: 64
+                -
+                    count: 1
+                    kern: f
+                    keyno: 65
+                -
+                    count: 5
+                    kern: g
+                    keyno: 67
+                -
+                    count: 2
+                    kern: g#
+                    keyno: 68
+                -
+                    count: 23
+                    kern: a
+                    keyno: 69
+                -
+                    count: 1
+                    kern: b-
+                    keyno: 70
+                -
+                    count: 15
+                    kern: b
+                    keyno: 71
+                -
+                    count: 21
+                    kern: cc
+                    keyno: 72
+                -
+                    count: 1
+                    kern: cc#
+                    keyno: 73
+                -
+                    count: 8
+                    kern: dd
+                    keyno: 74
+                -
+                    count: 11
+                    kern: ee
+                    keyno: 76
+            tessitura: 13
+        urlScan: https://www.digitale-sammlungen.de/de/view/bsb00075346?page=53
+    tenor:
+        clef: G2
+        endSoundFiguredbassNumber: '8'
+        lyrics: |-
+            Wie haben Herr mit unsern ohren/
+            mit unsern ohren/
+            wol sagen hören/
+            was unser Vatter alter welt/
+            von dir uns haben offt vermeldt/
+            wie sich vor alters zu getragen/
+            in jhren tagen/
+            daß du viel wunder hast gethan/
+            und grosse thaten sehen lan.
+        prange:
+            mean:
+                kern: cc
+                keyno: 72.1429
+            median:
+                kern: b
+                keyno: 71
+            noteCount:
+                -
+                    count: 3
+                    kern: f
+                    keyno: 65
+                -
+                    count: 1
+                    kern: f#
+                    keyno: 66
+                -
+                    count: 11
+                    kern: g
+                    keyno: 67
+                -
+                    count: 3
+                    kern: g#
+                    keyno: 68
+                -
+                    count: 17
+                    kern: a
+                    keyno: 69
+                -
+                    count: 1
+                    kern: b-
+                    keyno: 70
+                -
+                    count: 6
+                    kern: b
+                    keyno: 71
+                -
+                    count: 9
+                    kern: cc
+                    keyno: 72
+                -
+                    count: 5
+                    kern: dd
+                    keyno: 74
+                -
+                    count: 9
+                    kern: ee
+                    keyno: 76
+                -
+                    count: 7
+                    kern: ff
+                    keyno: 77
+                -
+                    count: 2
+                    kern: ff#
+                    keyno: 78
+                -
+                    count: 9
+                    kern: gg
+                    keyno: 79
+                -
+                    count: 1
+                    kern: aa
+                    keyno: 81
+            tessitura: 17
+        urlScan: https://www.digitale-sammlungen.de/de/view/bsb00075346?page=113
