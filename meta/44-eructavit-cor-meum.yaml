@@ -1,10 +1,10 @@
 beats: 208
 cantusFirmus:
     - bassus
-composer: Rudolphus Lassus
 comments:
     - Schlusskadenz mit ausgedehnter Penultima
     - Lamento
+composer: Rudolphus Lassus
 finalis: d
 iiifManifestUrl: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00075346/manifest
 incipit: Mein hertz herfür wil bringen
@@ -267,7 +267,7 @@ voices:
             ein schön gedicht/
             ein liedlein fein/
             vom König wil ich singen/
-            dem sol diß werck geschen -cket sein/
+            dem sol diß werck geschencket sein/
             mein zung für allen dingen/
             eins schnellen schreibers federn gleich/
             sol fröhlich einher klingen/
