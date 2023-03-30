@@ -1,9 +1,45 @@
 beats: 208
 cantusFirmus: []
 composer: Rudolphus Lassus
+comments:
+    - Schlusskadenz mit ausgedehnter Penultima
+    - Lamento
 finalis: d
 iiifManifestUrl: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00075346/manifest
 incipit: Mein hertz herfür wil bringen
+lyrics:
+    -
+        measures: 1-4
+        rhyme: a
+        text: Mein hertz herfür wil bringen/
+    -
+        measures: 4-7
+        rhyme: b
+        text: ein schön gedicht/ ein liedlein fein/
+    -
+        measures: 7-10
+        rhyme: a
+        text: vom König wil ich singen/
+    -
+        measures: 10-13
+        rhyme: b
+        text: dem soll diß werck geschencket sein/
+    -
+        measures: 13-15
+        rhyme: c
+        text: mein zung vor allen dingen/
+    -
+        measures: 15-17
+        rhyme: d
+        text: eins schnellen schreibers federn gleich/
+    -
+        measures: 17-20
+        rhyme: c
+        text: soll fröhlich einher klingen/
+    -
+        measures: 19-27
+        rhyme: d
+        text: von diesem helden ehren reich.
 mode: dorian
 originalDocument: https://mdz-nbn-resolving.de/details:bsb00075346
 originalDocumentOwner: München, Bayerische Staatsbibliothek
