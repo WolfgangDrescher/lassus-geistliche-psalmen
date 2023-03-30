@@ -11,31 +11,31 @@ iiifManifestUrl: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb0007
 incipit: Gott ist auff den wir jmmer hoffen
 lyrics:
     -
-        measures:
+        measures: null
         rhyme: a
         text: Gott ist auff den wir jmmer hoffen/
     -
-        measures:
+        measures: null
         rhyme: b
         text: ist unser trost und stercke gut/
     -
-        measures:
+        measures: null
         rhyme: b
         text: der uns mit macht außhelffen thut/
     -
-        measures:
+        measures: null
         rhyme: a
         text: wenn grosse not uns hat betroffen/
     -
-        measures:
+        measures: null
         rhyme: c
         text: drumb fürcht wir uns für keinem ding/
     -
-        measures:
+        measures: null
         rhyme: c
         text: weñ auch die welt schon unter gieng/
     -
-        measures:
+        measures: null
         rhyme: d
         text: und fielen berg ins meer mit hauffen.
 mode: ionian
@@ -144,7 +144,7 @@ voices:
             Gott ist auff den wir jmmer hoffen/
             ist unser trost und stercke gut/
             der uns mit macht außhelffen thut/
-            wenn grosse not wenn grosse not uns hat betroften/
+            wenn grosse not wenn grosse not uns hat betroffen/
             drum̃ fürcht wir uns für keinem ding/
             weñ auch die welt schon unter gieng/
             und fielen berg ins meer mit hauffen.
