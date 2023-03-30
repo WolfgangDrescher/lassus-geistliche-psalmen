@@ -1,0 +1,297 @@
+beats: 152
+cantusFirmus:
+    - cantus
+composer: Orlandus Lassus
+finalis: f
+iiifManifestUrl: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00075346/manifest
+incipit: Gott ist auff den wir jmmer hoffen
+mode: ionian
+originalDocument: https://mdz-nbn-resolving.de/details:bsb00075346
+originalDocumentOwner: München, Bayerische Staatsbibliothek
+prange:
+    mean:
+        kern: g#
+        keyno: 68.2157
+    median:
+        kern: a
+        keyno: 69
+    noteCount:
+        -
+            count: 3
+            kern: F
+            keyno: 53
+        -
+            count: 3
+            kern: G
+            keyno: 55
+        -
+            count: 2
+            kern: A
+            keyno: 57
+        -
+            count: 9
+            kern: B-
+            keyno: 58
+        -
+            count: 12
+            kern: c
+            keyno: 60
+        -
+            count: 13
+            kern: d
+            keyno: 62
+        -
+            count: 2
+            kern: e-
+            keyno: 63
+        -
+            count: 5
+            kern: e
+            keyno: 64
+        -
+            count: 24
+            kern: f
+            keyno: 65
+        -
+            count: 2
+            kern: f#
+            keyno: 66
+        -
+            count: 19
+            kern: g
+            keyno: 67
+        -
+            count: 24
+            kern: a
+            keyno: 69
+        -
+            count: 11
+            kern: b-
+            keyno: 70
+        -
+            count: 1
+            kern: b
+            keyno: 71
+        -
+            count: 22
+            kern: cc
+            keyno: 72
+        -
+            count: 18
+            kern: dd
+            keyno: 74
+        -
+            count: 1
+            kern: ee-
+            keyno: 75
+        -
+            count: 14
+            kern: ee
+            keyno: 76
+        -
+            count: 17
+            kern: ff
+            keyno: 77
+        -
+            count: 2
+            kern: gg
+            keyno: 79
+    tessitura: 27
+rawFile: https://raw.githubusercontent.com/WolfgangDrescher/lassus-geistliche-psalmen/master/kern/45-deus-noster-refugium.krn
+sourceFile: https://github.com/WolfgangDrescher/lassus-geistliche-psalmen/blob/master/kern/45-deus-noster-refugium.krn
+title: Deus noster refugium
+transposition: cantus_mollis
+ulenbergRawFile: https://raw.githubusercontent.com/WolfgangDrescher/ulenberg-psalmen-davids/master/kern/045-deus-noster-refugium.krn
+ulenbergSourceFile: https://github.com/WolfgangDrescher/ulenberg-psalmen-davids/blob/master/kern/045-deus-noster-refugium.krn
+voices:
+    bassus:
+        clef: C3
+        endSoundFiguredbassNumber: '1'
+        lyrics: |-
+            Gott ist auff den wir jmmer hoffen/
+            ist unser trost und stercke gut/
+            der uns mit macht außhelffen thut/
+            wenn grosse not wenn grosse not uns hat betroften/
+            drum̃ fürcht wir uns für keinem ding/
+            weñ auch die welt schon unter gieng/
+            und fielen berg ins meer mit hauffen.
+        prange:
+            mean:
+                kern: c#
+                keyno: 61.3077
+            median:
+                kern: d
+                keyno: 62
+            noteCount:
+                -
+                    count: 3
+                    kern: F
+                    keyno: 53
+                -
+                    count: 3
+                    kern: G
+                    keyno: 55
+                -
+                    count: 2
+                    kern: A
+                    keyno: 57
+                -
+                    count: 9
+                    kern: B-
+                    keyno: 58
+                -
+                    count: 12
+                    kern: c
+                    keyno: 60
+                -
+                    count: 13
+                    kern: d
+                    keyno: 62
+                -
+                    count: 2
+                    kern: e-
+                    keyno: 63
+                -
+                    count: 4
+                    kern: e
+                    keyno: 64
+                -
+                    count: 13
+                    kern: f
+                    keyno: 65
+                -
+                    count: 2
+                    kern: g
+                    keyno: 67
+                -
+                    count: 2
+                    kern: a
+                    keyno: 69
+            tessitura: 17
+        urlScan: https://www.digitale-sammlungen.de/de/view/bsb00075346?page=171
+    cantus:
+        clef: G2
+        endSoundFiguredbassNumber: '8'
+        lyrics: |-
+            Gott ist auff den wir jmmer hoffen/
+            ist unser trost und stercke gut/
+            der uns mit macht außhelffen thut/
+            weñ grosse not uns hat betroffen/
+            drum̃ fürcht wir uns für keinem ding/
+            weñ auch die welt schon unter gieng/
+            und fielen berg ins meer mit hauffen.
+        prange:
+            mean:
+                kern: b
+                keyno: 71.4746
+            median:
+                kern: cc
+                keyno: 72
+            noteCount:
+                -
+                    count: 6
+                    kern: f
+                    keyno: 65
+                -
+                    count: 6
+                    kern: g
+                    keyno: 67
+                -
+                    count: 7
+                    kern: a
+                    keyno: 69
+                -
+                    count: 4
+                    kern: b-
+                    keyno: 70
+                -
+                    count: 1
+                    kern: b
+                    keyno: 71
+                -
+                    count: 15
+                    kern: cc
+                    keyno: 72
+                -
+                    count: 8
+                    kern: dd
+                    keyno: 74
+                -
+                    count: 5
+                    kern: ee
+                    keyno: 76
+                -
+                    count: 7
+                    kern: ff
+                    keyno: 77
+            tessitura: 13
+        urlScan: https://www.digitale-sammlungen.de/de/view/bsb00075346?page=55
+    tenor:
+        clef: G2
+        endSoundFiguredbassNumber: '15'
+        lyrics: |-
+            Gott ist auff den wir jmmer hoffen/
+            ist unser trost und stercke gut/
+            der uns mit macht außhelffen thut/
+            weñ grosse not wenn grosse not uns hat betroffen/
+            drumb fürcht wir uns für keinem ding/
+            weñ auch die welt schon untergieng/
+            und fielen berg ins meer mit hauffen.
+        prange:
+            mean:
+                kern: b
+                keyno: 71.425
+            median:
+                kern: b-
+                keyno: 70
+            noteCount:
+                -
+                    count: 1
+                    kern: e
+                    keyno: 64
+                -
+                    count: 5
+                    kern: f
+                    keyno: 65
+                -
+                    count: 2
+                    kern: f#
+                    keyno: 66
+                -
+                    count: 11
+                    kern: g
+                    keyno: 67
+                -
+                    count: 15
+                    kern: a
+                    keyno: 69
+                -
+                    count: 7
+                    kern: b-
+                    keyno: 70
+                -
+                    count: 7
+                    kern: cc
+                    keyno: 72
+                -
+                    count: 10
+                    kern: dd
+                    keyno: 74
+                -
+                    count: 1
+                    kern: ee-
+                    keyno: 75
+                -
+                    count: 9
+                    kern: ee
+                    keyno: 76
+                -
+                    count: 10
+                    kern: ff
+                    keyno: 77
+                -
+                    count: 2
+                    kern: gg
+                    keyno: 79
+            tessitura: 16
+        urlScan: https://www.digitale-sammlungen.de/de/view/bsb00075346?page=115
