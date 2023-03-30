@@ -1,5 +1,6 @@
 beats: 208
-cantusFirmus: []
+cantusFirmus:
+    - bassus
 composer: Rudolphus Lassus
 finalis: d
 iiifManifestUrl: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00075346/manifest
