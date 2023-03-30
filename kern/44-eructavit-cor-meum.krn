@@ -20,6 +20,7 @@
 0r	.	1r	.	1d	Mein
 .	.	1d	Mein	1f	hertz
 =2	=2	=2	=2	=2	=2
+!LO:TX:a:i:t=c.f.	!	!	!	!	!
 1D	Mein	1f	hertz	2r	.
 *	*	*	*	*	*ij
 .	.	.	.	1a	mein
@@ -67,6 +68,7 @@
 =8	=8	=8	=8	=8	=8
 2r	.	1f	Kö-	2d	-nig
 *	*	*	*	*	*ij
+!LO:TX:a:i:t=c.f.	!	!	!	!	!
 2D	vom	.	.	1a	vom
 2F	Kö-	2.c	-nig	.	.
 2F	-nig	.	.	1cc	Kö-
@@ -106,6 +108,7 @@
 =13	=13	=13	=13	=13	=13
 2D	sein/	2f	sein/	2dd	sein/
 !! cadence end; ultima=d
+!LO:TX:a:i:t=c.f.	!	!	!	!	!
 2d	mein	2f	mein	2a	mein
 2A	zung	2e	zung	4cc	zung
 .	.	.	.	4b	.
