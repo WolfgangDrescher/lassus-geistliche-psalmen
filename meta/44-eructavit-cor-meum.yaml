@@ -1,5 +1,6 @@
 beats: 208
-cantusFirmus: []
+cantusFirmus:
+    - bassus
 composer: Rudolphus Lassus
 comments:
     - Schlusskadenz mit ausgedehnter Penultima
