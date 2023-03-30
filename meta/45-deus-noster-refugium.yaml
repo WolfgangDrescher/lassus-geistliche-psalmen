@@ -1,10 +1,43 @@
 beats: 152
 cantusFirmus:
     - cantus
+comments:
+    - Dezimensatz
+    - Fauxbourdon mit 5-6 Seitenbewegung aufwärts und abwärts
+    - Wiederholung der letzten Verszeile des cantus firmus fehlt «wenn auch das meer wer auffgelauffen»
 composer: Orlandus Lassus
 finalis: f
 iiifManifestUrl: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00075346/manifest
 incipit: Gott ist auff den wir jmmer hoffen
+lyrics:
+    -
+        measures:
+        rhyme: a
+        text: Gott ist auff den wir jmmer hoffen/
+    -
+        measures:
+        rhyme: b
+        text: ist unser trost und stercke gut/
+    -
+        measures:
+        rhyme: b
+        text: der uns mit macht außhelffen thut/
+    -
+        measures:
+        rhyme: a
+        text: wenn grosse not uns hat betroffen/
+    -
+        measures:
+        rhyme: c
+        text: drumb fürcht wir uns für keinem ding/
+    -
+        measures:
+        rhyme: c
+        text: weñ auch die welt schon unter gieng/
+    -
+        measures:
+        rhyme: d
+        text: und fielen berg ins meer mit hauffen.
 mode: ionian
 originalDocument: https://mdz-nbn-resolving.de/details:bsb00075346
 originalDocumentOwner: München, Bayerische Staatsbibliothek
