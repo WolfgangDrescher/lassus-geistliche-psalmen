@@ -1,0 +1,328 @@
+beats: 240
+cantusFirmus:
+    - bassus
+composer: Rudolphus Lassus
+finalis: d
+iiifManifestUrl: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00075346/manifest
+incipit: Wolauff jhr völcker all
+mode: dorian
+originalDocument: https://mdz-nbn-resolving.de/details:bsb00075346
+originalDocumentOwner: München, Bayerische Staatsbibliothek
+prange:
+    mean:
+        kern: b-
+        keyno: 70.11
+    median:
+        kern: b
+        keyno: 71
+    noteCount:
+        -
+            count: 10
+            kern: A
+            keyno: 57
+        -
+            count: 1
+            kern: B-
+            keyno: 58
+        -
+            count: 4
+            kern: B
+            keyno: 59
+        -
+            count: 11
+            kern: c
+            keyno: 60
+        -
+            count: 1
+            kern: c#
+            keyno: 61
+        -
+            count: 20
+            kern: d
+            keyno: 62
+        -
+            count: 17
+            kern: e
+            keyno: 64
+        -
+            count: 11
+            kern: f
+            keyno: 65
+        -
+            count: 12
+            kern: g
+            keyno: 67
+        -
+            count: 4
+            kern: g#
+            keyno: 68
+        -
+            count: 38
+            kern: a
+            keyno: 69
+        -
+            count: 2
+            kern: b-
+            keyno: 70
+        -
+            count: 25
+            kern: b
+            keyno: 71
+        -
+            count: 39
+            kern: cc
+            keyno: 72
+        -
+            count: 8
+            kern: cc#
+            keyno: 73
+        -
+            count: 43
+            kern: dd
+            keyno: 74
+        -
+            count: 35
+            kern: ee
+            keyno: 76
+        -
+            count: 13
+            kern: ff
+            keyno: 77
+        -
+            count: 3
+            kern: ff#
+            keyno: 78
+        -
+            count: 9
+            kern: gg
+            keyno: 79
+        -
+            count: 3
+            kern: aa
+            keyno: 81
+    tessitura: 25
+rawFile: https://raw.githubusercontent.com/WolfgangDrescher/lassus-geistliche-psalmen/master/kern/46-omnes-gentes.krn
+sourceFile: https://github.com/WolfgangDrescher/lassus-geistliche-psalmen/blob/master/kern/46-omnes-gentes.krn
+title: Omnes gentes
+transposition: cantus_durus
+ulenbergRawFile: https://raw.githubusercontent.com/WolfgangDrescher/ulenberg-psalmen-davids/master/kern/046-omnes-gentes.krn
+ulenbergSourceFile: https://github.com/WolfgangDrescher/ulenberg-psalmen-davids/blob/master/kern/046-omnes-gentes.krn
+voices:
+    bassus:
+        clef: C3
+        endSoundFiguredbassNumber: '1'
+        lyrics: |-
+            Wolauff jhr völcker all/
+            frolocket mit den händen/
+            jauchtzt Got mit freudẽ schal/
+            singt jm an allen enden/
+            er ist ein Herr fürwar/
+            gar hoch gar hoch und wunderbar/
+            für dem für dem sich alles schrecket/
+            ein grosser König gut/
+            des herrschafft reichen thut/
+            so weit die welt sich strecket.
+            so weit die welt sich strecket.
+        prange:
+            mean:
+                kern: d
+                keyno: 62.4
+            median:
+                kern: d
+                keyno: 62
+            noteCount:
+                -
+                    count: 10
+                    kern: A
+                    keyno: 57
+                -
+                    count: 1
+                    kern: B-
+                    keyno: 58
+                -
+                    count: 4
+                    kern: B
+                    keyno: 59
+                -
+                    count: 11
+                    kern: c
+                    keyno: 60
+                -
+                    count: 1
+                    kern: c#
+                    keyno: 61
+                -
+                    count: 20
+                    kern: d
+                    keyno: 62
+                -
+                    count: 17
+                    kern: e
+                    keyno: 64
+                -
+                    count: 11
+                    kern: f
+                    keyno: 65
+                -
+                    count: 7
+                    kern: g
+                    keyno: 67
+                -
+                    count: 3
+                    kern: a
+                    keyno: 69
+            tessitura: 13
+        urlScan: https://www.digitale-sammlungen.de/de/view/bsb00075346?page=172
+    cantus:
+        clef: G2
+        endSoundFiguredbassNumber: '#10'
+        lyrics: |-
+            Wolauff jhr völcker all/
+            frolocket mit den händen/
+            jauchtzt Got mit freuden schal/
+            singt jm an allen enden/
+            er ist ein Herr fürwar/
+            gar hoch gar hoch und wunderbar/
+            für dem sich alles schrecket/
+            ein grosser König ein grosser König gut/
+            des herrschafft reichen thut/
+            so weit die welt so weit die welt sich strecket/
+            so weit die welt so weit die welt sich strecket.
+        prange:
+            mean:
+                kern: cc#
+                keyno: 72.8165
+            median:
+                kern: cc
+                keyno: 72
+            noteCount:
+                -
+                    count: 3
+                    kern: g
+                    keyno: 67
+                -
+                    count: 2
+                    kern: g#
+                    keyno: 68
+                -
+                    count: 19
+                    kern: a
+                    keyno: 69
+                -
+                    count: 1
+                    kern: b-
+                    keyno: 70
+                -
+                    count: 12
+                    kern: b
+                    keyno: 71
+                -
+                    count: 20
+                    kern: cc
+                    keyno: 72
+                -
+                    count: 3
+                    kern: cc#
+                    keyno: 73
+                -
+                    count: 20
+                    kern: dd
+                    keyno: 74
+                -
+                    count: 18
+                    kern: ee
+                    keyno: 76
+                -
+                    count: 5
+                    kern: ff
+                    keyno: 77
+                -
+                    count: 1
+                    kern: ff#
+                    keyno: 78
+                -
+                    count: 4
+                    kern: gg
+                    keyno: 79
+                -
+                    count: 1
+                    kern: aa
+                    keyno: 81
+            tessitura: 15
+        urlScan: https://www.digitale-sammlungen.de/de/view/bsb00075346?page=56
+    tenor:
+        clef: G2
+        endSoundFiguredbassNumber: '8'
+        lyrics: |-
+            Wolauff jhr völcker all/
+            frolocket mit den henden/
+            jauchtzt Gott mit frewden schal/
+            singt jm an allen enden/
+            er ist ein Herr für war gar hoch gar hoch und wunderbar/
+            für dem sich alles schrecket/
+            ein grosser König ein grosser König gut/
+            des herrschafft reichen thut/
+            so weit die welt so weit die welt sich strecket/
+            so weit die welt so weit die welt sich strecket.
+        prange:
+            mean:
+                kern: cc#
+                keyno: 73.2435
+            median:
+                kern: cc#
+                keyno: 73
+            noteCount:
+                -
+                    count: 2
+                    kern: g
+                    keyno: 67
+                -
+                    count: 2
+                    kern: g#
+                    keyno: 68
+                -
+                    count: 16
+                    kern: a
+                    keyno: 69
+                -
+                    count: 1
+                    kern: b-
+                    keyno: 70
+                -
+                    count: 13
+                    kern: b
+                    keyno: 71
+                -
+                    count: 19
+                    kern: cc
+                    keyno: 72
+                -
+                    count: 5
+                    kern: cc#
+                    keyno: 73
+                -
+                    count: 23
+                    kern: dd
+                    keyno: 74
+                -
+                    count: 17
+                    kern: ee
+                    keyno: 76
+                -
+                    count: 8
+                    kern: ff
+                    keyno: 77
+                -
+                    count: 2
+                    kern: ff#
+                    keyno: 78
+                -
+                    count: 5
+                    kern: gg
+                    keyno: 79
+                -
+                    count: 2
+                    kern: aa
+                    keyno: 81
+            tessitura: 15
+        urlScan: https://www.digitale-sammlungen.de/de/view/bsb00075346?page=116
