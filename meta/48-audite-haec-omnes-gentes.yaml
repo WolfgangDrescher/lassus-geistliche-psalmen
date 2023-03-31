@@ -1,0 +1,311 @@
+beats: 200
+cantusFirmus: []
+composer: Rudolphus Lassus
+finalis: c
+iiifManifestUrl: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00075346/manifest
+incipit: Hört diß jhr völcker in gemain
+mode: ionian
+originalDocument: https://mdz-nbn-resolving.de/details:bsb00075346
+originalDocumentOwner: München, Bayerische Staatsbibliothek
+prange:
+    mean:
+        kern: f
+        keyno: 64.6023
+    median:
+        kern: e
+        keyno: 64
+    noteCount:
+        -
+            count: 1
+            kern: E
+            keyno: 52
+        -
+            count: 1
+            kern: F#
+            keyno: 54
+        -
+            count: 15
+            kern: G
+            keyno: 55
+        -
+            count: 14
+            kern: A
+            keyno: 57
+        -
+            count: 3
+            kern: B-
+            keyno: 58
+        -
+            count: 10
+            kern: B
+            keyno: 59
+        -
+            count: 28
+            kern: c
+            keyno: 60
+        -
+            count: 33
+            kern: d
+            keyno: 62
+        -
+            count: 29
+            kern: e
+            keyno: 64
+        -
+            count: 18
+            kern: f
+            keyno: 65
+        -
+            count: 4
+            kern: f#
+            keyno: 66
+        -
+            count: 30
+            kern: g
+            keyno: 67
+        -
+            count: 19
+            kern: a
+            keyno: 69
+        -
+            count: 3
+            kern: b-
+            keyno: 70
+        -
+            count: 18
+            kern: b
+            keyno: 71
+        -
+            count: 16
+            kern: cc
+            keyno: 72
+        -
+            count: 2
+            kern: cc#
+            keyno: 73
+        -
+            count: 12
+            kern: dd
+            keyno: 74
+        -
+            count: 3
+            kern: ee
+            keyno: 76
+    tessitura: 25
+rawFile: https://raw.githubusercontent.com/WolfgangDrescher/lassus-geistliche-psalmen/master/kern/48-audite-haec-omnes-gentes.krn
+sourceFile: https://github.com/WolfgangDrescher/lassus-geistliche-psalmen/blob/master/kern/48-audite-haec-omnes-gentes.krn
+title: Audite hæc omnes gentes
+transposition: cantus_durus
+ulenbergRawFile: https://raw.githubusercontent.com/WolfgangDrescher/ulenberg-psalmen-davids/master/kern/048-audite-haec-omnes-gentes.krn
+ulenbergSourceFile: https://github.com/WolfgangDrescher/ulenberg-psalmen-davids/blob/master/kern/048-audite-haec-omnes-gentes.krn
+voices:
+    bassus:
+        clef: C3
+        endSoundFiguredbassNumber: '1'
+        lyrics: |-
+            Hört diß jhr völcker in gemain/
+            und naiget ewre ohren fein/
+            zu mercken auff die reden mein/
+            all die jhr wonet hie auff erden/
+            so wol jhr leut von niderm stand/
+            als grosse Herren hoch genant/
+            auch reich und armen/
+            wie jhr auch mögt genennet werden.
+        prange:
+            mean:
+                kern: B
+                keyno: 59.0548
+            median:
+                kern: B
+                keyno: 59
+            noteCount:
+                -
+                    count: 1
+                    kern: E
+                    keyno: 52
+                -
+                    count: 1
+                    kern: F#
+                    keyno: 54
+                -
+                    count: 13
+                    kern: G
+                    keyno: 55
+                -
+                    count: 13
+                    kern: A
+                    keyno: 57
+                -
+                    count: 3
+                    kern: B-
+                    keyno: 58
+                -
+                    count: 8
+                    kern: B
+                    keyno: 59
+                -
+                    count: 14
+                    kern: c
+                    keyno: 60
+                -
+                    count: 12
+                    kern: d
+                    keyno: 62
+                -
+                    count: 4
+                    kern: e
+                    keyno: 64
+                -
+                    count: 2
+                    kern: f
+                    keyno: 65
+                -
+                    count: 1
+                    kern: f#
+                    keyno: 66
+                -
+                    count: 1
+                    kern: g
+                    keyno: 67
+            tessitura: 16
+        urlScan: https://www.digitale-sammlungen.de/de/view/bsb00075346?page=174
+    cantus:
+        clef: G2
+        endSoundFiguredbassNumber: '8'
+        lyrics: |-
+            Hört diß jhr völcker in gemain/
+            und naiget ewre ohren fein/
+            zu mercken auff die reden mein/
+            all die jhr wonet hie auff erden/
+            so wol jhr leut von niderm stand/
+            als grosse Herren hoch genant/
+            auch reich und armen gleicher hand/
+            wie jhr auch mögt genennet werden.
+        prange:
+            mean:
+                kern: b-
+                keyno: 69.8632
+            median:
+                kern: b
+                keyno: 71
+            noteCount:
+                -
+                    count: 1
+                    kern: d
+                    keyno: 62
+                -
+                    count: 5
+                    kern: e
+                    keyno: 64
+                -
+                    count: 5
+                    kern: f
+                    keyno: 65
+                -
+                    count: 1
+                    kern: f#
+                    keyno: 66
+                -
+                    count: 16
+                    kern: g
+                    keyno: 67
+                -
+                    count: 16
+                    kern: a
+                    keyno: 69
+                -
+                    count: 3
+                    kern: b-
+                    keyno: 70
+                -
+                    count: 16
+                    kern: b
+                    keyno: 71
+                -
+                    count: 15
+                    kern: cc
+                    keyno: 72
+                -
+                    count: 2
+                    kern: cc#
+                    keyno: 73
+                -
+                    count: 12
+                    kern: dd
+                    keyno: 74
+                -
+                    count: 3
+                    kern: ee
+                    keyno: 76
+            tessitura: 15
+        urlScan: https://www.digitale-sammlungen.de/de/view/bsb00075346?page=58
+    tenor:
+        clef: C2
+        endSoundFiguredbassNumber: '1'
+        lyrics: |-
+            Hört diß jhr völcker in gemain/
+            und naiget ewre oren fein/
+            zu mercken auff die reden mein/
+            all die jhr wonet hie auff erden/
+            so wol jhr leut von niderm stand/
+            als grosse Herren hoch genant/
+            auch reich und armen gleicher hand/
+            wie jhr auch mögt genennet werden.
+        prange:
+            mean:
+                kern: e
+                keyno: 63.5604
+            median:
+                kern: e
+                keyno: 64
+            noteCount:
+                -
+                    count: 2
+                    kern: G
+                    keyno: 55
+                -
+                    count: 1
+                    kern: A
+                    keyno: 57
+                -
+                    count: 2
+                    kern: B
+                    keyno: 59
+                -
+                    count: 14
+                    kern: c
+                    keyno: 60
+                -
+                    count: 20
+                    kern: d
+                    keyno: 62
+                -
+                    count: 20
+                    kern: e
+                    keyno: 64
+                -
+                    count: 11
+                    kern: f
+                    keyno: 65
+                -
+                    count: 2
+                    kern: f#
+                    keyno: 66
+                -
+                    count: 13
+                    kern: g
+                    keyno: 67
+                -
+                    count: 3
+                    kern: a
+                    keyno: 69
+                -
+                    count: 2
+                    kern: b
+                    keyno: 71
+                -
+                    count: 1
+                    kern: cc
+                    keyno: 72
+            tessitura: 18
+        urlScan: https://www.digitale-sammlungen.de/de/view/bsb00075346?page=118
