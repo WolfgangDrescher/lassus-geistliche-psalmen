@@ -1,5 +1,6 @@
 beats: 180
-cantusFirmus: []
+cantusFirmus:
+    - tenor
 composer: Rudolphus Lassus
 finalis: e
 iiifManifestUrl: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00075346/manifest
