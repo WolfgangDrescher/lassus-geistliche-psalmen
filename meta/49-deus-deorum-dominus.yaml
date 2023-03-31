@@ -250,9 +250,10 @@ voices:
         clef: C3
         endSoundFiguredbassNumber: '5'
         lyrics: |-
-            Der starcker Gott im himel -reich/
+            Der starcker Gott im himelreich/
             ein Herr der Götter alle gleich/
-            wirt reden weñ es jhm gefelt und ruffen an die gantze welt/
+            wirt reden weñ es jhm gefelt/
+            und ruffen an die gantze welt/
             das man wirt hören seinen klang/
             vom auffgang biß zum nidergang/
             vom auffgang biß zum nidergang.
