@@ -1,10 +1,38 @@
 beats: 152
 cantusFirmus:
     - cantus
+comments:
+    - Plagale Kadenzen
+    - Fast ausschlisslich syllabisch
 composer: Orlandus Lassus
 finalis: c
 iiifManifestUrl: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00075346/manifest
 incipit: Groß ist der Herr im heilgen thron
+lyrics:
+    -
+        measures: 1-3
+        rhyme: a
+        text: Groß ist der Herr im heilgen thron/
+    -
+        measures: 3-6
+        rhyme: a
+        text: wirt treflich hoch mit süssem ton/
+    -
+        measures: 6-9
+        rhyme: b
+        text: in unsers Gottes stat gepriesen/
+    -
+        measures: 9-12
+        rhyme: c
+        text: auff seinem heilgen berge gut/
+    -
+        measures: 11-14
+        rhyme: c
+        text: wirt jm sein ehr mit freyem mut/
+    -
+        measures: 14-20
+        rhyme: b
+        text: herrlich nach der gebür bewiesen.
 mode: ionian
 originalDocument: https://mdz-nbn-resolving.de/details:bsb00075346
 originalDocumentOwner: München, Bayerische Staatsbibliothek
