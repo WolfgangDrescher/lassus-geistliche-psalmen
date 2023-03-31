@@ -1,10 +1,55 @@
 beats: 240
 cantusFirmus:
     - bassus
+comments:
+    - Imitation mit nur zwei Stimmen, die dritte Stimme ist im freien Kontrapunkt
+    - In der Wiederholung des ersten Teil wechselt der die «Comes» Stimme vom Cantus in den Tenor
+    - Kadenz in der nur die Sopranklausel übrig bleibt
 composer: Rudolphus Lassus
 finalis: d
 iiifManifestUrl: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00075346/manifest
 incipit: Wolauff jhr völcker all
+lyrics:
+    -
+        measures: 1-3
+        rhyme: a
+        text: Wolauff jhr völcker all/
+    -
+        measures: 3-5
+        rhyme: b
+        text: frolocket mit den händen/
+    -
+        measures: 5-7
+        rhyme: a
+        text: jauchtzt Gott mit frewden schal/
+    -
+        measures: 7-10
+        rhyme: b
+        text: singt jm an allen enden/
+    -
+        measures: 10-13
+        rhyme: c
+        text: er ist ein Herr fürwar/
+    -
+        measures: 13-16
+        rhyme: c
+        text: gar hoch und wunderbar/
+    -
+        measures: 16-19
+        rhyme: d
+        text: für dem sich alles schrecket/
+    -
+        measures: 19-23
+        rhyme: e
+        text: ein grosser König gut/
+    -
+        measures: 23-25
+        rhyme: e
+        text: des herrschafft reichen thut/
+    -
+        measures: 25-31
+        rhyme: d
+        text: so weit die welt sich strecket.
 mode: dorian
 originalDocument: https://mdz-nbn-resolving.de/details:bsb00075346
 originalDocumentOwner: München, Bayerische Staatsbibliothek
