@@ -1,10 +1,39 @@
 beats: 180
 cantusFirmus:
     - bassus
+comments:
+    - Plagale Kadenz
+    - Kadenzen in mitten einer Verszeile
+    - Neue Silbe nach der Finalis
 composer: Orlandus Lassus
 finalis: e
 iiifManifestUrl: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00075346/manifest
 incipit: Der starcker Gott im Himmelreich
+lyrics:
+    -
+        measures: 1-5
+        rhyme: a
+        text: Der starcker Gott im Himmelreich/
+    -
+        measures: 5-8
+        rhyme: a
+        text: ein Herr der Götter alle gleich/
+    -
+        measures: 8-11
+        rhyme: b
+        text: wirt reden wenn es jhm gefelt/
+    -
+        measures: 11-15
+        rhyme: b
+        text: und rüffen an die gantze welt/
+    -
+        measures: 15-18
+        rhyme: c
+        text: das man wirt hören seinen klang/
+    -
+        measures: 18-23
+        rhyme: c
+        text: vom auffgang biß zum nidergang.
 mode: phrygian
 originalDocument: https://mdz-nbn-resolving.de/details:bsb00075346
 originalDocumentOwner: München, Bayerische Staatsbibliothek
