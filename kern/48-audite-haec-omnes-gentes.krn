@@ -17,6 +17,7 @@
 *MM180	*	*MM180	*	*MM180	*
 =1	=1	=1	=1	=1	=1
 *xywh-#174:286,58,2739,534	*	*xywh-#118:305,70,2766,534	*	*xywh-#58:289,85,2707,553	*
+!	!	!LO:TX:a:i:t=c.f.	!	!	!
 00r	.	1c	Hört	2r	.
 .	.	.	.	1g	Hört
 .	.	2c	diß	.	.
@@ -52,6 +53,7 @@
 .	.	1f#X	.	.	.
 .	.	.	.	2.dd	und
 =6	=6	=6	=6	=6	=6
+!	!	!LO:TX:a:i:t=c.f.	!	!	!
 2r	.	1g	und	.	.
 !! cadence end; ultima=g
 .	.	.	.	4cc	.
@@ -102,6 +104,7 @@
 .	.	.	.	2f#i	-den
 .	.	4c	-den	.	.
 *	*	*xywh-#118:314,1017,2748,430	*	*	*
+!LO:TX:a:i:t=c.f.	!	!	!	!	!
 1G	all	2.d	mein/	2g	mein/
 !! cadence end; ultima=g
 .	.	.	.	2b	all
@@ -127,6 +130,7 @@
 !! cadence end; ultima=c
 2c	so	.	.	2e	so
 2.e	wol	2r	.	1.g	wol
+!	!	!LO:TX:a:i:t=c.f.	!	!	!
 .	.	2c	so	.	.
 4d	.	.	.	.	.
 =16	=16	=16	=16	=16	=16
@@ -169,6 +173,7 @@
 2d	auch	.	.	.	.
 =21	=21	=21	=21	=21	=21
 2e	reich	2r	.	2g	auch
+!	!	!LO:TX:a:i:t=c.f.	!	!	!
 2e	und	2c	auch	2a	reich
 1f#	ar-	2d	reich	2a	und
 .	.	2d	und	1b	ar-
