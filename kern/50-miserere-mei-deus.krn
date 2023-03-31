@@ -28,7 +28,7 @@
 !! cadence start
 2G	-dig	2g	-dig	.	.
 .	.	.	.	4b	-dig
-2A	die	2.f	die-	2cc	die-
+2A	die-	2.f	die-	2cc	die-
 2B	-ser	.	.	2dd	-ser
 .	.	4f	-ser	.	.
 =3	=3	=3	=3	=3	=3
@@ -188,7 +188,7 @@
 2B	mei-	1g	-tha-	2dd	mei-
 2c	-nen	.	.	2ee	-nen
 2A	u-	1f	-ten	2cc	u-
-2B	-bel	.	.	2dd	-bel-
+2B	-bel-	.	.	2dd	-bel-
 =22	=22	=22	=22	=22	=22
 !! cadence start
 4c	-tha-	2e	schwer/	4ee	-tha-
