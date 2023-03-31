@@ -1,5 +1,6 @@
 beats: 180
-cantusFirmus: []
+cantusFirmus:
+    - tenor
 comments:
     - Kadenzflucht aus Sopranklausel in Terz
     - Neue Silbe nach der Finalis
