@@ -1,9 +1,46 @@
 beats: 200
 cantusFirmus: []
+comments:
+    - Imitation startet nach eine Minima
+    - Kadenz in halbem Tempo (Sopranklausel)
+    - Im Bassus fehlt der Text «gleicher hand»
 composer: Rudolphus Lassus
 finalis: c
 iiifManifestUrl: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00075346/manifest
 incipit: Hört diß jhr völcker in gemain
+lyrics:
+    -
+        measures: 1-5
+        rhyme: a
+        text: Hört diß jhr völcker in gemain/
+    -
+        measures: 5-8
+        rhyme: a
+        text: und naiget ewre ohren fein/
+    -
+        measures: 8-12
+        rhyme: a
+        text: zu mercken auff die reden mein/
+    -
+        measures: 12-15
+        rhyme: b
+        text: all die jhr wonet hie auff erden/
+    -
+        measures: 15-17
+        rhyme: c
+        text: so wol jhr leut von niderm stand/
+    -
+        measures: 17-20
+        rhyme: c
+        text: als grosse Herren hoch genant/
+    -
+        measures: 20-23
+        rhyme: c
+        text: auch reich und armen gleicher hand/
+    -
+        measures: 23-26
+        rhyme: b
+        text: wie jhr auch mögt genennet werden.
 mode: ionian
 originalDocument: https://mdz-nbn-resolving.de/details:bsb00075346
 originalDocumentOwner: München, Bayerische Staatsbibliothek
