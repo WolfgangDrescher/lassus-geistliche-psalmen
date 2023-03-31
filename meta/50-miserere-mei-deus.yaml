@@ -1,9 +1,38 @@
 beats: 180
 cantusFirmus: []
+comments:
+    - Kadenzflucht aus Sopranklausel in Terz
+    - Neue Silbe nach der Finalis
+    - Plagale Schlusskadenz
 composer: Rudolphus Lassus
 finalis: e
 iiifManifestUrl: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00075346/manifest
 incipit: Gott sey mir gnedig dieser zeit
+lyrics:
+    -
+        measures: 1-3
+        rhyme: a
+        text: Gott sey mir gnedig dieser zeit/
+    -
+        measures: 3-6
+        rhyme: a
+        text: nach deiner grossen gütigkeit/
+    -
+        measures: 6-9
+        rhyme: b
+        text: tilg auß die ubertrettung mein/
+    -
+        measures: 9-12
+        rhyme: b
+        text: nach vielheit der erbarmung dein/
+    -
+        measures: 12-15
+        rhyme: c
+        text: und wasche mich je mehr und mehr/
+    -
+        measures: 15-23
+        rhyme: c
+        text: von meinen ubelthaten schwer.
 mode: phrygian
 originalDocument: https://mdz-nbn-resolving.de/details:bsb00075346
 originalDocumentOwner: München, Bayerische Staatsbibliothek
