@@ -1,5 +1,7 @@
 beats: 200
-cantusFirmus: []
+cantusFirmus:
+    - tenor
+    - bassus
 comments:
     - Imitation startet nach eine Minima
     - Kadenz in halbem Tempo (Sopranklausel)
