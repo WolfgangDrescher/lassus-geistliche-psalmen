@@ -2,10 +2,49 @@ beats: 184
 cantusFirmus:
     - cantus
     - bassus
+comments:
+    - Keine Wiederholdungen im Text
+    - Vorzeichen auch ausserhalb der Kadenz
+    - Pikartische Terz auf der 1. Stufe innerhalb des Liedes
+    - Reale Beantwortung
+    - Schnelle Kadenz in doppeltem Tempo
 composer: Rudolphus Lassus
 finalis: g
 iiifManifestUrl: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00075346/manifest
 incipit: Ihr frommen frewet euch im Herren
+lyrics:
+    -
+        measures: 1-4
+        rhyme: a
+        text: Ihr frommen frewet euch im Herren/
+    -
+        measures: 4-6
+        rhyme: a
+        text: mit hohen ehren/
+    -
+        measures: 6-9
+        rhyme: b
+        text: es stehet den auffrechten fein/
+    -
+        measures: 9-11
+        rhyme: b
+        text: zu loben unvertrossen sein/
+    -
+        measures: 11-14
+        rhyme: a
+        text: spilt auff der harpffen jm zu ehren/
+    -
+        measures: 14-16
+        rhyme: a
+        text: dem lieben Herren/
+    -
+        measures: 16-20
+        rhyme: b
+        text: preist jn auff Instrumenten rein/
+    -
+        measures: 20-24
+        rhyme: b
+        text: braucht das zehnfeltig Psalterlein.
 mode: dorian
 originalDocument: https://mdz-nbn-resolving.de/details:bsb00075346
 originalDocumentOwner: München, Bayerische Staatsbibliothek
