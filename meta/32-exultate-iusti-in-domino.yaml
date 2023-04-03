@@ -1,0 +1,318 @@
+beats: 184
+cantusFirmus:
+    - cantus
+    - bassus
+composer: Rudolphus Lassus
+finalis: g
+iiifManifestUrl: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00075346/manifest
+incipit: Ihr frommen frewet euch im Herren
+mode: dorian
+originalDocument: https://mdz-nbn-resolving.de/details:bsb00075346
+originalDocumentOwner: München, Bayerische Staatsbibliothek
+prange:
+    mean:
+        kern: e-
+        keyno: 62.5448
+    median:
+        kern: d
+        keyno: 62
+    noteCount:
+        -
+            count: 7
+            kern: D
+            keyno: 50
+        -
+            count: 1
+            kern: E-
+            keyno: 51
+        -
+            count: 1
+            kern: E
+            keyno: 52
+        -
+            count: 6
+            kern: F
+            keyno: 53
+        -
+            count: 2
+            kern: F#
+            keyno: 54
+        -
+            count: 20
+            kern: G
+            keyno: 55
+        -
+            count: 17
+            kern: A
+            keyno: 57
+        -
+            count: 19
+            kern: B-
+            keyno: 58
+        -
+            count: 3
+            kern: B
+            keyno: 59
+        -
+            count: 22
+            kern: c
+            keyno: 60
+        -
+            count: 2
+            kern: c#
+            keyno: 61
+        -
+            count: 46
+            kern: d
+            keyno: 62
+        -
+            count: 1
+            kern: e-
+            keyno: 63
+        -
+            count: 29
+            kern: e
+            keyno: 64
+        -
+            count: 33
+            kern: f
+            keyno: 65
+        -
+            count: 10
+            kern: f#
+            keyno: 66
+        -
+            count: 28
+            kern: g
+            keyno: 67
+        -
+            count: 22
+            kern: a
+            keyno: 69
+        -
+            count: 11
+            kern: b-
+            keyno: 70
+        -
+            count: 1
+            kern: b
+            keyno: 71
+        -
+            count: 4
+            kern: cc
+            keyno: 72
+        -
+            count: 5
+            kern: dd
+            keyno: 74
+    tessitura: 25
+rawFile: https://raw.githubusercontent.com/WolfgangDrescher/lassus-geistliche-psalmen/master/kern/32-exultate-iusti-in-domino.krn
+sourceFile: https://github.com/WolfgangDrescher/lassus-geistliche-psalmen/blob/master/kern/32-exultate-iusti-in-domino.krn
+title: Exultate iusti in Domino
+transposition: cantus_mollis
+ulenbergRawFile: https://raw.githubusercontent.com/WolfgangDrescher/ulenberg-psalmen-davids/master/kern/032-exultate-iusti-in-domino.krn
+ulenbergSourceFile: https://github.com/WolfgangDrescher/ulenberg-psalmen-davids/blob/master/kern/032-exultate-iusti-in-domino.krn
+voices:
+    bassus:
+        clef: C4
+        endSoundFiguredbassNumber: '1'
+        lyrics: |-
+            Ihr frommen frewet euch im Herren/
+            mit hohen ehren es stehet den auffrechten fein/
+            zu loben unvertrossen sein/
+            spilt auff der harpffen jm zu ehren dem lieben Herren/
+            preist jhn preist jhn auff Instrumenten rein/
+            braucht das zehnfeltig Psalterlein.
+        prange:
+            mean:
+                kern: A
+                keyno: 56.6429
+            median:
+                kern: A
+                keyno: 57
+            noteCount:
+                -
+                    count: 7
+                    kern: D
+                    keyno: 50
+                -
+                    count: 1
+                    kern: E-
+                    keyno: 51
+                -
+                    count: 1
+                    kern: E
+                    keyno: 52
+                -
+                    count: 6
+                    kern: F
+                    keyno: 53
+                -
+                    count: 2
+                    kern: F#
+                    keyno: 54
+                -
+                    count: 14
+                    kern: G
+                    keyno: 55
+                -
+                    count: 9
+                    kern: A
+                    keyno: 57
+                -
+                    count: 10
+                    kern: B-
+                    keyno: 58
+                -
+                    count: 1
+                    kern: B
+                    keyno: 59
+                -
+                    count: 8
+                    kern: c
+                    keyno: 60
+                -
+                    count: 10
+                    kern: d
+                    keyno: 62
+                -
+                    count: 1
+                    kern: e
+                    keyno: 64
+            tessitura: 15
+        urlScan: https://www.digitale-sammlungen.de/de/view/bsb00075346?page=158
+    cantus:
+        clef: C1
+        endSoundFiguredbassNumber: '8'
+        lyrics: |-
+            Ihr frommen freyet euch im Herren mit hohen ehren/
+            es stehet den auffrechtẽ fein/
+            zu loben unverdrossen sein/
+            spilt auff der harpffen jm zu ehren/
+            dem lieben Herren/
+            preist jn auff Instrumenten rein/
+            braucht das zehnfeltig Psalterlein.
+        prange:
+            mean:
+                kern: g
+                keyno: 67.0481
+            median:
+                kern: g
+                keyno: 67
+            noteCount:
+                -
+                    count: 1
+                    kern: c
+                    keyno: 60
+                -
+                    count: 12
+                    kern: d
+                    keyno: 62
+                -
+                    count: 10
+                    kern: e
+                    keyno: 64
+                -
+                    count: 14
+                    kern: f
+                    keyno: 65
+                -
+                    count: 6
+                    kern: f#
+                    keyno: 66
+                -
+                    count: 18
+                    kern: g
+                    keyno: 67
+                -
+                    count: 22
+                    kern: a
+                    keyno: 69
+                -
+                    count: 11
+                    kern: b-
+                    keyno: 70
+                -
+                    count: 1
+                    kern: b
+                    keyno: 71
+                -
+                    count: 4
+                    kern: cc
+                    keyno: 72
+                -
+                    count: 5
+                    kern: dd
+                    keyno: 74
+            tessitura: 15
+        urlScan: https://www.digitale-sammlungen.de/de/view/bsb00075346?page=42
+    tenor:
+        clef: C3
+        endSoundFiguredbassNumber: '5'
+        lyrics: |-
+            Ihr frommen frewet euch im Herren/
+            mit hohen ehren/
+            es stehet den auff rechten fein/
+            zu loben unvertrossen sein/
+            spilt auff der harpffen jm zu ehren/
+            dem lieben Herren/
+            preist jn auff Instrumenten rein/
+            braucht das zehnfeltig Psalterlein.
+        prange:
+            mean:
+                kern: d
+                keyno: 62.069
+            median:
+                kern: d
+                keyno: 62
+            noteCount:
+                -
+                    count: 6
+                    kern: G
+                    keyno: 55
+                -
+                    count: 8
+                    kern: A
+                    keyno: 57
+                -
+                    count: 9
+                    kern: B-
+                    keyno: 58
+                -
+                    count: 2
+                    kern: B
+                    keyno: 59
+                -
+                    count: 13
+                    kern: c
+                    keyno: 60
+                -
+                    count: 2
+                    kern: c#
+                    keyno: 61
+                -
+                    count: 24
+                    kern: d
+                    keyno: 62
+                -
+                    count: 1
+                    kern: e-
+                    keyno: 63
+                -
+                    count: 18
+                    kern: e
+                    keyno: 64
+                -
+                    count: 19
+                    kern: f
+                    keyno: 65
+                -
+                    count: 4
+                    kern: f#
+                    keyno: 66
+                -
+                    count: 10
+                    kern: g
+                    keyno: 67
+            tessitura: 13
+        urlScan: https://www.digitale-sammlungen.de/de/view/bsb00075346?page=102
