@@ -44,7 +44,7 @@ originalDocumentOwner: München, Bayerische Staatsbibliothek
 prange:
     mean:
         kern: g#
-        keyno: 68.2157
+        keyno: 68.2745
     median:
         kern: a
         keyno: 69
@@ -82,7 +82,7 @@ prange:
             kern: e
             keyno: 64
         -
-            count: 24
+            count: 23
             kern: f
             keyno: 65
         -
@@ -122,7 +122,7 @@ prange:
             kern: ee
             keyno: 76
         -
-            count: 17
+            count: 18
             kern: ff
             keyno: 77
         -
@@ -272,8 +272,8 @@ voices:
             und fielen berg ins meer mit hauffen.
         prange:
             mean:
-                kern: b
-                keyno: 71.425
+                kern: cc
+                keyno: 71.575
             median:
                 kern: b-
                 keyno: 70
@@ -283,7 +283,7 @@ voices:
                     kern: e
                     keyno: 64
                 -
-                    count: 5
+                    count: 4
                     kern: f
                     keyno: 65
                 -
@@ -319,7 +319,7 @@ voices:
                     kern: ee
                     keyno: 76
                 -
-                    count: 10
+                    count: 11
                     kern: ff
                     keyno: 77
                 -
