@@ -11,7 +11,7 @@
 *I'B	*	*I'T	*	*I'C	*
 *clefC3	*	*clefC2	*	*clefG2	*
 *k[b-]	*	*k[b-]	*	*k[b-]	*
-*c:mix	*	*c:mix	*	*c:mix	*
+*C:mix	*	*C:mix	*	*C:mix	*
 *M2/1	*	*M2/1	*	*M2/1	*
 *met(C|)	*	*met(C|)	*	*met(C|)	*
 *MM180	*	*MM180	*	*MM180	*
@@ -205,5 +205,5 @@
 !!!EED: Wolfgang Drescher
 !!!END: 2023/03/02
 !!!ENC: Wolfgang Drescher
-!!!EEV: 2023/03/02
+!!!EEV: 2023/04/17
 !!!title: @{ONM}. @{OTL} / <i>@{OTL-incipit@@DE}</i>
