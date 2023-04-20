@@ -221,7 +221,7 @@
 .	.	2cc#i	.	.	.
 =23	=23	=23	=23	=23	=23
 0Dll	-ren.	0ddll	-ren.	0dll	-ren.
-!! cadence end; ultima=f
+!! cadence end; ultima=d
 ==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-
 !!!RDF**kern: l = terminal long
@@ -238,5 +238,5 @@
 !!!EED: Wolfgang Drescher
 !!!END: 2023/03/13
 !!!ENC: Wolfgang Drescher
-!!!EEV: 2023/03/13
+!!!EEV: 2023/04/20
 !!!title: @{ONM}. @{OTL} / <i>@{OTL-incipit@@DE}</i>
