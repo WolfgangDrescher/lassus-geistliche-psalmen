@@ -33,7 +33,7 @@
 =3	=3	=3	=3	=3	=3
 2F	-part	1a	-part/	2f	-part/
 !! cadence end; ultima=f
-2D	die	.	.	2d	die
+2D	die	.	.	2f	die
 2.F	mich	2r	.	2a	mich
 .	.	2a	die	2cc	mit
 4G	.	.	.	.	.
@@ -189,5 +189,5 @@
 !!!EED: Wolfgang Drescher
 !!!END: 2023/03/16
 !!!ENC: Wolfgang Drescher
-!!!EEV: 2023/03/16
+!!!EEV: 2023/06/29
 !!!title: @{ONM}. @{OTL} / <i>@{OTL-incipit@@DE}</i>
